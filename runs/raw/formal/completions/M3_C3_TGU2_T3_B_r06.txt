@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt are tightly interwoven themes that drive the tragic arc of the play. Macbeth begins as a loyal soldier, but after hearing the witches' prophecy that he will become king, his ambition takes root, ultimately overriding his moral judgment. The prophecy acts as a catalyst, awakening a desire for power that leads him to murder King Duncan. Yet, almost immediately after committing the act, guilt consumes him. His conscience manifests in vivid hallucinations, revealing the psychological cost of his ambition. One key moment occurs just before the murder, when Macbeth sees a vision of a dagger: 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee' (Act 2, Scene 1). This hallucination symbolizes his inner conflict—his ambition pulls him forward, while his guilt and fear take form in surreal imagery. Later, after the murder, Macbeth laments, 'Sleep no more! Macbeth does murder sleep' (Act 2, Scene 2), expressing his immediate realization that peace of mind is lost. The prophecy set events in motion, but it is unchecked ambition and overwhelming guilt that define Macbeth’s downfall.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth's guilt and inner turmoil manifest through hallucinations as he contemplates murdering King Duncan."
+    },
+    {
+      "quote": "Sleep no more! Macbeth does murder sleep",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth's immediate psychological collapse and guilt following Duncan's murder."
+    }
+  ],
+  "limits": "The second quotation is slightly paraphrased from the original text, which reads: 'Macbeth does murder sleep, the innocent sleep...'—but the classroom version is commonly cited as shown."
+}

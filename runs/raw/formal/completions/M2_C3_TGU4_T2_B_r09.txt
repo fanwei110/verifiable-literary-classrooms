@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton in the final paragraph of Charles Dickens's *A Tale of Two Cities*. Carton is about to be executed, having traded places with Charles Darnay so that Darnay may live with the woman Carton loves. The words express Carton's redemptive realization that his sacrificial act gives meaning to his wasted life.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15 (final lines of the novel)",
+      "speaker_or_narrator": "Sydney Carton (as narrated by the third-person narrator)",
+      "use_in_answer": "This quote provides the exact textual proof of the line, its speaker, and its source, confirming the attribution and context of Carton's final thoughts."
+    }
+  ],
+  "limits": "The line is often printed as Carton’s unspoken final thoughts. The source excerpt here is from the Project Gutenberg edition and does not include chapter numbers, but it is universally the novel’s closing paragraph."
+}

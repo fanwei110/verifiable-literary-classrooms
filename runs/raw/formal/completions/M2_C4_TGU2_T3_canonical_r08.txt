@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, Shakespeare weaves ambition, prophecy, and guilt into a tragic knot. The play opens with the Weird Sistersâ sinister chant, âFair is foul, and foul is fairâ (Act 1, Scene 1). This prophecy paradox dissolves moral distinction, planting a dangerous seed: if what seems fair (the crown) is foul (usurpation), then ambition can masquerade as destiny. Macbeth internalizes their riddle, and his latent ambition flames into regicide. Yet as soon as he decides to kill Duncan, guilt begins to reshape his reality. Alone before the murder, he sees a floating dagger leading him to the kingâs chamber, and confesses, âIt is the bloody business which informs / Thus to mine eyesâ (Act 2, Scene 1). The supernatural prophecy here fuses with psychological torment: the dagger is both a âfatal visionâ and a projection of his guilt-ridden mind. Thus, the prophecy ignites ambition, but guilt instantly punishes it with hallucinatory horror, showing that the foulness of the deed contaminates the doerâs perception forever. Shakespeare suggests that prophecies do not predetermine action; they merely expose the ambition already lurking, and guilt becomes the inescapable consequence.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "The Witches",
+      "use_in_answer": "Demonstrates how the prophecy blurs moral boundaries, planting an equivocation that fuels Macbeth's ambition by making foul actions appear fair."
+    },
+    {
+      "quote": "It is the bloody business which informs / Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows guilt manifesting as hallucination; Macbeth admits that his planned murder ('bloody business') is projecting the dagger he sees, linking ambition to psychological torment."
+    }
+  ],
+  "limits": "Quotations are taken from the provided excerpt windows, which contain only Act 1 Scene 1, part of Act 1 Scene 2, and the dagger soliloquy from Act 2 Scene 1. The analysis is confined to these moments; later developments of guilt and further prophecies are not included."
+}

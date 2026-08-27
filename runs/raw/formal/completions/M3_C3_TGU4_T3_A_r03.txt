@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the tumult of the French Revolution, where sacrifice and doubling emerge as central themes. The revolution, fueled by oppression, spirals into chaos, depicted in the grueling imagery of a people rising against tyranny. Sacrifice is embodied in characters like Sydney Carton, who gives his life to save Charles Darnay, demonstrating redemptive selflessness. The idea of doubling is evident not only in the physical resemblance between Carton and Darnay but also in their intertwined fates—one reckless, the other noble—yet both linked by love and destiny. As the storm of revolution intensifies, personal and political lives mirror each other in duality and consequence. Carton’s final act transforms him from a man of 'waste' into one of profound meaning, offering hope amid despair. The novel captures a world where extremes coexist—best and worst, life and death, light and darkness—revealing that even in the bloodiest upheaval, individual sacrifice can spark redemption. Through its layered characters and historical setting, A Tale of Two Cities shows how revolution demands sacrifice, and how doubling can illuminate identity, duty, and transformation.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and the chaotic context of revolution, framing the contradictory nature of the era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates Carton’s ultimate sacrifice, highlighting personal redemption and the theme of sacrificial love."
+    }
+  ],
+  "limits": "Page numbers aren't provided in the source windows; chapter locations are used instead."
+}

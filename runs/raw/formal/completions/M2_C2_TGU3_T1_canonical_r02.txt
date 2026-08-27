@@ -1,0 +1,14 @@
+{
+  "answer": "Austen opens Pride and Prejudice with a sentence that feigns grand certainty but flips the true preoccupation of the marriage market: it is not bachelors in want of wives, but families in want of rich bachelors. This ironic reversal exposes how economic need drives the pursuit of marriage for women.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening line satirizes the marriage market by stating a supposedly universal truth that actually reverses society's real obsession: marrying daughters to wealthy men."
+    }
+  ],
+  "limits": "Quoted from standard edition; wording may vary slightly in other editions but this is the universally recognized opening sentence."
+}

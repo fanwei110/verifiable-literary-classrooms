@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition and hallucination intertwine when Macbeth sees a vision of a dagger leading him toward regicide. He questions its reality, saying, 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee.' This moment captures how intense ambition can blur the line between thought and perception, revealing the psychological toll of pursuing power through immoral means.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's hallucination of a dagger, symbolizing how his ambition distorts reality and drives him toward murder."
+    }
+  ],
+  "limits": "Quotation is from the First Folio edition of 1623; line numbers may vary slightly in different editions."
+}

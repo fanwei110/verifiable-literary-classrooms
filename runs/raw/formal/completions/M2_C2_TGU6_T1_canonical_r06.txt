@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is not just physical displacement but a condition that generates story itself. Odysseus’s suffering across the sea becomes the very matter of his song, so that his wanderings and the tale of them are inseparable.",
+  "evidence": [
+    {
+      "quote": "Many pains he suffered in his heart on the open sea.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 4–5",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This opening invocation shows that wandering is defined by suffering endured at sea, and that suffering is the substance the epic will turn into story."
+    }
+  ],
+  "limits": "Quote is a standard translation close to the Greek; exact wording may vary slightly across translations."
+}

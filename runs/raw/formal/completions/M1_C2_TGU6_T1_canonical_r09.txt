@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the deep connection between wandering and the power of story. Odysseus’s long journey home is not just a physical voyage but a narrative one—his trials and encounters become the very substance of the epic itself. As the quote suggests, storytelling preserves the memory of his wanderings, turning hardship into something enduring and meaningful. This reflects how human experiences, especially those of displacement or struggle, are often given shape and significance through narrative.",
+  "evidence": [
+    {
+      "quote": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-5",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This opening passage establishes the link between Odysseus’s wandering and the storytelling that immortalizes his journey."
+    }
+  ],
+  "limits": "The translation used here is the classic prose version by Samuel Butler (1898); other translations may vary slightly in wording."
+}

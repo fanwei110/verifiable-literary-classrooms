@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as an act of pride, where he prioritizes autonomy over obedience, even in damnation. His choice reflects the dangerous allure of free will—when misused, it leads to ruin. Similarly, the poem’s opening lines, 'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree,' highlight the consequences of yielding to temptation. Adam and Eve’s fall mirrors Satan’s rebellion, as both involve a deliberate rejection of God’s authority in favor of self-determination. Milton suggests that true freedom lies not in defiance but in choosing righteousness, a lesson that resonates through the poem’s portrayal of rebellion as both tragic and inevitable.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s rebellious pride and his preference for autonomy over submission, even in suffering."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-2",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the theme of temptation and disobedience, linking human fallibility to Satan’s earlier rebellion."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct passages about Adam and Eve’s temptation or their exercise of free will, limiting the discussion to Satan’s rebellion and the broader thematic setup."
+}

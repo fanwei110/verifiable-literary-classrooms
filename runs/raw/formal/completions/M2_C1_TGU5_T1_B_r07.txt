@@ -1,0 +1,14 @@
+{
+  "answer": "Milton opens Paradise Lost by invoking the subject of “Man’s first disobedience” and the fatal fruit that brought death and woe. These lines directly state that the Fall is a consequence of disobedience.",
+  "evidence": [
+    {
+      "quote": "Of Man's first disobedience, and the fruit / Of that forbidden tree whose mortal taste / Brought death into the world, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator (the poet’s invocation)",
+      "use_in_answer": "This quote openly announces the poem’s theme: humanity’s first act of disobedience and its catastrophic consequences, the Fall."
+    }
+  ],
+  "limits": "No uncertainty; standard text."
+}

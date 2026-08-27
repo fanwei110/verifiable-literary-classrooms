@@ -1,0 +1,14 @@
+{
+  "answer": "As we see in the opening lines of Paradise Lost, Milton immediately announces his subject: \"Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe...\" This succinctly frames the fall as an act of disobedience with catastrophic consequences.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought Death into the World, and all our woe,\nWith loss of Eden, till one greater Man\nRestore us, and regain the blissful Seat,\nSing Heav'nly Muse",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-6",
+      "speaker_or_narrator": "Narrator (the poet invoking the Muse)",
+      "use_in_answer": "This quotation directly introduces the central theme of the poem—the fall through disobedience—and thus helps explain the nature of that disobedience and its results."
+    }
+  ],
+  "limits": "The frozen excerpt contains only the opening invocation of Book I. Later passages that dramatize the actual fall are not included."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The opening of The Odyssey shows that the very act of storytelling is bound up with wandering: the poet asks the Muse to tell the tale of Odysseus, a man whose identity is defined by his many wanderings and the knowledge he gained from them. The epic frames the hero’s physical journey as the raw material of the song, merging travel and narrative into one.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of the man of many devices, who wandered full many ways after he had sacked the sacred citadel of Troy. Many were the men whose cities he saw and whose mind he learned, and many the woes he suffered in his heart upon the sea, seeking to win his own life and the return of his comrades.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-5",
+      "speaker_or_narrator": "the narrator (the poet invoking the Muse)",
+      "use_in_answer": "This quotation directly links wandering ('wandered full many ways') with the act of storytelling ('Tell me, O Muse'), demonstrating that the hero's physical journey is the substance of the epic tale."
+    }
+  ],
+  "limits": "Translation by Richmond Lattimore (1965); the original Greek text may differ in phrasing, but the connection between wandering and story remains central."
+}

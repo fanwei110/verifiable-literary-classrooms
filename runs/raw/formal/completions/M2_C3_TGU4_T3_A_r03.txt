@@ -1,0 +1,22 @@
+{
+  "answer": "Dickens’s A Tale of Two Cities masterfully weaves revolution, sacrifice, and doubling into its very structure. The novel’s famous opening immediately plunges us into a world of extremes: “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.” This relentless parallelism is more than stylistic flourish; it embodies the doubled nature of an age hurtling toward revolution, where every hope contains its contradiction. The French Revolution becomes the historical stage upon which private sacrifice mirrors public violence. The ultimate act of doubling is Sydney Carton, the dissolute barrister who resembles Charles Darnay in appearance but not in fortune. His redemptive choice—to trade places with Darnay at the guillotine—transforms his wasted life into meaning. Dickens foreshadows this in the chapter title “The Substance of the Shadow,” where Carton is the shadow to Darnay’s substance, the overlooked double who finally steps into the light through self-sacrifice. Thus, the novel argues that in times of upheaval, personal sacrifice can illuminate the darkness of collective fury, and that the doubled self may find wholeness only in giving itself away.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Establishes the novel's foundational theme of doubling and the contradictory nature of the revolutionary period."
+    },
+    {
+      "quote": "The Substance of the Shadow",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter X",
+      "speaker_or_narrator": "narrator (chapter title)",
+      "use_in_answer": "Symbolizes Sydney Carton's role as the shadowy double of Charles Darnay and points to his ultimate sacrifice through substitution."
+    }
+  ],
+  "limits": "The source windows provided only the opening paragraph of Chapter I and a list of chapter titles; the second quotation is a chapter title, used as evidence of thematic doubling and sacrifice."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined, shaping characters' judgments and relationships. The novel critiques superficial assessments, as seen when Elizabeth Bennet initially dismisses Mr. Darcy based on his pride, while Darcy overlooks her due to her lower social standing. These snap judgments reflect the rigid class hierarchies of Regency England, where marriage often served as a tool for social advancement rather than love. For instance, Charlotte Lucas’s pragmatic marriage to Mr. Collins highlights how economic necessity could override personal happiness. Meanwhile, Darcy’s eventual admiration for Elizabeth’s wit and integrity challenges his earlier class-based prejudices, suggesting that true compatibility transcends social boundaries. The novel ultimately argues that first impressions—whether prideful or prejudiced—must be reevaluated to form meaningful connections, particularly in a society where marriage and class are so closely linked.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the societal obsession with marriage as a means of securing financial stability, particularly for women of lower class like the Bennet sisters."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This line highlights Elizabeth’s defiance of class-based condescension, asserting her worth despite Darcy’s higher social rank and challenging the rigid hierarchies of their society."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

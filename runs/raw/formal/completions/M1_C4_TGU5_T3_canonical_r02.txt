@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a deliberate choice—one rooted in pride and the illusion of autonomy. His argument that 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' reveals his belief in free will as an absolute power, even in damnation. Yet this perspective is ironic, as Satan’s rebellion is ultimately self-destructive, illustrating how unchecked free will, when divorced from moral truth, leads to ruin. Similarly, Adam and Eve’s fall in Book IX mirrors Satan’s logic: their temptation is not merely external but a surrender to the desire for godlike knowledge, a rebellion against divine limits. Milton thus presents free will as both a gift and a peril, where the choice to rebel or obey defines one’s fate. These moments invite readers to reflect on the consequences of defiance and the fragility of human (and angelic) agency when faced with temptation.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rejection of divine authority and his embrace of rebellion as a conscious, prideful choice."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This line illustrates Satan’s belief in the absolute power of free will, even in damnation, framing his rebellion as a self-justifying act."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct textual evidence from Book IX (Adam and Eve’s fall), so the lesson focuses on Satan’s rebellion in Book I as a parallel to human temptation."
+}

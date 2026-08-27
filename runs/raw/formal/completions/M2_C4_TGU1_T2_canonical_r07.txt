@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Prince Hamlet in William Shakespeare's tragedy *Hamlet*. It comes at the end of his soliloquy in Act 2, Scene 2, after he has arranged for a troupe of actors to perform a play that mirrors his father's murder. Hamlet hopes to observe King Claudius's guilty reaction to the performance, thereby confirming the ghost's accusation and overcoming his own doubts.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation confirms the speaker, play, and scene, and it supports the explanation of Hamlet's purpose."
+    }
+  ],
+  "limits": "The excerpt does not include line numbers; the location is inferred from the surrounding text (end of the 'O, what a rogue and peasant slave am I!' soliloquy in Act 2, Scene 2)."
+}

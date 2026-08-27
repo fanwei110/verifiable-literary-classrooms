@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'Out, damned spot! out, I say!' is spoken by Lady Macbeth in William Shakespeare's play *Macbeth*. It appears in Act 5, Scene 1, during a sleepwalking scene where she is tormented by guilt over her role in King Duncan's murder. This moment reveals her psychological breakdown as she imagines bloodstains on her hands that she cannot wash away.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say! One; two. Why, then ’tis time to do’t. Hell is murky!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote directly supports that Lady Macbeth speaks the line while sleepwalking and expressing guilt over bloodshed."
+    }
+  ],
+  "limits": "The text provided is consistent with standard editions of Shakespeare's *Macbeth*, such as the Folger or Arden editions; lineation may slightly vary by edition but scene and act placement remain stable."
+}

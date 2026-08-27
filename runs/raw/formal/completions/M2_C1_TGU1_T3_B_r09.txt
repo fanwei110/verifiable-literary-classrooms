@@ -1,0 +1,22 @@
+{
+  "answer": "Let's focus on a tight thread connecting hesitation, mortality, and performance. Hamlet's famous delay isn't just procrastination; it's a philosophical crisis triggered by confronting death. The ghost demands violent action, but the revelation of mortality makes performance itself suspect. When he can't resolve his revenge, Hamlet becomes obsessed with a different kind of performance—theatre—as a tool to uncover truth, famously instructing the players to “hold, as ’twere, the mirror up to nature.” Yet, his most focused meditation on action comes not from staging a play, but from contemplating a skull. Holding Yorick, he grounds abstract fear in a concrete, vanished relationship, demonstrating how archeological mortality—remains we can touch—threatens to undo all performed identity and purpose. He asks where Yorick's "flashes of merriment" are now, confronting the physical fact that even our most vibrant performances end in oblivion. This realization, that both actor and action are equally destined for dust, is the true anchor of his hesitation.",
+  "evidence": [
+    {
+      "quote": "hold, as ’twere, the mirror up to nature",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Supports the claim that Hamlet channels his thwarted action into directing a theatrical performance to reflect truth."
+    },
+    {
+      "quote": "Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "5.1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Illustrates how confronting mortal remains dissolves performed identity and fuels Hamlet's hesitation by interrogating vanished vitality."
+    }
+  ],
+  "limits": "None."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The novelâs opening sentence is the perfect proof of marriage-market irony: it announces a supposed universal truth that actually exposes the neighborhoodâs mercenary view of wealthy bachelors.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This line ironically pretends to state a fact about men, but really reveals the communityâs assumption that unmarried wealthy men are prizes to be hunted by their daughters."
+    }
+  ],
+  "limits": "Quotation from the opening of the novel as provided in the frozen source excerpt."
+}

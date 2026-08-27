@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s temptation of Eve in Book IX reveals how external influence exploits human curiosity and desire, framing disobedience as an act of empowerment. Satan cunningly appeals to Eve’s intellect, suggesting that God’s prohibition is a test of her autonomy: 'Ye shall be as Gods, / Knowing good and evil.' This deception preys on her aspiration for equality, blurring the line between liberation and rebellion. Yet Milton underscores that free will is not the absence of constraint but the capacity to choose rightly. When Adam later eats the fruit, he does so not out of ignorance but conscious defiance, declaring, 'If death / Consort with thee, death is to me as life.' His choice reflects a deliberate rejection of divine order, illustrating how rebellion stems from a misplaced trust in human judgment over divine wisdom. Through these moments, Milton argues that true freedom lies in obedience to God, while rebellion—though tempting—leads only to ruin.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s manipulation of Eve’s desire for knowledge and equality, framing temptation as a path to godlike power."
+    },
+    {
+      "quote": "If death / Consort with thee, death is to me as life",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 953-954",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This line highlights Adam’s deliberate choice to rebel, showing how free will can lead to defiance when human judgment overrides divine command."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

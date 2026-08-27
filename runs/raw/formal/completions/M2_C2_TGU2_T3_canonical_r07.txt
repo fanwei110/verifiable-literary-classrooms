@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition ignited by prophecy quickly breeds corrosive guilt. When the Weird Sisters hail Macbeth as future king, his desire for power stirs in secret. He commands, “Stars, hide your fires; / Let not light see my black and deep desires” (1.4.50‑51). The imperative reveals an ambition he already knows is dark—he wants the crown but recoils from the “black” means his psyche envisions. The prophecy does not force his hand; it unlocks a hunger he tries to conceal even from himself. That hidden ambition soon generates overwhelming guilt. Before murdering Duncan, Macbeth’s mind fractures: “Is this a dagger which I see before me, / The handle toward my hand?” (2.1.33‑34). The hallucinated dagger, hovering and luring him toward the deed, embodies a conscience already stained by the thought of blood. Shakespeare demonstrates that prophecy acts as a catalyst, not fate. Once awakened, ambition poisons reason, and guilt materializes immediately—no ocean can wash it clean. The tragedy traces how unchecked ambition, set in motion by otherworldly whispers, becomes an inescapable psychological torment.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; / Let not light see my black and deep desires",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4, lines 50-51",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows ambition awakened by prophecy, accompanied by intense guilt about his own sinister longings."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Illustrates how guilt manifests as hallucination even before the murder, signaling a mind already tormented."
+    }
+  ],
+  "limits": "Lineation follows the Folio; modern editions may number slightly differently."
+}

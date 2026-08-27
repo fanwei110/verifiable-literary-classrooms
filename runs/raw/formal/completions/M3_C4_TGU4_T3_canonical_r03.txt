@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the turbulent themes of revolution, sacrifice, and duality. The French Revolution forms the backdrop for upheaval, where oppressed masses rise against tyranny, embodying both hope and horror. Dickens captures this paradox in the novel’s famous opening: 'It was the best of times, it was the worst of times,' illustrating the duality of the era—simultaneously marked by promise and peril. As revolution unfolds, personal sacrifice becomes central, particularly through Sydney Carton. His ultimate act of selflessness—dying in place of Charles Darnay—epitomizes redemptive sacrifice. Carton’s death is framed not as a loss but as a doubling, fulfilling a prophecy of meaning beyond death. The theme of doubling runs throughout the narrative, from the parallel lives of Carton and Darnay to the mirrored cities of London and Paris. These dualities emphasize how personal destinies intertwine with historical moments. Revolution, then, is not only political but deeply personal. Carton’s willingness to give his life echoes the novel’s moral core: 'It is a far, far better thing that I do, than I have ever done,' showing how individual sacrifice can transcend chaos and redeem both self and society.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the theme of duality and contrast in the novel, illustrating the paradoxical nature of the revolutionary era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done, it is a far, far better rest that I go to than I have ever known",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of personal sacrifice, showing Carton's redemptive final act and moral transformation."
+    }
+  ],
+  "limits": ""
+}

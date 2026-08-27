@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "Today, let’s examine how *Hamlet* dramatizes hesitation, mortality, and performance—three forces that shape Hamlet’s tragic delay. First, hesitation: Hamlet’s famous soliloquy reveals his paralyzing fear of the unknown after death. He asks, 'To be, or not to be,' weighing whether enduring life’s suffering is nobler than risking the 'undiscover’d country' of death (3.1). This existential pause isn’t just philosophical; it’s a performance of doubt, where Hamlet stages his own uncertainty for an unseen audience (us). Second, mortality: The Ghost’s revelation—'I am thy father’s spirit, / Doom’d for a certain term to walk the night' (1.5)—frames death as a purgatorial performance, a cycle of suffering that Hamlet inherits. The Ghost’s urgency ('So art thou to revenge') contrasts with Hamlet’s later inaction, suggesting that mortality isn’t just a personal fate but a political one—'Something is rotten in the state of Denmark.' Finally, performance: Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself' (3.1)—exposes how characters weaponize appearances. Hamlet’s 'antic disposition' mirrors this, blurring the line between genuine madness and strategic theater. His hesitation, then, isn’t just fear; it’s a performance of fear, a way to buy time in a world where words and deeds are equally suspect. Notice how these themes intersect: mortality fuels hesitation, and hesitation becomes a performance that delays action. The play asks us to question whether Hamlet’s delay is cowardice or a radical refusal to play into the corrupt scripts of Denmark’s court.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and existential dread, framing his delay as a philosophical crisis about mortality and action."
+    },
+    {
+      "quote": "I am thy father’s spirit, / Doom’d for a certain term to walk the night, / And for the day confin’d to fast in fires, / Till the foul crimes done in my days of nature / Are burnt and purg’d away.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Ghost",
+      "use_in_answer": "This quote establishes mortality as a cyclical, performative burden, linking Hamlet’s hesitation to the Ghost’s purgatorial suffering and the political rot of Denmark."
+    }
+  ],
+  "limits": "Quotations are from the First Folio (1623) and modern editions based on it; line numbers may vary slightly across versions. The mini-lesson focuses on Act 3, Scene 1 and Act 1, Scene 5 as key moments, but other scenes (e.g., the play-within-a-play) could further complicate the themes of performance."
+}
+```

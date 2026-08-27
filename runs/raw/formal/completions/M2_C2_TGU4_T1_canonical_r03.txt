@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens begins A Tale of Two Cities with a string of stark antitheses—best and worst, wisdom and foolishness, Light and Darkness—that dramatize the core historical contradiction of an age that contains every extreme at once. The sentence refuses to settle on a single characterization, instead insisting that the period was defined by its irreconcilable opposites.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening sentence exemplifies historical contradiction by describing the same moment as simultaneously an age of Light and Darkness, wisdom and foolishness, hope and despair."
+    }
+  ],
+  "limits": "Quotation follows the standard text; the long dash indicates Dickens's original punctuation continuing into the paragraph. The locator refers to the chapter titled 'The Period'."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant assertion of autonomy after his fall. Banished to Hell, Satan refuses to accept divine authority, declaring, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.' This reveals his belief that inner resolve can redefine external reality, justifying rebellion as an act of will. His famous declaration, 'Better to reign in Hell, then serve in Heav’n,' encapsulates his rejection of obedience in favor of self-determined rule, no matter how corrupted. Though fallen, Satan clings to freedom of choice, framing disobedience as heroic defiance. Yet Milton subtly critiques this logic, showing how pride distorts free will into self-deception. Satan’s rhetoric elevates rebellion as liberation, but the bleak setting—'a singed bottom all involv’d / With stench and smoak'—undermines his claims, suggesting that defiance without virtue leads only to suffering. Thus, Milton presents temptation not merely as enticement but as the tragic misuse of free will, where the choice to rebel against divine order results in spiritual ruin.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan believes internal resolve can redefine external reality, illustrating his distorted view of free will and rebellion."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures Satan's preference for autonomous rule in damnation over obedient service in heaven, highlighting his prideful rejection of divine authority."
+    }
+  ],
+  "limits": ""
+}

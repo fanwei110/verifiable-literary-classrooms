@@ -1,0 +1,24 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Their declaration, 'All hail, Macbeth, that shalt be king hereafter!' (1.3), fuels his desire for power, blurring the line between fate and personal choice. However, this ambition quickly spirals into paranoia and violence, as Macbeth murders King Duncan to seize the throne. After the deed, his guilt manifests in hallucinations, such as the infamous line, 'Is this a dagger which I see before me?' (2.1), revealing his psychological unraveling. The prophecy initially empowers him, but guilt and ambition together consume his conscience, illustrating how unchecked ambition can corrupt and destroy. Shakespeare uses these themes to warn against the dangers of overreaching and the moral consequences of ruthless ambition.",
+
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quote demonstrates how the witches’ prophecy sparks Macbeth’s ambition and sets the tragedy in motion."
+    },
+    {
+      "quote": "Is this a dagger which I see before me?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line illustrates Macbeth’s guilt and psychological torment following his murder of Duncan."
+    }
+  ],
+
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other editions."
+}

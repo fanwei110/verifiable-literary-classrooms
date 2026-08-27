@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, students. Today’s mini-lesson focuses on how Shakespeare intertwines ambition, prophecy, and guilt in *Macbeth*. Ambition, once ignited by prophecy, can warp human nature, and guilt becomes its psychological punishment. The prophecies of the “Weird Sisters” act as a catalyst, planting a seed of dark possibility. However, Shakespeare immediately reveals how this ambition poisons the mind, not through external action alone, but through internal torment. Before he even murders Duncan, Macbeth’s guilt-stricken psyche projects his ambition into a terrifying hallucination. He sees a floating dagger, a 'fatal vision' born of his 'heat-oppressed brain,' which virtually pulls him toward tyranny. The guilt, then, begins before the crime itself. This guilt is the mind’s rebellion against its own corrupt ambition, a supernatural prosecutor where the weapon becomes a phantom of conscience. The lesson is that unchecked ambition, spurred by prophecy, makes the mind its own victim, proving that the most severe punishment for contemplated evil is the immediate and inescapable guilt it generates.",
+  "evidence": [
+    {
+      "quote": "A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates that guilt manifests as a projection of corrupted ambition, illustrating the psychological torment that precedes and accompanies the act."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair: / Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act1, Scene1",
+      "speaker_or_narrator": "The Witches",
+      "use_in_answer": "This quote establishes the confusion between moral boundaries that allows ambition, triggered by prophecy, to thrive unchallenged."
+    }
+  ],
+  "limits": null
+}

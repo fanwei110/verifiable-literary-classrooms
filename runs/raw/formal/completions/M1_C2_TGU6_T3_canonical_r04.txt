@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that reveal the moral and social values of ancient Greek culture. Odysseus’ long journey home is not just a physical return but a restoration of his identity as king, husband, and father. His trials test his cunning and resilience, but his ultimate homecoming depends on reclaiming his rightful place in Ithaca. Hospitality, or *xenia*, plays a crucial role in this process—both as a cultural expectation and a test of character. When strangers arrive, hosts are expected to offer food, shelter, and protection before even asking their names, as seen in Telemachus’ treatment of Athena in disguise. Conversely, the suitors’ abuse of hospitality in Odysseus’ home underscores their moral corruption and foreshadows their downfall. Identity is also fluid in the epic; Odysseus often conceals his true self, revealing it only when the moment demands. His homecoming is incomplete until he is recognized by those who matter most, proving that identity is both personal and relational. These themes highlight how *The Odyssey* explores what it means to belong—to a place, a people, and oneself.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll be the first to question you—who are you, and where do you come from? Who gave you the clothes you’re wearing now?",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 170-172",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote demonstrates the proper order of hospitality—care is offered before identity is demanded, reflecting the cultural value of *xenia*."
+    },
+    {
+      "quote": "I am Laertes’ son, Odysseus. Men hold me formidable for guile in peace and war: this fame has gone abroad to the sky’s rim.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-21",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates Odysseus’ assertion of his true identity, linking his name and reputation to his homecoming and selfhood."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

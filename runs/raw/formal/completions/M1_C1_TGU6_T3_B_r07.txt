@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *The Odyssey* ties homecoming, identity, and hospitality into a single theme. Odysseus’s journey isn’t just about returning to Ithaca—it’s about reclaiming who he is. His identity is tested repeatedly, and hospitality, or *xenia*, becomes the lens through which we see his struggle. When Odysseus finally reaches home, he doesn’t just walk in as a king; he must prove himself, even to his own household. The suitors’ abuse of hospitality—eating his food, courting his wife—shows how deeply identity and home are connected. Hospitality isn’t just manners; it’s a test of loyalty and recognition. For example, when Odysseus, disguised as a beggar, is welcomed by Eumaeus, the swineherd says, ‘Stranger, I have no right to deny the stranger, not even if one came to me poorer than you.’ This moment highlights how true hospitality preserves dignity, even for someone unrecognized. Later, when Odysseus reveals himself to Telemachus, he declares, ‘I am he,’—a simple phrase that carries the weight of his entire journey. Here, identity and homecoming merge: to be known is to be home. These moments remind us that home isn’t just a place; it’s where we’re seen for who we truly are.",
+  "evidence": [
+    {
+      "quote": "Stranger, I have no right to deny the stranger, not even if one came to me poorer than you.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, lines 56-57",
+      "speaker_or_narrator": "Eumaeus (narrated by Odysseus)",
+      "use_in_answer": "This quote demonstrates the ideal of *xenia* (hospitality) as a moral obligation, even toward an unrecognized stranger, reinforcing how identity and dignity are preserved through proper treatment."
+    },
+    {
+      "quote": "I am he.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16, line 187",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This line marks Odysseus’s revelation of his true identity to Telemachus, symbolizing the culmination of his homecoming and the restoration of his role as father and king."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

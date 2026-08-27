@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "This line, 'It is a far, far better thing that I do, than I have ever done,' is spoken by Sydney Carton in Charles Dickens's novel *A Tale of Two Cities*. The quote comes from the final chapter, where Carton sacrifices himself to save another man during the French Revolution, finding redemption and peace in his noble act.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "*A Tale of Two Cities*",
+      "locator": "Book the Third, Chapter 15 (The Footsteps Die Out For Ever)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote confirms the speaker as Sydney Carton and provides the exact line in question, supporting its origin in the novel's climax."
+    }
+  ],
+  "limits": "The attribution is certain, but some editions may vary slightly in chapter numbering or phrasing due to editorial differences."
+}
+```

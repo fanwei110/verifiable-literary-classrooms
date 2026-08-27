@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Hamlet in William Shakespeare's tragedy 'Hamlet.' It occurs at the very end of Act 2, Scene 2, as Hamlet finalizes his plan to stage a play that reenacts his father's murder. By watching his uncle Claudius's reaction to the performance, Hamlet hopes to confirm the ghost's accusation and gain solid evidence of the king's guilt.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene II (closing lines)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This is the exact quotation provided by the student, showing that Hamlet is the speaker and identifying the moment he devises the 'Mousetrap' stratagem."
+    }
+  ],
+  "limits": "No significant textual variants or ambiguities; the line concludes Act 2, Scene 2 in standard editions."
+}

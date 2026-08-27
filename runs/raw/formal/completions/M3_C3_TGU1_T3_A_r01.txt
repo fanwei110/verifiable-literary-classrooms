@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s existential crisis is most evident in his 'To be, or not to be' soliloquy, where he contemplates the nature of life, death, and action. The fear of the unknown after death—'the sleep of death'—causes profound hesitation, as 'what dreams may come' gives him pause. This internal conflict reflects the broader motif of performance: characters mask true feelings with 'pious action' to 'sugar o’er' deception. King Claudius acknowledges this duplicity, admitting in an aside that his 'deed' is ugly beneath 'painted' words, revealing the performative corruption at the heart of the court. Hamlet, paralyzed by thought, contrasts with this false performance, struggling to act even as his fate 'cries out.' His hesitation arises not from weakness but from a mind acutely aware of moral consequences. Thus, Hamlet’s delay underscores the tension between authentic action and theatrical pretense in a world shadowed by mortality and deceit. Shakespeare uses soliloquy and dramatic irony to expose the cost of such performances—both personal and political.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–68",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s hesitation and contemplation of mortality, illustrating how fear of the afterlife paralyzes action."
+    },
+    {
+      "quote": "O ’tis too true! How smart a lash that speech doth give my conscience! The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word. O heavy burden!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 49–53",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "This quote supports the theme of performance, revealing Claudius’s awareness of his own deceptive appearance and moral corruption."
+    }
+  ],
+  "limits": "The textual excerpts are drawn from standard modernized editions of Hamlet; line numbers may vary slightly depending on edition."
+}

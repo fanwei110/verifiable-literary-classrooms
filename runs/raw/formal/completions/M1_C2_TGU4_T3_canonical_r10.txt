@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as a force that consumes both the oppressed and the oppressors, illustrating how violence begets violence. Sacrifice emerges as a redemptive act, particularly through Sydney Carton’s ultimate self-giving, which transforms suffering into meaning. Doubling, meanwhile, underscores the novel’s contrasts—London and Paris, Carton and Darnay, or the duality of human nature—highlighting how individuals and societies are often reflections of one another, for better or worse. \n\nDickens warns of revolution’s destructive potential, as seen when the narrator describes the mob’s frenzy: \"The sea of black and threatening waters, and of destructive upheaving of wave against wave, whose depths were yet unfathomed and whose forces were yet unknown.\" This metaphor captures the uncontrollable and dehumanizing nature of revolutionary fervor. Yet, sacrifice offers a counterpoint, as Carton’s final words—\"It is a far, far better thing that I do, than I have ever done\"—reveal how personal redemption can emerge from selflessness, even amid societal collapse. Together, these themes invite readers to reflect on the costs of change and the power of individual choice in turbulent times.",
+  "evidence": [
+    {
+      "quote": "The sea of black and threatening waters, and of destructive upheaving of wave against wave, whose depths were yet unfathomed and whose forces were yet unknown.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 2, Chapter 21",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea of revolution as an unpredictable and destructive force, likening it to a violent, uncontrollable sea."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice as a redemptive act, showing how Carton’s self-giving elevates his life’s purpose."
+    }
+  ],
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

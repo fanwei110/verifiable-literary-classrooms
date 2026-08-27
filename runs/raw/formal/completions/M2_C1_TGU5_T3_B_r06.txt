@@ -1,0 +1,22 @@
+{
+  "answer": "Great question—let's look quickly at how Milton stages temptation, free will, and rebellion through two key moments. First, understand that for Milton, the Fall is not a sudden collapse but a gradual, reasoned surrender of freedom. Temptation works by distorting reason, not by forcing the will. Notice how Eve, already led to the Tree, cites God's prohibition clearly, yet the Serpent twists her understanding by claiming he ate and 'lives, and knows.' Her rebellion isn't a passionate outburst but a deliberative act where appetite overmasters right reason—'eyes drizzling' with desire, she reaches for the fruit. That's Milton's anatomy of temptation: it makes irrational choice feel sensible. Second, consider Satan's own logic of rebellion. He never says he was coerced; instead, he famously declares the mind's inviolable sovereignty, asserting a psychological freedom that precedes his outward fall. The tragedy is that the free will that defines angelic and human dignity is used to generate its own bondage. So, temptation exploits free will by dressing rebellion in the language of liberation—a warning Milton wants us to feel, not just analyze.",
+  "evidence": [
+    {
+      "quote": ". . . her rash hand in evil hour / Forth reaching to the Fruit, she pluck'd, she eat: / Earth felt the wound, and Nature from her seat / Sighing through all her Works gave signs of woe . . .",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 780-783",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates how Eve's rebellion is a concrete, willed act of transgression, not merely a passive yielding, and the cosmic 'woe' underscores its devastating consequence."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav'n of Hell, a Hell of Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote anchors the lesson on free will by showing that rebellion begins as a psychological posture of defiance, where Satan redefines mental autonomy as the ultimate liberty."
+    }
+  ],
+  "limits": "All quotes are from the standard 1674 edition of Paradise Lost; some modernized editions may vary in spelling and punctuation."
+}

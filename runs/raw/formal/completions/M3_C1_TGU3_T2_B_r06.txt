@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'I dearly love a laugh' is spoken by Portia in William Shakespeare's play *The Merchant of Venice*. In this moment, Portia expresses her fondness for humor and lightheartedness, particularly as she engages in banter with her maid Nerissa while discussing potential suitors.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "William Shakespeare",
+      "work": "The Merchant of Venice",
+      "locator": "Act 1, Scene 2",
+      "speaker_or_narrator": "Portia",
+      "use_in_answer": "This quote supports that Portia values amusement and uses wit in her conversation with Nerissa, revealing her desire for a joyful and intelligent partner."
+    }
+  ],
+  "limits": "The line may appear with slight wording variation depending on the edition, but it consistently appears in Act 1, Scene 2 of standard authoritative texts like the Folger or Arden editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, the protagonist’s hesitation reflects a deep contemplation of mortality and the performative nature of identity. Hamlet's famous soliloquy reveals his philosophical struggle: the uncertainty of what follows death causes 'pause' in taking decisive action, underscoring how fear of the afterlife prolongs human suffering. This hesitation is not mere cowardice but a profound response to existential questions. Simultaneously, the play interrogates performance—both on stage and in courtly life. Claudius’s guilt is laid bare when he reacts to a speech about murder, mirroring how appearances can mask moral corruption. Hamlet himself performs madness, yet his performance reveals deeper truths about the human condition. Thus, hesitation in *Hamlet* becomes a lens through which mortality and performance are critically examined—action is delayed not from weakness, but from penetrating insight into the consequences of both death and deception.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet’s hesitation stems from fear of the unknown after death, which complicates his ability to act decisively."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King",
+      "use_in_answer": "This quote illustrates the theme of performance and moral hypocrisy, showing how outward appearances conceal inner corruption."
+    }
+  ],
+  "limits": "The source excerpts do not include the 'play within a play' scene explicitly, so performance is interpreted through Claudius’s reaction in soliloquy rather than direct staging."
+}

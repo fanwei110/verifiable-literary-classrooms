@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy captures his paralyzing uncertainty about action and death, reflecting the human struggle with mortal fear. He contemplates whether enduring life’s pain is nobler than ending it, fearing what comes after death—highlighting hesitation rooted in the unknown. This internal conflict is intensified by his performance of madness, which blurs authenticity and disguise. As Hamlet feigns insanity to uncover truth, he reveals how identity becomes staged. Even King Claudius admits the dissonance between appearance and reality, showing how performance corrupts moral clarity. The weight of mortality presses on characters' choices: Hamlet delays revenge not from weakness, but from profound existential dread. In a world where 'something is rotten,' truth is veiled by shows of piety and power. Thus, Hamlet’s hesitation is not failure—it is the consequence of confronting mortality while trapped in a court where everyone performs.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's hesitation and preoccupation with mortality, illustrating his philosophical struggle over whether death ends suffering or brings worse unknowns."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "This quote illustrates the theme of performance, showing how Claudius recognizes the hypocrisy of masking guilt with false appearances, reinforcing the play’s critique of performative morality."
+    }
+  ],
+  "limits": "The textual excerpts are drawn from standard modern editions of Hamlet, though lineation may vary slightly across versions. Quotations are from Act 3, Scene 1 as commonly accepted in the Folio and modern scholarly texts."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "That line is from Jane Austen’s *Pride and Prejudice*, Chapter 11. Elizabeth Bennet says it to Mr. Darcy during an evening at Netherfield, where she deflects his remark that she willfully misunderstands people by playfully declaring, “I dearly love a laugh.”",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11 (Volume I, Chapter XI)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote shows Elizabeth Bennet’s fondness for humor and her witty comeback to Darcy’s claim that she deliberately misinterprets others."
+    }
+  ],
+  "limits": "The line appears at the end of the exchange about faults and understanding; some editions number it as Chapter 11 of Volume I. The wording is stable across standard editions."
+}

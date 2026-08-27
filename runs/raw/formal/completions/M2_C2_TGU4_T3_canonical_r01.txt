@@ -1,0 +1,22 @@
+{
+  "answer": "Let's consider how Dickens entwines revolution, sacrifice, and doubling in a single devastating image. The novel often presents the oppressed and the oppressor as warped mirrors of each other, a doubling that demands a sacrificial price. This theme culminates in Sydney Carton's unrequited love for Lucie Manette and his physical resemblance to Charles Darnay. Carton, a cynical alcoholic, views himself as a wasted double of the virtuous Darnay, yet this doubling uniquely positions him for a profound act. He exploits their shared appearance to take Darnay’s place in prison, allowing Darnay to escape the guillotine. In doing so, Carton transforms a biological accident into a spiritual triumph, embodying the novel’s central idea that the bloody revolution of France can only be morally redeemed by individual acts of resurrection and love. His sacrifice is not just for Lucie, but to finally give his own wasted life purpose, rewriting his ending by physically occupying the space of the man he could never be.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (speculated final thoughts)",
+      "use_in_answer": "This quote reveals Carton’s internal understanding that his sacrificial execution, enabled by his doubling with Darnay, redeems his previously wasted life and gives it supreme meaning."
+    },
+    {
+      "quote": "I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 9",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "Carton echoes this biblical verse before his sacrifice, directly linking his impending death by guillotine to a purposeful act of resurrection that subverts the mindless violence of the revolution through a sacrificial doubling."
+    }
+  ],
+  "limits": "The second quotation is Carton recalling John 11:25–26; the words themselves are a biblical quotation within the novel, faithfully recorded by the narrator as Carton's spoken memory."
+}

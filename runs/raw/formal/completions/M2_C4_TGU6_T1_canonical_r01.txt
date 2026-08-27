@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening lines of *The Odyssey*, Homer invokes the Muse to tell the story of Odysseus, explicitly linking storytelling with the hero’s far-flung wanderings. The narrator asks the Muse to recount both the journey itself and the tales born from it, weaving together the physical act of wandering and the narrative that emerges from it.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening invocation",
+      "speaker_or_narrator": "the narrator (poet)",
+      "use_in_answer": "This invocation demonstrates that the epic is fundamentally a story of wandering—Odysseus's travels, sufferings, and the tales they generate are requested of the Muse, binding narrative and journey together from the very first lines."
+    }
+  ],
+  "limits": "Quotation is from Samuel Butler's translation, as provided in the source excerpt. Line numbers are not preserved in this edition; the passage corresponds to the traditional Book I, lines 1–10."
+}

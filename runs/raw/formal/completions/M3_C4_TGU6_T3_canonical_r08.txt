@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, the themes of homecoming, identity, and hospitality are deeply intertwined. Odysseus’s longing for home drives much of the narrative, and his encounters often hinge on how he is received by others. A powerful example occurs when he washes ashore on Phaeacia, exhausted and destitute. He appeals to Nausicaa for help, saying, 'And now, O queen, have pity upon me, for you are the first person I have met, and I know no one else in this country' (Book V-VI). His vulnerability highlights the importance of hospitality—xenia—in Greek culture, where strangers are to be treated with compassion regardless of status. Nausicaa’s response reflects this ideal: she acknowledges his distress and ensures he is welcomed, saying, 'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for' (Book VI). This moment underscores how hospitality serves as a bridge between strangers and society, affirming identity and aiding the journey toward home. Through these interactions, The Odyssey illustrates that returning home is not just a physical journey but also a social and moral one, rooted in recognition, respect, and human kindness.",
+  "evidence": [
+    {
+      "quote": "And now, O queen, have pity upon me, for you are the first person I have met, and I know no one else in this country.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book V-VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports Odysseus's appeal for hospitality and emphasizes his vulnerability and need for recognition as part of his journey toward home."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the ideal of xenia (hospitality) in The Odyssey, showing how identity and belonging are affirmed through compassionate reception of strangers."
+    }
+  ],
+  "limits": "The source excerpts do not specify exact book-line numbers for the quotations; locators are estimated based on narrative context."
+}

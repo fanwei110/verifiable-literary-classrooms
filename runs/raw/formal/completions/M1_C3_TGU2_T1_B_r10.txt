@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "A powerful example of how unchecked ambition can distort perception appears in Macbeth’s famous dagger soliloquy. The passage vividly illustrates the psychological toll of Macbeth’s vaulting ambition, showing how guilt and hallucination blur the line between reality and imagination. This moment underscores the play’s exploration of ambition’s corrupting influence, where the mind becomes a battleground for conscience and desire.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly demonstrates Macbeth’s hallucination—a dagger—manifesting from his ambition-driven guilt, revealing how his mind fractures under the weight of his murderous intentions."
+    }
+  ],
+  "limits": "The quoted lines are from the First Folio (1623) edition of *Macbeth*; minor variations may exist in modern editions, but the core imagery remains consistent."
+}
+```

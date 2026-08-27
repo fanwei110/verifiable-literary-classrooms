@@ -1,0 +1,14 @@
+{
+  "answer": "That line is from William Shakespeare’s tragedy *Hamlet*, spoken by the protagonist, Prince Hamlet. It occurs in Act 2, Scene 2, as Hamlet plans to use a troupe of actors to perform a play that will reenact the murder of his father, hoping to provoke a guilty reaction from his uncle, King Claudius, and confirm the ghost’s accusation.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633-634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the answer by directly providing the line, its speaker, and the moment in the play when Hamlet unveils his 'mousetrap' scheme."
+    }
+  ],
+  "limits": "None"
+}

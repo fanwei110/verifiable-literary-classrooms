@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer explores the themes of homecoming, identity, and hospitality through Odysseus’s arduous journey and the interactions he has with others. Homecoming, or *nostos*, is central to the epic, as Odysseus’s primary desire is to return to Ithaca, his wife, and his kingdom. His longing is evident in the opening lines, where the narrator describes him as 'longing to return to his wife and country,' highlighting the emotional and physical toll of his separation from home. Identity is also a key theme, as Odysseus must often conceal or reveal his true self to survive. For example, when he arrives on the Phaeacian shore, he appeals to Nausicaa not as a king or hero but as a vulnerable stranger, saying, 'I know no one else in this country. Show me the way to your town,' which underscores his reliance on others’ mercy and the fragility of his identity in unfamiliar lands. Hospitality, or *xenia*, is a sacred duty in ancient Greek culture, and the Phaeacians exemplify this virtue. Nausicaa’s response to Odysseus—'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for'—demonstrates the generosity expected of hosts, even toward unknown guests. Together, these themes illustrate the challenges of returning home, the fluidity of identity, and the moral obligations of hospitality in *The Odyssey*.",
+
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of homecoming by emphasizing Odysseus’s deep desire to return to Ithaca despite the obstacles he faces."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Source window 2 (Phaeacian episode)",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the theme of hospitality, as Nausicaa fulfills the Greek ideal of *xenia* by offering aid to a stranger in need."
+    }
+  ],
+
+  "limits": "The second quotation is paraphrased slightly in the source excerpt but is attributed directly to Nausicaa’s speech. The exact phrasing in the frozen source is 'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.'"
+}
+```

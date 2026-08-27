@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation arises not from cowardice but from a hyperconscious engagement with mortality. The prince’s paralysis is a kind of performance—he endlessly rehearses action in soliloquy while the reality of death looms. His famous meditation, “Thus conscience does make cowards of us all,” reveals how the dread of what lies beyond life (“the undiscover’d country”) transforms moral scruple into inaction. Thought becomes a stage where the self performs doubt. By Act V, however, Hamlet shifts from rehearsing to accepting. His declaration “The readiness is all” signals a reconciliation with mortality: the recognition that life’s end is inescapable and that true performance is not planning but surrendering to the moment. In this arc, Shakespeare suggests that action becomes possible only when we stop trying to script our exits and instead embrace the vulnerability of living—and dying—without a rehearsal.",
+  "evidence": [
+    {
+      "quote": "Thus conscience does make cowards of us all",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.83",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Shows how fear of the afterlife turns moral awareness into hesitation, linking mortality to inaction."
+    },
+    {
+      "quote": "The readiness is all",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "5.2.222",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Demonstrates Hamlet’s shift toward accepting mortality, enabling genuine performance rather than paralyzed rehearsal."
+    }
+  ],
+  "limits": "Line numbers follow common modern editions; variations may exist across quarto and folio texts."
+}

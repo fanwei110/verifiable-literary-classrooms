@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from Charles Dickens's novel *A Tale of Two Cities*. It is spoken by Sydney Carton in the final moments of the story, as he goes to the guillotine in place of Charles Darnay. In these closing thoughts, Carton finds meaning and peace in his sacrifice, declaring it a far better deed than anything he has ever done.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15, final lines",
+      "speaker_or_narrator": "Sydney Carton (internal thoughts)",
+      "use_in_answer": "This quote directly supplies the line the student asked about, confirms the novel it comes from, and shows it is Carton's own reflection at the story's climax."
+    }
+  ],
+  "limits": "The excerpt does not include a chapter heading, but the text is universally recognized as the novel's closing paragraph."
+}

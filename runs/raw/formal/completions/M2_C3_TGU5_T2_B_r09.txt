@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from *Paradise Lost* by John Milton. It is spoken by Satan near the end of Book I, as he surveys Hell and rallies his fallen angels by declaring that independence in damnation is preferable to subordination in Heaven.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This is the direct source of the student's quoted line, confirming the speaker (Satan) and the work."
+    }
+  ],
+  "limits": "The text varies slightly in some modernized editions ('Heav'n' vs. 'Heaven,' 'then' vs. modern 'than'). The provided source excerpt consistently uses the original 1667 spelling 'then' and 'Heav'n'."
+}

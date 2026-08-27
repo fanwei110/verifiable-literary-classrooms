@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, the interplay of ambition, prophecy, and guilt drives the tragic downfall of the protagonist. Initially, Macbeth is a loyal subject, but the witches' prophecy ignites his latent ambition. He is told he will become king, and this sparks a dangerous desire that overrides his moral compass. As he moves to fulfill the prophecy by murdering King Duncan, ambition overtakes loyalty. However, once Macbeth attains power, guilt consumes him. His conscience unravels, revealing the psychological cost of his actions. This transformation illustrates how unchecked ambition, fueled by external prophecy, leads to internal torment. As Macbeth himself laments, 'I am in blood / Stepp’d in so far that, should I wade no more, / Returning were as tedious as go o’er' (Act 3, Scene 4). The metaphor of wading through blood captures his sense of irreversible guilt. Even before this moment, Lady Macbeth notes the cost of ambition when she observes, 'Ambition should be made of sterner stuff' (Act 3, Scene 1), subtly critiquing Macbeth’s weakening resolve. Together, these quotes reveal how prophecy may incite action, but it is ambition and guilt that shape Macbeth’s tragic arc.",
+  "evidence": [
+    {
+      "quote": "I am in blood / Stepp’d in so far that, should I wade no more, / Returning were as tedious as go o’er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4, Lines 168–170",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth's deep entrapment in guilt and the point of no return caused by his ambition."
+    },
+    {
+      "quote": "Ambition should be made of sterner stuff",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 1, Line 47",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote underscores Lady Macbeth's critique of Macbeth’s weakening resolve despite their shared ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight line variations may occur in other editions."
+}

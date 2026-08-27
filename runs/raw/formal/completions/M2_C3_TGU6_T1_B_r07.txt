@@ -1,0 +1,14 @@
+{
+  "answer": "The epic’s opening lines explicitly yoke wandering and storytelling: the poet calls on the Muse to tell of Odysseus, a hero who ‘travelled far and wide’ after the Trojan War, immediately casting the entire tale as a record of his wanderings.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1–5",
+      "speaker_or_narrator": "the poet (narrator)",
+      "use_in_answer": "This quote shows that the poem presents itself as a divine story about the hero’s extensive travels and ordeals."
+    }
+  ],
+  "limits": "Translation by Samuel Butler (1900). Line numbering may differ in other translations."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "From Act 3, Scene 1, Hamlet says: 'To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.' Mortality is directly expressed through 'sleep of death' and 'shuffled off this mortal coil,' while hesitation is captured by 'there’s the rub' and 'must give us pause'—the fear of an unknown afterlife makes us stop and endure suffering rather than end it.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage directly addresses mortality (death as sleep, shedding the mortal coil) and hesitation (the 'rub' that makes one pause out of fear of what dreams may come)."
+    }
+  ],
+  "limits": "Line numbers are not given in the frozen excerpt and may vary across editions; the quotation is taken from the provided source window."
+}

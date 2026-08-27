@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and the theme of doubling to reveal the chaos and moral complexity of the French Revolution. The revolution is depicted not as a single event, but as a force of both justice and vengeance, where the oppressed become oppressors. Dickens uses doubles—such as Charles Darnay and Sydney Carton, mirror images in appearance and fate—to contrast personal redemption with societal upheaval. Carton’s ultimate sacrifice highlights the transformative power of love and selflessness amid violence. As he faces execution in Darnay’s place, Carton envisions a better future born from his death: 'It is a far, far better thing that I do, than I have ever done.' This moment captures the novel’s core message—that individual sacrifice can redeem both personal failure and collective suffering. The revolution itself is shown as cyclical and dangerous. Dickens warns of its excesses through the image of the grinding grindstone: 'The time was to come, when that wine too would be rendered the red wine of dead men’s skulls.' This foreshadows how revolutionary fervor turns bloody, as the people’s thirst for justice becomes indistinguishable from cruelty. Through doubling and sacrifice, Dickens critiques both aristocratic oppression and revolutionary violence, advocating for mercy over vengeance.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (implied thought)",
+      "use_in_answer": "This quote supports Carton's redemptive sacrifice, illustrating how personal transformation occurs through selfless action during revolution."
+    },
+    {
+      "quote": "The time was to come, when that wine too would be rendered the red wine of dead men’s skulls.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the foreshadowing of revolutionary violence, showing how communal suffering escalates into bloodshed."
+    }
+  ],
+  "limits": "Quotations are from the 1859 edition of A Tale of Two Cities; chapter numbers may vary slightly by publisher."
+}

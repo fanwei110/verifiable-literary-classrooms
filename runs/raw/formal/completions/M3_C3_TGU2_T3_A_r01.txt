@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s psychological unraveling. Encouraged by the witches’ prophecy that he will become king, Macbeth’s latent ambition ignites, pushing him to murder Duncan. The prophecy acts not as fate but as a catalyst, revealing how ambition can corrupt when unchecked by morality. Immediately after deciding to kill the king, Macbeth experiences intense guilt and hallucinates a dagger, symbolizing his inner turmoil. He asks, 'Is this a dagger which I see before me, / The handle toward my hand?' This vision—'a dagger of the mind, a false creation'—reflects his conscience wrestling with his desire for power. The hallucination, 'gouts of blood' on the blade, foreshadows the real violence and illustrates how guilt shapes perception even before the crime. Though ambition pushes him forward, guilt pulls him back, creating psychological chaos. Lady Macbeth initially suppresses her guilt, but it eventually consumes her, showing that neither can escape moral reckoning. Thus, Shakespeare presents ambition as dangerous when fueled by prophecy, and guilt as an inescapable force of the human psyche.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how guilt and ambition create hallucinations, revealing Macbeth’s inner conflict before committing murder."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair: Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "The Three Witches",
+      "use_in_answer": "This quote supports the role of prophecy in distorting moral reality, setting the stage for Macbeth’s tragic ambition."
+    }
+  ],
+  "limits": "The source excerpts provided are slightly fragmented; however, the quoted lines and their context are accurately rendered according to standard editions of *Macbeth*."
+}

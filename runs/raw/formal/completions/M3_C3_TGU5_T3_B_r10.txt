@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion as intertwined forces driving the fall of both Satan and humankind. Satan’s rebellion against God stems from pride and a desire for autonomy, epitomized when he declares, 'Better to reign in Hell, then serve in Heav’n' (Book I). This assertion captures his defiance and illustrates how free will, when corrupted by ambition, leads to self-imposed exile from grace. His rejection of divine authority sets the stage for temptation, as he resolves to corrupt God’s new creation, humanity. Milton underscores this when Satan rationalizes deception: 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' (Book I). This reveals how rebellion begins internally—through a distortion of reason and perspective. Satan convinces himself that defiance is freedom, and from this warped inner world, he plots Eve’s temptation. Thus, Milton presents temptation not as mere external persuasion, but as the product of a will that has already chosen rebellion. Humans, like angels, possess free will, but when aligned with pride or deception, it leads not to liberty but to moral and spiritual downfall.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan’s prideful rebellion and his preference for autonomous rule in damnation over obedient service in heaven."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates how inner rebellion distorts perception, justifying sin through rationalization and demonstrating the dangerous power of the will to redefine moral reality."
+    }
+  ],
+  "limits": "Quotations are drawn from a text window without full bibliographic context; line numbers are approximate based on standard editions of Paradise Lost."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant rejection of divine authority. After being cast out of Heaven, Satan embraces his role as an eternal adversary, asserting his autonomy and resolve to resist God's supremacy. His famous declaration, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n,' illustrates his belief that internal resolve overrides external circumstance—a cornerstone of his rebellion. This mindset fuels his determination to corrupt humanity, exercising free will not toward obedience but defiance. Later, his justification for continued resistance culminates in the declaration, 'Better to reign in Hell, then serve in Heav’n,' which encapsulates the prideful logic behind both his temptation of Eve and his eternal opposition to God. Milton presents rebellion not as a momentary act but as a sustained choice rooted in warped ideals of liberty and self-determination. Through Satan, Milton warns that unchecked free will, driven by pride and misdirected autonomy, leads not to freedom but damnation.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's belief in the power of the mind to redefine reality, underscoring his defiance and internal justification for rebellion."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures Satan’s prideful assertion of autonomy, illustrating his preference for domination in damnation over obedience in divine order."
+    }
+  ],
+  "limits": "The provided excerpts are from Book I only, so analysis is limited to Satan's initial rebellion and not later developments involving temptation in the Garden."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s examine two key moments in Milton’s epic. First, God the Father declares that humanity was created ‘Sufficient to have stood, though free to fall’ (Book 3, lines 98-99). This single line captures the poem’s central view of free will: our first parents were morally capable of resisting temptation, so their disobedience is truly their own. Second, when Satan tempts Eve in the Garden, he twists that very freedom, questioning, ‘Why then was this forbid? Why but to awe, / Why but to keep ye low and ignorant, / His worshippers?’ (Book 9, lines 703-705). Here, Satan’s rebellion is itself a form of temptation—he recasts God’s loving command as a jealous restriction, playing on Eve’s desire for knowledge. The intersection is clear: rebellion against divine order begins with a choice to doubt God’s goodness. Temptation works by painting freedom as the breaking of limits, when true freedom, Milton insists, lies in obedient trust. Eve’s fall is not inevitable; she chooses, just as Satan chose, confirming that all rational beings are free to stand or fall.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98-99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "Establishes Milton's doctrine of free will: humans were created with the genuine capacity to resist temptation, making their rebellion a responsible choice."
+    },
+    {
+      "quote": "Why then was this forbid? Why but to awe, / Why but to keep ye low and ignorant, / His worshippers?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 703-705",
+      "speaker_or_narrator": "Satan (in the serpent)",
+      "use_in_answer": "Illustrates how Satan's rebellion fuels temptation by reframing divine prohibition as jealous tyranny, appealing to Eve's aspiration for knowledge and autonomy."
+    }
+  ],
+  "limits": "Quotations follow the 1674 edition; minor spelling differences may exist in modernized texts."
+}

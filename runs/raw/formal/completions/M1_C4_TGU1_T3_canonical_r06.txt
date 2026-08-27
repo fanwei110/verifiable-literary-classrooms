@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is not merely indecision but a profound existential crisis, as seen in his famous soliloquy: 'To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?' (3.1). Here, Hamlet grapples with the fear of the unknown—death—and the moral weight of action, revealing how mortality paralyzes him. His hesitation is further complicated by performance; he adopts antic dispositions and feigns madness, blurring the line between genuine emotion and theatricality. Later, when the Ghost beckons him, Hamlet’s urgency contrasts with his earlier paralysis: 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve' (1.4). This moment highlights his fleeting resolve, suggesting that while mortality and fate compel him, his tendency to overthink undermines decisive action. Together, these themes expose Hamlet’s internal conflict—his struggle to reconcile thought with action in a world where performance and reality intertwine.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s existential hesitation and his contemplation of mortality as a barrier to action."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s momentary resolve and urgency, contrasting with his earlier hesitation when confronted by fate."
+    }
+  ],
+  "limits": "The frozen excerpts do not include Hamlet’s later soliloquies (e.g., 'O, what a rogue and peasant slave am I') or his interactions with the players, which further develop the theme of performance. The analysis is limited to the provided passages."
+}

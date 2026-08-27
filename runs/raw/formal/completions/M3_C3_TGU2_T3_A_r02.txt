@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s tragic downfall. The witches’ prophecy ignites Macbeth’s hidden ambition for the throne, prompting him to murder King Duncan despite moral hesitation. His internal conflict is evident in the hallucinated dagger soliloquy, where violent ambition clashes with guilt and fear. The vision symbolizes his conscience unraveling, as the imagined dagger, 'a dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain,' reveals his psychological torment. Once ambition takes hold, guilt consumes him, eroding his sanity. After the murder, Macbeth is unable to say 'Amen' and hears a voice cry, 'Sleep no more! Macbeth does murder sleep.' This shows how guilt deprives him of peace, transforming his mind into a prison of paranoia and hallucinations. Lady Macbeth, too, later succumbs to guilt, sleepwalking and obsessively trying to wash imagined blood from her hands. Thus, while prophecy sparks the action and ambition fuels it, guilt ultimately destroys both Macbeth and his wife, illustrating Shakespeare’s warning about the corrosive cost of unchecked ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me.../ A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth's ambition manifests in hallucinations, revealing his inner conflict and the role of guilt even before the murder."
+    },
+    {
+      "quote": "Sleep no more! Macbeth does murder sleep.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how guilt immediately torments Macbeth, showing that his conscience is irreparably damaged by his ambition-driven crime."
+    }
+  ],
+  "limits": "The quotes are from the Folger Shakespeare Library edition of Macbeth; slight wording may vary in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is said by the character Odysseus in Homer's epic poem *The Odyssey*. He says it during his encounter with the Cyclops Polyphemus, as a clever trick to hide his true identity. When Odysseus blinds the Cyclops and the other Cyclopes ask who is attacking him, Polyphemus replies, \"Noman is killing me by fraud!\"—leading them to believe no one is attacking him, thus allowing Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports that Odysseus tells the Cyclops that his name is 'Noman' as part of a deception to escape capture."
+    }
+  ],
+  "limits": "The provided excerpt does not include the full context of the Cyclops' response or the escape, but it confirms Odysseus's statement and intent."
+}

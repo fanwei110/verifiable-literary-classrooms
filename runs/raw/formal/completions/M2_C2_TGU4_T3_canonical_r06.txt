@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens uses the motif of doubling to frame revolution and sacrifice as locked opposites that ultimately rely on each other. The famous opening antitheses present a world of extremes—light and dark, wisdom and foolishness—mirroring the divided societies of England and France where the privileged and the oppressed face parallel unrest. This structural doubling suggests that revolution is not a sudden rupture but a reflection of deep-seated contradictions. As the novel progresses, personal sacrifice becomes the redemptive double of political bloodshed. The guillotine’s mass executions are inverted through Sydney Carton’s self-giving. His final vision transforms meaningless death into a conscious, life-giving choice. Where revolutionary fervor destroys indiscriminately, Carton’s hidden act generates meaning, echoing Christ’s sacrifice. The doubling of Paris and London, Darnay and Carton, and even the opening contrasts reveals that renewal often demands a willing offering—a quiet, individual echo of the turbulent public upheaval.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "These famous antitheses establish the novel’s core doubling, showing how revolution arises from extreme societal contrasts and setting the stage for the paired themes of personal sacrifice and public upheaval."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (conveying Sydney Carton's final thoughts)",
+      "use_in_answer": "Carton’s sacrificial end transforms the violence of revolution into a redemptive act, doubling the guillotine’s impersonal slaughter with a conscious, loving self-offering that gives his life meaning."
+    }
+  ],
+  "limits": "Quotations are from widely available public domain texts. Locators refer to standard book/chapter divisions, not page numbers, as chapters vary in numbering across editions."
+}

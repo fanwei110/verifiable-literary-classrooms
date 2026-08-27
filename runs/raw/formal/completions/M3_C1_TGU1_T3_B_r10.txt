@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his struggle with action versus inaction, especially in the face of death. His contemplation of suicide in 'To be, or not to be' reflects both his hesitation and preoccupation with mortality. He weighs existence against the unknown of death, paralyzed by thought. This hesitation is not mere cowardice but a philosophical crisis: what happens after death? Performance, too, becomes a lens through which Hamlet navigates truth and deception. He uses the play-within-a-play to 'catch the conscience of the King,' staging a murder to provoke guilt and confirm his fears. Here, drama becomes real. Performance allows Hamlet to act when direct action fails. Together, these themes reveal a prince trapped between thinking and doing, life and death, truth and illusion. His hesitation is not weakness but a reflection of human fragility in the face of mortality. As he says, 'Thus conscience does make cowards of us all,' suggesting that overthinking, borne of moral and existential fear, prevents decisive action.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "act 3, scene 1, lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s deep hesitation and philosophical confrontation with mortality, illustrating his internal struggle with action and existence."
+    },
+    {
+      "quote": "Thus conscience does make cowards of us all; And thus the native hue of resolution Is sicklied o'er with the pale cast of thought",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "act 3, scene 1, lines 83–85",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that overthinking, driven by moral and existential concern, leads to hesitation and delays decisive action."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of Hamlet; slight variations may exist in other editions."
+}

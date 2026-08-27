@@ -1,0 +1,14 @@
+{
+  "answer": "The opening line of Pride and Prejudice brilliantly satirizes the marriage market by pretending that a wealthy single man is the one actively seeking a wife, when in reality it is the surrounding families—especially those with unmarried daughters—who are desperately pursuing him. This ironic reversal exposes the economic pressures and social maneuvering behind Regency-era courtship, where marriage was less about love and more about financial security.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This famous ironic statement encapsulates the marriage market irony by asserting a false universal truth—that rich bachelors are eager to marry—when the novel shows it is the families who are eager to secure them."
+    }
+  ],
+  "limits": "Quotation is from the first sentence of the novel; widely recognized and consistent across standard editions."
+}

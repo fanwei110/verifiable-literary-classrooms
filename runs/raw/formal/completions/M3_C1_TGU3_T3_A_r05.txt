@@ -1,0 +1,22 @@
+{
+  "answer": "In Pride and Prejudice, first impressions, social class, and marriage are deeply intertwined, shaping characters' judgments and relationships. Elizabeth Bennet and Mr. Darcy's evolving connection highlights how initial misjudgments based on pride and class bias can be overcome. Darcy’s first proposal reveals his internal struggle between affection and class prejudice, saying, 'no feeling of inferiority... could make me uncertain of my reception'—exposing how status influences personal choices. Elizabeth, proud of her discernment, later realizes her own prejudice clouded her judgment. The novel critiques marriages based solely on class or economic convenience, favoring unions founded on mutual respect. Charlotte Lucas’s pragmatic acceptance of Mr. Collins illustrates societal pressures: 'I am not romantic... I ask only a comfortable home.' This underscores the limited options for women and the reality that marriage was often a financial necessity rather than a romantic ideal. Ultimately, Austen shows that true compatibility requires self-awareness and a willingness to rise above societal expectations. Through Elizabeth and Darcy’s journey, the novel advocates for personal growth and empathy over rigid class structures, suggesting that meaningful relationships challenge, rather than conform to, social hierarchies.",
+  "evidence": [
+    {
+      "quote": "no feeling of inferiority... could make me uncertain of my reception",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 34",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports how Darcy’s sense of class superiority affects his view of marriage and Elizabeth’s expected response."
+    },
+    {
+      "quote": "I am not romantic... I ask only a comfortable home.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 27",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote illustrates the pragmatic approach to marriage in Austen's society, where financial security outweighs emotional connection."
+    }
+  ],
+  "limits": "Quotations may vary slightly based on edition; these come from standard Norton Critical Editions of the novel."
+}

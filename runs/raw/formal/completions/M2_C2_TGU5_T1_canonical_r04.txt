@@ -1,0 +1,14 @@
+{
+  "answer": "In Paradise Lost, John Milton announces his epic subject by invoking the first act of human disobedience that brought about the Fall. The opening lines present the Fall as a direct consequence of eating the forbidden fruit, resulting in death, all human woe, and the loss of Eden, with the promise of eventual restoration through Christ.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-5",
+      "speaker_or_narrator": "the narrator (Milton's epic voice)",
+      "use_in_answer": "This quotation explicitly frames the entire poem around the act of disobedience that caused the Fall, its immediate consequences (death and woe), and the loss of paradise."
+    }
+  ],
+  "limits": "Quotation follows the 1674 second edition text (standard modern edition). Line numbering may vary slightly across editions."
+}

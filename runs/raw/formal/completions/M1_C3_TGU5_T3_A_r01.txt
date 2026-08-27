@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion as central themes that drive the fall of humanity and Satan’s defiance. Satan’s rebellion stems from his refusal to accept a subordinate role in Heaven, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his pride and the corrupting power of ambition, illustrating how rebellion is not just an act of defiance but a perversion of free will—choosing autonomy over divine order. Similarly, Adam and Eve’s fall in Book IX results from their susceptibility to temptation, where Eve’s desire for knowledge and equality with God mirrors Satan’s own rebellion. Milton frames temptation as a test of free will, where the choice to disobey is both a personal and cosmic act of defiance. The poem suggests that true freedom lies in obedience to God, while rebellion leads only to suffering and exile. Through Satan’s rhetoric and Eve’s rationalizations, Milton demonstrates how temptation exploits human (and angelic) pride, turning free will into a tool of self-destruction rather than liberation.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263-264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan’s rebellion is rooted in pride and a rejection of divine hierarchy, framing his defiance as a deliberate misuse of free will."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This opening passage establishes the central conflict of the poem—human disobedience as the source of suffering—linking temptation, free will, and rebellion as the catalysts for the Fall."
+    }
+  ],
+
+  "limits": "The textual quotations are drawn from the provided excerpts of *Paradise Lost* (Book I). Line numbers may vary slightly depending on the edition, but the cited passages are consistent with standard versions of the text."
+}

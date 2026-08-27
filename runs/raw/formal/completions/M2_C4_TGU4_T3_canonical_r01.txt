@@ -1,0 +1,22 @@
+{
+  "answer": "Dickensâs A Tale of Two Cities embeds its central themesârevolution, sacrifice, and doublingâinto the novelâs very structure. The famous opening sentence, a cascade of antitheses, teaches us that the period itself is defined by extreme doubling: âit was the season of Light, it was the season of Darkness.â This pairing mirrors the Revolutionâs twin faces, idealism and terror, hope and despair. The novel then transforms doubling into sacrifice by offering a personal resurrection that counters the collective violence. The title âRecalled to Lifeâ is no mere chapter heading; it is the novelâs moral heartbeat. It first applies to Dr. Manetteâs release from the living death of the Bastille, but ultimately finds its deepest meaning in Sydney Cartonâs willing substitution at the guillotine. In a world where the revolutionary mob doubles the aristocracyâs cruelty, Cartonâs sacrificial act breaks the cycle. He is ârecalled to lifeâ through a death that resurrects his love and gives the story a hope beyond the bloody echoes. Thus, Dickens uses linguistic and structural doubles to show that true life is only won through sacrifice.",
+  "evidence": [
+    {
+      "quote": "it was the season of Light, it was the season of Darkness",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This juxtaposition establishes the theme of doubling as the fundamental reality of the revolutionary era."
+    },
+    {
+      "quote": "Recalled to Life",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First title",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This phrase captures the novelâs vision of sacrifice as a resurrection that transcends the Revolutionâs chaos."
+    }
+  ],
+  "limits": "The source excerpts contain only the opening paragraph and the table of contents; thus, evidence for the themes is drawn from the doubling in the first sentence and the suggestive chapter title, without access to the novel's full scenes of Cartonâs sacrifice or revolutionary violence."
+}

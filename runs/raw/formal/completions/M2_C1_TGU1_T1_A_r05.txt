@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet's 'To be, or not to be' speech wrestles directly with mortality and the paralysis it inspires. He imagines death as a sleep that could end all heartache, but immediately hesitates: the possibility that dreaming might continue after death makes the unknown 'rub' that stalls decisive action. Mortality, far from a simple release, becomes the source of overthinking that keeps us from choosing to act.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; To sleep, perchance to dream—ay, there's the rub: For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 63–67",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates how the fear of what follows death causes hesitation, as Hamlet turns the idea of mortal release into a reason for inaction."
+    }
+  ],
+  "limits": "Line numbering follows the Folger Shakespeare Library edition; other editions may differ slightly."
+}

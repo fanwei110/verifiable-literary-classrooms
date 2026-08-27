@@ -1,0 +1,14 @@
+{
+  "answer": "The opening line of Pride and Prejudice encapsulates the irony of the marriage market: it presents a supposedly universal truth that, in reality, exposes the mercenary motives behind Regency-era courtship. Rather than a genuine need for companionship, the statement reveals a community’s eagerness to view wealthy bachelors as prey for unmarried daughters, thus satirizing the economic foundation of marriage.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the ironic commentary on the marriage market by framing a social expectation as an incontrovertible fact, thus highlighting the materialistic and predatory nature of matrimonial negotiations."
+    }
+  ],
+  "limits": "Punctuation of the quote may differ slightly across editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt shape the protagonist’s tragic downfall. The witches’ prophecy ignites Macbeth’s vaulting ambition, leading him to contemplate regicide despite his moral hesitations. This inner turmoil is evident when he hallucinates a dagger before murdering King Duncan: 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee' (Act II, Scene I). The vision symbolizes his consuming ambition and the psychological rift between desire and conscience. Though he proceeds, guilt quickly overtakes him, manifesting in vivid hallucinations and paranoia. The blood on the phantom dagger—'gouts of blood, / Which was not so before'—foreshadows the inescapable guilt that plagues him and Lady Macbeth. While prophecy sets the events in motion, it is unchecked ambition and the crushing weight of guilt that define Macbeth’s psychological collapse. These forces illustrate how internal conflict can be more destructive than any external enemy.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth's ambition is driving him toward murder, as the hallucinated dagger represents his internal struggle and growing resolve."
+    },
+    {
+      "quote": "gouts of blood, Which was not so before",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's guilt and foreshadows the bloody consequences of his actions, showing how his mind is already haunted by the crime."
+    }
+  ],
+  "limits": "The source excerpts provided are limited to early parts of the play; thus, analysis is focused on Macbeth’s initial descent rather than later manifestations of guilt or prophecy."
+}

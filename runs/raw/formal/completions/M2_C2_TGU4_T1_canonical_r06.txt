@@ -1,0 +1,14 @@
+{
+  "answer": "Historical contradiction often means that an era’s highest ideals are belied by its deepest violence. In A Tale of Two Cities, Dickens frames the French Revolution exactly this way: it was both the best and the worst of humanity compressed into a single period, and only by holding those opposites together can we understand how a glorious dream produced the Guillotine.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening paragraph pairs extreme opposites to show that a single historical moment can simultaneously contain progress and brutality, which is the essence of a historical contradiction."
+    }
+  ],
+  "limits": "Quotation taken from the first paragraph of the novel; punctuation follows the standard 1859 London first edition."
+}

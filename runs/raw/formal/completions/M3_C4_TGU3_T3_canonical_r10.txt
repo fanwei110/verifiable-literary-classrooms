@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when influenced by class assumptions and personal pride. Elizabeth Bennet initially judges Mr. Darcy as arrogant and insensitive, largely due to his reserved demeanor at social gatherings and his higher social standing. However, as the novel progresses, she recognizes that her early judgments were clouded by vanity and prejudice. Similarly, marriage is treated both as a social transaction and a personal choice. While Mrs. Bennet sees it as a means to secure financial stability—evident from the opening line—Elizabeth insists on mutual respect and affection. Class distinctions shape interactions, as seen in Darcy’s aunt, Lady Catherine, who opposes Elizabeth’s potential rise in status. Yet, Elizabeth challenges these boundaries, proving that character matters more than rank. Her eventual union with Darcy reflects a balance between social reality and emotional truth. As Elizabeth reflects on her misjudgments, she admits, “How despicably have I acted!” realizing that her discernment was flawed. The novel thus teaches that overcoming first impressions and class biases leads to true understanding and lasting love.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the societal view of marriage as a financial arrangement, especially for women, in Regency-era England."
+    },
+    {
+      "quote": "“How despicably have I acted!” she cried. “I, who have prided myself on my discernment! I, who have valued myself on my abilities! ... Till this moment, I never knew myself.”",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization that her first impressions were biased and that self-awareness is crucial to personal growth."
+    }
+  ],
+  "limits": "The source excerpts are incomplete, but both key quotations are fully present and verifiable within the provided text."
+}

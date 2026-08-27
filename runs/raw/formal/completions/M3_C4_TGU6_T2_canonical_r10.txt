@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is spoken by Odysseus in Homer's epic poem *The Odyssey*. He says this to the Cyclops Polyphemus while trapped in the Cyclops' cave. Odysseus uses the name 'Noman' as a trick—to protect his real identity. When he blinds Polyphemus and the other Cyclopes ask who attacked him, Polyphemus cries, \"Noman has hurt me,\" which makes them think no one is responsible.",
+  "evidence": [
+    {
+      "quote": "my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports that Odysseus tells the Cyclops that his name is 'Noman' as a deceptive tactic to protect his identity."
+    }
+  ],
+  "limits": "The exact line 'my name is Noman' is slightly paraphrased in the source; the full quote includes additional context about his parents and friends."
+}

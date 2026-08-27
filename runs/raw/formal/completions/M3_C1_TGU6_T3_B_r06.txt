@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply connected. Odysseus’s journey home is more than a physical return—it’s a quest to reclaim his identity and restore order to his household. A major theme throughout the epic is xenia, or guest-friendship, which governs how hosts treat guests and strangers. When Odysseus finally returns to Ithaca disguised as a beggar, he tests the loyalty of those in his household. His reunion with his loyal swineherd Eumaeus underscores the importance of hospitality even to those of lowly appearance. Later, when Odysseus reveals his true identity to his son Telemachus, their emotional reunion marks a pivotal moment in reestablishing his rightful place. The recognition relies not just on sight but on proof—like the scar from his boar hunt—which authenticates who he is. This moment shows that identity in The Odyssey is proven through experience and memory, not just claim. Moreover, the contrast between the respectful treatment by loyal characters and the suitors’ abuse of hospitality highlights how moral order is tied to proper treatment of others. Ultimately, Odysseus’s homecoming triumphs when justice is restored through the reassertion of identity and the proper observance of hospitality.",
+  "evidence": [
+    {
+      "quote": "Welcome, stranger. You shall be entertained as a guest among us. Afterward, when you have eaten, you shall tell us what you need.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, line 150",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote supports the importance of hospitality (xenia) in The Odyssey, showing how guests—even unknown ones—are to be respected and cared for before questions are asked."
+    },
+    {
+      "quote": "His bright eyes filled with tears, and he embraced his beloved son.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16, line 216",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the emotional power of identity and homecoming, as Odysseus is finally recognized by Telemachus, marking a key moment in the restoration of family and rightful rule."
+    }
+  ],
+  "limits": "Quotations are based on the Robert Fagles translation; line numbers may vary slightly across editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a pivotal soliloquy from *Hamlet* that directly grapples with mortality and the hesitation it breeds. The passage captures Hamlet’s existential dread and his paralysis when confronting life’s suffering versus the unknown of death, making it a perfect textual anchor for discussing human indecision and the fear of what lies beyond.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 58–72",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s internal conflict over suicide as an escape from suffering, highlighting how the uncertainty of death (‘the rub’) paralyzes action and prolongs his hesitation."
+    }
+  ],
+  "limits": "The quoted lines are from the First Folio (1623) and modern editions; minor variations may exist in early quartos. The soliloquy’s focus on mortality and hesitation is universally recognized, though interpretations of its tone (e.g., despair vs. philosophical inquiry) vary."
+}

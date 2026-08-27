@@ -1,0 +1,28 @@
+```json
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that reveal the core of Odysseus’s journey and the values of ancient Greek society. Homecoming (*nostos*) is not just a physical return but a restoration of identity—Odysseus’s struggle to reclaim Ithaca mirrors his struggle to reclaim himself after years of wandering and divine interference. The opening lines of the epic emphasize this longing: the narrator invokes the Muse to tell of 'that ingenious hero who travelled far and wide after he had sacked the famous town of Troy,' highlighting Odysseus’s suffering and his singular desire to return home despite the gods’ obstacles. His identity is tied to his homeland, and his absence disrupts the natural order, as seen in the chaos of Ithaca under the suitors.
+
+Hospitality (*xenia*) is equally central, serving as both a moral test and a lifeline for Odysseus. When he washes ashore among the Phaeacians, he appeals to Nausicaa not just for aid but for recognition of his humanity: 'Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in.' His plea underscores the reciprocal bond between guest and host, where kindness is repaid with loyalty and divine favor. The Phaeacians’ response—welcoming him despite his ragged state—demonstrates how hospitality preserves dignity and fosters connection, even for a stranger. Together, these themes show that homecoming is incomplete without the restoration of identity, and identity is affirmed through the hospitality of others.",
+
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-9",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This quote establishes Odysseus’s primary struggle—his desperate, prolonged quest for homecoming (*nostos*)—and frames his identity as a hero defined by his suffering and resilience."
+    },
+    {
+      "quote": "Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 178-179",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "This line illustrates Odysseus’s vulnerability and his appeal to *xenia* (hospitality), showing how the guest-host relationship is a moral and social obligation that restores his dignity as a stranger in need."
+    }
+  ],
+
+  "limits": "The quotations are drawn from the provided source excerpts, which appear to be from the Butler translation (1900). Line numbers may vary slightly in other editions, but the thematic relevance remains consistent."
+}
+```

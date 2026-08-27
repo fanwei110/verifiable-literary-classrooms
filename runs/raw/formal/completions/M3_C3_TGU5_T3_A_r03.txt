@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through the actions of Satan and the fall of Adam and Eve. Satan’s rebellion against God stems from pride and a desire for autonomy, exemplified when he declares, 'Better to reign in Hell, then serve in Heav’n' (Book I). This quote captures his defiant assertion of free will, rejecting divine authority in favor of self-rule, even in damnation. His manipulation of Eve in Book IX illustrates how temptation exploits free will—Satan appeals to her ambition and curiosity, leading her to eat the forbidden fruit. Milton emphasizes that obedience and moral choice are central to humanity’s relationship with God. Though created innocent, Adam and Eve possess the capacity to choose, making their disobedience tragic but not inevitable. Thus, the poem presents rebellion not as a heroic act, but as a perversion of free will, where desire overrides reason and duty. Temptation succeeds not by force, but by deceit—Satan disguises evil as enlightenment. Ultimately, Milton shows that true freedom lies in obedience to God, not in defiance. The consequences of rebellion—loss of Eden, sin, and death—underscore the moral order that even the fallen angels cannot escape.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's prideful rebellion and his preference for autonomous rule in hell over obedient service in heaven."
+    }
+  ],
+  "limits": "Only one quotation was fully visible in the provided text; the second expected quotation may be missing due to incomplete source window."
+}

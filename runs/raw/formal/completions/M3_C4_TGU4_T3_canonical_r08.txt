@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the themes of revolution, sacrifice, and doubling against the backdrop of the French Revolution. The novel juxtaposes the chaos of revolution with personal acts of sacrifice, often emphasizing the duality of identity and fate. The revolution is portrayed not only as a societal upheaval but also as a force that mirrors the inner conflicts of the characters. This idea of duality, or doubling, appears in characters like Charles Darnay and Sydney Carton, who look alike but lead vastly different lives—until Carton’s ultimate sacrifice. He takes Darnay’s place at the guillotine, embodying the theme of self-sacrifice for the greater good. As the revolution consumes countless lives, Carton’s death stands out as meaningful and redemptive. The novel begins by highlighting contradiction: 'It was the best of times, it was the worst of times,' establishing the doubled nature of the era—and the story. This contrast frames the personal and political struggles that follow. Carton’s sacrifice brings hope amid despair, fulfilling the promise that 'I see a beautiful city and a brilliant people rising from this abyss,' showing how individual courage can transcend the violence of revolution.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the theme of doubling by presenting a world defined by opposing forces, setting the tone for the novel’s exploration of duality in revolution and identity."
+    },
+    {
+      "quote": "I see a beautiful city and a brilliant people rising from this abyss",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the themes of revolution and sacrifice, illustrating Carton’s vision of a better future earned through his selfless death."
+    }
+  ],
+  "limits": ""
+}

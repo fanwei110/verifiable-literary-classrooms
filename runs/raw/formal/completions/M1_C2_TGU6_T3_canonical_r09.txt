@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that reveal the moral and social values of ancient Greek culture. Odysseus’s long journey home is not just a physical return but a restoration of his identity as king, husband, and father. His trials test his cunning and resilience, but his homecoming is only possible through the hospitality—or *xenia*—of others, even strangers. Hospitality, a sacred duty in Greek society, often determines whether characters thrive or perish. For example, the Phaeacians’ generosity ensures Odysseus’s safe return, while the suitors’ abuse of hospitality in Ithaca seals their doom. Identity, too, is fluid; Odysseus must prove himself repeatedly, whether disguised as a beggar or revealing his true name to his son. These themes highlight how homecoming is not just about reaching a place but reclaiming one’s role in a community bound by mutual respect and recognition.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll treat you fairly, as I would a guest, / and you shall have cloak and tunic to wear, and passage / to the land you long for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 5, lines 308-310",
+      "speaker_or_narrator": "Nausicaa (speaking to Odysseus)",
+      "use_in_answer": "This quote demonstrates the ideal of hospitality (*xenia*), where even a stranger is offered protection and aid, ensuring Odysseus’s survival and eventual homecoming."
+    },
+    {
+      "quote": "I am Laertes’ son, Odysseus. Men hold me / formidable for guile in peace and war: / this fame has gone abroad to the sky’s rim.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-21",
+      "speaker_or_narrator": "Odysseus (speaking to the Phaeacians)",
+      "use_in_answer": "This quote underscores Odysseus’s assertion of his true identity, linking his reputation and selfhood to his homecoming and the recognition of others."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

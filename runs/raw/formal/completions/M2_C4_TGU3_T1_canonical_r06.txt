@@ -1,0 +1,14 @@
+{
+  "answer": "The opening line of Pride and Prejudice lays out the novelâs central ironic reversal of the marriage market: âIt is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.â The irony is that this âtruthâ is not a fact about wealthy bachelors, but a conviction firmly held by the families with unmarried daughters, who see every rich newcomer as their rightful property. Throughout the story, the real desire often originates on the side of the families, not the single man himself, turning the supposed need into a projection of their own economic and social ambitions.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation directly presents the novelâs ironic take on the marriage market, where the perceived âneedâ of a wealthy man to marry is actually a reflection of the matrimonial ambitions of the families around him."
+    }
+  ],
+  "limits": "The extracted source excerpt ends mid-sentence after 'Mrs. L', but the quoted sentence is complete and undamaged."
+}

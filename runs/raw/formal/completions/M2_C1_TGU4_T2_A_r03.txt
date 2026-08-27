@@ -1,0 +1,14 @@
+{
+  "answer": "That line is the closing sentence of Charles Dickens's novel *A Tale of Two Cities*. It is spoken by the character Sydney Carton moments before he is executed by guillotine in place of Charles Darnay, expressing his inner peace and redemptive sacrifice.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 (The Footsteps Die Out For Ever)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports that it is Sydney Carton's final, self-reflective statement as he faces death to save another."
+    }
+  ],
+  "limits": "The line is frequently misquoted or shortened to just 'It is a far, far better thing that I do,' but the full sentence is given here."
+}

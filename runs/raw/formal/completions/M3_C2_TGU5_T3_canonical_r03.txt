@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, temptation, free will, and rebellion are intertwined through Satan’s defiance and humanity’s choice. Satan, cast out of Heaven, embraces rebellion not as forced fate but as self-determined path: 'Here we may reign secure, and in my choice / To reign is worth ambition though in Hell' (Book 1). This shows his twisted view of free will—choosing domination even in damnation. His rebellion is not just against God’s authority but against divine order itself. Temptation emerges as manipulation of choice; Satan targets Adam and Eve’s freedom by distorting truth. When he declares, 'Evil, be thou my good,' it signals his moral inversion, a refusal to submit even when condemned. His journey into Eden is deliberate, exploiting human frailty through deceit. Eve's eventual consumption of the forbidden fruit stems not from compulsion but from her own deliberation—highlighting Milton’s emphasis on moral responsibility. God had warned that 'in the day thou eatest thereof, thou shalt surely die' (Book 2), yet Eve, tempted by promised godlike knowledge, chooses disobedience. Thus, Milton frames the fall as a consequence of exercised free will, not divine trap. Rebellion begins in Heaven with Satan and culminates on Earth through Eve, illustrating how freedom, when misused, leads to moral and spiritual downfall.",
+  "evidence": [
+    {
+      "quote": "Here we may reign secure, and in my choice / To reign is worth ambition though in Hell",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 259–260",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's assertion of free will as self-chosen rebellion, valuing autonomy over obedience even in Hell."
+    },
+    {
+      "quote": "Evil, be thou my good",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 4, line 110",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan's moral inversion and deliberate rebellion, embracing evil as his guiding principle."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*. Line numbers may vary slightly by edition."
+}

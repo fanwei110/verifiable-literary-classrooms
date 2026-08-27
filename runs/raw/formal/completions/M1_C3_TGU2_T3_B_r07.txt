@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Yet, this ambition is not purely external—it is fueled by his own internal desires, as seen when he admits, ‘I have no spur / To prick the sides of my intent, but only / Vaulting ambition’ (1.7.25-27). This confession reveals that his actions are not solely the result of supernatural influence but also his own unchecked ambition. However, once he acts on this ambition, guilt consumes him. The famous dagger soliloquy—‘Is this a dagger which I see before me, / The handle toward my hand?’ (2.1.33-34)—illustrates his psychological unraveling. The dagger, a hallucination, symbolizes his guilt and the irreversible path he has chosen. Together, these elements show how prophecy awakens ambition, ambition leads to action, and action breeds guilt, creating a cycle of destruction.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-27",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s acknowledgment of his own ambition as the driving force behind his desire to murder Duncan, rather than external pressures alone."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote highlights Macbeth’s guilt and psychological torment, as the hallucinated dagger foreshadows his violent act and the moral consequences that follow."
+    }
+  ],
+  "limits": "The first quoted line is often cited as 1.7.25-27, though line numbering may vary slightly by edition. The second quote is from the dagger soliloquy, universally recognized in Act 2, Scene 1."
+}
+```

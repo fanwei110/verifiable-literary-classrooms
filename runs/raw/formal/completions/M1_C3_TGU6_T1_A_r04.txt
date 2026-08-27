@@ -1,0 +1,18 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer captures the essence of wandering and the power of story right from the opening lines. The epic begins by invoking the Muse to tell the tale of a hero whose journey is defined by both physical travel and the enduring narrative of his struggles. This quotation highlights how wandering—across cities, seas, and hardships—becomes the foundation of a story that transcends time, illustrating how human experience is shaped by movement, loss, and the telling of it. Here’s the passage that embodies this idea:",
+
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-9",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote establishes the central theme of wandering as both a physical journey and a narrative framework, showing how Odysseus’s travels and trials become the story itself."
+    }
+  ],
+
+  "limits": "The translation used here is from the 1921 edition by Henry Festing Jones, based on earlier work by Samuel Butler. Different translations may vary slightly in phrasing, but the core meaning remains consistent across versions."
+}
+```

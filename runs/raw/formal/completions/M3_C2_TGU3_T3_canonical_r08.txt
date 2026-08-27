@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's Pride and Prejudice, first impressions, social class, and marriage are deeply intertwined. Characters frequently judge one another based on initial appearances and societal rank, often leading to misguided assumptions. Elizabeth Bennet prides herself on her discernment, yet her early bias against Mr. Darcy—fueled by his aloof demeanor at a ball—demonstrates how easily first impressions can mislead. Darcy, though wealthy and aristocratic, initially sees Elizabeth's family as beneath him, revealing how class shapes perception. However, both characters evolve, recognizing that true virtue lies beyond social standing. Marriage in the novel is not just a romantic union but a socioeconomic transaction, as seen in Charlotte Lucas’s practical match with Mr. Collins. Yet Austen contrasts this with Elizabeth and Darcy’s relationship, which matures through mutual respect and self-awareness. As the narrator observes, 'Her mind was less difficult to develop,' suggesting Elizabeth's openness to growth. Ultimately, Darcy admits, 'You taught me a lesson, too, of proper pride,' showing how love challenges rigid class notions. Through these dynamics, Austen critiques superficial judgments and champions marriages grounded in understanding rather than status.",
+  "evidence": [
+    {
+      "quote": "Her mind was less difficult to develop",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 60",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea that Elizabeth is capable of personal growth and overcoming her initial misjudgments."
+    },
+    {
+      "quote": "You taught me a lesson, too, of proper pride",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote illustrates Darcy's recognition of his earlier arrogance and his emotional development through his relationship with Elizabeth."
+    }
+  ],
+  "limits": "Quotations are from the standard modern edition of Pride and Prejudice; chapter numbers may vary slightly by edition."
+}

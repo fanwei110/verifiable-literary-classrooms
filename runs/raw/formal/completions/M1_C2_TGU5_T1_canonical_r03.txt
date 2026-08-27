@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation and Adam and Eve’s disobedience. This quotation captures the pivotal act of defiance that leads to their expulsion from Eden: the choice to eat the forbidden fruit despite God’s command. It illustrates how disobedience stems from pride, deception, and a desire to transcend mortal limits, themes central to the poem’s exploration of free will and moral responsibility.",
+  "evidence": [
+    {
+      "quote": "She pluck’d, she eat: / Earth felt the wound, and Nature from her seat / Sighing through all her Works gave signs of woe, / That all was lost.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 781–784",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly depicts Eve’s act of disobedience—the eating of the forbidden fruit—which triggers the Fall and its cosmic consequences."
+    }
+  ],
+  "limits": "The quotation follows the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

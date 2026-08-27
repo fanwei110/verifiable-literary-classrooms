@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is portrayed not just as physical travel but as a journey filled with trials that shape storytelling itself. The epic begins by invoking the Muse to tell the story of a man whose extensive travels and suffering become the foundation of the narrative we are about to hear.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1–10",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote supports the idea that wandering is central to Odysseus's identity and the structure of the story, as it establishes his travels, trials, and the divine sources of the narrative."
+    }
+  ],
+  "limits": "The quotation is from the Samuel Butler translation (1900), which uses prose and modernized language; other translations may phrase it differently."
+}

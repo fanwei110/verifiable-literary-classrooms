@@ -1,0 +1,14 @@
+{
+  "answer": "To illustrate the interplay of ambition and hallucination in Macbeth, we can turn to the dagger soliloquy in Act 2, Scene 1. Macbeth, on the brink of murdering King Duncan, sees a floating dagger and questions whether it is real or “a dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain.” This hallucination is not merely a trick of the senses; it is a projection of his overwhelming ambition and guilt. The vision leads him toward the act he is about to commit, showing how his vaulting ambition literally warps his perception of reality and drives him deeper into treachery.",
+  "evidence": [
+    {
+      "quote": "a dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation directly identifies the hallucinated dagger as a product of Macbeth’s fevered, ambitious mind, supporting the connection between his driving ambition and his psychological break."
+    }
+  ],
+  "limits": "The excerpt provides only the dagger soliloquy; exact line numbers are not present. The link to ambition relies on the scene's context—Macbeth is preparing to murder Duncan—rather than on explicit words within the quoted lines."
+}

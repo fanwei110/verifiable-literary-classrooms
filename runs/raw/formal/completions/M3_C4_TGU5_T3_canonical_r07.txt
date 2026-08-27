@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant rejection of divine authority. After being cast out of Heaven, Satan embraces his role as an eternal adversary, asserting his autonomy and resolve to remain free in Hell rather than submit in Heaven. His rebellion is not just external but internal—a commitment to self-determination regardless of circumstance. This is evident when he declares, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n,' illustrating how free will shapes perception and moral choice. Temptation, in the poem, stems from this prideful assertion of independence, which Satan later extends to Eve through deceit. His rationale for rebellion culminates in the famous line, 'Better to reign in Hell, then serve in Heav’n,' exposing his preference for power over obedience. These lines reveal Milton’s complex treatment of moral agency: while Satan champions freedom, his choices lead not to liberty but to spiritual degradation. Thus, the poem presents a warning—free will, when divorced from virtue, becomes the pathway to self-imposed suffering and separation from divine grace.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan views his inner will as sovereign, shaping his experience regardless of external conditions, illustrating the poem’s exploration of free will and self-determination."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote encapsulates Satan’s rebellious pride and his preference for autonomous rule in damnation over obedient service in grace, highlighting the tragic dimensions of his free will."
+    }
+  ],
+  "limits": ""
+}

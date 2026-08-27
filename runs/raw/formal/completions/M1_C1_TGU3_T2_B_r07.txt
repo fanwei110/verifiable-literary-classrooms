@@ -1,0 +1,14 @@
+{
+  "answer": "That line is from Charles Dickens’s novel *Hard Times*. It’s spoken by Mr. Sleary, the circus owner, in Book the Third, Chapter VIII, when he defends the value of laughter and imagination against the utilitarian worldview of Gradgrind and Bounderby.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "Hard Times",
+      "locator": "Book the Third, Chapter VIII",
+      "speaker_or_narrator": "Mr. Sleary",
+      "use_in_answer": "This quote confirms the exact phrasing and identifies the speaker who champions joy and amusement in the novel."
+    }
+  ],
+  "limits": "The wording is consistent across modern editions, but some older printings may punctuate it as 'I dearly love a laugh!'"
+}

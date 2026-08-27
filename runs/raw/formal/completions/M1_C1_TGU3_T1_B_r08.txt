@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a passage that perfectly captures the irony of the marriage market in *Pride and Prejudice*: women are often valued—or devalued—based on their financial prospects rather than their character. This quote underscores how economic considerations distort genuine connection, revealing the transactional nature of courtship in Austen’s society.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1 (Volume I, Chapter 1)",
+      "speaker_or_narrator": "Narrator (free indirect discourse)",
+      "use_in_answer": "This opening line satirizes the assumption that wealthy men are inherently desirable marriage prospects, exposing the societal obsession with financial security over personal compatibility."
+    }
+  ],
+  "limits": "The quote is from the 1813 first edition; chapter numbering may vary slightly in modern editions."
+}

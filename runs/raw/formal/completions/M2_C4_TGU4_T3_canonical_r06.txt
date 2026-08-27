@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickensâs *A Tale of Two Cities*, revolution, sacrifice, and doubling are braided into a single design. The novel thrusts us into a world of violent opposites: âIt was the best of times, it was the worst of timesâ¦â This cascade of antithetical pairsâwisdom/foolishness, Light/Darkness, hope/despairâdefines an age of revolutionary upheaval, where every value exists alongside its negation. This structural doubling permeates the story, especially in character pairings. The chapter title âThe Jackalâ crystallizes the double act of Stryver and Sydney Carton, the lion and his less esteemed jackal. Carton initially appears a wasted shadow, but the doubling prepares the novelâs central act of sacrifice. He ultimately takes the place of his rival-double, Charles Darnay, at the guillotine, transforming a life he thought worthless into a supreme gift. Through these mirrored extremes, Dickens shows how personal sacrifice can rise from the doubled chaos of revolution, turning a season of Darkness into one of redemptive Light.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period)",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This famous catalog of antitheses establishes the novelâs pattern of doubling as the essential expression of a revolutionary age."
+    },
+    {
+      "quote": "The Jackal",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Second, Chapter V (The Jackal)",
+      "speaker_or_narrator": "narrator (chapter title)",
+      "use_in_answer": "The chapter title highlights the key double act that evolves into the storyâs climactic sacrifice, symbolizing how a wasted life can be redeemed through love."
+    }
+  ],
+  "limits": "The provided source excerpts contain only the novelâs opening paragraph and the table of contents with chapter titles. Hence, evidence is drawn from the famous antithetical opening and the chapter title 'The Jackal,' which represent doubling and prefigure sacrifice. No other passages are available to illustrate specific sacrifice scenes or additional doubling instances."
+}

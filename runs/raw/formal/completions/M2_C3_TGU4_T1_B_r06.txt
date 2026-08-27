@@ -1,0 +1,14 @@
+{
+  "answer": "Great question. Let’s look at the very first paragraph of the novel, where Dickens lays out the paradox of the age. He writes, “It was the best of times, it was the worst of times… we were all going direct to Heaven, we were all going direct the other way.” This passage shows how the period was defined by extreme contrasts—wisdom and foolishness, hope and despair—which is the historical contradiction at the heart of the French Revolution era.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote captures the contradictory nature of the historical moment, balancing opposite extremes simultaneously, which explains how an era can be both the best and worst of times."
+    }
+  ],
+  "limits": "Text from provided source window; continues as presented."
+}

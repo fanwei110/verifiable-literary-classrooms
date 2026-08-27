@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be deeply influenced by class and can lead to mistaken judgments, especially in matters of marriage. Elizabeth Bennet initially misjudges Mr. Darcy as arrogant and unkind due to his reserved manner at a social gathering, a perception shaped by her awareness of class differences. However, as she reflects on his actions and re-reads his letter explaining his interference in Jane and Bingley’s relationship, she realizes her pride and prejudice clouded her judgment. The novel critiques how societal expectations around class affect personal relationships, particularly in marriage. Elizabeth’s growth shows that true understanding requires looking beyond surface behaviors. As she admits, her early opinions were based on vanity and incomplete knowledge. Ultimately, the novel suggests that lasting marriage must be built on mutual respect and self-awareness, not superficial impressions. This is evident when Elizabeth recognizes the injustice of her assumptions and opens herself to a relationship grounded in honesty and moral growth, challenging the notion that marriage is merely a transaction based on wealth or status.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the societal pressure surrounding marriage and how financial status shapes expectations about relationships."
+    },
+    {
+      "quote": "“How despicably have I acted!” she cried. “I, who have prided myself on my discernment! I, who have valued myself on my abilities! ... Till this moment, I never knew myself.”",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization that her first impressions were flawed, shaped by pride and class-based assumptions, marking her personal growth."
+    }
+  ],
+  "limits": "The source excerpts are incomplete but contain enough context to support the selected quotations and their interpretation within the novel’s themes."
+}

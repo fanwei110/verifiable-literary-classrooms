@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling to highlight the cyclical nature of violence and redemption. The French Revolution serves as a backdrop where oppression breeds rebellion, yet the revolutionaries often replicate the cruelty they once suffered. Sacrifice becomes a central theme, particularly through Sydney Carton, whose selfless act of taking Charles Darnay’s place at the guillotine embodies both personal redemption and the novel’s moral complexity. Doubling appears throughout the text—Carton and Darnay’s physical resemblance, the mirrored cities of London and Paris, and the duality of human nature—reinforcing the idea that history and individuals are bound by fate and repetition. Dickens warns that revolution, while necessary, risks perpetuating the very injustices it seeks to overthrow. As the novel suggests, true change requires not just defiance but also compassion and self-sacrifice. The famous closing lines capture this tension: Carton’s vision of a better future is only possible through his ultimate act of love and sacrifice, showing that redemption is earned through suffering and humility.",
+
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice as Carton’s final act of redemption, demonstrating how personal suffering can lead to moral transformation and hope for the future."
+    },
+    {
+      "quote": "Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the cyclical nature of revolution and violence, illustrating how oppression and rebellion perpetuate each other in a destructive loop."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics or Norton Critical Editions; chapter numbering may vary slightly in other editions."
+}

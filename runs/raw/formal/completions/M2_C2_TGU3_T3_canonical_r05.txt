@@ -1,0 +1,22 @@
+{
+  "answer": "Austen’s Pride and Prejudice weaves first impressions, class, and marriage into a tight social critique. The novel’s iconic opening immediately satirizes the marriage market: a single man with wealth is treated as prey for matchmaking families, revealing how class and economic necessity reduce courtship to a transaction. First impressions are shown to be dangerously unreliable—Elizabeth’s initial dislike of Darcy stems from his cold pride at the Meryton assembly, while her trust in Wickham’s charm is equally flawed. Darcy’s botched first proposal in Chapter 34 crystallizes the collision of class arrogance and misguided love. He declares his affection while insulting her family’s inferiority, demonstrating that even a sincere marriage offer can be poisoned by class prejudice. Only when both characters shed their pride and prejudice can a marriage based on mutual respect emerge. Austen thus uses first impressions to expose how class-consciousness distorts genuine relationships, and she redefines a successful marriage not as a financial arrangement but as a union of moral equals who have corrected their initial misjudgments.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the lesson’s claim that the novel opens by satirizing the marriage market and class-based matchmaking."
+    },
+    {
+      "quote": "In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 34",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports the point that Darcy’s first proposal, while passionate, is fatally undercut by class condescension and poor first impressions."
+    }
+  ],
+  "limits": "Quotations are from standard editions; chapter divisions follow the original three-volume publication."
+}

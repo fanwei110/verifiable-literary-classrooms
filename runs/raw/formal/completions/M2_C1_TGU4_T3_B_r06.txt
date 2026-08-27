@@ -1,0 +1,22 @@
+{
+  "answer": "When that student demands proof, let's look at how Dickens uses doubling to show that revolution demands sacrifice—often of one's own humanity. The novel argues that in overthrowing tyranny, the oppressed risk becoming mirror images of their oppressors. The guillotine itself becomes a dark double of the aristocracy's cruel punishments. Think about Carton's ultimate sacrifice: he consciously becomes a double for Darnay, physically taking his place. But even in this redemptive act, the revolutionary logic of 'a life for a life' remains. Dickens masterfully shows that in times of revolution, the distinction between victim and executioner blurs, as one violent hierarchy simply replaces another. The path to resurrection, whether personal or national, winds through the valley of sacrifice and the disturbing recognition of the oppressor in our own reflection.",
+  "evidence": [
+    {
+      "quote": "Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms. Sow the same seed of rapacious license and oppression over again, and it will surely yield the same fruit according to its kind.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly supports the concept of the oppressed doubling their oppressors, showing how revolution merely reshapes humanity into identical 'tortured forms' when the same 'seed' of oppression is replanted."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (narrated internally)",
+      "use_in_answer": "This quotation exemplifies sacrificial doubling, as Carton's Christ-like sacrifice substitutes his life for Darnay's, framing personal redemption and resurrection through the revolutionary demand for death."
+    }
+  ],
+  "limits": "Quotes are from the standard Gutenberg editions; locators given as Book and Chapter."
+}

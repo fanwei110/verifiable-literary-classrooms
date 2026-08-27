@@ -1,0 +1,14 @@
+{
+  "answer": "Macbeth’s hallucination of the dagger directly ties his vaulting ambition to a breakdown of his senses. His vision of a floating weapon that he cannot clutch reveals how his desire for power distorts reality, showing that his “heat-oppressèd brain” invents a “fatal vision” to goad him toward murder.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation illustrates how Macbeth’s ambition (the “fatal vision”) manifests as a hallucinatory dagger, a “false creation” of his overheated mind, revealing the psychological cost of his desire for the crown."
+    }
+  ],
+  "limits": "The quotation is taken from the supplied excerpt of Macbeth's soliloquy as he approaches Duncan's chamber. Line numbers approximate the standard edition but are based on the provided source window."
+}

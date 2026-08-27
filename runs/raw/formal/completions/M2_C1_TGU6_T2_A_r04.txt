@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Odysseus in Homer's epic poem *The Odyssey*. He uses the name 'Noman' (or 'Nobody') as a clever trick when captured by the Cyclops Polyphemus in Book 9.",
+  "evidence": [
+    {
+      "quote": "My name is Noman.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This is the direct statement where Odysseus gives the false name to the Cyclops."
+    }
+  ],
+  "limits": "Exact wording varies by translation. Many modern versions translate the name as 'Nobody' rather than 'Noman'. The phrase 'my name is Noman' appears in older translations such as Samuel Butler's."
+}

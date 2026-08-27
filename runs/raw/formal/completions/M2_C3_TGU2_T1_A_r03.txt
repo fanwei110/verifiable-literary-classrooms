@@ -1,0 +1,14 @@
+{
+  "answer": "In this passage, Macbeth’s ambition to seize the throne manifests as a hallucination of a dagger leading him toward Duncan’s chamber. The vision is a 'dagger of the mind, a false creation' emerging from his 'heat-oppressed brain,' showing how his overwhelming desire distorts his perception. He himself recognizes that 'the bloody business' — the murder he contemplates — 'informs' the hallucination, directly linking ruthless ambition to psychological unraveling.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain? I see thee yet, in form as palpable As this which now I draw. Thou marshall’st me the way that I was going; And such an instrument I was to use. Mine eyes are made the fools o’ the other senses, Or else worth all the rest: I see thee still; And on thy blade and dudgeon, gouts of blood, Which was not so before.—There’s no such thing. It is the bloody business which informs Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene i",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth’s ambition (the 'bloody business') triggers a hallucination (the floating dagger) and demonstrates the psychological cost of his murderous desires."
+    }
+  ],
+  "limits": "Line numbers vary by edition; this is the dagger soliloquy from Act II, Scene i."
+}

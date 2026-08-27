@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage shape social interactions and personal growth. The novel opens with a satirical observation about marriage as a social transaction: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line underscores the Bennet family’s—and society’s—preoccupation with marrying daughters to wealthy men, revealing how class and economic status dictate marital prospects. First impressions often lead to misjudgments, as seen with Elizabeth Bennet’s initial prejudice against Mr. Darcy. Her later realization—'How despicably have I acted! ... I, who have prided myself on my discernment!'—highlights how pride and snap judgments distort relationships. Austen critiques the rigid class hierarchy by showing how characters like Darcy and Elizabeth must overcome their biases to achieve mutual respect and love, proving that true marriage requires self-awareness and emotional honesty, not just social advantage.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is framed as a social and economic transaction driven by class expectations."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s self-awareness about her flawed first impressions and the role of pride in her misjudgments."
+    }
+  ],
+
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The source excerpts provided did not include the full text of Chapter XXXVI."
+}
+```

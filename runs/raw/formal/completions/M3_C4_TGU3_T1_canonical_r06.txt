@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, the irony of the marriage market is evident from the very beginning, as societal assumptions invert true personal desire. The novel opens with a satirical declaration that highlights how wealth and marital eligibility are presumed to go hand in hand, regardless of individual feelings.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote illustrates the irony of the marriage market by presenting a societal assumption as if it were an undeniable truth, when in reality it reflects the desires of families seeking wealthy husbands for their daughters, rather than the actual wishes of the men themselves."
+    }
+  ],
+  "limits": ""
+}

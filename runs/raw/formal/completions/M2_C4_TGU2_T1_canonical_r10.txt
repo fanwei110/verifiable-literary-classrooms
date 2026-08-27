@@ -1,0 +1,14 @@
+{
+  "answer": "In *Macbeth*, ambition and hallucination intertwine explosively in the dagger soliloquy. As Macbeth steels himself to murder Duncan, his “heat-oppressed brain” projects a floating dagger that he cannot grasp—a “dagger of the mind, a false creation.” The vision physically marshals him toward the crime, revealing how his vaulting ambition distorts his senses and blurs the line between what is real and what his guilty desire invents.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation directly demonstrates how ambition fuels hallucination: Macbeth’s overwhelming desire to seize the crown literally conjures an imaginary dagger that leads him toward Duncan’s chamber, proving that his ambition has overheated his brain to the point of creating a vision he can see but not touch."
+    }
+  ],
+  "limits": "The excerpt is frozen from a single source window; no alternative textual versions are referenced."
+}

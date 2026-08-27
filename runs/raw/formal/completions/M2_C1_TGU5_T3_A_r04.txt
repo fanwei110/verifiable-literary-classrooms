@@ -1,0 +1,22 @@
+{
+  "answer": "Today we'll explore the intertwined themes of temptation, free will, and rebellion in John Milton's Paradise Lost. Milton confronts a core theological problem: if God is all-knowing, how can humans be truly free and responsible for their fall? The epic's answer lies in the concept of free will, stated by God Himself: 'Sufficient to have stood, though free to fall' (Book 3, line 99). This means Adam and Eve were created with the capacity to resist temptation; their disobedience was not predestined but a choice. Temptation, therefore, is the test of that freedom. The ultimate rebel, Satan, embodies the catastrophic misuse of free will. After his failed rebellion, he declares, 'Better to reign in Hell, than serve in Heaven' (Book 1, line 263). This line reveals that rebellion stems from pride and a refusal to accept a subordinate but good role. Satan's 'free' choice is actually a slavery to his own ambition. The poem thus shows that true freedom is obedience to God, while rebellion, though a choice, leads to a hellish self-imprisonment. Through these paired lines, Milton teaches that temptation does not cause the fall; it merely exposes the will's orientation—toward God or toward self.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 99",
+      "speaker_or_narrator": "God (via the epic narrator)",
+      "use_in_answer": "Illustrates that free will makes temptation a genuine test of obedience rather than a foreordained fall."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Captures the essence of rebellion as a pride-driven, willful choice to reject divine order."
+    }
+  ],
+  "limits": "Line numbers follow the 1674 edition; some modern editions may shift numbering slightly due to editorial decisions."
+}

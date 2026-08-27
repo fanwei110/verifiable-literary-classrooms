@@ -1,0 +1,22 @@
+{
+  "answer": "Alright, let's dig into the text. When we talk about temptation, free will, and rebellion in *Paradise Lost*, Satan’s first speech in Hell is our clearest early evidence. Milton shows that free will is not just the ability to choose, but the power to interpret reality\u2014even to distort it. After falling from Heaven, Satan surveys the \"mournful gloom\" and declares, \"The mind is its own place, and in it self / Can make a Heav'n of Hell, a Hell of Heav'n\" (Book I, lines 254-255). Here, he uses his free will not to repent, but to redefine his suffering as a kind of liberty. That deliberate mental rebellion is the root of temptation itself\u2014the refusal to acknowledge divine order. He then seals his choice with the infamous line, \"Better to reign in Hell, then serve in Heav'n\" (Book I, line 263). This isn't a moment of weakness but a conscious commitment to rebellion, prioritizing his own pride over obedience. These two quotations reveal that for Milton, temptation succeeds when free will is misused to embrace a false sense of independence, a pattern that later ensnares Eve and Adam.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav'n of Hell, a Hell of Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Shows Satan's refusal to accept God's justice and his assertion of mental free will, twisting his perception of reality."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates his deliberate choice to embrace rebellion and power rather than submit, epitomizing the misuse of free will."
+    }
+  ],
+  "limits": "none"
+}

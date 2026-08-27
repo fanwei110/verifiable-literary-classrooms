@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, the protagonist’s hesitation reflects a deep confrontation with mortality and the uncertainty of performance, both on stage and in life. Hamlet’s famous soliloquy 'To be, or not to be' reveals his internal struggle with existence, where the fear of the afterlife paralyzes action: 'For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause' (Act 3, Scene 1). This moment encapsulates how awareness of mortality complicates the choice to act, especially under the weight of revenge. Later, when confronted with the Ghost demanding vengeance, Hamlet declares 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve'—showing a shift toward determination despite danger. Yet even this resolve is fleeting, revealing the performative nature of courage and identity. Hamlet’s vacillation between thought and action mirrors the play’s broader concern with appearance versus reality; he must 'perform' vengeance while doubting whether the Ghost is truthful or a deceitful spirit. Thus, hesitation in *Hamlet* is not mere indecisiveness, but a philosophical response to the immense questions of life, death, and the self.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how the fear of the unknown afterlife causes Hamlet to hesitate, illustrating his deep contemplation of mortality."
+    },
+    {
+      "quote": "My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote shows Hamlet’s momentary resolve to act, revealing the tension between inner hesitation and outward performance of courage."
+    }
+  ],
+  "limits": "The second quote is correctly attributed to Act 1, Scene 5 in standard editions; however, the provided text window labels it as part of Scene IV, reflecting possible variation in scene numbering."
+}

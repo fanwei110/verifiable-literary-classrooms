@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance on human action. Hamlet’s infamous delay in avenging his father’s murder stems from his existential dread and self-awareness, which render him incapable of decisive action. His hesitation is not merely cowardice but a profound meditation on the fragility of life and the burden of moral responsibility. For instance, Hamlet’s soliloquy in Act 3, Scene 1 reveals his contemplation of suicide as a response to life’s suffering, illustrating how mortality haunts his thoughts and stifles his resolve. Similarly, his obsession with performance—both theatrical and personal—highlights his struggle to reconcile inner truth with outward action. In Act 2, Scene 2, Hamlet’s musings on the player’s ability to weep for a fictional character contrast sharply with his own inability to act on real grief, underscoring the disconnect between thought and deed. These themes intertwine to depict Hamlet as a figure trapped between intellectual reflection and the urgent demands of the world, making his tragedy a universal exploration of human indecision and the fear of failure.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation and his contemplation of mortality as a barrier to action."
+    },
+    {
+      "quote": "What’s Hecuba to him, or he to Hecuba, / That he should weep for her?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s frustration with his own inaction compared to the player’s emotional performance, highlighting his struggle with the disconnect between thought and deed."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series). Line numbers may vary slightly in other editions."
+}

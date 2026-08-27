@@ -1,0 +1,22 @@
+{
+  "answer": "Class, today we explore how Dickens intertwines revolution, sacrifice, and doubling in A Tale of Two Cities. The novel's famous opening paradox, 'It was the best of times, it was the worst of times,' immediately establishes a world of extreme duality — mirroring the divided societies of London and Paris and foreshadowing the revolutionary chaos that will overturn the old order. This doubling extends to characters: Charles Darnay and Sydney Carton look alike but lead opposite lives. The revolution’s brutal demands for blood are ultimately transcended by Carton’s self-sacrifice. In his final vision, he declares, 'It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known,' transforming a wasted life into a redemptive act of love. By doubling Carton’s death with Darnay’s escape, Dickens shows that one life given can resurrect another, making sacrifice the ultimate answer to the revolutionary thirst for vengeance.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times,",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening paradox establishes the theme of doubling and sets the tumultuous revolutionary backdrop."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "Carton’s final words reframe his execution as a willing sacrifice, illustrating how personal redemption can transcend revolutionary violence."
+    }
+  ],
+  "limits": "Locators reference chapter only; exact pagination varies across editions. Quotations are from the novel's opening paragraph and its closing paragraph, respectively."
+}

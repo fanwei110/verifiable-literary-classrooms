@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most profound reflections on mortality and hesitation in *Hamlet* comes from Hamlet’s soliloquy in Act 3, Scene 1. Here, he grapples with the fear of the unknown after death, which paralyzes him from taking action—even against his own suffering. The passage captures the tension between the desire for escape through death and the dread of what might lie beyond, illustrating how uncertainty can immobilize us in the face of life’s hardships.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly addresses the themes of mortality and hesitation by contrasting the relief of death with the fear of the unknown, which prevents decisive action."
+    }
+  ],
+  "limits": "The provided excerpt cuts off mid-soliloquy; the full passage continues to explore the burdens of life and the hesitation to end them."
+}

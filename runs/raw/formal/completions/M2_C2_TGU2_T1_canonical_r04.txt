@@ -1,0 +1,14 @@
+{
+  "answer": "In our discussion of ambition and hallucination in Macbeth, the dagger soliloquy is key. Macbeth, on his way to murder Duncan, sees a floating dagger pointing him toward the deed. This hallucination is a direct product of his overwhelming ambition, as his mind creates a symbolic guide to the crime he is about to commit. It blurs the line between the real and the imagined, showing how unchecked desire can fracture one’s perception of reality.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee. I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly shows Macbeth hallucinating a dagger as his ambition drives him toward regicide, supporting the link between ambition and hallucination."
+    }
+  ],
+  "limits": "Line numbering may vary slightly between editions; this follows the commonly used Folger Shakespeare Library edition."
+}

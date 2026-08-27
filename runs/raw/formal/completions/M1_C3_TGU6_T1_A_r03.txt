@@ -1,0 +1,18 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer captures the essence of wandering and the power of story through the opening invocation to the Muse. Here’s a key quotation that illustrates how Odysseus’s journey—both physical and narrative—becomes a defining tale of endurance, curiosity, and the human desire to return home. This passage also highlights how stories themselves preserve the memory of wanderers and their trials.",
+
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-9",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This quote establishes the central theme of wandering as both a physical journey (Odysseus’s travels) and a narrative one (the story itself), emphasizing how suffering, folly, and divine intervention shape the tale of return."
+    }
+  ],
+
+  "limits": "The translation used here is from the 1900 edition by Samuel Butler, as referenced in the source window. Different translations may vary slightly in phrasing, but the core meaning remains consistent across versions."
+}
+```

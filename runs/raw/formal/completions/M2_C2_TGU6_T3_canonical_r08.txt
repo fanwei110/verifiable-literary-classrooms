@@ -1,0 +1,22 @@
+{
+  "answer": "In the Odyssey, homecoming and identity are inseparable; the hero’s return to Ithaca demands a constant negotiation of self. Odysseus’s nostos is not just a geographic journey but a gradual rediscovery of who he is. When he finally reveals himself to the Phaeacians, he proclaims, “I am Odysseus, son of Laertes, known to the world for every kind of craft — my fame has reached the skies.” This moment of self-declaration ties homecoming to public recognition, grounding his identity in lineage and legendary cunning. Yet the poem also insists that identity is shaped by how one treats others. Hospitality becomes the measure of civilized life. The swineherd Eumaeus, himself a man far from home, articulates this sacred code: “All strangers and beggars are from Zeus, and whatever scrap you give them is a kindness.” For Eumaeus, the host’s identity hinges on honoring xenia, a duty that even a humble servant observes, while the suitors’ violation of that code marks them as barbaric. Thus, in the Odyssey, true homecoming is achieved when the hero reclaims his household not only through force but by restoring the generous, God-fearing order that defines both personal and communal identity.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known to the world for every kind of craft — my fame has reached the skies.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This declaration of identity at the Phaeacian court ties homecoming to self-revelation and the hero’s enduring fame."
+    },
+    {
+      "quote": "All strangers and beggars are from Zeus, and whatever scrap you give them is a kindness.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, lines 65–68",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "Spoken by the loyal swineherd, this line encapsulates the Greek code of xenia, showing how hospitality affirms both host and guest identity."
+    }
+  ],
+  "limits": "Quotations follow Robert Fagles’s translation (1996); line numbers are approximate."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens crystallizes historical contradiction in the famous paradox that opens the novel: “It was the best of times, it was the worst of times.” This line juxtaposes two opposing states existing simultaneously—mounting prosperity and crushing poverty, hope and despair—to show that an age can contain its own negation and that the French Revolution erupted precisely from this unbearable tension between light and shadow.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote directly names a fundamental contradiction within a single historical moment, illustrating how opposing conditions can coexist and drive historical change."
+    }
+  ],
+  "limits": "The quotation is taken from the iconic opening paragraph; the surrounding sentences extend the pattern of contradiction (age of wisdom / foolishness, epoch of belief / incredulity, season of Light / Darkness, spring of hope / winter of despair), reinforcing the point."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 2, Scene 1, Macbeth’s hallucinated dagger reveals how raw ambition can twist perception into a guiding illusion. He reaches for a weapon that isn’t there, yet it pulls him toward Duncan’s chamber, embodying his desire for the crown. The vision is a “dagger of the mind, a false creation” born from his “heat-oppressed brain,” showing that his overwhelming wish to be king has fractured his reality, turning mental temptation into a visual phantom.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee. I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly supports the link between ambition and hallucination by showing Macbeth’s desire for power taking visual form as a dagger that he cannot physically grasp yet cannot stop seeing."
+    }
+  ],
+  "limits": "Line numbers follow the widely used Folger Shakespeare edition; other editions may number lines 33–34 or 40–42 for the same passage."
+}

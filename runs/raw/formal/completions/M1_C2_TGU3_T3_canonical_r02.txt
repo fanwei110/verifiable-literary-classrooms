@@ -1,0 +1,24 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage shape relationships. The novel’s opening line—'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'—immediately highlights the societal pressure to marry for financial security rather than love. This sets the stage for characters like Charlotte Lucas, who prioritizes stability over affection, and Elizabeth Bennet, who resists marrying without mutual respect. Class also dictates interactions; Mr. Darcy’s initial pride stems from his aristocratic status, while Elizabeth’s lower social standing makes her an unsuitable match in his eyes. However, Austen critiques these prejudices, showing how genuine connection can transcend class barriers. Later, Darcy admits, 'I was given good principles, but left to follow them in pride and conceit,' revealing his growth in overcoming his initial arrogance. Through these dynamics, Austen underscores the tension between societal expectations and personal happiness, urging readers to question superficial judgments and value integrity in relationships.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the novel’s central theme of marriage as a social and economic transaction, framing the expectations placed on women like the Bennet sisters."
+    },
+    {
+      "quote": "I was given good principles, but left to follow them in pride and conceit.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote illustrates Darcy’s self-awareness and growth, showing how his initial pride—rooted in class—evolves into humility and genuine regard for Elizabeth."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

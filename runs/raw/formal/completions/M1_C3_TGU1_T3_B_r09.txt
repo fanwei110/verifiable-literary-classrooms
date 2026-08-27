@@ -1,0 +1,26 @@
+{
+  "answer": "Today, let’s examine how *Hamlet* dramatizes hesitation, mortality, and performance—three forces that shape Hamlet’s inaction. First, hesitation: Hamlet’s famous soliloquy reveals his paralyzing fear of the unknown after death. He asks, 'To be, or not to be, that is the question,' then immediately pivots to the terror of 'what dreams may come / When we have shuffled off this mortal coil.' The 'rub'—the obstacle—isn’t just death itself, but the uncertainty of what lies beyond, which 'must give us pause.' This pause becomes a metaphor for Hamlet’s broader hesitation, trapping him in 'the whips and scorns of time' rather than acting decisively.
+
+Second, mortality: The Ghost’s revelation underscores how death haunts the play, not just as an end but as a tormenting limbo. The Ghost declares, 'My hour is almost come, / When I to sulph’rous and tormenting flames / Must render up myself.' His suffering—both physical and existential—mirrors Hamlet’s own dread of a fate worse than death. The Ghost’s urgency to 'revenge' contrasts with Hamlet’s delay, suggesting that mortality isn’t just a personal fear but a cosmic force that disrupts action.
+
+Finally, performance: Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself'—exposes the play’s obsession with deception. Hamlet’s hesitation isn’t just philosophical; it’s theatrical. He performs madness, feigns indifference, and even stages *The Mousetrap* to 'catch the conscience of the King.' Yet this performativity traps him, too: the more he acts, the less he *does*. His hesitation becomes a role, and mortality a script he can’t escape.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation rooted in the fear of the unknown after death, which 'must give us pause' and prevents decisive action."
+    },
+    {
+      "quote": "My hour is almost come, / When I to sulph’rous and tormenting flames / Must render up myself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Ghost (King Hamlet)",
+      "use_in_answer": "This quote highlights the play’s preoccupation with mortality as a tormenting, inescapable force, contrasting the Ghost’s urgency with Hamlet’s delay."
+    }
+  ],
+  "limits": "Quotations are from the First Folio (1623) and may vary slightly in modern editions. The 'mortal coil' line is sometimes punctuated differently (e.g., 'shuffled off this mortal coil')."
+}

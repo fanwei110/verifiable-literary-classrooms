@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, the themes of homecoming, identity, and hospitality are deeply intertwined. Odysseus’s journey is not just a physical return to Ithaca but a reclamation of his identity as a husband, father, and king. Throughout his travels, hospitality—known as xenia—serves as a moral litmus test for civilizations. When Odysseus washes ashore on Phaeacia, exhausted and alone, he appeals to Nausicaa’s kindness, saying, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house' (Book VI). This statement underscores the value of home and familial unity, ideals central to Odysseus’s own longing for Ithaca. Nausicaa responds with generosity, embodying the sacred duty of hospitality: 'I will show you the way to the town, and will tell you the name of our people' (Book VI). Her respectful treatment of the unknown stranger contrasts with the inhospitable suitors who later plague Odysseus’s home. These moments reveal that true identity is affirmed not only through recognition but through being received with dignity and care. In The Odyssey, homecoming is incomplete without the restoration of identity and the practice of hospitality.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the importance of marital unity and domestic harmony as central to the ideal homecoming in The Odyssey."
+    },
+    {
+      "quote": "I will show you the way to the town, and will tell you the name of our people",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote exemplifies the cultural practice of hospitality (xenia), where Nausicaa offers guidance and aid to Odysseus as a foreigner in need."
+    }
+  ],
+  "limits": "The quoted excerpts are based on a prose translation of The Odyssey, likely by Samuel Butler, which may differ slightly in wording from other translations. Line numbers are not provided in the source window, so the citation is limited to book level."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance on human action. Hamlet’s infamous delay in avenging his father’s murder stems from his deep introspection and fear of the unknown—both in life and death. His hesitation isn’t mere cowardice but a philosophical crisis: he questions whether action is meaningful in a world where death renders all endeavors futile. This tension is heightened by his awareness of performance, as he must *act* the part of a revenger while grappling with his own authenticity. Mortality looms large, forcing Hamlet to confront the fragility of existence and the consequences of inaction. His soliloquies reveal a mind trapped between duty and doubt, where the fear of making the wrong choice paralyzes him. Ultimately, Shakespeare suggests that hesitation, though human, can be as destructive as reckless action, especially when fueled by existential dread. These themes resonate because they mirror our own struggles with indecision and the pressure to perform in a world that often feels meaningless.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And, by opposing, end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation, as he weighs the pain of living against the uncertainty of death, illustrating his paralysis in the face of action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line demonstrates Hamlet’s reliance on performance—using the play to confirm Claudius’s guilt—highlighting his need for certainty before acting, which further delays his revenge."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series); line numbers may vary slightly in other editions."
+}

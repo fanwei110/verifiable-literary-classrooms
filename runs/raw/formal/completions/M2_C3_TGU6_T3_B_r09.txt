@@ -1,0 +1,22 @@
+{
+  "answer": "Let's examine how Homer intertwines homecoming, identity, and hospitality. When a character’s very name means “man of pain,” the journey home becomes a test of self. The epic opens by reminding us that Odysseus “was longing to return to his wife and country, was detained by the goddess Calypso.” His identity is defined by this aching desire for Ithaca—he is the man who refuses to forget home even when offered immortality. Yet home is not just a place; it’s a set of relationships. This becomes clear when the shipwrecked Odysseus, stripped of all status, supplicates the young Nausicaa. He doesn’t just beg for clothes; he invokes the ideal of a harmonious household: “for there is nothing better in this world than that man and wife should be of one mind in a house.” In doing so, he appeals to her understanding of what home means, subtly reminding her of her own future home. Her gracious response—granting him aid and a path to the city—demonstrates xenia, the sacred hospitality that makes homecoming possible. Thus, Homer shows that hospitality both affirms the stranger’s humanity and restores the wanderer’s identity, ultimately bridging the gap between exile and home.",
+  "evidence": [
+    {
+      "quote": "Ulysses, and he, though he was longing to return to his wife and country, was detained by the goddess Calypso, who had got him into a large cave and wanted to marry him.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening (Butler translation)",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote establishes Odysseus's core identity as defined by his longing for home, setting up the central tension of the epic."
+    },
+    {
+      "quote": "for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, Odysseus's speech to Nausicaa",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This plea reveals both the ideal of home that Odysseus yearns for and the rhetorical strategy that wins him the Phaeacians' hospitality, connecting homecoming to the civilizing practice of xenia."
+    }
+  ],
+  "limits": "The quotations are from the Samuel Butler translation as provided in the source excerpts."
+}

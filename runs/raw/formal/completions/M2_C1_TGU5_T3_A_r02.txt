@@ -1,0 +1,22 @@
+{
+  "answer": "Today we examine how John Milton’s epic poem Paradise Lost intertwines temptation, free will, and rebellion. Milton insists that God created intelligent beings “sufficient to have stood, though free to fall” (Book 3, line 99). This means that before any temptation, Adam, Eve, and even the angels possessed genuine freedom. Their virtue had to be chosen, not programmed. Rebellion, then, originates in the misuse of that free will: Satan’s prideful refusal to obey God is a self-determined act, not a flaw in creation. After his fall, Satan declares, “The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven” (Book 1, lines 254-255). Here, Satan perverts free will into a stubborn resolve to reshape reality through perception. Temptation in the poem is the external trigger—the serpent’s words for Eve, the rebellious whispers for the angels—but it only succeeds when the will consents. Thus, Milton’s lesson is that true obedience requires the possibility of disobedience; temptation reveals the heart’s allegiance, and rebellion is the catastrophic exercise of God’s greatest gift.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "Supports the argument that free will is foundational, making obedience virtuous and rebellion possible."
+    },
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Illustrates how Satan corrupts free will into self-deception and defiant rebellion after the fall."
+    }
+  ],
+  "limits": "Quotations follow the 1674 second edition; no significant textual variants affect these lines."
+}

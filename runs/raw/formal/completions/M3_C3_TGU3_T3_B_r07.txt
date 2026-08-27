@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, Austen critiques how first impressions, class, and marriage are intertwined. The novel opens with a satirical commentary on societal obsession with marriage: a wealthy single man is automatically seen as a potential husband. Characters quickly judge based on class and manners, as seen when Elizabeth misjudges Darcy due to his aloofness at the Meryton ball. However, her growing self-awareness reveals the danger of snap judgments. She admits, 'How despicably have I acted!... I, who have prided myself on my discernment!' This moment marks her realization that her pride and prejudice blinded her. Austen uses irony and character development to argue that true understanding and love require looking beyond surface appearances and social rank. Marriage, then, should be based on mutual respect and deep knowledge, not economic convenience or superficial attraction. Both Elizabeth and Darcy overcome their initial misjudgments, suggesting that personal growth is essential for a meaningful union. The novel ultimately champions moral integrity and emotional insight over rigid class structures and hasty conclusions.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the societal pressure linking marriage, wealth, and class, framing the novel’s critique."
+    },
+    {
+      "quote": "“How despicably have I acted!” she cried. “I, who have prided myself on my discernment!... How humiliating is this discovery! Yet, how just a humiliation!”",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote shows Elizabeth’s pivotal moment of self-realization, exposing the flaws in first impressions and class-based prejudice."
+    }
+  ],
+  "limits": "The source windows provided are fragmented; the second quote is inferred from context and widely accepted editions, not verifiable in the exact line numbers here."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s the opening of The Odyssey, where the poet invokes the Muse to sing of Odysseus’s wanderings and the story of his trials:",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "The narrator (the poet, requesting the Muse)",
+      "use_in_answer": "This quote directly establishes the epic’s dual themes of wandering and storytelling: it names the wandering hero, catalogues his travels and suffering, and frames the entire work as a tale told by the Muse."
+    }
+  ],
+  "limits": "Translation by Samuel Butler (prose); line numbers not present in this edition."
+}

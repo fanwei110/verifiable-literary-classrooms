@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the tension between action and inaction is central, particularly through Hamlet’s hesitation, which reflects broader themes of mortality and performance. Hamlet’s famous soliloquy reveals his profound internal struggle: 'To be, or not to be, that is the question' (Act 3, Scene 1). This moment captures his hesitation not only in avenging his father’s murder but also in confronting the existential weight of life and death. The soliloquy becomes a performance in itself—Hamlet presenting his inner turmoil as both genuine and theatrical. His delay in taking action is not mere cowardice but a philosophical meditation on the consequences of action in a corrupt world. This theme of performance recurs when Hamlet stages 'The Mousetrap,' stating, 'The play's the thing / Wherein I'll catch the conscience of the King' (Act 2, Scene 2). Here, performance is a tool of revelation, blurring the line between feigned and real emotion. Through these moments, Shakespeare interrogates how identity and truth are enacted rather than simply felt. Hamlet’s hesitation thus becomes a space where mortality, truth, and theatricality converge, challenging the audience to question the nature of decisive action in an uncertain world.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet's hesitation stems from deep existential contemplation about life, death, and action."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a strategic device to unveil truth and prompt action."
+    }
+  ],
+  "limits": "Quotations are from the standard Arden Shakespeare edition of Hamlet; minor wording differences may exist across versions."
+}

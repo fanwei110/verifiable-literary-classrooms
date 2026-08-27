@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the chaos of revolution, the weight of sacrifice, and the theme of doubling through parallel characters and moral contrasts. The French Revolution serves as a backdrop where violence escalates, mirroring the duality of human nature and society. Dr. Manette, once imprisoned, becomes a symbol of both suffering and redemption. His transformation is crucial when he says, 'It is a far, far better thing that I do, than I have ever done,' as Sydney Carton embraces sacrifice, swapping places with Charles Darnay to save a family. This ultimate act of selflessness highlights the novel’s redemptive power through personal cost. The doubling between Carton and Darnay reflects conflicting identities—one aimless, the other noble—yet their physical similarity enables the final, fateful exchange. Revolution consumes many, but Carton’s quiet heroism stands apart. As the narrator observes, 'It was the best of times, it was the worst of times,' capturing the novel’s central tension between destruction and renewal, despair and hope. Through revolution’s fury, Dickens shows that sacrifice can bring meaning amid chaos, and that even in darkness, one life can ignite light.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the theme of doubling by illustrating the contradictory nature of the era, reflecting both revolutionary hope and horror."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third--the Track of a Storm, CHAPTER XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, showing Carton's redemptive final act as he goes to the guillotine in place of Darnay."
+    }
+  ],
+  "limits": "The second quote is widely attributed to Carton in Chapter XV, though the provided text excerpt cuts off before the full line; its inclusion assumes standard edition continuity."
+}

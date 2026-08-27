@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the chaos of revolution, the weight of sacrifice, and the theme of doubling. The French Revolution, portrayed as both a force for justice and a wave of terror, emerges from deep social inequality. Dickens captures the duality of the era in the famous opening: \"It was the best of times, it was the worst of times...\"—a reflection of extreme contrasts mirrored in characters like Charles Darnay and Sydney Carton, who look alike but lead different lives. Revolution fuels both hope and horror, as seen when the people sharpen blades on the grindstone, preparing for violence. Sacrifice becomes the ultimate act of love and redemption. Sydney Carton’s decision to die for Darnay fulfills his promise: \"It is a far, far better thing that I do, than I have ever done...\" His execution highlights personal triumph amid political turmoil. Carton and Darnay’s doubling emphasizes how identity and destiny intertwine. Through these themes, Dickens shows how personal lives are swept into historical currents, where sacrifice can bring meaning even in darkness.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I. The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and contrast that defines the revolutionary era and the novel’s exploration of doubling."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third--the Track of a Storm, CHAPTER XV. The Footsteps Die Out For Ever",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice, showing Carton’s redemptive act and personal transformation."
+    }
+  ],
+  "limits": "The source excerpts are incomplete but contain the two required quotations with sufficient context for attribution."
+}

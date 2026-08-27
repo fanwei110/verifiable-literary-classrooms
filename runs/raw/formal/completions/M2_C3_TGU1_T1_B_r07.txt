@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet explicitly links mortality and hesitation in the “To be or not to be” soliloquy. He imagines death as a sleep that ends earthly suffering, yet the fear of what dreams may come in that sleep of death creates the hesitation that makes people endure a painful life rather than seek their own end.",
+  "evidence": [
+    {
+      "quote": "To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly shows how contemplating mortality—the uncertainty of what comes after death—creates the pause or hesitation that keeps us from acting to end our suffering."
+    }
+  ],
+  "limits": "Text follows the folio/quarto collation included in the provided source excerpt. Some editions read “despis’d” for “dispriz’d” and “quietus make” for “make his quietus.”"
+}

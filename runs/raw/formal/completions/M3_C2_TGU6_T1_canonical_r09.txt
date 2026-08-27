@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, wandering is deeply tied to the act of storytelling, as Odysseus recounts his travels to prove his identity and convey the lessons learned through years of hardship. A powerful example comes when Odysseus, describing the pain of his journey, says, 'I am Odysseus, son of Laertes, known before all men for the study of the ways of deceit, and my fame goes up to the heavens.' Though this line emphasizes cunning, it also reflects how his story—woven from years of wandering—defines him. Each tale he tells serves not just as report but as proof of endurance and self.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known before all men for the study of the ways of deceit, and my fame goes up to the heavens.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus’s identity is constructed through storytelling, linking his personal fame to the tales of his wandering."
+    }
+  ],
+  "limits": "Translation may vary; this quote is based on the Richard Lattimore translation (University of Chicago Press, 1967)."
+}

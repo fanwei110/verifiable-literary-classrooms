@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Jane Austen's *Pride and Prejudice*. It is spoken by Elizabeth Bennet during a conversation at Netherfield Park, where she declares her enjoyment of laughter while teasing Mr. Darcy and Miss Bingley.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Source window 1",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote confirms the speaker and the work, and provides the immediate context of Elizabeth's bantering reply."
+    }
+  ],
+  "limits": "The exact chapter is not specified in the provided excerpt; the scene is part of the drawing-room conversation at Netherfield."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the moral and political landscape of the story. The French Revolution serves as a violent backdrop that exposes the extremes of human behavior and the price of societal transformation. As the revolutionaries seek justice, they often descend into cruelty, illustrating how ideals can become corrupted. Sacrifice emerges as a counterbalance to this chaos, particularly through characters like Sydney Carton, whose ultimate act redeems both himself and others. Carton’s selflessness contrasts the revolution’s brutality with personal love and redemption. Doubling—seen in characters like Carton and Charles Darnay, who resemble each other physically and morally—highlights opposing paths and choices amid turmoil. Carton’s transformation from a disillusioned man to a hero underscores how individual sacrifice can transcend societal collapse. As the narrator observes, 'It is a far, far better thing that I do, than I have ever done,' revealing Carton’s redemptive final act. Likewise, the novel’s opening insists, 'It was the best of times, it was the worst of times,' establishing the theme of duality that frames both the revolution and personal journeys. Together, these elements portray a world where sacrifice brings meaning amidst chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by establishing the novel’s central duality—hope and despair, revolution and ruin—present in both personal and societal realms."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice by capturing Carton’s redemptive act, showing how personal love and moral courage triumph over a life previously marked by regret."
+    }
+  ],
+  "limits": "Quotations are from the standard 1859 edition of the novel; minor variations may exist in different printings."
+}

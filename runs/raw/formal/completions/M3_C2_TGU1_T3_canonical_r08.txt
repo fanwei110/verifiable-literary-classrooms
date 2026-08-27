@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the interplay of hesitation, mortality, and performance reveals the prince's profound internal conflict. Hamlet's hesitation is not mere indecision but a philosophical response to the weight of mortality and the uncertainty of action. His famous soliloquy captures this paralysis: 'To be, or not to be: that is the question' (3.1.56), where existence itself becomes a performance weighed against the dread of the afterlife. This moment exemplifies how Hamlet’s consciousness fractures decisive action, as he treats life and death as roles in an inescapable drama. Performance, in both theatrical and existential senses, becomes a means of probing truth. When Hamlet stages The Mousetrap, he declares, 'The play’s the thing / Wherein I’ll catch the conscience of the King' (2.2.607–608), using performance as an investigative tool. Yet this strategy also delays direct revenge, reinforcing how performance substitutes for action. Together, hesitation and performance expose a mind overwhelmed by the consequences of mortality. Hamlet does not fear death alone but the moral ambiguity surrounding it, rendering him a tragic figure whose introspection stifles resolution. Ultimately, his delay underscores the human struggle to act with certainty in a world defined by impermanence and deceit.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's philosophical hesitation and his contemplation of mortality as a central obstacle to action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.607–608",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a tool for moral investigation, delaying direct action."
+    }
+  ],
+  "limits": "Quotations are based on the Arden Shakespeare Third Series edition; line numbers may vary slightly in other editions."
+}

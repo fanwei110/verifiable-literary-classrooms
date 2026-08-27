@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is spoken by Odysseus in Homer's *Odyssey*. He says it to the Cyclops Polyphemus after giving him wine, telling him his name is 'Noman' as a trick to protect his real identity. Later, when Odysseus blinds the Cyclops, the other Cyclopes come to ask who hurt him, and Polyphemus replies, 'Noman has wronged me,' which allows Odysseus and his men to escape undetected.",
+  "evidence": [
+    {
+      "quote": "my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote shows Odysseus introducing himself as 'Noman' to the Cyclops as part of a clever ruse to protect his real identity."
+    }
+  ],
+  "limits": "The exact wording may vary slightly depending on the translation of The Odyssey; the quote here reflects a common English rendering."
+}

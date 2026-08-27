@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from William Shakespeare’s play *Macbeth*. It’s spoken by Lady Macbeth in Act 5, Scene 1, while she is sleepwalking and trying to wash imaginary blood from her hands, showing her guilt over the murders she and Macbeth committed.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote supports identifying the speaker and the scene in which Lady Macbeth’s guilt manifests as hallucinations."
+    }
+  ],
+  "limits": "The exact wording may vary slightly depending on the edition of the play."
+}

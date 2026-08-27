@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation of Eve, showing how disobedience stems from pride and the desire to transcend mortal limits. The following passage captures the serpent’s deceptive reasoning, which mirrors the internal conflict between obedience and ambition that leads to the Fall.",
+  "evidence": [
+    {
+      "quote": "Ye shall not die:\nHow should ye? by the Fruit? it gives you life\nTo knowledge. By the Threat’ner? look on me,\nMe who have touch’d and tasted, yet both live,\nAnd life more perfect have attain’d than Fate\nMeant me, by vent’ring higher than my Lot.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 684–689",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote illustrates the serpent’s manipulation of Eve, framing disobedience as a path to godlike knowledge and power, which directly precipitates the Fall."
+    }
+  ],
+  "limits": "The quoted lines follow the 1674 second edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

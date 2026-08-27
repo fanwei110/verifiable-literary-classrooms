@@ -1,0 +1,22 @@
+{
+  "answer": "Today we’ll explore how Austen’s novel uses first impressions, class, and marriage to critique social judgments. The original title, *First Impressions*, signals that snap judgments are often flawed. Elizabeth’s first impression of Darcy is shaped by his cutting remark at the Meryton assembly: “She is tolerable; but not handsome enough to tempt me.” This instantly frames Darcy as prideful and class-conscious, and Elizabeth’s wounded pride fixes her prejudice. The novel shows that such first impressions are intertwined with class snobbery—Darcy’s disdain for country society blinds him to Elizabeth’s merits. Marriage, as Austen presents it, is not just a romantic ideal but a social and economic contract. Charlotte Lucas openly voices this pragmatic view: “Happiness in marriage is entirely a matter of chance.” Her decision to marry the ridiculous Mr. Collins for security reveals how limited options for gentlewomen of her class make marriage a calculated gamble. These two moments—Darcy’s insult and Charlotte’s pragmatic confession—bookend Austen’s argument: first impressions mislead, class divides blind us, and marriage, when stripped of love and respect, becomes a lottery. By the end, only those who reassess their first impressions, like Elizabeth and Darcy, achieve a marriage that balances affection with honest understanding.",
+  "evidence": [
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports how first impressions are formed and how Darcy’s pride and class condescension provoke Elizabeth’s prejudice."
+    },
+    {
+      "quote": "Happiness in marriage is entirely a matter of chance",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 6",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote supports the theme of marriage as a pragmatic, class-driven institution rather than a romantic ideal."
+    }
+  ],
+  "limits": "The mini-lesson text is approximately 194 words. Locators are chapter numbers; exact page numbers vary by edition."
+}

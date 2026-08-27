@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from John Milton\u2019s epic poem *Paradise Lost*, spoken by Satan. After being cast out of Heaven, Satan rallies the fallen angels and declares that it is better to hold power in Hell than to be a servant in Heaven.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263 (not explicitly numbered in the provided excerpt)",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This is the exact line the student asked about, confirming the speaker and the work."
+    }
+  ],
+  "limits": "The frozen excerpt does not include a line number; the traditional locator of Book I, line 263 is supplied from external scholarly consensus."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, Shakespeare braids hesitation, mortality, and performance into a tight thematic knot. Hamlet's iconic “To be, or not to be” soliloquy distills existential hesitation: to endure life's “slings and arrows” or to take arms against a sea of troubles by choosing death, that “undiscovered country” from which no traveler returns. Here, hesitation springs directly from contemplating mortality—death's mystery freezes action. Yet performance offers a way out. When the players arrive, Hamlet seizes on their art, declaring, “The play's the thing / Wherein I'll catch the conscience of the king.” By staging regicide, he forces a mortal secret into the light, using fiction to puncture the paralysis of doubt. Performance becomes an antidote to hesitation: the play-within-the-play mirrors murder, turning theater into a trap that reveals guilt and accelerates the tragedy. Shakespeare suggests that only by performing a confrontation with mortality can we overcome the inertia of introspection. Thus, the drama links the fear of death to the inability to act, and finds in performance a catalyst that transforms doubt into deadly momentum.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.64",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Supports how Hamlet's contemplation of suicide illustrates the paralysis caused by mortality."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.604-605",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Supports how performance becomes a strategy to overcome hesitation by forcing a confrontation with hidden guilt."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; they may vary by approximately ±5 lines in other scholarly editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous opening lines in literature captures the paradox of historical progress and decline occurring simultaneously, which helps explain historical contradiction. Charles Dickens writes in *A Tale of Two Cities*: “It was the best of times, it was the worst of times… it was the spring of hope, it was the winter of despair.” This juxtaposition reflects how the same era can be experienced in drastically different ways, depending on one’s social position—especially relevant during periods like the French Revolution, where great ideals coexisted with extreme violence.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by illustrating how opposing conditions—progress and regression, hope and despair—can coexist in the same historical moment."
+    }
+  ],
+  "limits": "Quotation is from the standard 1859 edition; minor variations may exist in earlier printings."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Class, marriage, and first impressions entwine from the very first page of Pride and Prejudice. Austen’s opening sentence announces an economic calculus of matrimony: wealth must seek a wife, and families must pursue wealth. This sets a world where marriage is less about affection than about securing fortune and status. Enter Darcy, whose infamous first impression at the Meryton assembly crystallizes how class pride distorts perception. Declaring Elizabeth merely “tolerable” and not worth his notice, he performs the very snobbery that the marriage market fosters. Elizabeth, overhearing, forms an immediate prejudice that will take the entire novel to undo. Austen uses that moment to show how class-based arrogance poisons social encounters and blinds individuals to genuine merit. Yet the plot slowly dismantles both the original financial logic of marriage and the faulty first impressions it spawns. Darcy learns humility; Elizabeth learns to see beyond wealth and pride. By the end, their union represents a marriage that corrects initial misjudgments, integrating true feeling with a realistic awareness of worldly station. Thus Austen critiques, through irony and reversal, the dangerous power of first impressions in a class-ridden marriage market.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic statement sets up the marriage market and class dynamics that drive the plot."
+    },
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This brutal first impression reveals Darcy's class pride and shapes Elizabeth's prejudice."
+    }
+  ],
+  "limits": "Quotations verified against standard edition; chapter numbers follow traditional divisions."
+}

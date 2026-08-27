@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as a double-edged sword—both a force for justice and a cycle of violence. Sacrifice, particularly through Sydney Carton’s ultimate act, underscores the redemptive power of selflessness amid societal upheaval. Doubling appears in characters like Carton and Darnay, whose similarities highlight the potential for transformation and the blurred lines between heroism and villainy. Dickens suggests that revolution demands personal sacrifice, but it also risks perpetuating the very oppression it seeks to overthrow. Through these themes, he questions whether true change can emerge from violence or if it requires individual acts of moral courage. The novel’s structure itself reflects doubling, with London and Paris serving as contrasting yet interconnected settings that amplify the tension between order and chaos.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of doubling in the novel, illustrating the paradoxical nature of the era and the contrasting forces at play during the revolution."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, as Carton’s selfless act represents the moral redemption possible even in a time of revolutionary violence."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition (2003)."
+}

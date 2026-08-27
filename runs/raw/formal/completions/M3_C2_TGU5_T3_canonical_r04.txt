@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, temptation, free will, and rebellion are central themes that shape the fall of humankind. Satan, expelled from Heaven for rebelling against God's authority, becomes the architect of temptation. He exercises his free will to corrupt humanity, believing he can subvert divine order. Upon entering Eden, he declares, \"Better to reign in Hell than serve in Heaven\"—revealing his defiant pride and rejection of obedience (Book 1, line 263). This quote illustrates Satan’s rebellion not as a reaction to coercion, but as a deliberate choice rooted in his will, highlighting Milton’s emphasis on moral agency. Temptation unfolds when Satan exploits Eve’s curiosity, twisting God’s command through deception. He convinces her that eating the forbidden fruit will elevate her to divine knowledge, saying, \"Ye shall be as gods, knowing both good and evil\" (Book 4, line 697). This manipulation echoes his own rebellion and underscores how free will, when clouded by pride and desire, leads to disobedience. Milton presents the Fall not as inevitable fate but as a consequence of rational creatures misusing their ability to choose. Thus, the poem explores how temptation thrives where free will collides with ambition and distrust of divine authority.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's proud rebellion and his assertion of free will against divine authority."
+    },
+    {
+      "quote": "Ye shall be as gods, knowing both good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 4, line 697",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates how temptation exploits desire for godlike knowledge, leading to disobedience."
+    }
+  ],
+  "limits": "Line numbers may vary slightly by edition; quotations are from the John Leonard Penguin Classics edition."
+}

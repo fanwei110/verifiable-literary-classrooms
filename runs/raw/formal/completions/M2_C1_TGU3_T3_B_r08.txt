@@ -1,0 +1,22 @@
+{
+  "answer": "Class, when we discuss first impressions, class, and marriage in Pride and Prejudice, we see Austen linking these concepts immediately. Our first impression of Darcy at the Meryton assembly is crucial—he embodies class privilege, and his dismissal of Elizabeth as 'tolerable' sours her view, creating the foundational prejudice that the entire plot works to resolve. The novel argues these impressions are not just personal failings but are deeply connected to rigid class structures that dictate marriage as an economic necessity, not a romantic ideal, as Charlotte Lucas’s pragmatic choice painfully illustrates. This contrast shows Austen critiquing a society where marriage is a marketplace, and first impressions, shaped by pride in status, nearly permanently thwart genuine compatibility.",
+  "evidence": [
+    {
+      "quote": "She is tolerable, but not handsome enough to tempt me; and I am in no humour at present to give consequence to young ladies who are slighted by other men.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote demonstrates how a first impression rooted in class arrogance creates the primary conflict."
+    },
+    {
+      "quote": "I ask only a comfortable home; and considering Mr. Collins's character, connexions, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote shows a character explicitly prioritizing financial security and class standing over love in a marriage proposal."
+    }
+  ],
+  "limits": "Quotes are from the standard public domain text of Pride and Prejudice; chapter numbering may differ slightly between editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are introduced through Satan’s defiant choice to reject God’s authority. Though cast out of Heaven, Satan asserts his independence, declaring that the mind can 'make a Heaven of Hell, a Hell of Heaven,' showing his refusal to submit. His assertion of free will, twisted by pride, frames rebellion as a form of autonomy. This inner resolve fuels his later temptation of Eve, showing how the exercise of free will, when corrupted by ambition and envy, leads to disobedience. Satan famously declares, 'Better to reign in Hell, then serve in Heav'n,' which encapsulates his rejection of divine order and embrace of self-will. Milton presents the fall not as fate, but as the tragic result of choices made. Both angelic and human beings possess the freedom to obey or rebel, and Satan’s speeches in Book I reveal how temptation begins within—through pride, envy, and the desire for absolute self-rule, ultimately leading to spiritual ruin.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan believes free will allows the mind to redefine reality, justifying his rebellion and inner corruption."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradiso Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s prideful choice of rebellion over obedience, showing how temptation is rooted in the desire for autonomy at any cost."
+    }
+  ],
+  "limits": "Note: 'Paradiso Lost' in one quote field is a typographical error; correct title is 'Paradise Lost'."
+}

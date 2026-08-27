@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, class. Today we'll explore how Dickens entwines revolution, sacrifice, and doubling in *A Tale of Two Cities* through a single, powerful lens. Consider the novel’s foundational opening, which immediately establishes a world of pervasive duality. The narrator states, 'It was the best of times, it was the worst of times.' This isn't just clever phrasing; it’s a thesis that the revolutionary era contains extreme opposites simultaneously. This logic of ‘doubling’ directly structures both the historical moment and the personal sacrifice at the novel's core. The revolution’s cry for justice mirrors the aristocracy’s past tyranny, creating a horrific echo. The ultimate sacrifice is similarly a doubling: Sydney Carton’s life is redeemed by his physical resemblance to Charles Darnay. His final, self-imposed sacrifice is an act of love that, paradoxically, resurrects the best part of himself. As Carton intuits, the ultimate Christian model of sacrifice is, '…I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live.' By channeling this scripture, Carton’s personal sacrifice becomes the ‘spring of hope’ born from the ‘winter of despair’ described in the opening line. The revolution's violent, collective renewal is juxtaposed with, and ultimately transcended by, a single act of love that defies the grave. Dickens suggests that true revolution happens not in the streets, but in the human heart, where one life can double for another and, in losing itself, find eternal purpose.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes the novel’s central rhetorical device of doubling, or antithesis, as the defining feature of the revolutionary period, creating a world of extremes that foreshadows both violence and redemption."
+    },
+    {
+      "quote": "I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter IX (recalled in spirit; text is from the burial service in Chapter XIV)",
+      "speaker_or_narrator": "Narrator (reciting scripture)",
+      "use_in_answer": "Reveals how the theme of doubling interconnects sacrifice and resurrection, showing Carton’s personal sacrifice as a spiritual act that mirrors and transcends the revolution’s earthly violence."
+    }
+  ],
+  "limits": "The second quote is a scriptural recitation Dickens uses throughout the novel, most famously echoing in Sydney Carton's final thoughts, but the verbatim line 'I am the resurrection...' appears in the funeral scene of Book II, Chapter XIV, and is the spiritual underpinning for Carton's sacrifice at the end of Book III. The locator reflects the chapter where the ritual of resurrection is performed, which directly foreshadows the novel's conclusion."
+}

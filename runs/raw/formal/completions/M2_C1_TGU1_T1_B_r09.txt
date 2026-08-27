@@ -1,0 +1,14 @@
+{
+  "answer": "To understand Hamlet's hesitation in the face of mortality, we can look at his famous 'To be, or not to be' soliloquy, where he weighs the pain of life against the unknown of death. He specifically says that the fear of what comes after death 'puzzles the will' and stops us from acting, even when life feels unbearable. This directly explains why he hesitates to take his revenge or even end his own suffering.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act III, Scene 1, lines 78-82",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly supports the argument that the fear of the unknown afterlife causes hesitation, or 'puzzles the will,' preventing decisive action regarding mortality."
+    }
+  ],
+  "limits": "Quotation uses standard modern-spelling text; original editions contain minor variations in punctuation (e.g., 'traveller' vs. 'traveler')."
+}

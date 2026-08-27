@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are deeply interconnected themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father after years of wandering. His disguise as a beggar upon returning to Ithaca tests the loyalty of his household and forces him to prove his worth beyond mere appearance. Hospitality, a sacred duty in Greek culture, becomes a lens for judging character: those who honor *xenia*, like the Phaeacians, aid Odysseus, while those who violate it, like the suitors, face brutal consequences. These themes highlight the fragility and resilience of identity, as Odysseus’s true self is only recognized by those who show him kindness or share his values. His homecoming is thus both a personal triumph and a moral reckoning, reinforcing the idea that identity is forged through struggle, recognition, and the bonds of hospitality.",
+  "evidence": [
+    {
+      "quote": "But now the rest were all at home, safe from the sea and war, / only Odysseus still longed to return to his home and his wife.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 13-14",
+      "speaker_or_narrator": "Narrator (Muse invocation)",
+      "use_in_answer": "This quote underscores the centrality of homecoming (*nostos*) as Odysseus’s defining desire, framing his journey as both a physical and existential quest to reclaim his identity."
+    },
+    {
+      "quote": "Stranger, I’ll treat you well; you shall not lack for clothing / or any other gift a suppliant deserves from his host.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 207-208",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This line exemplifies proper *xenia* (hospitality), showing how kindness to strangers preserves moral order and aids Odysseus’s journey, reinforcing the link between hospitality and identity."
+    }
+  ],
+  "limits": "Quotations are from Robert Fagles’ translation (1996); line numbers may vary slightly in other editions."
+}

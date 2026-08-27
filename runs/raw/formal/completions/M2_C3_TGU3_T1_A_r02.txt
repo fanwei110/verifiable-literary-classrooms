@@ -1,0 +1,14 @@
+{
+  "answer": "The novel's famous opening sentence is a masterstroke of irony. On the surface, it declares a universal truth: that a wealthy single man must be seeking a wife. In reality, the irony is that it's the surrounding families—especially mothers—who view such a man as the rightful property of their daughters, treating marriage as a competitive market.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the ironic gap between the proclaimed universal truth and the mercenary attitudes of the marriage market, where a man's wealth makes him a target."
+    }
+  ],
+  "limits": "Quotation taken from the provided source excerpt; the novel's text may vary across editions."
+}

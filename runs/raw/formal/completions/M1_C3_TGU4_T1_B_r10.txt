@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "Here’s a foundational passage from *A Tale of Two Cities* that captures the historical contradiction of the French Revolution—simultaneous extremes of hope and despair, progress and brutality. The novel’s famous opening lines illustrate how the same era could embody both the 'best of times' and the 'worst of times,' reflecting the contradictions inherent in revolutionary change and the cyclical nature of history itself.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly supports the idea of historical contradiction by juxtaposing opposing conditions (e.g., 'Light' and 'Darkness') to show how revolutionary periods embody paradoxical extremes."
+    }
+  ],
+  "limits": "The passage is from the 1859 first edition; minor variations may exist in later editions or abridgments."
+}
+```

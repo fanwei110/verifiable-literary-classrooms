@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as interconnected forces shaping humanity's fall. Satan’s rejection of divine authority exemplifies rebellion born from pride. Even after his defeat, he declares, 'Better to reign in Hell than serve in Heaven'—showing his refusal to submit, choosing autonomous suffering over obedient peace. This mindset mirrors the broader theme of free will: both angels and humans possess the power to choose, for better or worse. Temptation enters not through force, but through manipulation of desire and reason. Satan exploits Eve’s curiosity and sense of self-worth, planting doubt about God’s command. Before eating the fruit, Eve reflects, 'Did I but think? / No: feel I not within me strange ascent? / Sure of happy issue.' Here, she misinterprets physical sensation as divine revelation, illustrating how temptation distorts judgment. Milton emphasizes that neither Eve nor Adam are coerced; they choose disobedience, affirming their free will. Their fall is tragic not because it was predestined, but because it was avoidable. Through these moments, Milton underscores a central paradox: the very gift of free will enables both the possibility of virtue and the reality of sin. Thus, rebellion and temptation become tests of loyalty, reason, and love for God.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's defiant rebellion and preference for self-rule over divine order."
+    },
+    {
+      "quote": "Did I but think? / No: feel I not within me strange ascent? / Sure of happy issue.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 736–738",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote illustrates how temptation leads Eve to mistake emotion for enlightenment, showing her active choice in the fall."
+    }
+  ],
+  "limits": "Quotations are from the John Leonard edition of Paradise Lost (Penguin Classics); line numbers may vary slightly by edition."
+}

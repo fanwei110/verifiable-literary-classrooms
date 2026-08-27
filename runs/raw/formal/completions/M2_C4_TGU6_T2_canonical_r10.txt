@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Homer’s *Odyssey*, spoken by Odysseus. He tells the Cyclops Polyphemus that his name is “Noman” (a pun on “Nobody”) so that when the Cyclops is later blinded and cries for help, the other Cyclopes will think no one is attacking him.",
+  "evidence": [
+    {
+      "quote": "‘Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.’",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus (the narrator)",
+      "use_in_answer": "This quote directly shows Odysseus giving the false name “Noman” to the Cyclops, setting up the trick that protects him and his men."
+    }
+  ],
+  "limits": "None; the excerpt uses the spelling “Noman” for the name, which is a common translation choice."
+}

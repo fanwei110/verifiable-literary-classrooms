@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, temptation, free will, and rebellion are central themes that shape the fall of humanity. Satan, after his own rebellion against God, becomes the embodiment of deceptive temptation. He enters Eden and preys on Eve's curiosity and pride, manipulating her perception of obedience and freedom. Milton emphasizes that both Adam and Eve possess free will—the ability to choose obedience or defiance. Their choice to eat the forbidden fruit is not forced but stems from temptation and flawed reasoning. Satan’s seductive argument frames disobedience as enlightenment, tricking Eve into believing she will become 'like Gods' (Book 3, Line 70). This moment captures the essence of rebellion as a distortion of truth. Yet Milton clarifies that God, foreseeing but not causing this outcome, holds humanity accountable because they exercised free will. As the narrator states, 'They, forthwith to the Tree / Of Liberty'—a misreading of divine law (Book 3, Lines 101–102). Thus, rebellion in Eden is not a necessity but a tragic choice, underscoring Milton's argument that moral responsibility requires genuine freedom.",
+  "evidence": [
+    {
+      "quote": "They, forthwith to the Tree / Of Liberty",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, Lines 101–102",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote supports how Adam and Eve misinterpret God’s command, framing their rebellion as a pursuit of freedom rather than disobedience."
+    },
+    {
+      "quote": "so eating shall die / Knowledge of Good and Evil; which no Beast / Of all his Beings has; he onely can / Taste thereof, like Gods knowing both",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, Line 70",
+      "speaker_or_narrator": "Satan (disguised as a serpent)",
+      "use_in_answer": "This quote demonstrates how Satan tempts Eve by falsely claiming the fruit will elevate her to godlike knowledge, exploiting her free will."
+    }
+  ],
+  "limits": "Line numbers may vary slightly across editions; the quotes reflect standard reading texts."
+}

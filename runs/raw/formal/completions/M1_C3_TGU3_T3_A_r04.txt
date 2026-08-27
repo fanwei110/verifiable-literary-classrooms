@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage shape relationships and social expectations. The novel opens with a satirical observation about marriage as a social transaction: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line underscores how class and wealth dictate marital prospects, as families like the Bennets immediately assume Mr. Bingley’s arrival means he is a potential husband for one of their daughters. First impressions often prove misleading, however, as Elizabeth Bennet’s initial prejudice against Mr. Darcy demonstrates. Her later realization—'How despicably have I acted! ... I, who have prided myself on my discernment!'—reveals how her snap judgments were clouded by vanity and societal biases. Austen critiques the superficiality of first impressions while highlighting how class and marriage intersect, forcing characters to confront their own prejudices and the rigid expectations of their society.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is framed as a social and economic transaction, driven by class and wealth."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s self-awareness about her flawed first impressions and the role of prejudice in her judgments."
+    }
+  ],
+
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The first quote is from the novel’s opening lines."
+}
+```

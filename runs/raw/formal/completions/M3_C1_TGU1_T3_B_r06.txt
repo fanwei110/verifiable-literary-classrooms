@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his profound hesitation, rooted in the fear of what comes after death. Rather than acting swiftly to avenge his father, he is paralyzed by philosophical doubt. This internal conflict highlights how human awareness of mortality stifles decisive action. Moreover, performance becomes a tool for both evasion and insight. The characters constantly adopt roles—Hamlet feigns madness, Claudius performs innocence, and actors stage *The Murder of Gonzago* to 'catch the conscience of the King.' These layers of performance mirror the uncertainty of truth in a world shadowed by death. Hamlet’s hesitation is not mere cowardice; it reflects the complexity of moral action when life and afterlife remain mysterious. The play suggests that in confronting mortality, individuals retreat into roles, delaying authentic engagement with reality. Thus, Hamlet’s inaction becomes a meaningful response to existential questions.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question—",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–89",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s hesitation and existential contemplation of mortality."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, Lines 607–608",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how performance is used strategically to uncover truth amid deception."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other editions."
+}

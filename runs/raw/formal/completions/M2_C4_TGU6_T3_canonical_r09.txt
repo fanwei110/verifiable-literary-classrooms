@@ -1,0 +1,21 @@
+{
+  "answer": "The Odyssey explores homecoming (nostos), identity, and hospitality as intertwined themes. From the outset, the epic frames Odysseus's identity through his longing for home. The narrator tells us: \"he was longing to return to his wife and country, was detained by the goddess Calypso\" (Book I). This yearning defines himânot as a warrior, but as a man bound by domestic ties. Yet homecoming is impossible without the hospitality of strangers. When shipwrecked Odysseus, stripped of all markers of status, supplicates Nausicaa, he invokes the ideal home he seeks: \"May heaven grant you in all things your heartâs desireâhusband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house\" (Book VI). In blessing her future household, he reveals his own deepest longing and the cultural conviction that a harmonious home is lifeâs greatest good. The Phaeaciansâ generous reception grants him passage toward that goal, proving that hospitality is the bridge between a strangerâs vulnerability and the restoration of identity and home. Thus, the poem teaches that who we are is inseparable from where we belong and from the welcome we extend to those still journeying.",
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation establishes homecoming as Odysseus's fundamental motivation and core identity, as even the gods recognize his desire to return to his wife and country."
+    },
+    {
+      "quote": "May heaven grant you in all things your heartâs desireâhusband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Odysseus's blessing to Nausicaa links hospitality to the ideal of a united home, revealing both his personal longing and the poem's belief that homecoming is the supreme good."
+    }
+  ],
+  "limits": "The second excerpt does not explicitly name its book number;

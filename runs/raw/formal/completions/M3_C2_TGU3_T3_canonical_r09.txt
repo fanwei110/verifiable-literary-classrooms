@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, first impressions, class, and marriage are tightly intertwined. Characters often misjudge one another based on initial appearances and social standing, revealing the novel’s critique of rigid class structures. Elizabeth Bennet, for instance, forms a strong prejudice against Mr. Darcy after he snubs her at the Meryton ball, believing him 'the last man in the world whom I could ever be prevailed on to marry.' This shows how pride and quick judgments influence personal relationships. Darcy, too, initially resists marrying Elizabeth due to her lower social connections, reflecting how class dictates suitability in marriage during this era. Yet, Austen challenges these assumptions through character development—Elizabeth and Darcy both grow beyond their initial biases. As Elizabeth declares, 'he is perfectly tolerable, I assure you, and I see no occasion for embracing the offer', highlighting her independent mindset toward marriage as more than a transaction. Ultimately, the novel suggests that while class and first impressions shape society, true compatibility and mutual respect matter most. Love triumphs not through conformity, but through personal growth and self-awareness.",
+  "evidence": [
+    {
+      "quote": "he is perfectly tolerable, I assure you, and I see no occasion for embracing the offer",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports Elizabeth’s early resistance to societal pressure to accept marriage proposals based on status."
+    },
+    {
+      "quote": "the last man in the world whom I could ever be prevailed on to marry",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 34",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates how Elizabeth's first impression of Darcy, shaped by pride and class bias, initially prevents her from considering him as a marital partner."
+    }
+  ],
+  "limits": "Quotations are from the 1813 edition; slight variations may exist in modern editions."
+}

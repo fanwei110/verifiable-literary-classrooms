@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the tumultuous themes of revolution, sacrifice, and doubling against the backdrop of the French Revolution. The revolution is portrayed as both a violent uprising and a call for justice, with Dickens capturing its duality through juxtaposed imagery of light and darkness. As societal tensions rise, personal and political destinies become entwined. Sacrifice emerges as a central moral act, embodied most powerfully in Sydney Carton’s final decision to give his life for Charles Darnay. This selfless act fulfills his promise to Lucie, declaring, 'It is a far, far better thing that I do, than I have ever done.' Carton’s sacrifice redeems not only himself but also underscores the novel’s message of hope amid despair. Doubling—the mirroring of characters and lives—reinforces this moral contrast, as Carton and Darnay, though physically alike, lead vastly different lives. Carton’s transformation through sacrifice completes the doubling with a spiritual resolution. The revolutionary chaos, captured in the storm imagery of Book the Third, becomes the crucible in which personal virtue is tested and ultimately affirmed.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and revolution, illustrating the contradictory forces shaping the era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, capturing Carton’s redemptive final act."
+    }
+  ],
+  "limits": "The source excerpts are truncated, but the quoted passages are standard in most editions of the novel."
+}

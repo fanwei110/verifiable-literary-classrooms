@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how Shakespeare intertwines ambition, prophecy, and guilt in *Macbeth*. The play suggests that unchecked ambition—fueled by supernatural prophecy—leads to moral corruption and psychological torment. Macbeth’s initial hesitation to murder Duncan (‘We will proceed no further in this business’ in 1.7) quickly gives way to ruthless determination once the witches’ predictions ignite his desire for power. Yet, the prophecies are ambiguous; they plant the seed of ambition but don’t force Macbeth’s hand. His guilt, however, is inescapable. After Duncan’s murder, Macbeth is haunted by his crime, crying, ‘Will all great Neptune’s ocean wash this blood / Clean from my hand?’ (2.2). The blood here symbolizes both literal and metaphorical stains—his guilt is so profound that no amount of water can purify him. Notice how ambition and prophecy drive the action, but guilt reveals the cost of Macbeth’s choices. This tension between fate and free will, desire and remorse, is central to the tragedy. What do these moments suggest about human nature and the dangers of ambition?",
+  "evidence": [
+    {
+      "quote": "We will proceed no further in this business",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s initial reluctance to act on his ambition before the witches’ prophecies fully corrupt his moral judgment."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line illustrates Macbeth’s overwhelming guilt and the irreversible consequences of his ambition-driven actions."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other editions."
+}

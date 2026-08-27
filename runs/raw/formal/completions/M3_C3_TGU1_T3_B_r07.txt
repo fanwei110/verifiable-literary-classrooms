@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his profound hesitation about action, stemming from a fear of the unknown after death. He questions whether enduring suffering is nobler than ending it, admitting, 'To be, or not to be, that is the question'—a moment of introspection that paralyzes decisive action. This hesitation is not mere cowardice but philosophical depth, as he confronts the weight of existence and what lies beyond. Simultaneously, performance becomes a tool for truth: characters mask inner guilt with 'pious action,' as Claudius admits in an aside, 'The harlot’s cheek, beautied with plastering art, / Is not more ugly to the thing that helps it / Than is my deed to my most painted word.' Here, Claudius acknowledges the grotesque gap between his performative innocence and inner corruption. The play thus reveals that performance can obscure morality, while mortality—especially the uncertainty of the afterlife—intensifies human hesitation. Hamlet's delay is not weakness, but a reflection of the complexity of revenge, ethics, and the soul’s fate. In this world, action demands courage not only against external consequences but internal revelation.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question:",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation and deep philosophical struggle with mortality, illustrating why he delays action."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "This quote supports the theme of performance, showing how Claudius’s outward appearance masks inner moral decay."
+    }
+  ],
+  "limits": "The source excerpts provided match the First Folio text of 'Hamlet'; lineation may vary slightly in modern editions, but the quoted content is consistent with standard scholarly versions."
+}

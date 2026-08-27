@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores how hesitation, mortality, and performance intersect to shape the protagonist’s tragic journey. Hamlet’s delay in avenging his father’s murder stems from his deep introspection and fear of the unknown—both the afterlife and the consequences of action. His famous soliloquy, 'To be, or not to be,' reveals his paralyzing doubt: is it nobler to endure suffering or to act, even if it means risking death? This hesitation isn’t just indecision; it’s a crisis of meaning, where mortality looms large. Hamlet’s obsession with performance—like his 'antic disposition'—further complicates his resolve, as he masks his true intentions behind theatricality. Yet, this performative hesitation also underscores his humanity; he’s not a mere avenger but a thinker grappling with existential questions. Ultimately, Hamlet’s delay leads to his downfall, suggesting that overthinking can be as destructive as reckless action. Shakespeare forces us to ask: when does hesitation become cowardice, and when does it reflect wisdom?",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s existential hesitation, framing his delay as a philosophical struggle between action and inaction in the face of mortality."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606-607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line shows Hamlet’s reliance on performance to test reality, linking his hesitation to his need for certainty before acting."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series, 2006). Line numbers may vary slightly in other editions."
+}

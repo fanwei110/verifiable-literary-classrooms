@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s journey to Ithaca is not merely physical but also a quest to reclaim his identity and rightful place. His careful self-revelation underscores the importance of trust and recognition in reestablishing one's identity. When Odysseus returns to his palace disguised as a beggar, he tests the loyalty of others while observing the customs of hospitality, or xenia. The Phaeacians exemplify ideal hosts, offering aid without demanding his name first. Later, Odysseus’s reunion with Penelope hinges on shared knowledge only they possess. The restoration of his household depends on proper hospitality being honored and his true identity being confirmed. When Eurycleia discovers him, Odysseus says, 'Now let me know of this, and tell me truly,' emphasizing the need for truth in recognition. This moment reflects how identity is validated through intimate, personal knowledge. The reunion with Penelope solidifies this theme, as she says, 'You have your undying proof,' acknowledging their marital bed—an irrefutable symbol of their shared past. Together, these moments illustrate that true homecoming requires more than arrival; it demands recognition, fidelity, and the reaffirmation of identity through meaningful hospitality.",
+  "evidence": [
+    {
+      "quote": "Now let me know of this, and tell me truly",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 480-481",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports Odysseus's demand for truth and recognition, highlighting how identity is confirmed through personal knowledge during his homecoming."
+    },
+    {
+      "quote": "You have your undying proof",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, line 203",
+      "speaker_or_narrator": "Penelope",
+      "use_in_answer": "This quote supports the idea that Penelope's recognition of Odysseus relies on an unshakable, intimate sign—the marital bed—reaffirming identity and rightful homecoming."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation; line numbers may vary slightly by edition."
+}

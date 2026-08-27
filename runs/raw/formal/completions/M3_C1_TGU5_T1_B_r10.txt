@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explains the fall of man and original disobedience by tracing how Adam and Eve's choice to defy God's command leads to their expulsion from Eden. Milton writes to 'justify the ways of God to men,' showing how free will, temptation, and disobedience result in humanity's fallen state. A key moment occurs after Adam and Eve eat the forbidden fruit, when their eyes are opened—not to greater wisdom, but to shame and guilt—marking the tragic turn in their relationship with God.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat, / Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–6",
+      "speaker_or_narrator": "The Narrator (Milton himself, invoking the Muse)",
+      "use_in_answer": "This opening passage directly names 'Man's First Disobedience' as the source of death and suffering, establishing the epic's central theme of the Fall."
+    }
+  ],
+  "limits": "Quotation is from the 1674 edition of *Paradise Lost*, the final authorized version. Line numbers may vary slightly in different printings, but Book I, lines 1–6 are consistent in standard scholarly editions."
+}

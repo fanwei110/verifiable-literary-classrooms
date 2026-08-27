@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance intertwine as the prince grapples with action and authenticity. Hamletâs famous soliloquy, âTo be, or not to be, that is the questionâ (3.1.56), captures his existential paralysis: the fear of what dreams may come after death makes him hesitate to act, whether in vengeance or suicide. This contemplation of mortality reveals a mind that over-thinks, turning action into endless performance of thought. Yet Hamlet also wields performance deliberately. After meeting the players, he exclaims, âThe playâs the thing / Wherein Iâll catch the conscience of the kingâ (2.2.633-634), showing how theatrical illusion becomes a weapon to probe guilt and mortality. The play-within-a-play forces Claudius to confront his crime, proving that staged performance can penetrate where words fail. Thus, hesitation stems from a heightened awareness of death, but performance offers a paradoxical path toward truth. The interplay suggests that in a world where all life is a stage, even hesitation is a performed response to the fear of mortality. Shakespeare uses these motifs to question whether authentic action is possible when we are always acting.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, scene 1, line 56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Shows how Hamletâs hesitation is rooted in a fear of mortality and the unknown afterlife, turning action into a performed internal debate."
+    },
+    {
+      "quote": "The playâs the thing / Wherein Iâll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, scene 2, lines 633-634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Demonstrates how performance becomes a deliberate strategy to expose guilt and confront mortality, linking theatricality to truth-seeking."
+    }
+  ],
+  "limits": "Line numbers follow the Arden Shakespeare; they may vary slightly in other editions."
+}

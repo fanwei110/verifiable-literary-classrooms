@@ -1,0 +1,14 @@
+{
+  "answer": "In *Hamlet*, Shakespeare captures the tension between mortality and hesitation through Hamlet’s famous soliloquy. This moment reveals how the awareness of death can paralyze action, making us reflect on the very nature of existence and our reluctance to act decisively. Here’s a key passage that illustrates this struggle:",
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote underscores Hamlet’s existential hesitation, as he weighs the pain of life against the uncertainty of death, illustrating how mortality can immobilize action."
+    }
+  ],
+  "limits": "The quoted lines follow the First Folio text; modern editions may vary slightly in punctuation or lineation."
+}

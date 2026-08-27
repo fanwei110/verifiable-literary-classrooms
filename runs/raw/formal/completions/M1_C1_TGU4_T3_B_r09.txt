@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *A Tale of Two Cities* uses revolution, sacrifice, and doubling to mirror chaos and redemption. The novel’s opening—'It was the best of times, it was the worst of times'—captures the duality of the French Revolution: hope and violence coexist, just as characters like Sydney Carton and Charles Darnay reflect each other’s fates. Revolution here isn’t just political; it’s personal. Sacrifice becomes the bridge between these doubles. Carton’s famous last words, 'It is a far, far better thing that I do, than I have ever done,' reveal how self-giving transforms suffering into meaning. His death echoes the revolution’s brutality but also its potential for renewal. Notice how Dickens pairs characters and cities—London and Paris, Carton and Darnay—to show how history’s cycles demand individual acts of courage. The novel asks: Can sacrifice break the cycle of vengeance? These quotes help us see how doubling heightens the stakes, making revolution both destructive and redemptive.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of doubling and the duality of revolution, framing the novel’s central tensions."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates sacrifice as a redemptive act that counters the revolution’s violence."
+    }
+  ],
+  "limits": "Quotes are from the 1859 Chapman & Hall first edition; chapter numbering may vary in other editions."
+}

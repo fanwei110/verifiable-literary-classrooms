@@ -1,0 +1,14 @@
+{
+  "answer": "In *Macbeth*, Shakespeare vividly explores the destructive power of unchecked ambition and the psychological toll it takes through hallucinations. One of the most striking examples occurs in Act 2, Scene 1, where Macbeth, consumed by his ambition to become king, envisions a dagger leading him toward Duncan’s murder. This moment illustrates how ambition can distort reality, blurring the line between imagination and action. The dagger symbolizes both Macbeth’s guilt and his feverish determination, showing how ambition can manifest as a haunting, almost supernatural force. This passage is essential for understanding how Shakespeare links ambition to psychological unraveling—Macbeth’s mind becomes a battleground where desire and morality collide, foreshadowing his descent into madness.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s hallucination—a dagger that embodies his ambition and guilt—revealing how his mind is unraveling under the weight of his murderous intentions."
+    }
+  ],
+  "limits": "The quoted lines are from the First Folio (1623) edition of *Macbeth*; minor variations may exist in modern editions, but the core imagery and meaning remain consistent."
+}

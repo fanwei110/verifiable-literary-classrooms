@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Hamlet, the character grapples with the fear of death and the uncertainty of what comes after, which paralyzes his ability to act. This internal conflict illuminates both the human preoccupation with mortality and the resulting hesitation in decisive action.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This soliloquy captures Hamlet's contemplation of existence and death, illustrating how the fear of the unknown afterlife creates hesitation in taking action, whether in enduring life or ending it."
+    }
+  ],
+  "limits": "The line numbers may vary slightly depending on edition; this citation follows the Arden Shakespeare, Third Series."
+}

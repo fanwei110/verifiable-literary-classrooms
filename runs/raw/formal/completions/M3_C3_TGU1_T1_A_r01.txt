@@ -1,0 +1,14 @@
+{
+  "answer": "In this moment from Hamlet, Shakespeare explores the human struggle with mortality and the fear that leads to hesitation. Hamlet questions whether it is better to endure life's suffering or to end it all through death, which he compares to sleep. Yet, the uncertainty of what comes after death—the possibility of troubling dreams in that 'sleep'—gives him pause. This fear of the unknown beyond life is what makes people bear their current miseries rather than seek an uncertain end, illustrating how deeply our awareness of mortality shapes our actions and inaction.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause. There’s the respect That makes calamity of so long life.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–70",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that fear of the unknown after death causes human hesitation and motivates endurance of suffering in life."
+    }
+  ],
+  "limits": "The exact line numbers may vary slightly depending on the edition (e.g., Folger, Arden, Oxford), but the quotation is from Act 3, Scene 1, commonly known as the 'To be, or not to be' soliloquy."
+}

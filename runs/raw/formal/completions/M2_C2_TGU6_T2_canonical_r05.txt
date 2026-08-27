@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Odysseus in Homer’s *Odyssey*. He uses the fictitious name “Noman” (or “Nobody”/“No man”) as a clever trick to outwit the Cyclops Polyphemus.",
+  "evidence": [
+    {
+      "quote": "‘Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote provides the exact line and context, showing Odysseus telling Polyphemus his name is Noman as part of his escape plan."
+    }
+  ],
+  "limits": "Translations vary; in some versions the name is given as ‘Nobody’ or ‘No man’ rather than ‘Noman’."
+}

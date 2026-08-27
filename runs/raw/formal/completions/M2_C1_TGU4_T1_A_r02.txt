@@ -1,0 +1,14 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens opens with a series of stark contrasts that capture the essence of historical contradiction: the same period can be perceived as both an age of wisdom and foolishness, of light and darkness, of hope and despair.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly presents the coexistence of opposite conditions during the French Revolution era, illustrating how historical periods are defined by contradiction."
+    }
+  ],
+  "limits": "The quotation is from the novel's famous opening paragraph; some editions may have minor punctuation differences."
+}

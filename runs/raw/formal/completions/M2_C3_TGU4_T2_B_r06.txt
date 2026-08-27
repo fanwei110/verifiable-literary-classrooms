@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton in Charles Dickens's novel *A Tale of Two Cities*. It comes at the very end of the book, as Carton awaits execution at the guillotine, having secretly taken the place of his look-alike Charles Darnay. Reflecting on his sacrifice, he finds a sense of redemption and peace, imagining a better future for those he loves.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 (The Footsteps Die Out Forever)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote captures Carton's final internal monologue, directly expressing the theme of resurrection through self-sacrifice."
+    }
+  ],
+  "limits": "Attribution and context are undisputed; the text is widely available."
+}

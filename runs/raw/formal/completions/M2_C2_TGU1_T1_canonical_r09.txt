@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet, the “To be, or not to be” soliloquy directly treats mortality as the central question of existence and hesitation as the inability to resolve it. The opening lines capture this: Hamlet asks whether it is better to endure life’s pain or to end it, yet he cannot immediately choose.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act III, Scene 1, lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the theme of mortality by framing life versus death as the fundamental question, and hesitation by showing Hamlet’s vacillation between passive suffering and active self-destruction."
+    }
+  ],
+  "limits": "Line numbers may vary slightly between editions; this follows the Arden Shakespeare numbering."
+}

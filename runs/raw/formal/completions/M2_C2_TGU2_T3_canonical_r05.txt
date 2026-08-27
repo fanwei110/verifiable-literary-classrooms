@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, ambition, prophecy, and guilt interlock to drive the tragedy. The weird sisters' prophecy plants a seed of desire, but it is Macbeth's own 'vaulting ambition' that he confesses has no spur but itself (1.7.25‑27). He recognizes that his intent lacks moral justification, yet the allure of kingship overpowers him. Once he murders Duncan, ambition gives way to guilt. Macbeth’s hallucinatory vision of bloodstained hands leads him to ask, 'Will all great Neptune’s ocean wash this blood / Clean from my hand?' (2.2.60‑61). This rhetorical question emphasises that his guilt is infinite—no ocean can cleanse his conscience. Shakespeare thus presents a chain: prophecy kindles ambition, ambition overleaps conscience, and guilt becomes an inescapable psychological torment. The play warns that ambition untempered by moral restraint, once awakened by supernatural suggestion, leaves a permanent stain on the soul.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition",
+      "author": "William Shakespeare",
+      "work": "The Tragedy of Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-27",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This reveals that Macbeth's only motivation is ambition, ignited by the witches' prophecy."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "The Tragedy of Macbeth",
+      "locator": "Act 2, Scene 2, lines 60-61",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This haunting image of indelible blood illustrates the overwhelming guilt that immediately follows his regicide."
+    }
+  ],
+  "limits": "Line numbers follow standard conflations; slight variations may occur across editions."
+}

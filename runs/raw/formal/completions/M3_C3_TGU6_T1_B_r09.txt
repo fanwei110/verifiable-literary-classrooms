@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, wandering is deeply tied to both punishment and the unfolding of story. The opening lines introduce Odysseus as a man who 'travelled far and wide' after the fall of Troy, framing his journey not just as physical movement but as a consequence of human error and divine will. His wandering becomes the vehicle for the narrative itself—one shaped by loss, exile, and the quest for home.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1–10",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote establishes the central theme of wandering as both a physical journey and a narrative framework, showing that Odysseus's travels are shaped by divine will and human failure."
+    }
+  ],
+  "limits": "The quotation is from the Samuel Butler translation (1900), as reflected in the source excerpt. Line numbering may vary slightly in other editions."
+}

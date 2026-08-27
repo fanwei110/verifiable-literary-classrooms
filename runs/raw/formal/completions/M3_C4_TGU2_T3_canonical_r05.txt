@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt are intertwined forces driving Macbeth's downfall. The witches' prophecy ignites Macbeth’s vaulting ambition, pushing him to murder King Duncan and seize the throne. Yet, once he embarks on this bloody path, guilt torments him. Before the murder, Macbeth hallucinates a dagger, asking, 'Is this a dagger which I see before me, / The handle toward my hand?' This vision reveals his inner turmoil—his ambition pulls him forward, but his conscience resists. The 'fatal vision' symbolizes the crime he is about to commit, showing how prophecy and ambition overwhelm his moral judgment. Afterward, guilt consumes him, as he sees blood on the dagger that wasn't there before, admitting, 'It is the bloody business which informs / Thus to mine eyes.' These lines show that his mind projects guilt onto reality, blurring perception and illusion. While prophecy sets the wheels in motion, it is Macbeth’s unchecked ambition and subsequent guilt that define his psychological unraveling. Lady Macbeth, initially more resolute, later succumbs to guilt in her sleepwalking scene—though beyond the excerpt—not proving ambition without consequence. Together, the play argues that ambition driven by prophecy leads not to power, but to psychological ruin.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the presence of guilt and inner conflict in Macbeth as he contemplates regicide, showing how ambition clashes with conscience."
+    },
+    {
+      "quote": "It is the bloody business which informs Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how Macbeth's guilt manifests perceptually, linking his mental state to the violent act he is about to commit."
+    }
+  ],
+  "limits": "The provided excerpts do not include Lady Macbeth's sleepwalking scene, so that reference is acknowledged as beyond the source window."
+}

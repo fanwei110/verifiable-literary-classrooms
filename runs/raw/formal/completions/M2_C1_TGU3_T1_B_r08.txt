@@ -1,0 +1,14 @@
+{
+  "answer": "The novel's opening line immediately establishes the marriage market's ironic tension: it presents the assumption that wealthy men are hunting for wives, while the actual story shows that financially vulnerable women are the real hunters, turning a 'truth universally acknowledged' into a satirical comment on economic necessity disguised as romance.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the ironic distance between the stated 'truth' and the actual economic motives that drive the marriage market, as the novel soon reveals that it is women who must pursue wealthy men."
+    }
+  ],
+  "limits": "None"
+}

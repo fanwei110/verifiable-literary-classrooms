@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion—central themes that define humanity’s fall. Satan’s defiance is not merely an act of malice but a twisted assertion of autonomy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a perverse exercise of free will, rejecting divine hierarchy in favor of self-determination, even at the cost of eternal suffering. Yet Milton also frames temptation as a test of human agency. The poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—directly link Adam and Eve’s fall to their choice to disobey, emphasizing that their downfall stems from a deliberate, if flawed, exercise of free will. Satan’s rhetoric seduces, but the ultimate responsibility lies with humanity’s capacity to resist or yield. Thus, Milton presents rebellion as both a tragic flaw and a defining feature of free will, illustrating how temptation exploits the very liberty that makes virtue possible.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rebellion as a deliberate choice to prioritize autonomy over obedience, framing his defiance as a distorted exercise of free will."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–2",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This opening phrase establishes the fall as a consequence of human disobedience, highlighting the role of free will in succumbing to temptation."
+    }
+  ],
+
+  "limits": "The quoted lines are from the 1674 second edition of *Paradise Lost*; spelling and punctuation reflect early modern conventions (e.g., 'then' for 'than')."
+}
+```

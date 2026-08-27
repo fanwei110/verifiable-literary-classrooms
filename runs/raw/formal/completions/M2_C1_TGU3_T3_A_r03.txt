@@ -1,0 +1,22 @@
+{
+  "answer": "Today’s mini-lesson examines how Austen satirizes the Regency marriage market while warning against the dangers of first impressions. The novel’s ironic opening line immediately establishes the economic foundation of courtship: a wealthy man is seen as property to be captured. This class-conscious premise blinds characters like Mrs. Bennet and Mr. Collins, who view marriage solely as a financial transaction. Yet Austen complicates this by showing how first impressions, rooted in class pride, can be equally misleading. When Darcy slights Elizabeth at the assembly, her wounded pride festers: she later confesses her resentment. Her initial judgment of him as insufferably arrogant—and his of her as merely ‘tolerable’—creates the mutual prejudice that drives the plot. As the novel unfolds, both must overcome these early misreadings to achieve a marriage based on mutual respect and understanding, not just economic advantage or wounded vanity. Austen thus critiques a society that reduces marriage to class currency, while reminding us that our first impressions are often poor guides to character.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic statement illustrates the class-based, transactional view of marriage that Austen satirizes."
+    },
+    {
+      "quote": "I could easily forgive his pride, if he had not mortified mine.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 5",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s remark reveals how wounded pride from a first impression fuels the titular prejudice."
+    }
+  ],
+  "limits": "Quotations are from the first edition (1813) with chapter divisions as standard."
+}

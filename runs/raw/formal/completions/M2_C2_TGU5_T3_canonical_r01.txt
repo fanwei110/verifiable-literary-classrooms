@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton presents temptation as the unavoidable test of a creature’s free will, and rebellion as the tragic misuse of that freedom. Free will is not a liability but the very condition that makes love and obedience meaningful. Satan’s fall demonstrates that rebellion begins in the mind. Refusing to accept his created station, he declares, “The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven.” Temptation does not force the will; rather, it exploits a disposition already inclined toward self-exaltation. Satan convinces himself that independence is preferable to grateful service, and in doing so, he transforms his own perception of reality, making Hell a kingdom rather than a prison. God himself underscores the design of free will when he says of humanity, “I made him just and right, / Sufficient to have stood, though free to fall.” This means that Adam and Eve possessed everything necessary to resist temptation—their fall was not inevitable. The serpent’s temptation succeeds only because Eve entertains the false promise of godlike knowledge, just as Satan’s own pride inverted his vision. Milton thus ties rebellion directly to a will that, though created good, freely chooses to reimagine evil as a greater good, a choice for which it remains fully responsible.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote shows that Satan’s rebellion originates internally, twisting perception so that Hell becomes a throne, illustrating how temptation acts on a prideful will."
+    },
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98-99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This quote establishes that human free will was created upright and capable of resisting temptation, making the subsequent fall a deliberate act of rebellion."
+    }
+  ],
+  "limits": ""
+}

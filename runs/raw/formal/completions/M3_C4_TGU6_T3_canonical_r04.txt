@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are central themes that shape the hero’s journey. Odysseus’s longing to return home underscores the emotional and physical trials of homecoming. When he arrives in unfamiliar lands, his identity is initially unknown, yet he appeals to human kindness through the culturally sacred practice of hospitality. This is evident when Od duly respectful plea to Nausicaa, where he requests aid and praises marital harmony as life’s greatest good. The Phaeacians, described as god-favored and isolated, respond with generosity, affirming their adherence to divine customs. Nausicaa’s response confirms that hospitality is not merely kindness but a moral duty guided by social norms and divine favor. Together, these moments reveal how identity is slowly reclaimed through recognition and how homecoming is made possible by hospitality rooted in mutual respect and piety.",
+  "evidence": [
+    {
+      "quote": "And now, O queen, have pity upon me, for you are the first person I have met, and I know no one else in this country. Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in. May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the connection between hospitality and identity, showing Odysseus humbly seeking aid while expressing values that align him with civilized society."
+    },
+    {
+      "quote": "To this Nausicaa answered, “Stranger, you appear to be a sensible, well-disposed person. There is no accounting for luck; Jove gives prosperity to rich and poor just as he chooses, so you must take what he has seen fit to send you, and make the best of it. Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.”",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the theme of hospitality, showing Nausicaa’s compassionate response to Odysseus, offering help based on moral duty and divine will."
+    }
+  ],
+  "limits": "The provided source excerpts are from a translated version of The Odyssey and may vary slightly in wording depending on the translation."
+}

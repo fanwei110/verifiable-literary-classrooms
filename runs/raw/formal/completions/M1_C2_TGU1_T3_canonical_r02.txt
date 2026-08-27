@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the pressure of performance through the titular character’s internal conflict. Hamlet’s delay in avenging his father’s murder stems from his profound awareness of life’s fragility and the moral weight of action. His famous soliloquy, 'To be, or not to be,' reveals his existential dread—questioning whether it is nobler to endure suffering or to act decisively, even if it means risking death. This hesitation isn’t mere cowardice but a philosophical struggle with the consequences of mortality and the performative nature of revenge. Later, Hamlet’s self-reproach in 'O, what a rogue and peasant slave am I!' underscores his frustration with his own inaction, comparing himself unfavorably to an actor who can summon passion for a fictional cause. Together, these moments illustrate how Hamlet’s intellect and introspection trap him in a cycle of doubt, making his eventual violence all the more tragic. His hesitation becomes a meditation on the human condition, where thought and action are perpetually at odds.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation, framing his inaction as a philosophical dilemma about mortality and the value of endurance versus action."
+    },
+    {
+      "quote": "O, what a rogue and peasant slave am I!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.550",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote highlights Hamlet’s self-criticism and frustration with his inability to perform revenge, contrasting his inaction with the passion of an actor."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet*; line numbers may vary slightly in other editions."
+}

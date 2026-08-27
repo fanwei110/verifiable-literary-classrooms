@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton, the central character of Charles Dickens's novel *A Tale of Two Cities*. It appears as his final inner thoughts as he is about to be executed by guillotine, having secretly switched places with Charles Darnay to save him for the sake of Lucie Manette. The words express Carton's sense of redemption and the peace he finds in his sacrifice.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15 (final chapter)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote confirms the exact wording and that Sydney Carton is the speaker, concluding the novel with his sacrificial farewell."
+    }
+  ],
+  "limits": "The excerpt does not name the speaker directly; the speaker is identified from full context of the novel."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's The Odyssey, the act of wandering is deeply tied to storytelling, as Odysseus's journey becomes a way to convey identity and experience. When he says, 'I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens,' he introduces himself not just by name but by his journey's reputation—showing how wandering and story are intertwined.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus’s identity formed through wandering becomes central to his storytelling, linking personal journey to narrative fame."
+    }
+  ],
+  "limits": "Translation may vary by edition; this quote follows the Richard Lattimore translation (University of Chicago Press, 1967)."
+}

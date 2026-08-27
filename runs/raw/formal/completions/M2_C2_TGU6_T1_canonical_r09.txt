@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens by tying the hero’s wandering directly to the story about to be told, showing that the journey itself is the source of the narrative.",
+  "evidence": [
+    {
+      "quote": "Tell me, Muse, of the man of many ways, who was driven far journeys, after he had sacked Troy's sacred citadel. Many were they whose cities he saw, whose minds he learned of, many the pains he suffered on the sea, struggling for his own life and the homecoming of his comrades.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-5",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening invocation frames wandering as the essential condition for story, linking the hero's travels to the accumulation of experience and the trials that become the poem's subject."
+    }
+  ],
+  "limits": "Translation version not specified; based on a standard English rendering (e.g., Robert Fagles or Richmond Lattimore)."
+}

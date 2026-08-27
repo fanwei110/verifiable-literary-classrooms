@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the profound themes of temptation, free will, and rebellion as central to the human condition. Adam and Eve possess free will—their ability to choose obedience or disobedience—and it is precisely this freedom that makes their fall tragic, not fated. Temptation unfolds most vividly in Eve’s encounter with Satan, who disguises himself as a serpent and manipulates her desires for knowledge and autonomy. He preys on her curiosity, twisting God’s command into an unfair restriction. As Satan declares, 'Accuse not Nature, she hath done her part; / Do thou but thine,' (Book 9, lines 714–715), he shifts the burden of moral choice onto Eve, tempting her to assert her will against divine authority. This moment underscores the danger of misusing free will: the same gift that makes virtue meaningful also enables sin. Equally telling is Eve’s internal resolution before eating the fruit: 'The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n' (Book 1, lines 254–255). Though spoken by Satan earlier, Eve echoes this sentiment, revealing how rebellion begins inwardly—as a belief that the self can redefine good and evil. Milton shows that temptation succeeds not through force, but by appealing to pride and the desire for self-rule. Ultimately, the epic presents the fall as a consequence of free will abused, warning that defiance of divine order leads not to liberation, but to loss.",
+  "evidence": [
+    {
+      "quote": "Accuse not Nature, she hath done her part; / Do thou but thine",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 714–715",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports how Satan shifts responsibility to Eve, tempting her to misuse her free will."
+    },
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates the internal nature of rebellion, showing how one's mindset can justify disobedience."
+    }
+  ],
+  "limits": "Quotations are from the John Leonard edition of Paradise Lost (Penguin Classics); line numbers may vary slightly in other editions."
+}

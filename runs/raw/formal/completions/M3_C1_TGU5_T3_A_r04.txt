@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton’s *Paradise Lost*, temptation, free will, and rebellion are central themes that define the moral framework of the poem. Humanity and angels alike possess free will—the capacity to choose obedience or defiance. Satan, once the brightest angel, abuses this gift through rebellion, leading to his fall. His pride and refusal to submit to divine authority illustrate how free will, when misused, results in spiritual ruin. Temptation, as seen in Satan’s manipulation of Eve, exploits desire and vanity. He convinces her that eating the forbidden fruit will elevate her to godlike knowledge, overriding God’s clear command. This act is not forced but chosen, underscoring Milton's emphasis on personal responsibility. As Satan declares, 'Better to reign in Hell, than serve in Heav'n' (Book 1, line 263), he reveals his defiant pride, valuing autonomy over harmony with God. Similarly, Eve voices her rationale: 'The knowledge is as excellent, / As of Good, so of Evil' (Book 5, lines 73–74), showing how temptation distorts reason. Milton does not blame God for human fallibility but highlights the consequences of free moral choice. Thus, rebellion—whether celestial or human—originates not from fate, but from willful disobedience, making the poem a profound exploration of moral agency.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's prideful rebellion and his preference for self-rule in damnation over obedient service in heaven."
+    },
+    {
+      "quote": "The knowledge is as excellent, / As of Good, so of Evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 5, lines 73–74",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote supports how temptation warps Eve’s judgment, leading her to equate forbidden knowledge with divine wisdom."
+    }
+  ],
+  "limits": "Quotations are based on the revised 1674 version of Paradise Lost; line numbers may vary slightly by edition."
+}

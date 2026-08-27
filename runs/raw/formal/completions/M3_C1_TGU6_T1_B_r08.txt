@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, wandering is not just physical travel but a means of shaping identity and conveying story. Odysseus’s long journey home becomes the very substance of his tale, revealing how experience in exile forms wisdom and character. This is captured when he begins recounting his adventures to the Phaeacians, presenting his wanderings as essential to who he is.",
+  "evidence": [
+    {
+      "quote": "‘I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens. I live in Ithaca, where there is a high mountain called Neritum, covered with forests; and around it are many islands, lying very close to one another: Dulichium, Same, and wooded Zacynthus. It is I that am the king in these, and I come from a rocky home. But now, as I wander far, I bring sorrow upon myself.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–26",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that Odysseus defines himself through his identity as a wanderer, linking personal history and storytelling directly to his prolonged journey."
+    }
+  ],
+  "limits": "Exact line numbers and wording may vary slightly depending on translation (here, based on the Richmond Lattimore translation)."
+}

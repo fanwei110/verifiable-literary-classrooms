@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how Hamlet’s hesitation, mortality, and performance intersect—three forces that shape his tragedy. Hamlet’s delay in avenging his father isn’t just indecision; it’s a confrontation with human frailty. He’s acutely aware of life’s brevity, which paralyzes him. In Act 3, Scene 1, he famously questions, 'To be, or not to be—that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And, by opposing, end them.' Here, hesitation isn’t weakness—it’s existential dread. Mortality looms over him, making action feel futile. Later, in Act 2, Scene 2, Hamlet mocks his own inaction, calling himself 'a rogue and peasant slave' for failing to act while an actor can weep for Hecuba. This reveals another layer: performance. Hamlet stages the play-within-a-play to 'catch the conscience of the king,' but his reliance on theater underscores his fear of authenticity. Is revenge a role to play, or a truth to live? His hesitation, then, is a collision of mortality’s weight and the masks we wear to evade it.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And, by opposing, end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This soliloquy illustrates Hamlet’s hesitation as rooted in existential dread and mortality, framing his inaction as a philosophical crisis rather than mere cowardice."
+    },
+    {
+      "quote": "O, what a rogue and peasant slave am I!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s self-loathing for his hesitation, contrasting his paralysis with the emotional performance of an actor, which underscores his struggle with authenticity and action."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly across editions."
+}

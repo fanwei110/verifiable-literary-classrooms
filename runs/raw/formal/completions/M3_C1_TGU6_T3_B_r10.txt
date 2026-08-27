@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s long journey to Ithaca is not just a physical return but a reclamation of his identity as king, husband, and father. Throughout his travels, proper hospitality—known as xenia—acts as a moral compass, distinguishing civilized societies from chaotic ones. When Odysseus finally returns home in disguise, his true identity is slowly revealed through intimate details only he would know, showing that identity is confirmed not just by appearance but by memory and relationship. Hospitality plays a critical role even in Ithaca, where the suitors violate xenia by abusing Odysseus’s home and resources, highlighting their moral corruption. True hospitality requires respect for the guest-host relationship, which in turn upholds social and divine order. Odysseus's homecoming is only complete when he restores order by punishing the suitors and reuniting with Penelope. These themes echo across the epic, emphasizing that identity is reaffirmed through loyalty, recognition, and rightful belonging. The journey home is as much about inner restoration as it is about physical return, and hospitality serves as both a test and a sign of virtue throughout.",
+  "evidence": [
+    {
+      "quote": "Stranger, you are none of evil, as all the world can see. It is not for any lack of justice or goodwill in the people that you have come to grief, but Zeus himself must have planned it.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 5, lines 314–316",
+      "speaker_or_narrator": "Calypso",
+      "use_in_answer": "This quote supports the idea that hospitality is tied to divine will and moral order, showing Calypso's recognition of Odysseus’s rightful journey home."
+    },
+    {
+      "quote": "My bed could not be moved! Only by cutting the tree down could anyone move it.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 207–208",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms Odysseus’s identity through an intimate, unchangeable detail of his home, linking identity and homecoming to personal history and truth."
+    }
+  ],
+  "limits": "Quotations are based on the Robert Fagles translation; line numbers may vary slightly across editions."
+}

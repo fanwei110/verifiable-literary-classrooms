@@ -1,0 +1,22 @@
+{
+  "answer": "Alright, let's pull out the text. Shakespeare weaves ambition, prophecy, and guilt into a tight web. The weird sisters open the play by chanting, 'Fair is foul, and foul is fair' – a prophecy that doesn't just predict, but poisons. It plants the idea that moral boundaries can flip, and ambition can masquerade as destiny. Macbeth seizes on this inversion: if foul is fair, then murder might become a path to glory. That toxic ambition pushes him to kill Duncan, and guilt immediately reshapes his reality. Alone before the deed, he hallucinates: 'Is this a dagger which I see before me, / The handle toward my hand?' The prophecy gave him a crown; guilt gives him a phantom blade. The dagger isn't a sign from fate – it's his own 'heat-oppressed brain' projecting the foulness of his ambition. He can't clutch it, yet it leads him forward, showing how prophecy ensnares and guilt torments. The witches' riddle sets the trap, ambition springs it, and guilt bloodies the handle he can never clean.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I (source window 2)",
+      "speaker_or_narrator": "All Witches",
+      "use_in_answer": "This line demonstrates how the prophecy blurs moral lines, fueling Macbeth's ambition to see murder as a fair path to the throne."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I (source window 1)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination gives shape to Macbeth's guilt and shows how his ambition has already condemned him to a bloody inner turmoil before the murder."
+    }
+  ],
+  "limits": "Quotations are taken directly from the provided source excerpts; line numbers are not given in the windows, so act and scene identification follows standard editions."
+}

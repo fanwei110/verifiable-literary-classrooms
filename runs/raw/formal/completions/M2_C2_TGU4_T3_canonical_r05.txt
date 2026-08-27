@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens intertwines revolution, sacrifice, and the motif of doubling to critique social upheaval and celebrate redemptive love. The novel’s famous opening—'It was the best of times, it was the worst of times'—immediately establishes the doubling of an age of profound contradictions, mirroring the split between London and Paris, and between aristocratic tyranny and revolutionary vengeance. This duality intensifies as the French Revolution erupts, a cataclysmic force that simultaneously destroys and makes way for new possibilities. The theme of sacrifice culminates in Sydney Carton’s Christ-like substitution for Charles Darnay, a man who is his physical double yet his moral superior. Carton’s final soliloquy, 'It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known,' crystallizes the novel’s message: personal sacrifice can redeem a wasted life and transcend the blood-soaked machinery of revolution. Through these doubles, Dickens suggests that resurrection—both personal and societal—emerges not from vengeance but from selfless love.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by highlighting the paradoxical nature of the era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote demonstrates sacrifice as a path to personal resurrection, contrasting with the revolution's violent cycle."
+    }
+  ],
+  "limits": "none"
+}

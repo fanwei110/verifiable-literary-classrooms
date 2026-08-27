@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, the intertwined themes of homecoming, identity, and hospitality reveal what it means to be human. Odysseus's lengthy journey is not just a physical trek but a quest to reclaim his role as husband, father, and king. The epic opens by emphasizing that, though all other survivors had reached home, Odysseus “was longing to return to his wife and country, was detained by the goddess Calypso.” His identity is defined by this yearning for Ithaca; even a goddess’s promise of immortality cannot replace his mortal home. Striving for homecoming becomes the measure of his selfhood.\n\nHospitality, or xenia, is the sacred code that enables his return. When shipwrecked and naked before Nausicaa, Odysseus must rely on the kindness of strangers. He appeals to her with a vision of domestic bliss: “May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.” Here, the hero defines the ultimate good as a harmonious home, simultaneously praising the Phaeacian princess’s future and reminding listeners of his own goal. Good hospitality, extended without question, becomes the bridge between alienation and belonging, proving that home is both a physical place and the relationships that make life worth living.",
+  "evidence": [
+    {
+      "quote": "was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey (trans. Samuel Butler)",
+      "locator": "Book I",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This line establishes that Odysseus’s core identity is rooted in his desire for homecoming, a longing that defines his entire journey."
+    },
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey (trans. Samuel Butler)",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Odysseus’s plea for hospitality articulates the ideal of the unified home, linking the stranger’s welcome to the deepest human happiness."
+    }
+  ],
+  "limits": "Quotations are from the provided Butler translation excerpts marked as window 1 and window 2; line numbers not present in the source."
+}

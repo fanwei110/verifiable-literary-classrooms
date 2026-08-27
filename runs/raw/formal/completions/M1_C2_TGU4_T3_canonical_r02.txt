@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and redemption of the French Revolution. The novel presents revolution as a force of both destruction and renewal, where the oppressed rise against their oppressors but risk becoming what they once despised. Sacrifice is embodied in characters like Sydney Carton, whose selfless act of taking Charles Darnay’s place at the guillotine demonstrates the transformative power of love and redemption. Doubling, a recurring motif, highlights the parallels between characters and cities—London and Paris—suggesting that history and human nature repeat themselves in cycles of violence and grace. These themes intertwine to show how personal and political revolutions demand profound sacrifices, often blurring the lines between heroism and tragedy. Through vivid contrasts, Dickens forces us to question whether revolution truly brings justice or merely perpetuates suffering under new guises.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of doubling and contrast in the novel, illustrating how revolution creates extremes of hope and despair, wisdom and folly."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, as Carton’s final words reveal his redemption through selfless love, transforming his wasted life into a noble act."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens captures the nature of historical contradiction in the opening of A Tale of Two Cities with the famous passage: “It was the best of times, it was the worst of times, … only.” This list of extremes shows how a single historical moment can contain opposing forces, making it impossible to encapsulate the period in a single judgment.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This passage illustrates the historical contradiction of the period by pitting opposing qualities—best and worst, wisdom and foolishness, hope and despair—against each other, showing that an era can contain irreconcilable extremes simultaneously."
+    }
+  ],
+  "limits": "None. The excerpt comes directly from the provided source text."
+}

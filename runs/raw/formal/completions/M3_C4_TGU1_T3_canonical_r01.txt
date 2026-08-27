@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation emerges as a central theme tied to mortality and performance. Hamlet's famous soliloquy grapples with the existential burden of action versus inaction, especially in the face of death. He questions whether it is nobler to endure life’s suffering or to end it, recognizing that the fear of the afterlife—'the dread of something after death'—makes people endure their current pain. This hesitation reflects both mortal uncertainty and the performative nature of identity: just as characters like Polonius and Claudius hide behind 'pious action' to mask guilt, Hamlet performs indecision as a way to delay avenging his father. His hesitation is not mere weakness but a philosophical response to a world where truth is obscured and action has irreversible consequences. When confronted with the Ghost, Hamlet shows resolve, declaring, 'My fate cries out,' yet even this determination exists alongside dread. Thus, performance—acting out roles of madness, grief, or vengeance—becomes a way to navigate the tension between life, death, and duty. Hamlet’s inner conflict reveals how mortality shapes human action, and why people often choose delay over decisive choice.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56–68",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet's hesitation stems from his meditation on mortality and the uncertainty of the afterlife, which paralyzes decisive action."
+    },
+    {
+      "quote": "My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "1.4.81–83",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet's momentary shift from hesitation to performative resolve, showing how fate and inner conviction can drive action despite fear."
+    }
+  ],
+  "limits": "The quoted text from 1.4.81–83 is slightly earlier in the source window than the full context implies, but the lines are present and correctly attributed."
+}

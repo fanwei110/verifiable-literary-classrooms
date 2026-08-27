@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the famous soliloquy explores the fear of death as a key reason for human hesitation. Hamlet reflects deeply on the nature of mortality, asking what lies beyond death—something unknown that makes people endure suffering rather than take action. This uncertainty paralyzes decisive action, especially in the face of great moral challenges.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them. To die—to sleep— No more; and by a sleep to say we end The heart-ache and the thousand natural shocks That flesh is heir to: 'tis a consummation Devoutly to be wish'd.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–64",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet contemplates mortality as a possible relief from suffering, yet the uncertainty of the afterlife ('to sleep—no more') causes him—and humans in general—to hesitate before taking irreversible actions like suicide or vengeance."
+    }
+  ],
+  "limits": "Quotation is from the First Folio edition as commonly rendered in modernized spelling; slight variations may exist across editions."
+}

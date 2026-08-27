@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, the opening sentence brilliantly captures the irony of the marriage market, where societal expectations falsely present marriage as a transaction driven by wealthy bachelors' urgent need for wives, when in reality, it is often women and their families who are actively seeking financial security through marriage.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the irony of the marriage market by satirically framing wealthy bachelors as the pursuers, when in fact, it is women and their families who are typically eager to secure advantageous matches."
+    }
+  ],
+  "limits": "The quotation is from the first chapter of the original 1813 edition of *Pride and Prejudice*; variations in punctuation exist across editions, but the wording remains consistent in standard texts."
+}

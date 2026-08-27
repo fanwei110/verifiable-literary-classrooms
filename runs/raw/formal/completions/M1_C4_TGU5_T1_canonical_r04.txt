@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton opens with a powerful explanation of humanity's fall and the consequences of disobedience. Here’s a key quotation that captures this theme: the very first lines of the poem describe the 'First Disobedience' and its catastrophic effects. This sets the stage for understanding how Adam and Eve’s choice to defy God’s command leads to their expulsion from Eden and the introduction of suffering into the world.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of _Eden_, till one greater Man / Restore us, and regain the blissful Seat,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-5",
+      "speaker_or_narrator": "Narrator (Milton)",
+      "use_in_answer": "This quote directly identifies the 'First Disobedience' as the cause of humanity’s fall, linking the act of eating the forbidden fruit to the introduction of death, suffering, and the loss of Eden."
+    }
+  ],
+  "limits": "The provided excerpt only includes the opening lines of *Paradise Lost*; further context about the fall itself (e.g., Eve’s temptation or Adam’s choice) appears in later books, which are not included in the frozen source."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The opening of *Pride and Prejudice* immediately establishes marriage-market irony with a famous epigram. The narrator declares, \"It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.\" The sentence that follows flips this apparent truth on its head: whatever the man’s own feelings may be, the surrounding families “consider him as the rightful property of some one or other of their daughters.” Thus the supposed need of the man is actually the projected need of the families who treat him as a piece of property to be secured. This ironic reversal exposes the economic foundation of courtship: marriage is less about love than about the transfer of wealth, with the rich man cast as a commodity.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This passage directly articulates the central irony of the marriage market: the supposed truth that a wealthy bachelor must seek a wife is actually the desire of local families to acquire him as property for their daughters."
+    }
+  ],
+  "limits": ""
+}

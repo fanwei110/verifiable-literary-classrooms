@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his belief in self-determination, as he declares, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.' This assertion underscores his rejection of divine authority, arguing that free will allows him to redefine his circumstances, even in damnation. His rebellion is not merely an act of defiance but a claim to autonomy, suggesting that true power lies in the ability to choose one’s fate. However, this freedom is illusory, as Satan’s pride blinds him to the consequences of his actions. Later, the poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—link human temptation directly to Satan’s rebellion, framing Adam and Eve’s fall as a parallel act of free will corrupted by desire. Both instances reveal how rebellion, though rooted in the illusion of choice, leads to irreversible loss, illustrating Milton’s view that true freedom lies in obedience to divine order, not defiance of it.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan’s rebellion is fueled by his belief in the power of free will to redefine his reality, even in suffering."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the connection between human temptation and rebellion, framing the Fall as an act of free will with dire consequences."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct passages about Adam and Eve’s temptation or their internal struggles with free will, limiting the discussion to Satan’s perspective and the poem’s broader framing."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton explores temptation, free will, and rebellion as interconnected forces that define humanity's relationship with God. Satan’s rebellion is the poem’s first great act of free will, a deliberate choice to oppose divine authority. He declares, 'The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n' (Book 1, 254-255). This assertion locates rebellion in the will, arguing that inner defiance can transform external reality. Temptation, then, is not a compulsion but a test of that free will. When Eve faces the serpent's words, she possesses the same capacity to choose. Her fall is not inevitable; it is a conscious act, narrated with shocking brevity: 'So saying, her rash hand in evil hour / Forth reaching to the Fruit, she pluck'd, she eat' (Book 9, 780-781). The phrase 'rash hand' underscores her free, though ill-considered, decision. Thus, rebellion originates in a corrupted will—Satan’s proud self-assertion—and temptation works by luring the will toward a similar self-deification. Eve’s act mirrors Satan’s, showing that sin enters the world through the same door: the free choice to disobey.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates that rebellion begins as an internal act of free will, with Satan asserting the power to redefine reality through perception, a foundational concept for the poem's treatment of temptation and sin."
+    },
+    {
+      "quote": "So saying, her rash hand in evil hour / Forth reaching to the Fruit, she pluck'd, she eat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 780-781",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the moment of temptation's success, highlighting Eve's free choice ('rash hand') and the direct consequences of her rebellion, thereby linking temptation to the misuse of free will."
+    }
+  ],
+  "limits": "Line numbers follow the 1667 ten-book edition; minor variations may occur in twelve-book editions. The second quotation is often rendered as a single sentence; I have preserved Milton's punctuation as commonly printed."
+}

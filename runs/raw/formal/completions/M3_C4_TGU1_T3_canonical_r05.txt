@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, hesitation and mortality are deeply intertwined, especially in moments of existential crisis and performance. Hamlet’s famous soliloquy, 'To be, or not to be,' encapsulates his paralyzing uncertainty about action, life, and what follows death. He contemplates ending suffering through suicide but hesitates, fearing the unknown afterlife: 'For in that sleep of death what dreams may come / When we have shuffled off this mortal coil, / Must give us pause.' This reveals how mortality undermines decisive action—Hamlet’s philosophical reflection becomes a barrier to revenge. Later, when encountering the Ghost, he performs a bold determination, declaring, 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.' Here, performance masks inner turmoil, as he acts resolute to fulfill his role as avenger. Yet this assertion contrasts sharply with his earlier hesitation, illustrating how performance in *Hamlet* often serves to project certainty where there is none. Together, these moments reveal a tragic tension between thought and action, mortality and duty, where fear of death both provokes reflection and prevents resolution.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "act-scene 3.1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that fear of the afterlife causes Hamlet to hesitate in taking action, including ending his life or fulfilling his revenge."
+    },
+    {
+      "quote": "My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "act-scene 1.4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet's performative assertion of courage, contrasting his earlier hesitation and showing how he uses performance to project resolve."
+    }
+  ],
+  "limits": "The source excerpts provided cover key soliloquies and encounters but do not include the full context of all performance aspects; however, they suffice for analyzing hesitation and mortality."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to underscore humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX illustrates how temptation preys on desire and curiosity, as he flatters her into questioning God’s prohibition: 'Ye shall be as Gods, / Knowing good and evil.' This deception exploits Eve’s free will, framing obedience as limitation rather than divine care. Meanwhile, Adam’s choice to eat the fruit—despite knowing the consequences—reveals rebellion as a conscious act of solidarity with Eve, not ignorance. Milton emphasizes that free will is both a gift and a test, as God declares, 'I formed them free, and free they must remain.' Here, rebellion stems from misused liberty, not inherent evil. The poem thus frames temptation as a test of faith, free will as the capacity for both virtue and sin, and rebellion as a tragic yet inevitable consequence of human autonomy. These themes invite us to reflect on the moral weight of our choices and the boundaries of divine authority.",
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative rhetoric, which tempts Eve by appealing to her desire for knowledge and equality with God."
+    },
+    {
+      "quote": "I formed them free, and free they must remain.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book III, line 124",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This line underscores Milton’s theological argument that free will is central to human nature, even in the face of temptation and rebellion."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

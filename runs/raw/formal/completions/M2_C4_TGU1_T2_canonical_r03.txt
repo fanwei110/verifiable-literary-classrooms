@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Prince Hamlet in William Shakespeare’s tragedy *Hamlet*. It comes at the end of Act II, Scene 2, right after Hamlet has arranged for a troupe of traveling actors to perform a play that reenacts the murder of his father. He hopes that seeing his crime staged will startle his uncle Claudius into betraying his guilt, thus confirming the accusation made by his father’s ghost. The immediate context is Hamlet’s earlier soliloquy in the same scene where he berates himself for his inaction and fears the ghost may be a devilish trick designed to damn him.",
+  "evidence": [
+    {
+      "quote": "The spirit that I have seen / May be the devil, and the devil hath power / T’assume a pleasing shape, yea, and perhaps / Out of my weakness and my melancholy, / As he is very potent with such spirits, / Abuses me to damn me. I’ll have grounds / More relative than this. The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2 (from the source window showing the end of Act II just before the exit)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage provides the full context of the quoted line, showing that Hamlet devises the play-within-a-play to test whether the ghost was truthful or a demonic deception before he acts on its accusation against King Claudius."
+    }
+  ],
+  "limits": "The source window does not explicitly label the act and scene divisions, but the excerpt shows the end of Hamlet’s Act II soliloquy and the start of Act III, Scene 1, confirming the line’s position."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus in Homer’s *Odyssey*. He uses the false name when asked by the Cyclops Polyphemus, tricking him so that later the Cyclops’s cries of “Noman is killing me” are dismissed by his neighbours.",
+  "evidence": [
+    {
+      "quote": "My name is Noman",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, line 366",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This is the direct statement by Odysseus to the Cyclops, establishing the alias that drives the escape plot."
+    }
+  ],
+  "limits": "The phrasing 'Noman' appears in older English translations such as Samuel Butler’s; many modern versions use 'Nobody' (Greek ‘Outis’)."
+}

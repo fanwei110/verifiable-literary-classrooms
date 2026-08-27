@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet’s “To be, or not to be” speech captures his hesitation about mortality. He weighs life’s suffering against the unknown of death, and the fear of what dreams may come after death “must give us pause,” showing how the uncertainty of the afterlife makes him hesitate.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: ... To die—to sleep, ... To sleep, perchance to dream—ay, there's the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "The Tragedy of Hamlet, Prince of Denmark",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly shows mortality ('to die,' 'shuffled off this mortal coil') and hesitation ('there's the rub,' 'must give us pause'), explaining why Hamlet hesitates to embrace death."
+    }
+  ],
+  "limits": "The excerpt cuts off before the soliloquy’s conclusion, but the quoted lines clearly address both mortality and hesitation."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s downfall. The witches’ prophecy ignites Macbeth’s vaulting ambition, prompting him to consider murdering King Duncan to fulfill his rise to power. However, this same ambition brings intense guilt, revealing the psychological cost of unchecked desire. After Duncan’s murder, Macbeth is consumed by paranoia and remorse, illustrating how guilt undermines his initial triumph. His internal turmoil demonstrates that achieving power through evil means does not bring satisfaction but rather spiritual decay. This transformation is evident when Macbeth admits, 'I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o’er'—indicating he feels trapped by his actions. His journey reflects a tragic arc where prophecy sets events in motion, ambition accelerates the descent, and guilt seals his fate. Lady Macbeth, too, later succumbs to guilt, sleepwalking and attempting to wash imaginary blood from her hands. The play ultimately warns that ambition unchecked by morality leads to destruction, as both main characters are undone by their inner turmoil and the consequences of their choices.",
+  "evidence": [
+    {
+      "quote": "I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o’er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth feels trapped by his actions and recognizes that continuing his violent path is as difficult as trying to reverse it."
+    },
+    {
+      "quote": "False face must hide what the false heart doth know",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth's awareness of his moral betrayal and the duplicity he must maintain after deciding to commit regicide."
+    }
+  ],
+  "limits": "Quotations are based on standard Folger Shakespeare Library editions; slight variations may exist in other versions."
+}

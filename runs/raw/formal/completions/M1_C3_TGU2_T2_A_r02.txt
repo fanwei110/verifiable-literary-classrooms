@@ -1,0 +1,22 @@
+{
+  "answer": "This line, 'Out, damned spot! out, I say,' is spoken by Lady Macbeth in William Shakespeare’s play *Macbeth*. It occurs in Act 5, Scene 1, during a pivotal moment where Lady Macbeth, tormented by guilt over the murders she and her husband orchestrated, sleepwalks and hallucinates bloodstains on her hands that she cannot wash away. The line reflects her psychological unraveling and the inescapable weight of her conscience.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote directly supports the identification of the speaker and the context of her guilt-driven hallucination."
+    },
+    {
+      "quote": "Yet here’s a spot. [...] The Thane of Fife had a wife. Where is she now?—What, will these hands ne’er be clean?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "These lines reinforce the theme of guilt and the psychological breakdown of Lady Macbeth, providing additional context for the famous 'Out, damned spot!' exclamation."
+    }
+  ],
+  "limits": "The attribution is certain, as this line is a well-documented part of *Macbeth*. However, variations in editions may slightly alter line numbering or scene divisions, though the act and scene remain consistent."
+}

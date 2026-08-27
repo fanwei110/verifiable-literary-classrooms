@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, temptation, free will, and rebellion are central to the fall of man and the character of Satan. Satan, as a fallen angel, embodies rebellion against divine authority, having chosen to defy God out of pride. His famous declaration, “Better to reign in Hell, then serve in Heav’n,” captures his refusal to submit, prioritizing autonomy over obedience. This exercise of free will—though perverse—establishes the poem's exploration of moral choice. Temptation follows as Satan extends his rebellion to humanity, exploiting free will not as a gift but as a vulnerability. He aims to corrupt Adam and Eve not through force, but through deception, targeting their trust in God’s command. The fallen angel justifies his actions by framing God as tyrannical, yet Milton subtly underscores that God’s rules are just and that true freedom lies in obedience. Satan’s assertion, “The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n,” reveals his internalized torment and distorted will. His rebellion is not liberation but self-imprisonment, showing that misused free will leads to spiritual ruin. Thus, Milton presents temptation as the lure of false autonomy, rebellion as the root of sin, and free will as a solemn responsibility.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's embrace of rebellion and his preference for defiant autonomy over obedient service."
+    },
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan's distorted view of free will, suggesting inner defiance can redefine reality, even in damnation."
+    }
+  ],
+  "limits": "The excerpts provided are from BOOK I only, so analysis is limited to Satan's perspective and does not include later developments involving Adam and Eve."
+}

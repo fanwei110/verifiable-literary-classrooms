@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *The Odyssey* ties homecoming, identity, and hospitality into a single theme. Odysseus’s journey isn’t just about returning to Ithaca—it’s about reclaiming who he is. His identity is tested repeatedly: strangers challenge him, and even his own household doesn’t recognize him at first. Yet hospitality, or *xenia*, becomes the key to restoring both his home and his sense of self. When characters like the Phaeacians or Eumaeus offer him shelter and respect, they model the virtues that define his kingdom. Conversely, the suitors’ abuse of hospitality reveals their corruption and foreshadows their downfall. Notice how Odysseus’s disguise as a beggar forces others to prove their worth through how they treat him. This isn’t just about manners; it’s a moral test. The poem suggests that true homecoming requires both external return and internal recognition—by others and by oneself. Let’s look at two moments that show this connection clearly.",
+  "evidence": [
+    {
+      "quote": "‘Stranger, I’ll treat you well. Come in, old man, and sit down here, and first wash your feet in the basin that stands ready for you.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 345-347",
+      "speaker_or_narrator": "Eurycleia (to Odysseus in disguise)",
+      "use_in_answer": "This quote demonstrates how hospitality validates Odysseus’s identity even when he’s unrecognized, reinforcing that proper treatment of guests is central to Ithaca’s values."
+    },
+    {
+      "quote": "‘No finer, greater gift in the world than that... when man and wife possess their home, two minds, two hearts that work as one.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 182-184",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "Here, Odysseus defines homecoming as a restoration of unity—both with his household and his own role as king and husband, linking identity to the bonds hospitality should protect."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Hamlet’s paralysis is rooted in his intense awareness of mortality and the empty performances that surround him. His famous hesitation crystallizes in the question, “To be, or not to be, that is the question,” where the mind stalls between enduring life’s miseries and seeking annihilation. The dread is not of death itself but of the unknown “dreams” that may come, making the mystery of mortality a brake on action. Alongside this existential pause, Claudius reveals how performance masks guilt. Struck by Polonius’s remark about hypocritical piety, the King confesses that his polished exterior cannot hide his crime, exclaiming that his sinful act is uglier “Than is my deed to my most painted word.” Elsinore thus becomes a theater of false fronts—mourning, madness, and loyalty are all performed. Hamlet’s own “antic disposition” is a performance that delays vengeance, because he can only rehearse the role of revenger, not embody it. In this world, hesitation feeds on the fear that action is just another painted gesture, and mortality remains the one role none can perform their way out of.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Introduces the central hesitation between enduring suffering and ending life, linking paralysis to the fear of mortality."
+    },
+    {
+      "quote": "Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King (Claudius)",
+      "use_in_answer": "Demonstrates the theme of performance by exposing the gap between Claudius’s polished public speech and his hidden crime."
+    }
+  ],
+  "limits": "Quotations are taken from the provided source window 1, which ends mid-line at 'To grunt and sweat'; the famous 'conscience does make cowards' conclusion is cut off. Window 2 is not used because the lesson’s quotations are drawn entirely from Window 1."
+}

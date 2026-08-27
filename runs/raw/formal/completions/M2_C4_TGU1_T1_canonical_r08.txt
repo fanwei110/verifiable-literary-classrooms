@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet’s soliloquy, he confronts the dilemma of existence and mortality, and hesitation arises from uncertainty about the afterlife. As he puts it, 'For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause' (Hamlet, Act 3, Scene 1). The phrase 'mortal coil' refers to the body, and the 'dreams' represent the unknown, making him hesitate to end his life.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come,\nWhen we have shuffled off this mortal coil,\nMust give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly links mortality ('sleep of death,' 'mortal coil') to hesitation (the unknown dreams 'must give us pause'), showing why Hamlet delays action."
+    }
+  ],
+  "limits": "The frozen excerpt does not include act, scene, or line numbers; Act 3, Scene 1 is inferred from standard editions."
+}

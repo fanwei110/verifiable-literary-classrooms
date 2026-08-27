@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, revolution and sacrifice are intertwined with the theme of doubling, illustrating how personal and political upheaval shape identity and destiny. The French Revolution serves as a backdrop for exploring the duality of human nature and society—mirrored in characters like Charles Darnay and Sydney Carton, who are physical doubles yet moral contrasts. Carton’s ultimate sacrifice—dying in Darnay’s place—epitomizes redemption through self-annihilation. His decision transforms a life perceived as wasted into one of profound meaning. As the narrator observes, 'It was the best thing he had ever done,' underscoring Carton’s moral triumph (Book III, Chapter 15). This act not only fulfills Carton’s love for Lucie Manette but also reflects the revolutionary ideal of personal loss for collective good. Similarly, Dickens portrays revolution as cyclical and violent, warning of its excesses: 'Liberty, equality, fraternity, or death,' becomes a dangerous creed when taken literally (Book III, Chapter 4). The revolutionaries’ zeal mirrors the tyranny they oppose, highlighting Dickens’s critique. Through doubling, sacrifice, and revolution, the novel questions whether transformation requires destruction—and whether personal resurrection can emerge from societal chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best thing he had ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea that Carton’s sacrifice is his redemptive moment, the culmination of his personal transformation."
+    },
+    {
+      "quote": "Liberty, equality, fraternity, or death",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 4",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote illustrates the extreme and violent principles of the French Revolution, showing how revolutionary ideals can demand sacrifice and justify death."
+    }
+  ],
+  "limits": "Quotations are from the standard 1859 edition; minor variations may exist in different printings."
+}

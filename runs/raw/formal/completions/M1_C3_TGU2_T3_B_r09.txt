@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragedy. The witches’ prophecies ignite Macbeth’s latent ambition, but their cryptic words also plant the seeds of his downfall. Initially, Macbeth resists the idea of murder, yet the prophecy that he ‘shalt be king hereafter’ (1.3) festers in his mind, warping his judgment. His ambition becomes a double-edged sword—it propels him toward power but also isolates him, as seen when he admits, ‘I have no spur / To prick the sides of my intent, but only / Vaulting ambition’ (1.7). Guilt follows swiftly: after Duncan’s murder, Macbeth hallucinates a dagger, crying, ‘Is this a dagger which I see before me, / The handle toward my hand?’ (2.1). This vision symbolizes his fractured psyche, where ambition and guilt blur into paranoia. The prophecies, once a source of hope, become a curse, trapping Macbeth in a cycle of violence and remorse. Shakespeare suggests that unchecked ambition, fueled by prophecy, leads not to fulfillment but to self-destruction.",
+  "evidence": [
+    {
+      "quote": "shalt be king hereafter",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quote illustrates how the witches’ prophecy sparks Macbeth’s ambition, setting the tragedy in motion."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination reveals Macbeth’s guilt and psychological unraveling after Duncan’s murder."
+    }
+  ],
+  "limits": "Quotations are from the First Folio (1623) edition; line numbers may vary slightly in other versions."
+}
+```

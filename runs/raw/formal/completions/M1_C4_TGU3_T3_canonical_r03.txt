@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Austen explores how first impressions, class, and marriage shape relationships, often revealing deeper truths about character. The novel opens with a satirical observation about societal expectations: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line highlights how marriage is treated as a transaction, particularly for families like the Bennets, who see eligible bachelors as opportunities to secure their daughters' futures. Class plays a crucial role in these dynamics—Mr. Darcy’s initial pride and Elizabeth’s prejudice stem from their differing social standings, leading to misunderstandings. Later, Elizabeth reflects on her own flawed judgments, admitting, 'How despicably have I acted! ... I, who have prided myself on my discernment!' This moment underscores how first impressions can blind characters to reality, particularly when influenced by vanity or societal pressures. Austen critiques the idea that marriage should be based on wealth or status, instead advocating for mutual respect and self-awareness, as seen in Elizabeth’s eventual growth and her realization of Darcy’s true character.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the societal obsession with marrying wealthy men, framing marriage as a financial and social transaction rather than a personal choice."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Unspecified (later in the novel)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s self-awareness and regret over her initial prejudices, showing how first impressions can lead to misjudgments."
+    }
+  ],
+
+  "limits": "The second quotation’s exact chapter or page locator is not provided in the frozen excerpt, but it is a well-known line from Elizabeth’s introspective moment in the novel."
+}
+```

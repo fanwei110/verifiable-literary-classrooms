@@ -1,0 +1,22 @@
+{
+  "answer": "In Homer’s *Odyssey*, homecoming (nostos) is more than a physical journey—it is the restoration of identity through the bonds of hospitality and marriage. Odysseus defines himself by his longing for home, yet the path is blocked by forces that delay his return. The epic opens by singling him out: “So now all who escaped death in battle or by shipwreck had got safely home except Ulysses, and he, though he was longing to return to his wife and country, was detained by the goddess Calypso.” This isolation breaks the pattern of safe returns and frames his struggle as one of delayed identity; without his household, he is no one. When shipwrecked on Phaeacia, he refashions that identity through a stranger’s welcome. Supplicating Nausicaa, he blesses her with the very thing he craves: “May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.” His words reveal that true home is a harmonious union, not just a place. Hospitality here becomes the mirror in which the wanderer sees his own deepest hope, reasserting who he is and what he fights to regain.",
+  "evidence": [
+    {
+      "quote": "So now all who escaped death in battle or by shipwreck had got safely home except Ulysses, and he, though he was longing to return to his wife and country, was detained by the goddess Calypso,",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I (window 1)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Shows how Odysseus is uniquely denied homecoming, linking his suspended identity to longing and external captivity."
+    },
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI (window 2)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Demonstrates that the suppliant defines ideal homecoming as marital harmony, using a blessing to articulate his own identity and the welcome he seeks."
+    }
+  ],
+  "limits": "Quotations follow the Samuel Butler translation text provided in the source windows. No line numbers are given in the excerpts, so locators refer only to the book and window."
+}

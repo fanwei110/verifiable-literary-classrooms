@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet's famous soliloquy reveals his paralysis in the face of death’s uncertainty, embodying the human struggle to act when consequences are unknown. He contemplates suicide as a release from suffering but hesitates because death—a 'sleep'—might bring nightmares 'in that sleep of death,' forcing us to 'give... pause' (3.1.66). This fear of the afterlife exposes how mortality shapes inaction. Meanwhile, performance becomes a shield and a tool: Claudius recognizes that outward actions can 'sugar o’er' inner evil, just as he masks his guilt with 'painted' words. The play critiques performative virtue while showing Hamlet himself enacting madness. His delay stems not from weakness but from a philosophical need to align justice with action, in a world where appearances deceive and death’s mystery makes every choice momentous.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–66",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how Hamlet's hesitation stems from his fear of the unknown after death, linking mortality directly to his inaction."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 50–52",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "This quote illustrates the theme of performance, showing how Claudius masks his guilt with false appearances, reinforcing the play’s critique of deceptive outward shows."
+    }
+  ],
+  "limits": "The exact lineation may vary slightly depending on edition (e.g., Folger, Arden, Oxford), but the act-scene references are standard across modern versions."
+}

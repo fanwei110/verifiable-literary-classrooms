@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores the complex interplay of temptation, free will, and rebellion as central themes in humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his prideful rebellion, framing his choice as an assertion of autonomy—even if it leads to eternal suffering. His logic reveals a twisted view of freedom, where self-determination is prized over obedience to God. Meanwhile, Adam and Eve’s fall illustrates how temptation exploits free will. The forbidden fruit becomes a test of their loyalty, yet their disobedience is not inevitable; it results from a conscious choice to prioritize desire over divine command. Milton suggests that rebellion, whether Satan’s or humanity’s, arises from a misguided belief in self-sufficiency. Both cases highlight the tragic consequences of rejecting moral boundaries, as free will, when misused, leads to ruin rather than liberation.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263-264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rebellious justification for his defiance, framing his choice as a deliberate rejection of divine authority in favor of self-rule."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This opening passage introduces the central act of rebellion—Adam and Eve’s disobedience—and its catastrophic consequences, linking temptation to the loss of paradise."
+    }
+  ],
+
+  "limits": "The quoted lines are from the 1674 edition of *Paradise Lost*; spelling and punctuation reflect early modern conventions. The analysis focuses on Books I and IX, where these themes are most prominent."
+}

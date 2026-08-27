@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Austen critiques the societal obsession with first impressions, class, and marriage through sharp social satire and character revelations. The novel opens with the iconic line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife,' immediately exposing the mercenary motivations of families like the Bennets, who view marriage as a financial transaction rather than a union of affection. This sets the stage for the novel’s exploration of class: Mrs. Bennet’s desperation to marry off her daughters reflects the precarious position of women in Regency England, where economic security often depended on advantageous matches. However, Austen complicates this dynamic through Elizabeth’s self-reflection later in the novel: 'How despicably have I acted!... I, who have prided myself on my discernment!' Here, Elizabeth acknowledges her own prejudices—her snap judgments about Darcy and Wickham—revealing how first impressions, fueled by pride and vanity, distort reality. Both quotations underscore Austen’s argument: while society reduces marriage to a class-based transaction, true growth comes from challenging one’s initial biases and recognizing the complexity of human character.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the novel’s satirical tone and highlights the societal pressure to marry for financial security, framing the Bennet family’s motivations."
+    },
+    {
+      "quote": "How despicably have I acted!... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI (Elizabeth’s reflection after reading Darcy’s letter)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s realization of her own prejudices, linking first impressions to personal growth and critiquing the superficial judgments that drive societal interactions."
+    }
+  ],
+
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The provided source windows did not include the full passage, so the chapter reference is based on standard editions of *Pride and Prejudice*."
+}
+```

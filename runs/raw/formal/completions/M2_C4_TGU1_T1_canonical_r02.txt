@@ -1,0 +1,14 @@
+{
+  "answer": "A pivotal passage that illuminates both mortality and hesitation in <em>Hamlet</em> comes from the “To be, or not to be” soliloquy. When Hamlet weighs the appeal of ending his suffering against the fear of the unknown, he says: “For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.” The phrase “shuffled off this mortal coil” explicitly references shedding the physical body—mortality itself—while “must give us pause” captures the hesitation that keeps us from acting. In this moment, Hamlet reveals that the dread of something after death, the undiscovered country, is precisely what stalls resolution.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come,\nWhen we have shuffled off this mortal coil,\nMust give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This excerpt links the physical reality of death ('shuffled off this mortal coil') with the hesitation ('pause') that arises from uncertainty about the afterlife, directly supporting the explanation of mortality and hesitation."
+    }
+  ],
+  "limits": "Quotation taken exclusively from the provided source excerpt. The exact line numbers may vary between editions, but the passage appears in the 'To be, or not to be' soliloquy of Act 3, Scene 1."
+}

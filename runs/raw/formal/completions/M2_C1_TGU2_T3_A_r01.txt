@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, class. Today we’re going to look at three forces that drive Shakespeare’s Macbeth: ambition, prophecy, and guilt. The play opens with the witches’ prophecy that Macbeth will become king, which plants a seed of overreaching desire. That prophecy doesn’t compel him to act—instead, it sparks his latent ambition. In Act 1, Macbeth wrestles with whether to murder Duncan, admitting he has no real reason beyond his own hunger: “I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o’erleaps itself / And falls on the other.” Notice the image of a rider spurring a horse; ambition alone drives him, but it’s a wild, self-destructive leap. Once he acts, the prophecy’s promise turns into a burden of guilt. After the murder, Macbeth stares at his bloody hands and cries, “Will all great Neptune’s ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.” Here, guilt is so vast that an entire ocean cannot cleanse it, only stain it further. The prophecies, then, are not fate—they are invitations to choice, and ambition transforms them into a path of irreversible guilt.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-28",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows Macbeth's self-awareness that ambition alone, not prophecy or external pressure, drives his murderous intent."
+    },
+    {
+      "quote": "Will all great Neptune's ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2, lines 60-63",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Illustrates the overwhelming guilt that immediately follows the act, turning the prophecy's promise into a permanent stain."
+    }
+  ],
+  "limits": "Quotations follow the Folio line numbering; some editions may vary slightly in line breaks or punctuation. The first quote is sometimes rendered with 'o'erleaps' without an apostrophe."
+}

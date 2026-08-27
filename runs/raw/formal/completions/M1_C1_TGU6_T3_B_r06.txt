@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *The Odyssey* ties homecoming, identity, and hospitality into a single theme. Odysseus’s journey isn’t just about returning to Ithaca—it’s about reclaiming who he is. His identity is tested repeatedly, and hospitality, or *xenia*, becomes the lens through which we see his struggle. When Odysseus finally reaches home, he’s disguised as a beggar, forcing others to prove their loyalty through how they treat him. This moment reveals that true homecoming isn’t just physical; it’s about being recognized and welcomed. The Cyclops episode, where Polyphemus violates *xenia* by eating his guests, shows the opposite: without hospitality, there’s no safe return or identity. Even the gods punish those who break this code. So, homecoming, identity, and hospitality are intertwined—Odysseus’s restoration depends on others honoring him, just as he must honor the customs that define his world.",
+  "evidence": [
+    {
+      "quote": "‘Stranger, you are no longer what you were just now! / Your cloak is new; even your skin! You are / one of the gods who rule the sweep of heaven!’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16, lines 181-183",
+      "speaker_or_narrator": "Telemachus (to Odysseus in disguise)",
+      "use_in_answer": "This quote supports the idea that identity is tied to recognition—Telemachus’s shock shows how Odysseus’s true self is hidden, and his homecoming depends on being seen."
+    },
+    {
+      "quote": "‘We Cyclopes care nothing for Zeus... nor for the rest of the blessed gods, since we are much stronger than they.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 275-277",
+      "speaker_or_narrator": "Polyphemus",
+      "use_in_answer": "This quote illustrates the consequences of rejecting hospitality—Polyphemus’s defiance of *xenia* dooms him and delays Odysseus’s return."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

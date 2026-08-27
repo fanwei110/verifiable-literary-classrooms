@@ -1,0 +1,22 @@
+{
+  "answer": "Dickens structures A Tale of Two Cities around violent oppositionsâLondon and Paris, aristocracy and peasantry, Charles Darnay and Sydney Cartonâto reveal how revolution and sacrifice are intertwined through doubling. The novelâs famous opening immediately establishes a world of irreconcilable pairs: an era of wisdom and foolishness, hope and despair. This pattern of multiplied contrasts becomes the engine for both historical upheaval and personal redemption. As the French Revolution erupts, the double motif sharpens in Carton and Darnay, physical look-alikes who embody wasted potential and principled innocence. Cartonâs love for Lucie Manette channels his own emptiness into a conscious decision to trade places with Darnay at the guillotine, turning a political execution into a sacrificial act of love. By mounting the scaffold in Darnayâs stead, Carton does not merely mirror his doubleâhe surpasses him, transforming a life of self-contempt into a gesture that he himself declares a âfar, far better thingâ than any he has done before. The novelâs closing vision thus resolves the revolutionary chaos through a private act of substitution, proving that sacrifice can redeem a shattered self and, in the logic of doubling, grant a âfar, far better restâ than Carton ever knew.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishnessâ¦",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening paradox establishes the novelâs pattern of doubling and foreshadows the revolutionary ferment that will intertwine sacrifice and rebirth."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "Cartonâs final reflection crystallizes the theme of sacrifice as redemptive doubling, where his substitution for Darnay transforms a wasted life into a meaningful death."
+    }
+  ],
+  "limits": "Quotations are from the standard public-domain text; punctuation and wording follow the first edition. Slight variations in modern editions do not affect the argument."
+}

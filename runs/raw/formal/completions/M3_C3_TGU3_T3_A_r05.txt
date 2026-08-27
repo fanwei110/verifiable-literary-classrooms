@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined. The novel critiques how swiftly characters judge based on wealth and status, often misreading character. Elizabeth initially rejects Darcy due to his perceived arrogance, yet this prejudice stems from pride in her own discernment. Class influences marriage prospects, as Mrs. Bennet’s obsession with securing wealthy husbands for her daughters shows: marriage is treated as a transaction. The opening line satirizes societal assumptions—wealthy single men are presumed to seek wives, regardless of actual desire. Elizabeth’s growth involves recognizing her own flawed judgment. She admits, 'How despicably have I acted! I, who have prided myself on my discernment!' realizing her vanity clouded her ability to see Darcy’s true worth. Overcoming initial misjudgments rooted in class bias allows for genuine connection. Ultimately, Austen argues that lasting marriage requires transcending superficial impressions and recognizing inner virtue over rank or fortune.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the societal pressure to equate wealth with marital eligibility, highlighting how class shapes marriage expectations."
+    },
+    {
+      "quote": "How despicably have I acted! I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth's realization that her first impressions were clouded by pride, marking her moral and emotional growth."
+    }
+  ],
+  "limits": "The provided text excerpts are fragmented and lack full context; quotations were identified based on standard editions of 'Pride and Prejudice'. Chapter numbers in the source windows may not align perfectly with canonical divisions."
+}

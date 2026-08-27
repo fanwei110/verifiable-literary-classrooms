@@ -1,0 +1,22 @@
+{
+  "answer": "Class, today we examine the paralyzing link between Hamlet’s hesitation and his obsession with mortality. His delay is not cowardice but a philosophical crisis rooted in the fear that death is not an end, but a transition to an unknown, possibly worse Blivour. His performance of madness becomes a coping mechanism, a way to test reality while being paralyzed by the ultimate consequence of action. His famous question captures this paralysis: the dread of “what dreams may come” in death’s sleep, the undiscovered country that makes us “rather bear those ills we have.” He hesitates to kill Claudius precisely because the act might dispatch a sinner to heaven, not hell. Yet, when faced with the graveyard’s physical reality of death, his abstract dread dissolves into a sudden, unhesitating announcement of identity as he leaps into Ophelia’s grave. This shift shows that when mortality becomes concrete rather than theoretical, performance and action finally merge, stripping away his philosophical delay.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them. To die—to sleep, / No more; and by a sleep to say we end / The heartache and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wished. To die, to sleep; / To sleep, perchance to dream—ay, there’s the rub: / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause. There’s the respect / That makes calamity of so long life.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56-69",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly supports the argument that Hamlet’s hesitation is a philosophical paralysis caused by the fear of an unknown afterlife, showing how mortality’s mystery dictates his inaction."
+    },
+    {
+      "quote": "‘Swounds, show me what thou’lt do. / Woo’t weep? Woo’t fight? Woo’t fast? Woo’t tear thyself? / Woo’t drink up eisel, eat a crocodile? / I’ll do’t. Dost thou come here to whine? / To outface me with leaping in her grave? / Be buried quick with her, and so will I. / And if thou prate of mountains, let them throw / Millions of acres on us, till our ground, / Singeing his pate against the burning zone, / Make Ossa like a wart! Nay, an thou’lt mouth, / I’ll rant as well as thou.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 5, Scene 1, lines 271-281",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation illustrates the climax of the lesson, showing Hamlet immediately ceasing his hesitation and performing decisive action when confronted with the tangible reality of death in Ophelia’s grave."
+    }
+  ],
+  "limits": "Quotations reflect standard modernized texts but may have minor variations (e.g., spelling of 'Swounds') depending on the edition. Analysis treats the 'To be or not to be' speech as a unified meditation on mortality rather than a separate suicidal ideation."
+}

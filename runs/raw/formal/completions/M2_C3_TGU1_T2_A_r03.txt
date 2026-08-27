@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Hamlet, spoken by Prince Hamlet at the end of Act II, scene ii. He has just heard a traveling actor deliver a passionate speech and reflects on his own inaction in avenging his father's murder. Knowing that guilty viewers can be emotionally unmasked by a performance, he decides to stage a play that reenacts his father's murder to observe his uncle Claudius's reaction and confirm his guilt.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, scene ii",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This is the exact line in question, showing Hamlet's plan to use the play to test Claudius."
+    }
+  ],
+  "limits": "The provided source excerpt is consistent with standard editions, but some modern texts may use slight spelling or punctuation variants."
+}

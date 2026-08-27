@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how *A Tale of Two Cities* uses revolution, sacrifice, and doubling to mirror chaos and redemption. The novel’s opening—'It was the best of times, it was the worst of times'—captures the duality of the French Revolution: hope and horror coexist, just as characters like Sydney Carton and Charles Darnay reflect each other’s fates. Revolution here isn’t just political; it’s personal. The mob’s violence, like the wood-sawyer’s taunts, shows how oppression breeds vengeance, but Dickens also asks: *Who* pays the price? Sacrifice becomes the answer. Carton’s final act—'It is a far, far better thing that I do, than I have ever done'—transforms his wasted life into purpose, proving that redemption often demands self-erasure. Notice how doubling works: Carton and Darnay share looks and love, yet one dies for the other’s happiness. This symmetry suggests revolution’s cost isn’t just bloodshed but the erasure of individuality—echoing the novel’s warning that cycles of violence consume even the innocent. What do these parallels force *us* to confront about justice and mercy?",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the novel’s theme of doubling, illustrating the paradoxical extremes of the revolutionary era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the novel’s focus on sacrifice as a path to redemption, framing Carton’s death as both personal and revolutionary."
+    }
+  ],
+  "limits": "Quotations are from the 1859 first edition; chapter numbering may vary slightly in modern editions."
+}

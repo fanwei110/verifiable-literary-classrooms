@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy grapples with the weight of existence and the fear of the afterlife, which paralyzes action. He considers suicide as an escape from suffering, yet hesitates because 'the dread of something after death'—the unknown dreams that may come in the sleep of death—makes him pause. This hesitation reflects his profound awareness of mortality and the spiritual consequences of action. At the same time, performance becomes a means of navigating this uncertainty. The play is saturated with roles and pretense, as when the King feigns virtue while harboring guilt. Indeed, the King admits in an aside that 'my deed to my most painted word' is a grotesque contrast, revealing how performance masks moral corruption. Hamlet himself enacts madness to probe the truth, blurring the line between being and acting. Thus, the tension between inward dread and outward show defines his struggle: while mortality demands resolution, the need to perform truth delays decisive action, trapping him in contemplation.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s hesitation due to fear of the unknown after death, linking mortality to inaction."
+    },
+    {
+      "quote": "O ’tis too true! How smart a lash that speech doth give my conscience! The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King",
+      "use_in_answer": "This quote illustrates the theme of performance as deception, showing how outward appearance masks inner guilt."
+    }
+  ],
+  "limits": "The excerpts provided are sufficient to support the claims about hesitation, mortality, and performance in the context of the soliloquy and the King’s guilt."
+}

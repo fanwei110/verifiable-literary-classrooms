@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as a double-edged sword—both a force for justice and a cycle of violence. Dickens warns that unchecked vengeance can corrupt the very ideals of liberty, as seen in the mob’s brutal actions. Sacrifice, too, is a recurring motif, particularly through Sydney Carton’s selfless act, which redeems his wasted life and underscores the novel’s Christian themes of resurrection and redemption. Doubling appears structurally and thematically: London and Paris reflect contrasting yet interconnected worlds, while characters like Carton and Darnay embody mirrored fates. These dualities highlight the novel’s tension between destruction and renewal, urging readers to reflect on the cost of revolution and the power of personal sacrifice to break cycles of violence.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by illustrating the novel’s contrasting yet parallel realities, setting the stage for the dualities of revolution and sacrifice."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, as Carton’s final words reveal his redemptive act, transforming his life of wasted potential into one of profound meaning."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition (2003)."
+}

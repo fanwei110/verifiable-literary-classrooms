@@ -1,0 +1,14 @@
+{
+  "answer": "The opening of The Odyssey links Odysseus's physical wandering to the story itself: the narrator asks the Muse to sing of a man who \"saw many cities and learned many minds\" and \"suffered many pains on the sea.\" His journey is not just motion but the gathering of experience that becomes the epic's substance.",
+  "evidence": [
+    {
+      "quote": "Many cities of men he saw and learned their minds, many pains he suffered, heartsick on the open sea, fighting to save his life and bring his comrades home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 3-5",
+      "speaker_or_narrator": "Narrator, invoking the Muse",
+      "use_in_answer": "This quote supports the idea that Odysseus's wandering—seeing cities, learning minds, enduring pain—is the very source of the story being told."
+    }
+  ],
+  "limits": "Quotation from Robert Fagles' translation (1996); line numbers vary in other translations."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, Shakespeare intertwines ambition, prophecy, and guilt to chart the tragic fall of a once-noble hero. The witches’ prophecy plants the seed of kingship, but it is Lady Macbeth’s ruthless ambition that waters it. After reading Macbeth’s letter, she summons dark forces: “Come, you spirits… unsex me here, and fill me from the crown to the toe top-full of direst cruelty!” (1.5.41-44). Her plea to be stripped of feminine compassion reveals how ambition perverts natural order, turning prophecy into a call to regicide. Yet the crown brings no peace. Immediately after Duncan’s murder, Macbeth is paralyzed by guilt, staring at his bloody hands: “Will all great Neptune’s ocean wash this blood / Clean from my hand? No; this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.” (2.2.59-62). The hyperbolic image of a hand staining the entire ocean embodies the inescapable guilt that ambition has unleashed. Thus, prophecy ignites unchecked ambition, and that ambition exacts its price in the consuming, indelible guilt that drives both Macbeth and Lady Macbeth to madness and death.",
+  "evidence": [
+    {
+      "quote": "Come, you spirits / That tend on mortal thoughts, unsex me here, / And fill me from the crown to the toe top-full / Of direst cruelty!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "1.5.41–44",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "Lady Macbeth's prayer to be unsexed reveals how prophecy fuels a ruthless ambition that overrides conscience."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand? No; this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.2.59–62",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Macbeth's horrified question after the murder demonstrates the immediate, overwhelming guilt that ambition brings."
+    }
+  ],
+  "limits": "Quotations follow the Folio-based textual tradition; line breaks indicated with slashes."
+}

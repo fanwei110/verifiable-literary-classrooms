@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Elizabeth Bennet in Jane Austen's novel *Pride and Prejudice* (Chapter 11), during a conversation with Mr. Darcy about laughter and ridicule.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote confirms the exact words and the speaker, establishing the source context for the student."
+    }
+  ],
+  "limits": "Punctuation may vary across editions; the full sentence continues 'but I never ridicule what is wise and good.'"
+}

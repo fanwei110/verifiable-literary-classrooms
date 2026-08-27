@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant embrace of evil after his expulsion from Heaven. Satan’s rebellion stems from pride and a refusal to submit to God’s authority, asserting his autonomy even in damnation. He declares, “The mind is its own place, and in itself / Can make a Heav’n of Hell, a Hell of Heav’n” (Book I), revealing his belief that internal resolve overrides external circumstance—a core expression of his willful rebellion. This inner freedom, however, becomes a tool of self-deception as he chooses evil over obedience. Later, his famous line, “Better to reign in Hell, then serve in Heav’n,” (Book I) crystallizes his commitment to defiance at any cost, prioritizing power over peace. Milton uses these declarations to underscore that temptation arises not from coercion but from choices made in defiance of divine order. Both Satan and, later, Adam and Eve face moral decisions rooted in free will. Yet while Eve is misled by deception, Satan is fully aware and chooses rebellion deliberately, making his fall a consequence of unrestrained ambition and corrupted will.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself Can make a Heav\u2019n of Hell, a Hell of Heav\u2019n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's belief in the power of the mind to redefine moral and spiritual realities, illustrating his assertion of free will in rebellion against God."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav\u2019n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures Satan's prideful rejection of submission, emphasizing his preference for autonomous rule in evil over obedient service in good."
+    }
+  ],
+  "limits": "The excerpts provided are sufficient to support the argument about Satan's rebellion and free will, but do not include direct temptation scenes involving Eve; analysis is limited to Satan's speeches in Book I."
+}

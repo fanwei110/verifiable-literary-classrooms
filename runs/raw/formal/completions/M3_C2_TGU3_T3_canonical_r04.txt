@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, social class, and marriage are deeply intertwined. Elizabeth Bennet and Mr. Darcy’s evolving relationship highlights how initial judgments based on class can mislead. Darcy’s pride stems from his high social standing, leading him to dismiss those he deems beneath him, while Elizabeth’s prejudice causes her to misjudge Darcy’s character. Their journey illustrates that lasting marriage must look beyond rank and wealth. Austen critiques a society where marriage is often a transaction shaped by class. Charlotte Lucas’s pragmatic marriage to Mr. Collins exemplifies this: she accepts him not for love, but for security, stating, 'I am not romantic, you know; I never was. I ask only a comfortable home.' This reveals how women of lower gentry had limited choices. Over time, Elizabeth learns that true compatibility requires self-awareness and moral integrity, not just social advantage. Darcy also changes, humbling himself for love. When he proposes the second time, Elizabeth notes, 'You were disgusted with the women who were always speaking and looking, and laughing about you. But I, who had known you long, and studied your character, was not afraid.' This shows that overcoming first impressions allows for genuine connection. Austen ultimately champions marriage based on mutual respect rather than class.",
+  "evidence": [
+    {
+      "quote": "I am not romantic, you know; I never was. I ask only a comfortable home.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote supports how class pressures shape pragmatic marriage decisions over romantic love."
+    },
+    {
+      "quote": "You were disgusted with the women who were always speaking and looking, and laughing about you. But I, who had known you long, and studied your character, was not afraid.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates that overcoming first impressions through deeper understanding enables true connection across class divides."
+    }
+  ],
+  "limits": "Quotations are from standard editions of the novel; variations may exist across publications."
+}

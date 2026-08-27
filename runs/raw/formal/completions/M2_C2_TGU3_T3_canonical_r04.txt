@@ -1,0 +1,22 @@
+{
+  "answer": "Class, marriage, and first impressions intertwine from the novel’s opening paradox: “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” This ironic statement exposes a society where marriage is primarily an economic arrangement, not a romantic bond. Into this world steps Mr. Darcy, whose class pride produces a devastating first impression of Elizabeth Bennet: “She is tolerable; but not handsome enough to tempt me.” That overheard insult cements Elizabeth’s prejudice while Darcy’s aloofness masks his growing admiration. Their relationship flounders because initial judgments—rooted in wealth, rank, and superficial attraction—blind them to each other’s true worth. By depicting Elizabeth’s rejection of Mr. Collins’s security and Darcy’s humbling transformation, Austen argues that lasting marriage must surpass class boundaries and hasty assessments. First impressions, she warns, are unreliable guides; genuine partnership demands self-awareness, respect, and the willingness to discard social and personal pride.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote satirically frames marriage as an economic imperative dictated by class and wealth, launching the novel’s marriage plot."
+    },
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me;",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "Darcy’s dismissive remark reveals how class snobbery and hasty first impressions ignite the central tension between him and Elizabeth."
+    }
+  ],
+  "limits": "Chapter numbers follow the standard 1813 first edition. The second quotation is often printed with a semicolon; some editions use a period."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton vividly captures the moment of humanity’s fall through disobedience. Here’s a key passage that explains the temptation and the consequences of Adam and Eve’s choice: Satan, disguised as the serpent, persuades Eve to eat the forbidden fruit by appealing to her desire for knowledge and equality with God. This act of disobedience introduces sin and death into the world, illustrating how pride and the rejection of divine authority lead to humanity’s expulsion from Eden. The quote underscores the themes of free will, temptation, and the irreversible consequences of defying God’s command.",
+  "evidence": [
+    {
+      "quote": "He ended, and his words replete with guile / Into her heart too easy entrance won: / Fixed on the fruit she gazed, which to behold / Might tempt alone, and in her ears the sound / Yet rung of his persuasive words, impregned / With reason, to her seeming, and with truth. / Meanwhile the hour of noon drew on, and waked / An eager appetite, raised by the smell / So savory of that fruit, which with desire, / Inclinable now grown to touch or taste, / Solicited her longing eye; yet first / Pausing a while, thus to herself she mused: / 'Great are thy virtues, doubtless, best of fruits, / Though kept from man, and worthy to be admired, / Whose taste, too long forborne, at first essay / Gave elocution to the mute, and taught / The tongue not made for speech to speak thy praise. / Thy praise he also who forbids thy use, / Conceals not from us, naming thee the Tree / Of Knowledge, knowledge both of good and evil; / Forbids us then to taste, but his forbidding / Commends thee more, while it infers the good / By thee communicated, and our want: / For good unknown, sure is not had, or had / And yet unknown, is as not had at all. / In plain then, what forbids he but to know, / Forbids us good, forbids us to be wise? / Such prohibitions bind not.'",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 733–758",
+      "speaker_or_narrator": "Narrator (describing Eve’s internal conflict and Satan’s deception)",
+      "use_in_answer": "This passage illustrates Eve’s rationalization of disobedience, showing how temptation and the desire for forbidden knowledge lead to the Fall, which introduces sin and death into the world."
+    }
+  ],
+  "limits": "The quoted passage is from the 1674 edition of *Paradise Lost*, which is the second edition revised by Milton. Line numbers may vary slightly in other editions."
+}

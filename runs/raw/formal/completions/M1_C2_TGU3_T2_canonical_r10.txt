@@ -1,0 +1,14 @@
+{
+  "answer": "That line, 'I dearly love a laugh,' comes from Charles Dickens's novel *Hard Times*. It is spoken by the character Mr. Sleary, who runs a circus and values joy and laughter in contrast to the harsh utilitarianism of the novel's setting.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "Hard Times",
+      "locator": "Book the Second, Chapter 6",
+      "speaker_or_narrator": "Mr. Sleary",
+      "use_in_answer": "This quote identifies the speaker and the work, showing its origin in Dickens's critique of rigid social philosophies."
+    }
+  ],
+  "limits": "The exact phrasing may vary slightly across editions, but the attribution to Mr. Sleary in *Hard Times* is consistent."
+}

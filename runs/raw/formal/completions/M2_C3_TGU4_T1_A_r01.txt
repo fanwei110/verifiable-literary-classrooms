@@ -1,0 +1,14 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens opens with a series of antitheses that capture the violent contradictions of the era: 'It was the best of times, it was the worst of times…' This famous passage shows that history is not a single narrative but a clash of opposites—wisdom and foolishness, Light and Darkness, hope and despair—existing simultaneously, making the period itself a living contradiction.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation directly illustrates historical contradiction by pairing extreme opposites in quick succession, showing that the period was defined by its conflicting states."
+    }
+  ],
+  "limits": "Quotation is from the opening paragraph of the novel as provided in the source."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey home to Ithaca is not just a physical return but a reclamation of identity and rightful place. His encounter with the Phaeacians highlights xenia, or guest-friendship, a sacred social code. When Odysseus reveals himself, he says, 'I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens' (Book IX). This declaration underscores how identity is tied to reputation and recognition. Hospitality enables this restoration: hosts are obligated to welcome strangers before asking questions. When Odysseus finally returns to Ithaca disguised as a beggar, the suitors violate hospitality by mistreating him, contrasting with loyal characters like Eumaeus. The swineherd unknowingly honors xenia by offering food and shelter. Later, Odysseus says, 'Stranger, you would ask me about my lineage at another time; now, in the midst of sorrow, it is not to be urged' (Book XIV), showing how identity is both concealed and preserved through hardship. True hospitality in The Odyssey thus supports the moral order, allowing the hero to reclaim home and identity. ",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book IX",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus asserts his identity and reputation as central to his heroic role."
+    },
+    {
+      "quote": "Stranger, you would ask me about my lineage at another time; now, in the midst of sorrow, it is not to be urged",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book XIV",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates Odysseus’s deliberate concealment of identity during suffering and emphasizes the tension between self-revelation and timing."
+    }
+  ],
+  "limits": "Quotations are from the Samuel Butler translation; exact phrasing may vary across editions."
+}

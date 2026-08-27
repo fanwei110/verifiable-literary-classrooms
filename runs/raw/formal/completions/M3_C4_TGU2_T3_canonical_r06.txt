@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt are central themes that drive the tragic arc of the play. Macbeth’s ambition is ignited by the witches’ prophecy, which Banquo warns may have dangerous consequences: 'I dreamt last night of the three Weird Sisters: / To you they have show'd some truth' (Act I, Scene III). This prophecy sets Macbeth on a path toward power, but his growing guilt manifests in vivid hallucinations as he wrestles with his conscience. Before murdering King Duncan, Macbeth sees a vision of a dagger covered in blood, asking, 'Is this a dagger which I see before me, / The handle toward my hand?... / And on thy blade and dudgeon, gouts of blood' (Act II, Scene I). This supernatural image reflects his inner turmoil and foreshadows the violent act he is about to commit. The combination of unchecked ambition, spurred by prophecy, and the psychological weight of guilt ultimately leads to Macbeth’s downfall. His internal conflict illustrates how the pursuit of power at any cost corrupts the soul and unravels the mind.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene III",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote supports how the prophecy of the witches begins to influence Macbeth's actions and sets the stage for his ambition."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand?... And on thy blade and dudgeon, gouts of blood",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's guilt and hallucination prior to killing Duncan, showing the psychological impact of his ambition."
+    }
+  ],
+  "limits": "The provided source excerpts are limited to early scenes of the play, so analysis is constrained to Macbeth’s initial response to prophecy and guilt before the murder of Duncan."
+}

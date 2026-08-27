@@ -1,0 +1,14 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the theme of fall and disobedience is powerfully introduced in the opening lines, where the narrator frames Adam and Eve's transgression as a willful act against divine law, leading to the loss of Eden and humanity's fallen state. This foundational act of disobedience is not merely rebellion but a pivotal moment that redefines human destiny, setting the stage for redemption through grace.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat, / Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "The Narrator (Milton's poetic voice invoking the Muse)",
+      "use_in_answer": "This quote directly introduces the central themes of disobedience and the fall, establishing the consequences of Adam and Eve's actions and the hope for redemption."
+    }
+  ],
+  "limits": "The line numbers may vary slightly depending on the edition, but the quoted passage consistently opens the poem in standard scholarly versions such as the 1674 edition."
+}

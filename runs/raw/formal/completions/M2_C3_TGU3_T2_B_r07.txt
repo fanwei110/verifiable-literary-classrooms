@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Elizabeth Bennet in Jane Austen's *Pride and Prejudice*. She says it during a conversation at Netherfield, where she is defending her enjoyment of finding humor in people's follies.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This is the exact line and its speaker."
+    }
+  ],
+  "limits": "No uncertainty; the line is verbatim from Chapter 11."
+}

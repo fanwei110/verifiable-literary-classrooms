@@ -1,0 +1,14 @@
+{
+  "answer": "That’s a sharp question. Dickens himself captures the push-and-pull of history in a single sentence near the start of Book the First. He shows us how the same era can feel both 'the best of times' and 'the worst of times,' depending on who is looking. This contradiction isn’t a mistake—it’s the point: history is always a clash of perspectives.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1 ('The Period')",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening paragraph illustrates how historical contradiction is built into the very language of the novel, forcing readers to hold opposing truths at once."
+    }
+  ],
+  "limits": "The quotation is from the 1859 first edition; chapter numbering may vary slightly in later editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Milton tackles the problem of evil by rooting it in free will. In Paradise Lost, God explicitly grants Adam the capacity to choose obedience or rebellion: otherwise, virtue would be coerced, not authentic. The Father declares, 'I made him just and right, / Sufficient to have stood, though free to fall' (3.98–99). This means temptation is not an overwhelming force but a test that can be resisted. True freedom requires the real possibility of saying no. The epic’s first great no comes from Satan, who voices the logic of rebellion when he proclaims, 'Better to reign in Hell, than serve in Heaven' (1.263). His choice turns pride into a temptation for others—especially Eve and Adam, who will similarly face a moment of deliberate disobedience. Satan’s defiance shows that even in Heaven, free will can curdle into revolt. Thus, Milton ties temptation and the fall directly to the gift of free will: rebellion is not a flaw in creation but a misuse of the very liberty that makes love and obedience meaningful. The poem insists we are not puppets; every fall is a self-authored act, making redemption equally a matter of choice.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Illustrates the primal act of rebellious free will and the proud logic that makes temptation appealing."
+    },
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98–99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "Establishes the theological framework that free will is the necessary condition for genuine obedience, making temptation a resistible test."
+    }
+  ],
+  "limits": "Line numbers follow the 1667 first edition; some modern editions may number lines slightly differently in Book 3."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet’s “To be, or not to be” soliloquy directly confronts mortality and hesitation. He weighs the unbearable pain of life against the fear of what dreams may come in death, asking whether it is nobler to suffer passively or to take arms against a sea of troubles. This existential dilemma paralyzes him: the dread of the unknown afterlife makes him hesitate to end his own life or to act decisively against Claudius.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage captures Hamlet’s meditation on existence and his paralysis in the face of death, linking the hesitation to act with the fear of mortality."
+    }
+  ],
+  "limits": "Line numbers follow the standard modern concordance (e.g., Arden). Exact division may vary slightly in other editions."
+}

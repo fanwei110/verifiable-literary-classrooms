@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation is rooted in a profound meditation on mortality, and performance becomes a means to overcome that paralysis. Hamlet's delay is not mere indecision but a philosophical crisis ignited by the ghost. In the “To be, or not to be” soliloquy, he contemplates death’s uncertainty: “the undiscover'd country, from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of?” (3.1.79-82). The dread of the unknown afterlife makes humans cling to familiar suffering, breeding hesitation. Yet Hamlet finds a counterforce in theatrical performance. After the players arrive, he seizes on drama as a catalyst, resolving, “The play's the thing / Wherein I'll catch the conscience of the king” (2.2.606-607). By staging a murder, he turns paralysis into performance, using art to unmask a mortal crime. Shakespeare suggests that while consciousness of death breeds hesitation, performance can transform fearful inaction into a powerful, truth-seeking act that confronts mortality head-on.",
+  "evidence": [
+    {
+      "quote": "the undiscover'd country, from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.79-82",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation reveals how the fear of the unknown afterlife fuels hesitation, compelling Hamlet to endure present suffering rather than risk death."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606-607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation demonstrates how Hamlet channels hesitant energy into performance, using theatre as a tool to expose guilt and overcome inaction."
+    }
+  ],
+  "limits": "Line numbers follow the Arden Shakespeare, Third Series; may differ in other editions."
+}

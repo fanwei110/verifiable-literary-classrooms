@@ -1,0 +1,14 @@
+{
+  "answer": "Excellent question. To see the marriage market's irony, consider the novel's famous opening line. It sounds like a universal truth, but the irony is that Mrs. Bennet immediately flips its meaning: she assumes a rich single man is automatically the rightful property of her daughters, exposing the desperate, predatory logic beneath the polite surface of courtship.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that the opening sentence establishes the satirical premise of the marriage market, where economic necessity is disguised as romantic destiny."
+    }
+  ],
+  "limits": "The quotation is from the standard text of the 1813 first edition."
+}

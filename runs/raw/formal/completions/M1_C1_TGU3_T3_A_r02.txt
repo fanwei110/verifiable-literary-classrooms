@@ -1,0 +1,24 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage intersect to shape social dynamics. The novel critiques the superficial judgments that characters make—like Elizabeth Bennet’s initial disdain for Mr. Darcy—only to reveal deeper complexities. Class plays a pivotal role, as marriage often serves as a tool for social mobility or security. Charlotte Lucas’s pragmatic acceptance of Mr. Collins, for example, highlights the limited options for women of modest means. Meanwhile, Darcy’s pride and Elizabeth’s prejudice stem from their differing social positions, illustrating how class colors their perceptions. Austen ultimately suggests that true compatibility requires looking beyond first impressions and societal expectations. These themes invite discussion: How do class and gender constrain choices in the novel? Why do characters like Elizabeth resist or conform to these pressures?",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line underscores the novel’s satirical take on marriage as a social transaction, particularly for women seeking financial stability."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s defiant assertion challenges class hierarchies, emphasizing her belief in personal worth over rigid social distinctions."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

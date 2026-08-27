@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when intertwined with class and assumptions about marriage. The novel opens with a satirical commentary on societal expectations: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This highlights how marriage is often viewed as a transaction guided by status rather than affection. Initial judgments based on class distort relationships—Elizabeth wrongly condemns Darcy as proud and Wickham as amiable, only to later realize her prejudice. Her moment of self-awareness comes when she reflects, 'How despicably have I acted!...Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance.' This confesses how early biases cloud reason. Ultimately, Austen critiques rigid class structures and impulsive judgments, showing that true understanding requires humility and reflection. Love, as seen in Elizabeth and Darcy’s evolving relationship, grows not from first impressions but from revised perceptions and personal growth.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the societal attitude toward marriage as a transaction influenced by class and wealth."
+    },
+    {
+      "quote": "How despicably have I acted!...Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports Elizabeth’s realization that her first impressions were flawed due to bias and vanity."
+    }
+  ],
+  "limits": "The exact locator for the second quote is inferred from context as Chapter XXXVI, though not explicitly labeled in the source window."
+}

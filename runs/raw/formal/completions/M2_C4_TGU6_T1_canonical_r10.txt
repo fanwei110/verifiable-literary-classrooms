@@ -1,0 +1,14 @@
+{
+  "answer": "A perfect quotation to explain wandering and story in *The Odyssey* is the opening invocation: “Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home.” These lines frame the entire epic as a tale of a man’s far-ranging journey—his wanderings—and the act of storytelling itself, as the poet asks the Muse to tell the story.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "The narrator (the poet, invoking the Muse)",
+      "use_in_answer": "This quotation is the epic's invocation, directly introducing both the hero's extensive wanderings and the act of storytelling."
+    }
+  ],
+  "limits": "The excerpt is from an English translation; the translator is not named in the provided source text, only the title 'The Odyssey' and the headings for Book I. Line numbers are not given, so the locator uses the book and description 'opening lines'."
+}

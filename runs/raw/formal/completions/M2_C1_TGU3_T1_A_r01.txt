@@ -1,0 +1,14 @@
+{
+  "answer": "The opening sentence of Pride and Prejudice sets up the central irony of the marriage market: the statement claims it is a truth universally acknowledged that a wealthy single man must want a wife, but in reality it is the surrounding families who are desperate to secure such a match for their daughters. The narrator's ironic tone inverts the real motivation, exposing the materialism and social maneuvering behind marriage.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic opening line reveals the satire of the marriage market, as it pretends wealthy men are actively seeking wives when in reality it is the families who hunt for rich husbands."
+    }
+  ],
+  "limits": "Text follows the first edition of 1813; minor punctuation variants exist in later editions."
+}

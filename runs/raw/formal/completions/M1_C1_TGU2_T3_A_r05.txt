@@ -1,0 +1,22 @@
+{
+  "answer": "Today, we’ll explore how ambition, prophecy, and guilt intertwine in *Macbeth* to drive the tragedy. Ambition is Macbeth’s fatal flaw—initially hesitant, he becomes consumed by the witches’ prophecy, which plants the seed of his downfall. The witches’ words, ‘All hail, Macbeth, that shalt be king hereafter!’ (1.3), ignite his ambition, making him believe kingship is his destiny. Yet, this prophecy is ambiguous; it doesn’t specify *how* he’ll become king, leaving room for Macbeth’s own choices—like murdering Duncan—to fulfill it. His guilt surfaces immediately after the deed, as he laments, ‘Will all great Neptune’s ocean wash this blood / Clean from my hand?’ (2.2). Here, blood symbolizes his irreversible guilt, showing how ambition and prophecy lead to moral corruption. Notice how Shakespeare uses these elements to question whether fate or free will controls our actions. Does Macbeth’s ambition make him a victim of prophecy, or does he choose his path? Discuss how guilt might be his only remaining humanity by the play’s end.",
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quote demonstrates how the witches’ prophecy sparks Macbeth’s ambition, setting the tragedy in motion."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line illustrates Macbeth’s overwhelming guilt after murdering Duncan, showing the psychological toll of his ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other versions."
+}

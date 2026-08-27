@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton weaves temptation, free will, and rebellion into a single moral drama. True freedom, the poem argues, requires the capacity to fall. God establishes this condition at the outset, declaring that Adam and Eve were made “sufficient to have stood, though free to fall” (Book 3). Liberty is therefore not a guarantee of righteousness but a test. Temptation exploits that liberty by distorting reason. In Book 9, as Eve gazes at the forbidden fruit, she rationalizes her desire: “what hinders then / To reach, and feed at once both body and mind?” (lines 778–79). Her question reveals that temptation works not through brute coercion but through intellectual seduction—making disobedience seem wise and profitable. The choice to eat is entirely hers, an exercise of free will that becomes rebellion. Rebellion, then, is the tragic consequence of misused freedom. Satan’s earlier “Better to reign in Hell than serve in Heaven” is the archetype, but Eve’s domestic rationalization shows that the same proud logic operates in Eden. Milton’s lesson is that obedience has no moral worth unless it can be refused; the Fall, though catastrophic, proves that humanity was never mere clockwork, but genuinely free, responsible, and tragically susceptible to the appeal of forbidden knowledge.",
+  "evidence": [
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98–99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "Demonstrates that free will is the necessary precondition for moral responsibility; the capacity to choose evil makes genuine goodness possible."
+    },
+    {
+      "quote": "what hinders then / To reach, and feed at once both body and mind?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 778–779",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "Illustrates how temptation manipulates reason, turning the forbidden act into a seemingly rational step toward wisdom and self-improvement."
+    }
+  ],
+  "limits": "Quotations follow the 1667 first edition; line-numbering may vary slightly in modern editions."
+}

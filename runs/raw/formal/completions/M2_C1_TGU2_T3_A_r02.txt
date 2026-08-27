@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition, prophecy, and guilt intertwine to drive the tragic arc. When the Weird Sisters prophesy that Macbeth will become king, they sow a seed of dark desire. Macbeth's immediate reaction, in an aside, reveals his ambition: 'Stars, hide your fires; / Let not light see my black and deep desires' (Act 1, Scene 4). The metaphor of hidden stars shows he already imagines murdering Duncan to seize the crown. Ambition, once latent, is now awakened by supernatural suggestion. But ambition unchecked leads to overwhelming guilt. After killing Duncan, Macbeth stares at his bloodstained hands and asks, 'Will all great Neptune’s ocean wash this blood / Clean from my hand? No; this my hand will rather / The multitudinous seas incarnadine, / Making the green one red' (Act 2, Scene 2). The hyperbole of turning the entire ocean red expresses a guilt so profound that it cannot be cleansed. Thus prophecy lights the fuse of ambition, guilt consumes the soul, and together they unravel Macbeth’s humanity.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; / Let not light see my black and deep desires",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This aside reveals how the witches' prophecy ignites Macbeth's latent ambition to commit regicide."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand? No; this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hyperbolic image demonstrates the inescapable guilt that immediately follows his ambitious murder."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; punctuation and lineation may vary in other editions."
+}

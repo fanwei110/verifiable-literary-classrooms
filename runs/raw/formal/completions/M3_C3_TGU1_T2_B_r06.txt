@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'The play’s the thing Wherein I’ll catch the conscience of the King' is spoken by Prince Hamlet in William Shakespeare's play *Hamlet*. In this moment, Hamlet decides to use a play to test King Claudius’s guilt in the murder of Hamlet’s father. By staging a scene that mirrors the murder, Hamlet hopes to provoke a reaction from the King and confirm his suspicions.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly shows Hamlet's plan to use a play as a trap to expose King Claudius's guilt."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly depending on the edition, but the quote consistently appears at the end of Act II, Scene 2 in most standard versions of the play."
+}

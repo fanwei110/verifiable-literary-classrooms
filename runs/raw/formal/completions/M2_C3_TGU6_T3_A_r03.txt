@@ -1,0 +1,18 @@
+{
+  "answer": "In Homer’s Odyssey, the intertwined themes of homecoming, identity, and hospitality define the hero’s journey. Odysseus’s supreme goal is nostos—returning to Ithaca, his wife Penelope, and his rightful place. Yet that identity is constantly tested. As the narrator opens, “he, though he was longing to return to his wife and country, was detained by the goddess Calypso, who had got him into a large cave and wanted to marry him” (Book I). This longing reveals that home is not merely a location but the core of his selfhood; without it, he is a man adrift, his identity as king, husband, and father suspended. Hospitality (xenia) becomes the bridge across which he can reclaim that identity. Stranded and naked among the Phaeacians, Odysseus supplicates Nausicaa, invoking the sacred bond of guest and host: “Show me the way to your town… May heaven grant you… a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house” (Book VI). Here, the wanderer who has lost everything blesses his host by describing the very domestic harmony he yearns to restore. The Phaeacians’ generous welcome, offering clothing, transport, and a listening ear, enables his final return and the violent reassertion of his identity. Thus, the epic shows that home is preserved through the recognition of strangers, and true hospitality affirms the humanity that longing has kept alive.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso, who had got him into a large cave and wanted to marry him.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage illustrates Odysseus's profound longing for home as central to his identity, showing how his homecoming is delayed by Calypso."
+    },
+    {
+      "quote": "Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in. May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus (Ulysses)",
+      "use_in_answer": "Odysseus’s plea for hospitality and his blessing

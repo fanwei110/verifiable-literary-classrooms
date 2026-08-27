@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Prince Hamlet in William Shakespeare's play *Hamlet*, at the end of Act II, Scene II. He resolves to stage a play that reenacts his father's murder in order to observe King Claudius's reaction and confirm the ghost's story of foul play.",
+  "evidence": [
+    {
+      "quote": "The playâs the thing / Wherein Iâll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene II (just before the exit)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly provides the line and shows it is spoken by Hamlet at the end of Act II, Scene 2 as he devises his plan."
+    }
+  ],
+  "limits": ""
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton’s *Paradise Lost*, free will is the axis on which both temptation and rebellion turn. God, foreseeing the Fall, insists that humanity and angels were created genuinely free—capable of standing or falling by their own choice. This principle means temptation is not an external force that overrides reason but a test that reveals the will’s orientation. Satan’s rebellious choice, made long before Eve’s, is the poem’s archetype of misused freedom. Seduced by pride, he refuses to accept a subordinate place in the cosmic order and frames his defiance as a heroic assertion of liberty. His famous declaration is not a cry of despair but a deliberate inversion of divine hierarchy: he would rather rule in a self-made hell than submit to God’s authority. The serpent’s temptation of Eve works the same logic: it inflames a desire to rise above her creaturely limits. In both cases, evil enters not because God wills it, but because free agents permit disordered desire to conquer their reason. Temptation merely illuminates the fork in the road; rebellion is the chosen path. Milton thus presents the Fall as a catastrophe born entirely of misdirected freedom, making each creature fully accountable for their own ruin.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This quotation anchors the lesson’s claim that free will is the foundation of moral testing; God’s own words confirm that Adam and Eve were created able to resist temptation."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quotation demonstrates the end result of free will corrupted by pride—Satan’s deliberate, unrepentant rebellion against divine order."
+    }
+  ],
+  "limits": "All quotations follow the 1674 second edition; line numbers in modern editions may differ by a few lines."
+}

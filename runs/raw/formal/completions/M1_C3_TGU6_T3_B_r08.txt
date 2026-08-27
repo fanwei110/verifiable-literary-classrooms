@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are central themes that shape Odysseus’s journey and the moral fabric of the epic. Homecoming (*nostos*) is not just a physical return but a restoration of identity—Odysseus’s struggle to reclaim his kingdom, wife, and self after years of wandering reflects the fragility of human connection to place and purpose. The opening lines establish this longing: the Muse is asked to 'tell me... of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy,' emphasizing his relentless pursuit of home despite divine obstacles. Hospitality (*xenia*), meanwhile, is a sacred duty that tests the moral character of both hosts and guests. When Odysseus pleads with Nausicaa, 'Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in,' he invokes the reciprocal obligations of *xenia*, revealing how survival and dignity depend on the kindness of strangers. These moments underscore that identity is forged through both personal resilience and the generosity of others, while homecoming remains the ultimate reward for enduring suffering and upholding virtue.",
+
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-9",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This quote establishes Odysseus’s defining struggle—his relentless pursuit of homecoming (*nostos*) despite divine and mortal setbacks, framing his journey as a test of identity and endurance."
+    },
+    {
+      "quote": "Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in. May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 178-183",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "This plea highlights the theme of hospitality (*xenia*) as Odysseus, vulnerable and nameless, relies on Nausicaa’s mercy, illustrating how identity and survival depend on the generosity of others."
+    }
+  ],
+
+  "limits": "The quoted passages are from the provided source excerpts, which align with standard translations of *The Odyssey* (e.g., Butler’s prose translation). Minor variations in wording may exist across editions, but the thematic content remains consistent."
+}
+```

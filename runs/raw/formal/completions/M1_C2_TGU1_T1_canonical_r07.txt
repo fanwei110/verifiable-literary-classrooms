@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful moment that captures both mortality and hesitation comes from Hamlet’s famous soliloquy. Here, Shakespeare gives us a raw meditation on life, death, and the paralysis that often accompanies deep reflection. The quote I’m thinking of forces us to confront the fear and uncertainty that can freeze us in place, even when action seems necessary.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 58-62",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s internal struggle with mortality and the hesitation that arises from contemplating the unknown consequences of action versus inaction."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly depending on the edition of Hamlet used."
+}

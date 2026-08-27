@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes. Odysseus’s journey is not just a physical return to Ithaca but a restoration of his identity as husband, father, and king. Throughout his travels, hospitality—known as *xenia*—serves as a moral compass, revealing the character of both hosts and guests. When Odysseus arrives in Phaeacia, shipwrecked and alone, he appeals to Nausicaa for aid, carefully balancing humility and dignity. His plea underscores the sacred nature of hospitality, which bridges陌生 strangers with potential kinship. In this moment, Odysseus does not reveal his name immediately, preserving his identity until the right moment, showing how identity is earned through recognition, not merely declared. Nausicaa's generous response reflects the virtue of hospitality in civilized society, where aiding the displaced is both a social and divine duty. True homecoming, then, requires more than arrival—it demands recognition, respect, and the restoration of relationships. As Odysseus says, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.' This ideal is what Odysseus struggles to reclaim. Hospitality becomes the first step toward that restoration.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the ideal of homecoming as the restoration of family unity and domestic harmony."
+    },
+    {
+      "quote": "I will show you the way to the town, and will tell you the name of our people; we are called Phaeacians, and I am daughter to Alcinous, in whom the whole power of the state is vested.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the role of hospitality in establishing identity and connection between stranger and host."
+    }
+  ],
+  "limits": "The provided source excerpts are from Book I and a portion of Book VI; full context of Book VI is inferred based on standard editions of The Odyssey."
+}

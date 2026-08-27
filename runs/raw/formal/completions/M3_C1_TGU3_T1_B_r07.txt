@@ -1,0 +1,14 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen uses irony to critique the marriage market by highlighting how societal expectations prioritize economic security over personal compatibility. A key example occurs when the narrator observes the flawed assumptions women face when seeking advantageous marriages.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line ironically reverses the actual social pressure, exposing how women without fortunes were the ones truly in need of wealthy husbands, thus underscoring the transactional nature of marriage in Regency England."
+    }
+  ],
+  "limits": "The quote is from the first chapter of the novel; variations in published editions do not affect the wording of this iconic sentence."
+}

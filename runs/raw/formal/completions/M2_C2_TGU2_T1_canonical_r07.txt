@@ -1,0 +1,14 @@
+{
+  "answer": "In a live class, we can see ambition and hallucination intertwined in Macbeth’s dagger speech. The protagonist, driven by his vaulting ambition to seize the throne, experiences a hallucinatory dagger that seems to guide his hand towards regicide. The vision shows how his guilt and desire distort his perception, making the imagined real enough to follow.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.1.33-35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates ambition-driven hallucination as Macbeth sees a dagger that he cannot grasp, symbolizing the bloody path his ambition compels him to take."
+    }
+  ],
+  "limits": "Line numbering follows the Folio; some editions may show slight variations."
+}

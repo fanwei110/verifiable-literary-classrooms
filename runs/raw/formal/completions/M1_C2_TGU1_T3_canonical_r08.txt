@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores how hesitation, mortality, and performance intersect to shape the protagonist’s tragic journey. Hamlet’s delay in avenging his father’s murder stems from his profound awareness of life’s fragility and the moral weight of action. His famous soliloquy, 'To be, or not to be,' reveals his paralyzing contemplation of death as both an escape from suffering and a leap into the unknown. This hesitation isn’t mere cowardice but a crisis of meaning—Hamlet grapples with whether existence is worth enduring when human frailty renders all action futile. Performance further complicates his resolve, as he adopts an 'antic disposition' to mask his intentions, blurring the line between truth and deception. Yet this theatricality also traps him, making it harder to act decisively. Even his eventual revenge feels hollow, underscoring how mortality’s inevitability renders human striving ultimately absurd. Through Hamlet, Shakespeare questions whether performance can ever transcend the fear of death or if hesitation is the only honest response to life’s uncertainties.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s existential hesitation, framing his inaction as a philosophical struggle with mortality and the burden of existence."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606-607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line demonstrates Hamlet’s reliance on performance to test reality, showing how theatricality becomes both a tool and a barrier to decisive action."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet* (2006)."
+}

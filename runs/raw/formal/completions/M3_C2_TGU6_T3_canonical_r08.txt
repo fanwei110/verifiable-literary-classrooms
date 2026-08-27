@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey to Ithaca is not merely a physical return but a restoration of identity and order. His recognition by loyal characters, such as his nurse Eurycleia, hinges on intimate knowledge—like the scar from a boar hunt—reaffirming who he truly is. Hospitality, or xenia, functions as both a moral code and a tool for discerning friend from foe. When Odysseus returns disguised as a beggar, the suitors violate xenia by mistreating him, contrasting sharply with the loyalty of Penelope and Telemachus. This contrast emphasizes that true belonging comes not just from bloodline, but from adherence to social and ethical norms. The suitors' abuse of hospitality ultimately justifies their downfall, as they disrupt the very foundation of Ithacan society. As the narrator states, 'No use, Cyclops, to ask their pity— / they have no law, they care for no right / of others,' illustrating the danger of lawless behavior. Conversely, Odysseus asserts, 'I am Odysseus, son of Laertes... known to the world for wisdom,' reclaiming his identity and rightful place. Through these moments, Homer shows that homecoming is only complete when identity is recognized and hospitality honored.",
+  "evidence": [
+    {
+      "quote": "No use, Cyclops, to ask their pity— / they have no law, they care for no right / of others",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 200–202",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the importance of law and hospitality in contrast to barbarism, underscoring the values Odysseus defends upon his return."
+    },
+    {
+      "quote": "I am Odysseus, son of Laertes... known to the world for wisdom",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 258–259",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates Odysseus reclaiming his identity, a crucial moment in the theme of homecoming and self-recognition."
+    }
+  ],
+  "limits": "Quotations are based on Robert Fagles' 1996 translation; wording may vary slightly in other editions."
+}

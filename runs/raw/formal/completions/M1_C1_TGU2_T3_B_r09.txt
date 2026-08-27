@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how Shakespeare intertwines ambition, prophecy, and guilt in *Macbeth*. The play suggests that unchecked ambition—fueled by supernatural prophecy—leads to moral corruption and psychological torment. Macbeth’s initial hesitation gives way to ruthless action after the witches’ predictions ignite his desire for power. Yet, his ambition doesn’t bring fulfillment; instead, it breeds guilt, as seen when he hallucinates Banquo’s ghost, a manifestation of his remorse. The prophecies themselves are ambiguous, tempting Macbeth into a false sense of security while ensuring his downfall. His guilt isn’t just personal—it’s a consequence of defying natural order, as the play frames regicide as a cosmic violation. Notice how Macbeth’s language shifts from poetic ambition to fragmented, guilt-ridden speech, revealing his unraveling psyche. These themes warn against the dangers of ambition divorced from morality, showing how prophecy can become a self-fulfilling curse rather than a path to glory.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on th'other—",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s recognition of his own ambition as the sole driving force behind his murderous intent, highlighting its destructive potential."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination symbolizes Macbeth’s guilt and psychological torment, showing how ambition and violence corrupt his mind."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly by edition."
+}

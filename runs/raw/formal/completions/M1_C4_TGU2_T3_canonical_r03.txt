@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. However, his initial hesitation reveals the conflict between desire and morality. When Banquo warns, 'I dreamt last night of the three Weird Sisters: / To you they have show’d some truth,' Macbeth dismisses the thought—'I think not of them'—yet his obsession is already evident, as he later seeks Banquo’s allegiance for his own dark purposes. This tension between fate and free will fuels his ambition, pushing him toward murder. Guilt, however, haunts Macbeth almost immediately. After Duncan’s death, he hallucinates a dagger, crying, 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his tormented conscience, as the 'bloody business' of regicide corrupts his mind. The prophecy, once a source of hope, becomes a curse, while guilt erodes his sanity, showing how unchecked ambition leads not to power but to psychological ruin.",
+
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: / To you they have show’d some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote highlights the witches’ prophecy as a catalyst for Macbeth’s ambition, showing how their words linger in his mind."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s guilt and psychological unraveling after committing murder, as his mind conjures the dagger as a symbol of his crime."
+    }
+  ],
+
+  "limits": "The frozen excerpts do not include Lady Macbeth’s role in manipulating Macbeth’s ambition or his later descent into tyranny, limiting the scope of guilt’s long-term effects."
+}
+```

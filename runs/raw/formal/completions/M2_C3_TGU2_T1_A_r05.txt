@@ -1,0 +1,14 @@
+{
+  "answer": "In response to the prompt, the most revealing quotation that fuses ambition and hallucination is Macbeth’s dagger soliloquy. As he steels himself to murder King Duncan, he sees a floating dagger that he cannot grasp—a “fatal vision” that both embodies and mocks his ambition. The dagger “marshalls’t” him toward the deed, and the appearance of blood on its blade shows how his guilty, ambitious mind literally projects the violence he is about to commit. This passage, from Act 2, Scene 1, demonstrates that for Macbeth hallucination is not a random mental glitch but the direct psychological consequence of a treasonous desire that consumes his reason.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain? / I see thee yet, in form as palpable / As this which now I draw. / Thou marshall’st me the way that I was going; / And such an instrument I was to use.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote provides the exact dramatic moment where Macbeth’s ambition to seize the crown generates a vivid hallucination of the murder weapon, illustrating how his inner desire corrupts his perception and drives him toward the crime."
+    }
+  ],
+  "limits": "Lineation and punctuation follow the Frozen Source window, which may vary slightly from modern critical editions; the source does not supply line numbers, so the locator is given by act and scene only."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that mirror the chaos and moral complexity of the French Revolution. The novel opens with the idea of doubling—'It was the best of times, it was the worst of times'—setting a tone of duality that runs throughout the story. Characters like Charles Darnay and Sydney Carton are doubles physically and morally, yet only Carton makes the ultimate sacrifice, choosing to die so that Darnay and Lucie may live. His final act transforms personal failure into redemptive heroism. This martyrdom echoes the revolutionary impulse: while the revolution seeks justice, it often descends into cruelty. As the menacing Madame Defarge declares, 'It is my business to make and keep a record,' revealing how personal vengeance becomes institutionalized in revolutionary justice. Carton’s selfless death, in contrast, offers redemption not through violence, but through love and sacrifice. In this way, Dickens critiques blind revolution while elevating individual moral choice. The doubling between Carton and Darnay allows Carton to fulfill a role beyond his life—one of meaning and grace. Through contrasting fates, Dickens suggests that true change comes not from mass upheaval, but from personal sacrifice. Revolution may rage, but redemption lies in quiet, deliberate acts of love.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the theme of doubling and duality that permeates the novel."
+    },
+    {
+      "quote": "It is my business to make and keep a record",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XII",
+      "speaker_or_narrator": "Madame Defarge",
+      "use_in_answer": "This quote demonstrates how personal vengeance becomes enshrined in revolutionary ideology."
+    }
+  ],
+  "limits": "Quotations may vary slightly depending on edition; analysis based on standard Norton Critical Edition."
+}

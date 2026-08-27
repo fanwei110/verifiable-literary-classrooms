@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from John Milton's epic poem *Paradise Lost*. It is spoken by Satan, who, after being cast out of Heaven, declares that he would rather rule in Hell than submit to God's authority in Heaven. The correct phrasing is: 'Better to reign in Hell, than serve in Heaven.'",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the attribution of the line to Satan in Milton's poem, where he expresses his defiant preference for power in Hell over servitude in Heaven."
+    }
+  ],
+  "limits": "The student's version uses 'then' instead of 'than' and abbreviates 'Heaven' as 'Heav'. The original line is 'Better to reign in Hell, than serve in Heaven.' There is no notable textual variation in standard editions."
+}

@@ -1,0 +1,5 @@
+condition,n,strict_correct,strict_rate,defensible_correct,defensible_rate,bucket_defensible_correct,bucket_format_failure,bucket_strict_correct,bucket_transport_failure,bucket_wrong
+C1,540,167,0.3093,185,0.3426,18,28,167,0,327
+C2,540,188,0.3481,199,0.3685,11,28,188,0,313
+C3,540,233,0.4315,233,0.4315,0,21,233,0,286
+C4,540,224,0.4148,224,0.4148,0,25,224,0,291

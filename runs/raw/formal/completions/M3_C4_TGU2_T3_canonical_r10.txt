@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s downfall. The witches’ prophecy ignites Macbeth’s vaulting ambition, prompting him to contemplate murder to fulfill his rise to power. However, as he moves closer to committing regicide, guilt manifests in powerful psychological visions. The prophecy sets events in motion, but it is Macbeth’s ambition that propels him forward, while guilt attempts to hold him back. This internal conflict is exemplified when Macbeth hallucinates a dagger before killing King Duncan: 'Is this a dagger which I see before me, / The handle toward my hand?' The vision symbolizes his inner turmoil—his ambition draws him forward, but his conscience rebels. The dagger, 'a false creation, / Proceeding from the heat-oppressed brain,' reveals how guilt preys on his mind even before the crime. Yet, he proceeds, showing how ambition overpowers moral hesitation. Later, Banquo’s mention of the witches—'I dreamt last night of the three Weird Sisters: / To you they have show’d some truth'—reignites Macbeth’s anxiety, reminding the audience that the prophecy, while fulfilled, brings not glory but torment. Thus, Shakespeare portrays ambition as destructive when unchecked, prophecy as misleadingly tempting, and guilt as inescapable.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how guilt manifests as a hallucination, revealing Macbeth's inner conflict before committing murder."
+    },
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote illustrates how prophecy continues to haunt the characters, reminding Macbeth of the dangerous truths that set his ambition in motion."
+    }
+  ],
+  "limits": "The source windows provided limited contextual metadata; scene and act labeling appears inconsistent with standard editions—e.g., Banquo's line is likely from Act I, Scene III, not Scene I. Quotations are accurately transcribed, but locator data from the source window may be misaligned."
+}

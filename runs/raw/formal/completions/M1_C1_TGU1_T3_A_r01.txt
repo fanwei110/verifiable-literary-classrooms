@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores how hesitation, mortality, and performance intertwine to shape the play’s central tragedy. Hamlet’s delay in avenging his father’s murder stems from his profound awareness of mortality—both his own and others’. His famous soliloquy, 'To be, or not to be,' reveals his paralyzing fear of the unknown after death, which makes action seem futile. This hesitation isn’t just personal; it’s philosophical, forcing Hamlet to question whether life’s suffering is worth enduring. Meanwhile, performance becomes a tool for survival and deception. Hamlet adopts an 'antic disposition' to navigate a court rife with spies, blurring the line between truth and theater. Yet this performative mask also isolates him, deepening his existential crisis. Claudius, too, embodies this tension—his guilt-ridden prayer scene shows how performance fails to conceal moral corruption. Ultimately, Shakespeare suggests that hesitation in the face of mortality is human, but when coupled with deception, it leads to irreversible tragedy. The play asks: Can we ever act authentically when life itself feels like a stage?",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation, illustrating his fear of death and the paralysis it induces."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line demonstrates Hamlet’s use of performance as a strategic tool to uncover truth, linking theater to his broader hesitation and moral conflict."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition (2006); line numbers may vary slightly in other editions."
+}

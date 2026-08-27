@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey’s opening lines explicitly yoke wandering to the act of storytelling: the narrator calls upon the Muse to sing of a man whose endless travels define his tale.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns / driven time and again off course",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–2",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This invocation links the hero's physical wandering to the narrative’s own movement, framing the entire epic as a story forged by wandering."
+    }
+  ],
+  "limits": "Translation by Robert Fagles, 1996. Line breaks marked with slash."
+}

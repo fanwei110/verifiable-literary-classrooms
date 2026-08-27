@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'my name is Noman' comes from Homer’s *Odyssey*. Odysseus says it to the Cyclops Polyphemus as a trick to conceal his true identity after blinding him.",
+  "evidence": [
+    {
+      "quote": "My name is Noman: mother, father, and friends, everyone calls me Noman.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms Odysseus’s deceptive self-introduction to Polyphemus."
+    }
+  ],
+  "limits": "Translations vary slightly; the wording here follows the Robert Fagles version."
+}

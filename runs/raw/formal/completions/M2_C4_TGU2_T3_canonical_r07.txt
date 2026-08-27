@@ -1,0 +1,13 @@
+{
+  "answer": "In Macbeth, Shakespeare weaves ambition, prophecy, and guilt into a tight psychological drama. The Weird Sistersâ prophecy plants a seed, but Macbeth initially pretends indifference. When Banquo mentions them, Macbeth says, âI think not of them: / Yet, when we can entreat an hour to serve, / We would spend it in some words upon that businessâ (Act 2, Scene 1). This feigned detachment masks a mind already consumed by ambitionâhe wants to revisit the prophecy because it aligns with his latent desire for power. Soon, that desire curdles into guilt before any crime is committed. Alone, Macbeth sees a floating dagger: âIs this a dagger which I see before me, â¦ / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brainâ (Act 2, Scene 1). The hallucination, complete with imaginary blood, reveals guiltâs power to shape reality. The prophecy has inflamed ambition, which in turn tortures the conscience, making the mind project its own horror. Shakespeare thus shows how external suggestion, internal desire, and moral terror form a chain that drives Macbeth toward tragedy even before he acts.",
+  "evidence": [
+    {
+      "quote": "I think not of them: / Yet, when we can entreat an hour to serve, / We would spend it in some words upon that business",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbethâs pretended indifference to the witches while revealing that ambition has already taken hold, as he is eager to discuss the prophecy further."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:â / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat

@@ -1,0 +1,9 @@
+{
+  "answer": "Class, let's look at how Dickens braids revolution, sacrifice, and doubling into a single fabric. Notice the Revolution’s motto that the narrator gives us: “Liberty, equality, fraternity, or death; — the last, much the easiest to bestow, O Guillotine!” The phrase doubles freedom with death; the final word undercuts the first three, exposing how revolutionary ideals curdle into terror. This public doubling echoes the novel’s obsession with paired opposites. Yet against that blood-soaked chorus, Sydney Carton performs a private sacrifice that rewrites the pattern. In his final vision, he sees his own life as a wasted copy until he chooses to switch places with Darnay. His closing words, “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known,” turn the grim machinery of the guillotine into a personal altar. Carton’s death becomes a resurrection—a second self that lives on in the hearts of those he saved. Where the Revolution doubles life into death, Carton’s sacrifice doubles death into life, offering the novel’s deepest act of redemption.",
+  "evidence": [
+    {
+      "quote": "Liberty, equality, fraternity, or death; — the last, much the easiest to bestow, O Guillotine!",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 12",
+      "

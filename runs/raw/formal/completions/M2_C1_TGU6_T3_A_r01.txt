@@ -1,0 +1,8 @@
+{
+  "answer": "In The Odyssey, homecoming (nostos), identity, and hospitality (xenia) intertwine to shape the epicâs moral universe. Odysseusâs identity is forged not by glory alone but by his relentless desire to return to Ithaca and resume his roles as husband, father, and king. Even when the nymph Calypso offers him immortality, he chooses mortal homecoming, asserting that suffering on the sea is bearable if it leads to the dawn of his return. This longing proves that his true self is anchored in home, not in divine escape. Meanwhile, the custom of xenia governs every encounter. The loyal swineherd Eumaeus, though unaware of his masterâs return, welcomes the disguised beggar because strangers are protected by Zeus. This hospitality creates a stark contrast with the suitors, whose abuse of xenia reveals their corrupted identities and justifies their destruction. Thus, the poem teaches that homecoming is not simply a physical arrival but the reassertion of oneâs proper identity within a network of sacred host-guest relationships.",
+  "evidence": [
+    {
+      "quote": "I long â I pine, all my days â to travel home and see the dawn of my return. And if a god will wreck me yet again on the wine-dark sea, I can bear that too...",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "loc

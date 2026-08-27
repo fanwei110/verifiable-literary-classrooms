@@ -1,0 +1,17 @@
+{
+  "answer": "Hamlet’s tragedy hinges on a profound paradox: his most celebrated meditation on mortality produces paralysis, yet when he performs decisive action, he rushes headlong toward death. In the “To be, or not to be” soliloquy, Hamlet’s hesitation springs directly from uncertainty about what lies beyond life: “To die, to sleep; / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.” The imagined dreams that follow death halt his hand, making action impossible. By contrast, when the Ghost beckons on the battlements and Horatio warns of madness, Hamlet stages a performance of supernatural fearlessness. Casting aside all hesitation, he declares, “My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.” Here mortality is reframed not as a question to be deliberated but as a destiny to be performed. The prince who could not take arms against a sea of troubles instantly becomes the lion-hearted revenger when he feels himself playing a role written by fate. Shakespeare thus suggests that performance—whether of madness, grief, or revenge—can momentarily dissolve mortal hesitation, even as the play’s tragic arc reveals that such performed certainty is as fatal as lingering doubt.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation shows how the uncertainty of the afterlife halts Hamlet, linking mortality directly to his famous hesitation."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_n

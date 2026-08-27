@@ -1,0 +1,14 @@
+{
+  "answer": "In today’s discussion of marriage-market irony, consider this moment from Pride and Prejudice: Charlotte Lucas’s pragmatic view of matrimony exposes the gap between romantic ideals and economic necessity. The quotation I’ll share underscores how societal pressures can turn love into a calculated transaction, revealing the irony that marriage—often idealized as a union of affection—frequently serves as a marketplace where women trade autonomy for security.",
+  "evidence": [
+    {
+      "quote": "I am not romantic, you know; I never was. I ask only a comfortable home; and considering Mr. Collins’s character, connections, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22 (Volume I, Chapter 22)",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote directly illustrates the marriage-market irony by showing Charlotte’s deliberate, unromantic choice to marry Mr. Collins for practical security rather than love, highlighting the tension between societal expectations and personal desire."
+    }
+  ],
+  "limits": "The chapter numbering follows the 1813 first edition; modern editions may vary slightly in chapter division."
+}

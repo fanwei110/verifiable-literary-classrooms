@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are central to the fall of both Satan and humankind. Satan, once the brightest angel, freely chooses to rebel against God, embodying defiance and pride. His famous declaration, 'Better to reign in Hell, than serve in Heav'n' (Book 1), reveals his defiant will and refusal to submit, framing rebellion as a tragic assertion of autonomy. This exercise of free will, though powerful, leads not to liberation but to suffering, illustrating Milton's warning about misused liberty. Similarly, Eve's temptation in Book 9 highlights how desire and persuasion can exploit free will. The serpent manipulates her with flattery and false logic, leading her to eat the forbidden fruit. Upon being confronted, Eve admits, 'The Serpent me beguiled and I did eat,' showing both her susceptibility and her acceptance of responsibility. Milton does not portray temptation as mere deception but as a moment where free will is tested and misdirected. Through these characters, Milton explores how free will—though a divine gift—becomes dangerous when clouded by pride or desire. Rebellion, whether angelic or human, ultimately results in exile and loss, underscoring the moral framework that obedience to God is true freedom.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's rejection of divine authority and his prideful embrace of rebellion, illustrating the tragic misuse of free will."
+    },
+    {
+      "quote": "The Serpent me beguiled and I did eat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, line 781",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote demonstrates Eve's acknowledgment of temptation and personal agency in the Fall, highlighting the complexity of free will and moral responsibility."
+    }
+  ],
+  "limits": "Quotations are based on the 1674 edition of Paradise Lost; line numbers may vary slightly in different printings."
+}

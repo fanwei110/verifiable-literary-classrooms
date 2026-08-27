@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance on human action. Hamlet’s infamous delay in avenging his father’s murder stems from his profound existential dread—he questions not only the morality of revenge but also the very nature of existence. His hesitation reflects a broader human struggle: the fear of irreversible consequences and the burden of self-awareness. Mortality looms large in his soliloquies, where he grapples with the fragility of life and the finality of death. This preoccupation with death paralyzes him, making action seem futile. Additionally, Hamlet’s performance—his feigned madness and theatricality—highlights the tension between authenticity and role-playing. He stages a play to 'catch the conscience of the king,' yet his own performance blurs the line between truth and deception, further complicating his ability to act decisively. These themes intertwine to illustrate how doubt, mortality, and performative identity can immobilize even the most determined individuals.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote underscores Hamlet’s existential hesitation, framing his inaction as a philosophical dilemma about the value of life and the fear of death."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line demonstrates Hamlet’s reliance on performance as a tool for truth, revealing his strategic yet hesitant approach to confronting Claudius."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series, 2006); line numbers may vary slightly in other editions."
+}

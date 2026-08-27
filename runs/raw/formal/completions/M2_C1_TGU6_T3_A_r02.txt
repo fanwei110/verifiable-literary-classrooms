@@ -1,0 +1,21 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality form an inseparable knot. Odysseus’s return to Ithaca is not merely physical; it requires the confirmation of his true self, as seen in his reunion with Penelope. She tests him by mentioning their bed, and he exclaims, “There is our pact and pledge, our secret sign, built into that bed—my craft, not any other man’s” (Book 23). This secret knowledge—the olive-tree bed rooted in the house—symbolizes a rooted identity that no disguise can erase. Homecoming is complete only when intimacy trumps appearance. Yet this homecoming is made possible by a world that honors strangers. The swineherd Eumaeus, hosting the ragged beggar (the disguised Odysseus), declares, “It’s wrong, my friend, to send any stranger packing… Every stranger and beggar comes from Zeus” (Book 14). His humble hut becomes a sanctuary, proving that genuine hospitality is a sacred act that reveals character and upholds cosmic order. These two scenes together show that the hero’s identity is restored not just by vengeance but by the recognition born of shared secrets and the kindness that respects the divine in every guest.",
+  "evidence": [
+    {
+      "quote": "There is our pact and pledge, our secret sign, built into that bed—my craft, not any other man’s",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 205–206",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that homecoming and identity hinge on shared intimate knowledge rather than outward appearance."
+    },
+    {
+      "quote": "It’s wrong, my friend, to send any stranger packing—even one who arrives in worse state than you. Every stranger and beggar comes from Zeus.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, lines 56–58",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote supports the sacred obligation of hospitality, showing that even the poorest host respects Zeus’s law and thereby reveals true civilization."
+    }
+  ],
+  "limits": "

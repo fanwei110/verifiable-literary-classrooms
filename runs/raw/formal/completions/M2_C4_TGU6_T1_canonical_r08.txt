@@ -1,0 +1,14 @@
+{
+  "answer": "As Homer’s narrator calls upon the Muse, he immediately links wandering and storytelling: “Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home…” The hero’s physical journeys are the substance of the tale, and the act of telling becomes itself a kind of return.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey (trans. Samuel Butler)",
+      "locator": "Book I, opening invocation",
+      "speaker_or_narrator": "Narrator (the poet)",
+      "use_in_answer": "This opening immediately defines the epic’s subject as a wandering hero and frames the entire poem as the story of that wandering, showing that the journey and the act of telling are inseparable."
+    }
+  ],
+  "limits": "Quotation is from the Samuel Butler translation (1921); the source excerpt does not provide line numbers, so the locator uses the book and section title."
+}

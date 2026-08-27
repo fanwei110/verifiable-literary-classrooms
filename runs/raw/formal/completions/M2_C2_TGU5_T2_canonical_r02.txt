@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from John Milton’s epic poem *Paradise Lost*, spoken by Satan in Book 1. After being cast out of Heaven, Satan defies God by declaring that it is better to be a ruler in Hell than a servant in Heaven.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote confirms the exact wording and speaker of the line the student is asking about."
+    }
+  ],
+  "limits": "The student’s version uses ‘then’ instead of ‘than’, a common modern misquotation."
+}

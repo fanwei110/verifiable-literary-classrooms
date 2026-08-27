@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "Class, today we'll examine how Dickens intertwines revolution, sacrifice, and the motif of doubling. The French Revolution is portrayed not just as a political event, but as a natural, karmic force—a “payment” for aristocratic sins. This brings us to the profound theme of sacrifice. Sydney Carton’s ultimate act is a conscious substitution, a sacrifice that gives meaning to a wasted life. He embodies the novel’s central doubling, being the physical double of Charles Darnay. This duality elevates his sacrifice from personal redemption to a resurrection, allowing him to defy the revolution’s indiscriminate violence. Through Carton’s payment of a life for a life, Dickens suggests that in a time of epidemic madness and retributive bloodshed, the only meaningful counter-force is a sacrificial, doubling exchange born from love.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (narrated internally as his prophetic final thoughts)",
+      "use_in_answer": "This quotation captures the redemptive sacrifice, where Carton finds spiritual purpose by willfully taking his double, Darnay's, place at the guillotine."
+    },
+    {
+      "quote": "Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of revolution as an inevitable, cyclical doubling of oppression, where the tortured become the torturers, creating mirror-image violence."
+    }
+  ],
+  "limits": "This mini-lesson focuses narrowly on the requested thematic trifecta as illustrated in the final passages. The novel’s broader doubling extends to characters like the Monseigneur and his peasant counterpart, but only Carton’s climactic sacrifice is used here to bind all three concepts."
+}
+```

@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the turbulent themes of revolution, sacrifice, and duality through the lens of the French Revolution and the parallel lives of characters like Charles Darnay and Sydney Carton. The novel portrays revolution not just as a political upheaval but as a force that reveals both the worst and best of humanity. Sacrifice is embodied in Sydney Carton’s ultimate act of selflessness, giving his life so that Lucie Manette and her family may live in peace. This redemptive sacrifice contrasts with the violent excesses of the revolutionaries, who seek justice through vengeance. The theme of doubling is evident in the physical resemblance and moral contrasts between Darnay and Carton—one noble by action, the other by sacrifice—highlighting Dickens’ commentary on identity and redemption. As the chaos of revolution consumes the old order, Dickens insists that true change comes not from bloodshed, but from personal transformation and love. Carton’s final vision of a better future, born from his sacrifice, suggests that renewal often demands personal loss. The novel thus presents revolution as a crucible, where suffering and sacrifice can forge hope.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by illustrating the contradictory nature of the era and the dual possibilities of human experience."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, showing Carton's redemptive act and his belief in a meaningful, selfless death."
+    }
+  ],
+  "limits": "Quotations are from the standard Penguin Classics edition; minor wording may vary across editions."
+}

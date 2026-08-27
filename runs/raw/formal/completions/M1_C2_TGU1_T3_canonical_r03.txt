@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores how hesitation, mortality, and performance intertwine to shape the protagonist’s tragic arc. Hamlet’s delay in avenging his father’s murder stems from his deep reflection on life’s fragility and the moral weight of action. His famous soliloquy, 'To be, or not to be,' reveals his paralysis as he grapples with the fear of death and the unknown—'the undiscover’d country from whose bourn / No traveller returns.' This hesitation isn’t mere cowardice but a philosophical crisis, where mortality looms as an inescapable force. Meanwhile, Hamlet’s reliance on performance—adopting 'an antic disposition'—shows how he uses theatricality to navigate his uncertainty, blurring the line between truth and pretense. These themes converge to illustrate how existential dread and the fear of irreversible consequences can immobilize even the most determined minds, making *Hamlet* a profound meditation on human indecision and the burden of existence.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s hesitation as rooted in existential contemplation, weighing action against suffering and the fear of the unknown."
+    },
+    {
+      "quote": "the undiscover’d country from whose bourn / No traveller returns",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.79-80",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This phrase underscores Hamlet’s fear of mortality and the afterlife, which paralyzes him from taking decisive action."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series, 2006). Line numbers may vary slightly in other editions."
+}

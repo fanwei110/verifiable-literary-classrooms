@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his intense philosophical struggle with action and death, as he contemplates whether to endure life’s suffering or end it, paralyzed by uncertainty about the afterlife. This hesitation stems from his acute awareness of mortality, which transforms simple decisions into profound existential crises. At the same time, performance is central—characters mask their true intentions, like Claudius hiding guilt behind kingship, or Polonius advising Ophelia to feign piety. The play blurs authenticity and pretense, amplifying Hamlet’s distrust and delay. He must perform madness to uncover truth, yet even his performance risks becoming real. Thus, Hamlet is caught between the fear of death’s unknown and the necessity of acting in a world where appearance obscures reality. His hesitation is not mere indecision but a response to a corrupt world where sincerity is endangered. The tension between living, dying, and pretending defines his tragic isolation.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet's paralyzing contemplation of existence and death, showing how mortality fuels his hesitation."
+    },
+    {
+      "quote": "’Tis too much prov’d, that with devotion’s visage And pious action we do sugar o’er The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This quote supports the theme of performance, revealing how outward appearances mask inner corruption in the play."
+    }
+  ],
+  "limits": "The second quote is spoken by Polonius in a context of advising deception, though he unintentionally criticizes Claudius’s hypocrisy; interpretation depends on dramatic irony."
+}

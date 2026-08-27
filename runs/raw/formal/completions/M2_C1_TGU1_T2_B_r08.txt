@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from William Shakespeare’s *Hamlet*, spoken by Prince Hamlet himself in Act 2, Scene 2. Hamlet has just arranged for a troupe of actors to perform a play that mirrors his father’s murder, hoping that King Claudius’s reaction will prove his guilt.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 606–607 (line numbers may vary by edition)",
+      "speaker_or_narrator": "Prince Hamlet",
+      "use_in_answer": "This quote shows Hamlet’s plan to use the performance (The Mousetrap) to test Claudius’s guilt for his father’s murder."
+    }
+  ],
+  "limits": "Line numbering can vary slightly across different editions of the play; the quotation is sometimes presented as a couplet beginning 'the play’s the thing / Wherein...'"
+}

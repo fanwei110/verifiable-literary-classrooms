@@ -1,0 +1,22 @@
+{
+  "answer": "In Milton’s *Paradise Lost*, the trio of temptation, free will, and rebellion unfolds as the poem’s theological and dramatic engine. Humanity’s capacity to choose is central: God declares that Adam and Eve were created morally upright yet genuinely free, establishing that obedience has no meaning without the possibility of transgression. This gift of free will is tested by Satan, the arch-rebel whose own fall calibrates the idea of rebellion as a willful act of self-exalting defiance. Temptation enters Eden not as brute force but as a seductive appeal to that very freedom. Disguised as the serpent, Satan lures Eve with the promise that disobedience will elevate her to divine status. His words recast a divine prohibition as jealous gatekeeping, making rebellion seem like enlightenment. In the act of eating the fruit, abstract rebellion becomes concrete; the choice is not compelled from outside but springs from within. Thus Milton weaves these threads tightly: free will makes temptation possible, and succumbing to temptation actualizes rebellion, transforming paradise into loss through a fully self-authored decision.",
+  "evidence": [
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98-99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This quote establishes that Adam and Eve were created with free will, explaining the theological foundation for their capacity to be tempted and to rebel."
+    },
+    {
+      "quote": "Ye shall be as Gods, / Knowing both good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the Serpent)",
+      "use_in_answer": "This quote illustrates Satan's core temptation, appealing to the desire for forbidden knowledge and self-exaltation, directly precipitating the act of rebellion."
+    }
+  ],
+  "limits": "Quotations from the 1674 second edition; line numbering follows modern conventions and may vary slightly across editions."
+}

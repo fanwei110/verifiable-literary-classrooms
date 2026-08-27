@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how Hamlet’s hesitation, mortality, and performance intersect—three forces that shape his tragedy. Hamlet’s delay in avenging his father isn’t just indecision; it’s a confrontation with the fragility of life itself. When he declares, 'The time is out of joint. O cursed spite, / That ever I was born to set it right!' (1.5.189-190), he reveals his paralysis: the weight of action feels impossible against the backdrop of human mortality. This moment underscores how performance—his feigned madness, his play-within-a-play—becomes a tool to navigate his fear. Later, in the graveyard, Hamlet’s meditation on Yorick’s skull—'Alas, poor Yorick! I knew him, Horatio' (5.1.178)—strips away pretense, forcing him to confront the inevitability of death. Here, performance collapses; mortality demands authenticity. His hesitation, then, isn’t weakness but a struggle to reconcile action with the terrifying finality of existence. Notice how both quotes pivot on Hamlet’s voice: one laments his role, the other his mortality. Together, they show how performance and delay are coping mechanisms against the abyss.",
+  "evidence": [
+    {
+      "quote": "The time is out of joint. O cursed spite, / That ever I was born to set it right!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "1.5.189-190",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s paralysis and the burden of action in a world disrupted by death, linking hesitation to his existential crisis."
+    },
+    {
+      "quote": "Alas, poor Yorick! I knew him, Horatio",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "5.1.178",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s confrontation with mortality, where performance fails and the reality of death forces him toward authenticity."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition (2006); line numbers may vary slightly in other editions."
+}

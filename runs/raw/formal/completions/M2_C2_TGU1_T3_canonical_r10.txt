@@ -1,0 +1,22 @@
+{
+  "answer": "Today we explore how Shakespeare intertwines hesitation, mortality, and performance in Hamlet. Hamlet’s paralysis—his intellectualizing of action—finds its emblem in the iconic soliloquy: “To be, or not to be, that is the question.” Here, the prince weighs the pain of existence against the unknown of death, hesitating not from cowardice but from profound meditation on mortality. This internal drama mirrors the play’s meta-theatricality. Hamlet uses performance as a tool to expose truth: “The play’s the thing wherein I’ll catch the conscience of the king.” By staging a play, he externalizes his hesitation, turning theater into a weapon against the uncertainty that plagues him. The performance reveals Claudius’s guilt, but it also underscores how every character acts a part in the face of death—from the Player’s tears for Hecuba to Claudius’s false piety. Ultimately, Hamlet’s hesitation is not inaction but a performance of mortal anxiety, blurring the line between who we are and who we pretend to be.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, line 56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line encapsulates Hamlet’s hesitation as he weighs life against death, linking indecision to mortal fear."
+    },
+    {
+      "quote": "The play’s the thing wherein I’ll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633-634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Hamlet reveals his plan to use performance as a truth-telling weapon, merging theater with the reality of mortality and guilt."
+    }
+  ],
+  "limits": "Quotations are from the standard conflated text; line numbers follow common scholarly editions (Arden, Oxford, etc.). The phrase 'to be, or not to be' may appear with varying punctuation."
+}

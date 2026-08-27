@@ -1,0 +1,18 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen masterfully exposes the irony of the marriage market through her opening lines. The novel begins with a satirical observation that highlights how society assumes wealthy single men must be seeking wives, when in reality, it is the families with unmarried daughters who are actively pursuing them. This reversal of expectations underscores the economic and social pressures driving marriages of convenience rather than love. Here’s the key quotation that captures this irony:",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I (opening lines)",
+      "speaker_or_narrator": "Narrator (third-person omniscient)",
+      "use_in_answer": "This quote directly illustrates the societal assumption that wealthy bachelors are the ones seeking wives, when the novel’s plot reveals it is the families (like the Bennets) who aggressively pursue such men for their daughters."
+    }
+  ],
+
+  "limits": "The quotation is from the 1813 first edition of *Pride and Prejudice*. Some modern editions may vary slightly in punctuation or formatting, but the wording remains consistent."
+}
+```

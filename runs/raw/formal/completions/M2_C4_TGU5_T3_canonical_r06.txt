@@ -1,0 +1,22 @@
+{
+  "answer": "Mini-Lesson: Temptation, Free Will, and Rebellion in *Paradise Lost*\n\nTemptation in *Paradise Lost* is not merely an external lure but a test that exposes the internal state of free will. Rebellion is born when free will, instead of turning toward God, turns inward to worship the self. We see this perfectly in Satan’s first speech in Hell. Refusing to repent, he declares that the mind “Can make a Heav’n of Hell, a Hell of Heav’n.” This is the ultimate act of rebellion: the assertion that reality is subordinate to personal perception and desire. Temptation, then, becomes the desire to make your own rules, redefining good and evil from your own center rather than God’s. This reaches its climax in his famous pronouncement, “Better to reign in Hell, then serve in Heav’n.” Here, Satan reveals that the essence of temptation is a prideful addiction to autonomy. Hell is preferable to him because it allows his unbroken, self-determined will to dominate, even in misery. The lesson Milton provides is that temptation deceives us into believing that the freedom to choose is the same as the freedom *from* rightful authority—a choice that ultimately chains us to our own fallen nature.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Satan’s assertion demonstrates how rebellion is rooted in a self-centered redefinition of reality, making the mind the arbiter of its own moral and spiritual condition, which is the foundation of succumbing to temptation."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This famous line crystallizes how free will, when corrupted by pride, chooses self-rule over righteous submission, revealing the core of temptation as a preference for autonomous power rather than obedient servitude."
+    }
+  ],
+  "limits": "Evidence is limited to the provided excerpts from Book 1. The lesson on temptation and free will is therefore focused on Satan’s rebellion, not the temptation of Adam and Eve, which occurs later in the poem."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" comes from Homer's *Odyssey*, Book 9. It is spoken by the hero Odysseus (Ulysses) while he is trapped in the cave of the Cyclops Polyphemus. When the Cyclops asks his name, Odysseus cunningly calls himself \"Noman\" (a trick later used to escape when the Cyclops cries that \"Noman\" is hurting him).",
+  "evidence": [
+    {
+      "quote": "Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9 (approx. lines 364–367 in Greek; the prose translation quoted is by Samuel Butler)",
+      "speaker_or_narrator": "Odysseus (narrating his adventures to King Alcinous and the Phaeacians)",
+      "use_in_answer": "This passage captures the exact moment Odysseus gives the false name that becomes the centerpiece of his escape from Polyphemus."
+    }
+  ],
+  "limits": "The name is a wordplay on the Greek 'Outis' ('no one' or 'nobody'). Translations vary: some use 'Nobody', Butler uses 'Noman'."
+}

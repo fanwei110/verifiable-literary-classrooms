@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton weaves temptation, free will, and rebellion into a single moral drama. Godâs declaration that He made Adam and Eve âSufficient to have stood, though free to fallâ (3.98-99) establishes that genuine love and obedience require authentic choiceâthe freedom to remain faithful or to transgress. This divine gift of self-determination, however, becomes the very hinge of tragedy. Satanâs iconic rebellionââBetter to reign in Hell, than serve in Heavenâ (1.263)âtwists free will into proud defiance, choosing solitary lordship over grateful submission. Temptation, then, acts as the external lure that exploits this inner liberty. When the serpent whispers to Eve, he does not force her hand: he seduces her reason with the same logic of self-exaltation, inviting her to imagine a good beyond Godâs command. The Fall unfolds not because human will is overwhelmed, but because it consents. Milton thereby insists that evil originates in the creatureâs misuse of a perfectly bestowed freedom; temptation is merely the occasion, never the cause. The poem thus links rebellion, free will, and temptation in a chain that leads from Satanâs self-damnation to humanityâs first disobedience.",
+  "evidence": [
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book III, lines 98-99",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This quotation establishes that free will is a divine gift, making humanity capable of obedience but also susceptible to falling."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quotation crystallizes the rebellious perversion of free will into prideful self-rule, which becomes the model for all temptation in the poem."
+    }
+  ],
+  "limits": "None"
+}

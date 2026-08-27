@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a deliberate choice—one rooted in pride and the illusion of autonomy. His argument that 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' reveals his belief in the power of free will to redefine reality, even in damnation. Yet this freedom is illusory; Satan’s rebellion leads not to liberation but to eternal suffering, illustrating Milton’s view that true freedom lies in obedience to God. Adam and Eve’s later fall mirrors Satan’s: both are tempted by the promise of godlike knowledge and autonomy, but their choices result in expulsion from paradise. Milton thus presents rebellion as a misuse of free will, where the pursuit of self-determination ironically enslaves the rebel to sin and despair.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rejection of divine authority and his preference for self-rule, even in suffering, as an act of defiant free will."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s belief in the power of the mind to redefine reality, framing his rebellion as an exercise of free will that distorts truth."
+    }
+  ],
+  "limits": "The provided excerpts are limited to Book I, so the lesson focuses on Satan’s perspective; Adam and Eve’s temptation and fall are not directly quoted here."
+}

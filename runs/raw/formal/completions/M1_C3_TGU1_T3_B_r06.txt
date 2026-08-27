@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *Hamlet* dramatizes hesitation, mortality, and performance—three forces that shape Hamlet’s tragic delay. First, hesitation: Hamlet’s famous soliloquy reveals his paralyzing fear of the unknown after death. He asks, 'To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?' (3.1.56-60). Here, the 'pause' he describes isn’t just philosophical—it’s existential. The 'rub' of death’s 'dreams' halts action, turning thought into a prison. Second, mortality: the Ghost’s revelation forces Hamlet to confront life’s fragility. When the Ghost declares, 'My hour is almost come, / When I to sulph’rous and tormenting flames / Must render up myself' (1.5.3-5), it underscores time’s urgency. Yet Hamlet’s hesitation persists, suggesting mortality’s weight can both compel and cripple. Finally, performance: Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself' (3.1.47-49)—mirrors Hamlet’s own 'antic disposition.' Performance becomes a tool to navigate (or evade) truth, blurring sincerity and artifice. Together, these moments show how Hamlet’s delay isn’t mere indecision but a collision of fear, time, and theatricality.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and fear of the unknown, particularly death’s uncertainties, which paralyze his ability to act."
+    },
+    {
+      "quote": "My hour is almost come, / When I to sulph’rous and tormenting flames / Must render up myself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5, lines 3-5",
+      "speaker_or_narrator": "Ghost (Hamlet’s father)",
+      "use_in_answer": "This quote highlights the urgency of mortality and the Ghost’s torment, which contrasts with Hamlet’s delayed revenge, emphasizing the tension between time’s pressure and inaction."
+    }
+  ],
+  "limits": "Quotations are from the First Folio (1623) edition; line numbers may vary slightly in other versions. The Ghost’s speech is truncated in the source excerpt but retains its core meaning."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Class, let's examine how Shakespeare intertwines ambition, prophecy, and guilt. The play opens with the witches' chant, where prophecy blurs all moral boundaries. Their line, \"Fair is foul, and foul is fair,\" establishes a world where value judgments are inverted, and this becomes the engine of Macbeth's ambition—if foul deeds look fair, then murdering Duncan to seize the crown seems permissible. Yet ambition's psychological cost appears almost instantly. Before the murder, Macbeth's guilt conjures a hallucination that both horrifies and directs him. He sees a dagger floating before him and admits, \"I have thee not, and yet I see thee still.\" The vision \"marshall'st me the way that I was going,\" proving that his guilt is already a compass pointing toward crime. The dagger, a \"false creation, / Proceeding from the heat-oppressed brain,\" is the visible symptom of a mind fractured by the very ambition the prophecy ignited. So prophecy provides the spark, ambition seizes it, and guilt transforms that ambition into a psychological torment that precedes and predicts his downfall. Notice how the dagger is not just a warning but an invitation—the very instrument he is about to use, stained with imaginary blood. Shakespeare thus shows that guilt is not a consequence of the deed alone; it is baked into the ambition itself.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair: Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I",
+      "speaker_or_narrator": "All (the three Witches)",
+      "use_in_answer": "This quotation shows how the witches' prophecy establishes a world without clear moral distinctions, priming Macbeth's ambition to see murder as a viable path to kingship."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain? I see thee yet, in form as palpable As this which now I draw. Thou marshall'st me the way that I was going; And such an instrument I was to use.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation reveals the guilt-driven hallucination that arises from Macbeth's ambitious plotting, showing how his mind projects the very weapon he will use to commit regicide."
+    }
+  ],
+  "limits": "Quotations taken verbatim from the provided source windows; lineation matches those sources."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The famous opening of A Tale of Two Cities directly explains historical contradiction by pairing opposites to show that the era was defined by extremes. Dickens writes, “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.” This demonstrates that the same historical moment contained both utopian and dystopian forces, making any one-sided judgment impossible.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation illustrates the contradictory nature of the historical period by stacking binary oppositions to show that the age was simultaneously defined by its best and worst qualities."
+    }
+  ],
+  "limits": "The provided source excerpt contains only the opening paragraph of Book the First, Chapter I, and a table of contents. The quotation is taken verbatim from that excerpt."
+}

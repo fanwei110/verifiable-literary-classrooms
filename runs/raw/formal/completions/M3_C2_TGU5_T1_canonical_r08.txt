@@ -1,0 +1,15 @@
+{
+  "answer": "In Book I of *Paradise Lost*, John Milton introduces the central themes of mankind's fall and disobedience through the narrator’s opening invocation, explaining that the story will explore how Adam and Eve's defiance of divine command led to their loss of paradise.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit of that Forbidden Tree, whose mortal taste Brought Death into the World, and all our woe, With loss of Eden, till one greater Man restore us, and regain the blissful Seat,  
+Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–6",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This quote introduces the core theme of the poem—the fall of man through disobedience to God, resulting in the loss of Eden and the introduction of death and suffering into human experience."
+    }
+  ],
+  "limits": "The quotation is drawn from the 1674 version of *Paradise Lost*, which is the most widely accepted edition. Line numbers may vary slightly in earlier editions."
+}

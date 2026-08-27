@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet’s famous soliloquy, he grapples with the pain of existence and the temptation of suicide, only to hesitate because death might bring frightening dreams. The lines “To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause” directly capture this: mortality reduces to an unknown sleep, and the dread of that unknown is precisely what halts him.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation shows Hamlet contemplating death as a sleep and reveals that hesitation arises from fear of the unknown dreams that might follow, thus explaining both mortality and the cause of his delay."
+    }
+  ],
+  "limits": "The frozen source excerpt includes only the first part of the soliloquy, ending at 'To grunt and sweat'. The quotation is taken verbatim from that excerpt."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into questioning God’s command. Eve’s fall, however, is not merely the result of external influence but a deliberate exercise of free will—she chooses to eat the forbidden fruit despite knowing the consequences. This moment underscores Milton’s belief that true obedience must be voluntary, not coerced. Similarly, Satan’s rebellion in Book I reveals the destructive pride that fuels his defiance, framing his actions as a rejection of divine authority. Both instances highlight the tension between human (and angelic) autonomy and the boundaries set by God, suggesting that rebellion stems from a misguided belief in self-sufficiency. Through these narratives, Milton invites readers to reflect on the fragility of virtue and the weight of choice in shaping destiny.",
+
+  "evidence": [
+    {
+      "quote": "He for God only, she for God in him: / So spake the enemy of mankind, enclosed / In serpent, inmate bad, and toward Eve / Addressed his way",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 114-117",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates Satan’s cunning manipulation of Eve, framing temptation as a calculated deception that exploits her relationship with Adam and God."
+    },
+    {
+      "quote": "Farewell happy fields / Where joy for ever dwells: hail horrors, hail / Infernal world, and thou profoundest Hell / Receive thy new possessor",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 249-252",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures Satan’s defiant embrace of rebellion, revealing his pride and rejection of divine order as the root of his fall."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

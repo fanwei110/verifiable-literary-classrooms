@@ -1,0 +1,14 @@
+{
+  "answer": "A key moment that illustrates the irony of the marriage market in *Pride and Prejudice* is when Mr. Bennet sarcastically remarks on his wife’s singular focus on marrying off their daughters, highlighting how economic pressures reduce marriage to a transaction rather than a union of affection.",
+  "evidence": [
+    {
+      "quote": "The business of her life was to get her daughters married; its solace was visiting and news.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel’s society is treated as an economic imperative, particularly for women, underscoring the ironic commodification of personal relationships."
+    }
+  ],
+  "limits": "Quotation may vary slightly depending on edition; this version is from the 1813 edition and common modern reprints like Penguin Classics."
+}

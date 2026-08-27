@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Macbeth*, ambition, prophecy, and guilt are central to Macbeth’s tragic downfall. Initially, Macbeth is a loyal warrior, but after hearing the witches’ prophecy that he will become king, his ambition overtakes his moral judgment. The witches plant the seed of fate, yet it is Macbeth’s own desire for power that drives him to murder King Duncan. This decisive act marks the beginning of his psychological unraveling. His guilt immediately surfaces, revealing the internal conflict between his ambition and conscience. As he hallucinates a dagger covered in blood, Macbeth questions his own senses, showing how his mind becomes a battleground. The vision symbolizes his inner turmoil—the 'bloody business' of murder that haunts him even before the deed is done. This moment captures the tipping point between thought and action, where ambition overrides morality. Later, the weight of his guilt only grows, destroying his peace and sanity. Macbeth’s trajectory illustrates how unchecked ambition, fueled by prophecy, leads not to fulfillment but to inner chaos. His descent shows that violating one’s conscience for power results in inevitable psychological consequences.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / ... And on thy blade and dudgeon, gouts of blood, / Which was not so before.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation illustrates Macbeth’s guilt and psychological torment just before killing Duncan, showing how his ambition triggers hallucinations and inner conflict."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair: / Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "Three Witches",
+      "use_in_answer": "This quote establishes the theme of deceptive prophecy and moral inversion, setting the stage for Macbeth’s misguided ambition."
+    }
+  ],
+  "limits": "The source excerpts provided are from early scenes; deeper exploration of later guilt (e.g., Banquo’s ghost) would require additional text."
+}

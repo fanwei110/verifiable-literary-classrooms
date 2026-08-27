@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous lines in English literature perfectly captures the irony of the marriage market in Pride and Prejudice: it's not that wealthy men are seeking wives, but that society assumes they must be, simply by virtue of their wealth. This satirizes the way women and families actively 'market' their daughters to eligible bachelors, treating marriage as a transaction driven more by economics than emotion.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the central irony of the marriage market in the novel—while it is assumed that wealthy single men are inherently seeking wives, the real pressure often comes from families eager to secure financial stability for their daughters."
+    }
+  ],
+  "limits": "The source excerpt provided begins mid-page (page 404) and references elements from later chapters, but the quoted text from Chapter I is complete and accurate as presented in standard editions of the novel."
+}

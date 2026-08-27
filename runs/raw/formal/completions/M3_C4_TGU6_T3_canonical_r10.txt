@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s longing to return to Ithaca reflects the Greek value of home as central to personal identity. When he lands among the Phaeacians, he is a stranger in distress, yet he immediately appeals to their sense of hospitality. He says, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house' (Book V). This statement highlights the cultural ideal of harmony within the household, reinforcing why his own homecoming is so vital. His plea also serves to establish his identity not as a beggar, but as someone who respects divine and social order. Nausicaa, recognizing his dignity, responds with kindness and guidance, stating, 'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for' (Book V). Her words exemplify the Greek concept of *xenia*, or guest-friendship, where hospitality is a sacred duty. This exchange shows how identity is confirmed through respectful interaction and how true homecoming begins not just with arrival, but with recognition and acceptance by others.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book V",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that a harmonious home is the highest human good, emphasizing the importance of homecoming and marital unity in shaping identity."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book V",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the practice of hospitality (*xenia*) among the Phaeacians, showing how compassion and provision for strangers uphold social and divine order."
+    }
+  ],
+  "limits": "The provided source excerpts are from a translated edition of *The Odyssey*, and exact line numbers are not specified, so locators are limited to book level."
+}

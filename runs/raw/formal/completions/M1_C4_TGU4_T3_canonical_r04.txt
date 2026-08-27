@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the themes of revolution, sacrifice, and doubling to highlight the cyclical nature of history and human suffering. The novel’s opening lines—'It was the best of times, it was the worst of times'—capture the paradoxical duality of the era, where hope and despair coexist, mirroring the doubling of characters like Sydney Carton and Charles Darnay. Revolution, depicted in Book the Third, is both a force of justice and destruction, as the 'sea still rises' and 'fire rises,' symbolizing the uncontrollable fury of the oppressed. Sacrifice becomes central to the narrative, particularly in Sydney Carton’s ultimate act of redemption, where he gives his life to save another, embodying the novel’s moral that love and selflessness can transcend violence. The doubling of London and Paris, as well as the mirrored fates of characters, underscores Dickens’s warning that history’s patterns repeat unless humanity chooses compassion over vengeance.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling, illustrating the contrasting yet interconnected forces at play during the French Revolution."
+    },
+    {
+      "quote": "The Sea Still Rises",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Second, Chapter XXII",
+      "speaker_or_narrator": "Chapter title (narrative voice)",
+      "use_in_answer": "This chapter title supports the theme of revolution as an unstoppable, rising force that engulfs society in chaos and change."
+    }
+  ],
+
+  "limits": "The second evidence record is a chapter title rather than a direct quotation from dialogue or narration, which may limit its use as textual evidence. The frozen excerpt does not provide direct quotations about sacrifice, so that theme is inferred from broader context."
+}
+```

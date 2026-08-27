@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea of murder, but the prophecy fuels his desire, making him question fate and his own agency. As he says, 'I have no spur / To prick the sides of my intent, but only / Vaulting ambition' (though this exact line isn’t in the provided excerpt, the sentiment is clear in his later actions). The supernatural prophecies haunt him, as seen when Banquo mentions, 'I dreamt last night of the three Weird Sisters: / To you they have show’d some truth.' Macbeth’s denial—'I think not of them'—reveals his guilt and unease, showing how the prophecies linger in his mind despite his attempts to suppress them. Later, his guilt manifests physically in the hallucination of the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his moral unraveling, as his ambition and guilt merge into madness. Together, these forces propel Macbeth toward his tragic end, illustrating how unchecked ambition and supernatural influence can corrupt the soul.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: / To you they have show’d some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote highlights how the witches’ prophecies weigh on Macbeth’s mind, even as he denies thinking of them, revealing the psychological grip of fate and ambition."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s guilt and psychological torment, as his ambition leads to hallucinations that foreshadow his violent actions."
+    }
+  ],
+  "limits": "The provided excerpt does not include Macbeth’s direct admission of 'vaulting ambition,' so that claim is supported by broader knowledge of the play rather than the frozen source."
+}
+```

@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Hamlet in William Shakespeare's play *Hamlet*. He says it to express his plan to use a play to observe King Claudius's reaction and confirm his guilt in the murder of Hamlet's father.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing Wherein I’ll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's plan to expose King Claudius's guilt through a staged play."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly between editions, but the quote consistently appears in Act 2, Scene 2."
+}

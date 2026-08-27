@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling to highlight the cyclical nature of history and human behavior. The novel’s opening—'It was the best of times, it was the worst of times'—captures the duality of the era, where hope and despair coexist, mirroring the doubling of characters like Charles Darnay and Sydney Carton. Revolution, while promising justice, often spirals into violence, as seen in the mob’s frenzy during the storming of the Bastille. Sacrifice becomes a redemptive force, particularly through Sydney Carton, who gives his life to save Darnay, declaring, 'It is a far, far better thing that I do, than I have ever done.' This act underscores how personal redemption can transcend the chaos of revolution. Dickens suggests that while history repeats itself, individual choices—like Carton’s—can break the cycle of vengeance and offer hope for renewal.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling, illustrating the contradictions of the pre-revolutionary era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice as Carton’s selfless act offers redemption amid revolution’s chaos."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

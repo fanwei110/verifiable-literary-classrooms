@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s journey reflects the struggle to reclaim his identity and return to Ithaca, while the concept of hospitality, or xenia, governs interactions between strangers and hosts. When Odysseus lands among the Phaeacians, he appeals to their sense of compassion and social duty, emphasizing the importance of kind treatment for the displaced. He says, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.' This reveals how hospitality is not just generosity, but a reflection of social harmony and divine favor. Nausicaa, embodying ideal hospitality, responds with guidance and provision, stating, 'Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.' Her words demonstrate the Phaeacian commitment to helping strangers, a value essential to Odysseus’s eventual homecoming. Through these moments, The Odyssey presents hospitality as a moral force that upholds identity and makes return possible.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book V or VI (contextual inference from Nausicaa scene)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that domestic harmony and hospitality are central values in The Odyssey, linked to divine blessing and human well-being."
+    },
+    {
+      "quote": "Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI (inferred from Nausicaa's dialogue)",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the Phaeacians’ commitment to hospitality, showing how helping strangers in need is a cultural and moral duty."
+    }
+  ],
+  "limits": "The exact book numbers are not specified in the source window, but the context identifies the scene as Odysseus's encounter with Nausicaa, traditionally in Book VI."
+}

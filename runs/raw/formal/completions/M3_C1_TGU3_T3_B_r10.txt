@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, first impressions often reveal much about social class and its influence on marriage. The novel critiques how quickly characters judge one another based on wealth and status. From the outset, Austen uses irony to highlight societal values: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife' (Chapter 1). This opening line satirizes the assumption that marriage is a transaction driven by economic necessity rather than affection. It introduces the theme that class shapes expectations, especially for women, who often rely on advantageous marriages for security. Later, when Elizabeth rejects Mr. Collins's proposal, she insists on marrying for respect and love: 'I am perfectly convinced that I should never have been happy with him' (Chapter 19). This assertion marks her resistance to societal pressure and affirms her commitment to personal integrity over financial comfort. Together, these moments show how Austen challenges her society's norms. First impressions—like Darcy’s initial pride—can be misleading, and true understanding develops only through reflection. Ultimately, the novel advocates for marriages founded on mutual respect rather than class-based assumptions.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that societal views on class and marriage reduce relationships to economic transactions."
+    },
+    {
+      "quote": "I am perfectly convinced that I should never have been happy with him",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 19",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s rejection of a class-driven match in favor of personal happiness and emotional compatibility."
+    }
+  ],
+  "limits": "Quotations are from standard editions of the novel; slight variations may exist across printings."
+}

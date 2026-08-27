@@ -1,0 +1,28 @@
+```json
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that reveal the core of Odysseus’s journey and the values of ancient Greek society. Homecoming (*nostos*) is not merely a physical return but a restoration of identity—Odysseus’s struggle to reclaim Ithaca mirrors his struggle to reclaim himself after years of wandering and divine captivity. The opening lines of the epic emphasize this longing: the narrator invokes the Muse to tell of the hero ‘who travelled far and wide after he had sacked the famous town of Troy’ and ‘was longing to return to his wife and country.’ This establishes homecoming as both a physical and emotional quest, one that defines Odysseus’s character and purpose.
+
+Hospitality (*xenia*), meanwhile, is a sacred duty that tests and preserves identity. When Odysseus pleads with Nausicaa, he frames his request through the lens of shared humanity and divine favor: ‘May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.’ Here, hospitality becomes a reciprocal exchange—Odysseus’s eloquence and humility earn him aid, while Nausicaa’s generosity reflects the Phaeacians’ reputation as a people ‘dear to the gods.’ Both moments underscore how identity is affirmed through connection: Odysseus’s return hinges on the kindness of strangers, just as his worth is proven by his ability to inspire it. These themes remind us that in *The Odyssey*, home is not just a place but a state of belonging, earned through perseverance and mutual respect.",
+
+  "evidence": [
+    {
+      "quote": "who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them. So now all who escaped death in battle or by shipwreck had got safely home except Ulysses, and he, though he was longing to return to his wife and country, was detained by the goddess Calypso...",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-15 (opening invocation)",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote establishes the centrality of homecoming (*nostos*) as Odysseus’s defining struggle, framing his identity as a hero whose return is both a physical journey and a test of endurance and loyalty."
+    },
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house. It discomfits their enemies, makes the hearts of their friends glad, and they themselves know more about it than any one.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 180-185 (Odysseus to Nausicaa)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This passage illustrates the theme of hospitality (*xenia*) as a reciprocal bond: Odysseus’s plea ties his survival to Nausicaa’s generosity, while his words elevate domestic harmony as a divine ideal, linking identity to communal trust."
+    }
+  ],
+
+  "limits": "The quoted passages are from the Butler translation (1900), as referenced in the provided source windows. Line numbers may vary slightly across editions, but the locators align with standard Book divisions."
+}
+```

@@ -1,0 +1,14 @@
+{
+  "answer": "Charles Dickens opens A Tale of Two Cities with a series of paired contradictions that capture how a single historical moment can contain opposite extremes. The narrator’s description of the period as simultaneously “the best of times” and “the worst of times,” among other contrasts, illustrates that historical eras are never monolithic; they generate conflicting experiences and interpretations. This dialectical opening insists that the French Revolution era, like Dickens’s own Victorian age, was defined by deep contradictions between hope and despair, wisdom and foolishness, belief and incredulity.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation supports the idea of historical contradiction by showing how a single period can be defined by directly opposing qualities, revealing the coexistence of extreme optimism and pessimism within society."
+    }
+  ],
+  "limits": "The exact wording is from the opening paragraph of the novel as provided in the frozen excerpt. The excerpt cuts off before the end of the paragraph, but the quoted portion contains the core contradictory pairs."
+}

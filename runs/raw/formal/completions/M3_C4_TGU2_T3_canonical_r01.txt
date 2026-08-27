@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt are central to Macbeth’s downfall. The witches’ prophecy ignites Macbeth’s vaulting ambition, driving him to murder King Duncan despite moral reservations. Once committed to the crime, his guilt manifests psychologically, revealing the internal cost of unchecked ambition. Before the murder, Macbeth hallucinates a dagger, symbolizing his inner turmoil: 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee' (Act II, Scene I). This vision reveals his conscience wrestling with his ambition, as the 'dagger of the mind' reflects his fear and moral conflict. After the deed, guilt haunts him relentlessly, as seen when he declares, 'Sleep no more! Macbeth does murder sleep' (Act II, Scene II). Though not in the provided excerpts, this famous line is often cited to show his psychological collapse. Within the given text, the hallucinated dagger illustrates how guilt begins even before the act, fueled by prophecy and ambition. Macbeth’s mental unraveling demonstrates Shakespeare’s exploration of how ambition, once spurred by prophecy, can lead to destructive guilt and psychological disintegration.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:—",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "MACBETH",
+      "use_in_answer": "This quote supports the idea that Macbeth's guilt and inner conflict manifest as hallucinations, revealing his psychological struggle before committing murder."
+    }
+  ],
+  "limits": "The second requested quotation ('Sleep no more! Macbeth does murder sleep') is not present in the provided source excerpts, so only one usable quotation is available from the text given."
+}

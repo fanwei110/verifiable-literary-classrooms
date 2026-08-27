@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s the heart of Hamlet’s famous soliloquy: the contemplation of death as a sleep that might bring troubling dreams, which gives us pause and breeds hesitation. It’s a direct illustration of how mortality—specifically the fear of what comes after—paralyzes resolve.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / To sleep, perchance to dream—ay, there's the rub: / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.64-68",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote explicitly ties mortality (the sleep of death) to hesitation (the pause that makes calamity of life), supporting the point that fear of the unknown afterlife paralyzes action."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; other editions may present slightly different lineation."
+}

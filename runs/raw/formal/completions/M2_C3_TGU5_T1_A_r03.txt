@@ -1,0 +1,14 @@
+{
+  "answer": "Milton begins Paradise Lost by directly stating his epic subject: the first act of human disobedience and its catastrophic consequences. The opening lines, 'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden,' identify the precise cause of the Fall—eating the forbidden fruit—and immediately link that act to mortality, suffering, and the loss of paradise, thus framing the entire poem as an exploration of how and why that disobedience occurred.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-4",
+      "speaker_or_narrator": "Epic narrator",
+      "use_in_answer": "This quotation directly announces the poem’s theme—the first disobedience and its fatal fruit—and explains how the fall brought death, woe, and the loss of Eden into the world."
+    }
+  ],
+  "limits": "Quoted from the first edition (1667), printed in ten books; later editions revised into twelve books but these opening lines remain unchanged."
+}

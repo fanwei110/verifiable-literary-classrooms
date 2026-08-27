@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined themes that shape the protagonist’s tragic arc. Hamlet's contemplation of death and duty creates a paralyzing hesitation, most evident when he delays avenging his father’s murder despite having both motive and opportunity. His philosophical nature leads him to question the moral weight of action versus inaction, especially in a world he views as corrupt. This internal struggle is mirrored in his use of performance—such as the play within a play—to delay decisive action while testing the truth. Performance becomes both a shield and a tool, allowing Hamlet to explore guilt and innocence without committing to violence. Simultaneously, his frequent meditations on mortality, especially in encounters with Yorick’s skull and in graveyard scenes, underscore the inevitability of death and the futility of human ambition. Thus, Hamlet's hesitation stems not from weakness but from profound existential awareness. As he reflects, 'To be, or not to be: that is the question'—he frames life and death as an unresolved philosophical dilemma. His feigned and real performances blur the line between action and illusion, ultimately revealing the tragedy of a man immobilized by thought in a world demanding action.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Line 56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s deep philosophical hesitation about existence and action, central to his character."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, Lines 607–608",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates how performance functions as a strategic delay and investigative tool in Hamlet’s pursuit of truth."
+    }
+  ],
+  "limits": "Quotations are from the First Folio and may vary slightly in modern editions."
+}

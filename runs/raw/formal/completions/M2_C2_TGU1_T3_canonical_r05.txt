@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare intertwines hesitation, mortality, and performance to explore the paralysis of thought and the search for truth. Hamlet’s famous soliloquy, “To be, or not to be, that is the question,” opens a meditation on existence and the fear of what lies beyond death. His hesitation stems not from cowardice but from a mortal dread of the unknown—“the undiscovered country from whose bourn no traveller returns.” This inward delay contrasts with the outward action of theatre. Hamlet seizes on a traveling troupe to stage a murder, declaring, “The play’s the thing / Wherein I’ll catch the conscience of the King.” Here, performance becomes a weapon: by mirroring Claudius’s crime, Hamlet hopes to force the king’s guilt into the open. The play-within-a-play turns the court into an audience and the king into a performer, collapsing the boundary between reality and illusion. In this way, Shakespeare suggests that performance can bypass hesitation and mortality-driven anxiety—at least long enough to reveal truth. The prince’s journey from self-absorbed contemplation to theatrical provocation shows that when direct action is blocked by doubt, art itself becomes a mode of action.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, line 64",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This opening of Hamlet’s soliloquy captures his profound hesitation and contemplation of mortality, weighing action against the fear of the unknown after death."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633–634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Hamlet reveals his plan to use a performance to expose Claudius’s guilt, showing how theatricality and performance become central to his strategy."
+    }
+  ],
+  "limits": "Quotations follow the Folger Shakespeare Library digital text; line numbers may differ in other editions. The answer uses the first line of the soliloquy as an emblem of hesitation, though the full speech extends to line 98."
+}

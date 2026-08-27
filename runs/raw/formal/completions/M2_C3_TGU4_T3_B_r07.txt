@@ -1,0 +1,22 @@
+{
+  "answer": "Charles Dickens’s A Tale of Two Cities builds its revolutionary world around the idea of doubling—a society split into impossible extremes that demand radical sacrifice. The novel opens by yoking opposite states together: “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness…” The narrator crowds hope and despair, light and darkness into a single breath. That rhythm of paired contradictions becomes the engine of revolution: a world so starkly divided cannot hold, and its very structure promises a bloody turning upside down. The second paragraph then zooms in on the rulers who benefit from this fracture: “There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France.” The repetition of “king” and “queen” across the channel doubles the image of privilege, while the casual matching of plain and fair faces reduces monarchy to interchangeable surface. The lords of “loaves and fishes” believe things are “settled for ever”—a complacency that literally asks for revolution. For Dickens, this double world can only be healed by a doubled sacrifice: one man giving his life for another, mirroring the novel’s own structure of twinned cities, familles, and fates. The revolution devours its children, but the novel insists that a personal, voluntary sacrifice—Carton’s soon‑to‑come act—is the only true answer to the “worst of times.”",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This sentence’s relentless doubling of opposed states establishes the structural pattern of a world ripe for revolution."
+    },
+    {
+      "quote": "There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "The mirrored kings and the phrase “settled for ever” expose the willful blindness of the ruling class, which makes revolution inevitable and sacrifice necessary."
+    }
+  ],
+  "limits": "Only the novel’s opening paragraphs are available from the source windows; references to Carton’s sacrifice and later doubling patterns draw on the broader text outside the excerpt."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how Hamlet’s hesitation, mortality, and performance intersect—three forces that shape his tragedy. Hamlet’s delay in avenging his father isn’t just indecision; it’s a confrontation with the fragility of life itself. When he declares, 'The time is out of joint. O cursed spite, / That ever I was born to set it right!' (1.5.189-190), we see his paralysis framed as a cosmic burden. His role as revenger feels like a performance he’s ill-prepared to enact, yet mortality looms over him, forcing the question: *Can action even matter in a world where all end in dust?* Later, in the graveyard, Hamlet’s meditation on Yorick’s skull—'Alas, poor Yorick! I knew him, Horatio' (5.1.178)—collapses performance entirely. The court jester’s decayed remains strip away pretense, revealing that even the most vibrant lives (and roles) dissolve into nothingness. Here, hesitation isn’t just fear; it’s the terror of meaninglessness. Hamlet’s soliloquies and feigned madness become desperate attempts to *act* in a world where action feels futile, yet inaction is unbearable. His tragedy, then, is the tension between the roles we play and the silence that awaits us all.",
+  "evidence": [
+    {
+      "quote": "The time is out of joint. O cursed spite, / That ever I was born to set it right!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "1.5.189-190",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation as a crisis of purpose, where his duty to avenge feels like an impossible performance in a broken world."
+    },
+    {
+      "quote": "Alas, poor Yorick! I knew him, Horatio",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "5.1.178",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This moment underscores mortality’s erasure of performance, as Hamlet confronts the skull of a man who once embodied life and laughter, now reduced to nothing."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition (2006); line numbers may vary slightly in other editions."
+}

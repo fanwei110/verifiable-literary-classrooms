@@ -1,0 +1,14 @@
+{
+  "answer": "In *Pride and Prejudice*, Austen exposes the irony of the marriage market—where love is often secondary to financial and social advantage—through sharp social commentary. This quotation from Charlotte Lucas captures the pragmatic reality many women faced: marriage as a calculated transaction rather than a romantic ideal. It underscores how societal pressures distorted personal happiness, revealing the gap between expectation and reality in Regency-era courtship.",
+  "evidence": [
+    {
+      "quote": "I am not romantic, you know; I never was. I ask only a comfortable home; and considering Mr. Collins’s character, connections, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote illustrates the marriage market’s irony by presenting Charlotte’s pragmatic acceptance of a loveless match as a rational choice, highlighting the tension between societal expectations and personal fulfillment."
+    }
+  ],
+  "limits": "The chapter numbering follows the 1813 first edition; modern editions may vary slightly. The quote reflects Charlotte’s perspective, not necessarily Austen’s endorsement of her views."
+}

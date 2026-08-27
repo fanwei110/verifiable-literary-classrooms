@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s existential crisis is most evident in his 'To be, or not to be' soliloquy, where he contemplates the value of enduring life’s suffering versus ending it through death. His hesitation to act—whether to suicide or to revenge—stems from fear of the unknown after death: 'To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come.' This reflects how mortality’s mystery paralyzes decisive action. At the same time, performance permeates the play as characters mask their intentions. Hamlet himself adopts an 'antic disposition' to disguise his purpose, while Claudius performs kingship despite guilt—revealed when Polonius suggests 'to sugar o’er / The devil himself' with pious appearances. The King’s aside: 'O ’tis too true! How smart a lash that speech doth give my conscience!' exposes his inner torment beneath a performative façade. Thus, Hamlet’s personal hesitation and the play’s broader themes of death and deception are mirrored in both introspective soliloquy and dramatic irony. Action is stalled not only by fear of death but also by the difficulty of discerning truth in a world of performance.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 66–67",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how fear of the afterlife causes Hamlet’s hesitation in taking action, including both suicide and revenge."
+    },
+    {
+      "quote": "O ’tis too true! How smart a lash that speech doth give my conscience!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, line 50",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "This quote illustrates Claudius's internal guilt beneath his performative innocence, highlighting the theme of deception in the court."
+    }
+  ],
+  "limits": "The source windows provided are from the First Folio-based modern text; minor line variations may exist across editions."
+}

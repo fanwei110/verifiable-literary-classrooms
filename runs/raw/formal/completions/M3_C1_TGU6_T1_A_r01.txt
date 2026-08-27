@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is not just physical movement but a transformative journey shaped by storytelling, memory, and identity. As Odysseus recounts his trials, each tale reveals how stories preserve meaning across distance and time, turning random travels into a coherent life journey.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–4",
+      "speaker_or_narrator": "The narrator invoking the Muse",
+      "use_in_answer": "This opening invocation establishes that Odysseus’s wandering (‘driven time and again off course’) is central to the story and worthy of song, linking physical journey with narrative purpose."
+    }
+  ],
+  "limits": "Translation may vary slightly by version; this quote follows the Robert Fagles translation (Penguin Classics, 1996)."
+}

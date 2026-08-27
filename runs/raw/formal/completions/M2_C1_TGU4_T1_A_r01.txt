@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most effective expressions of historical contradiction comes from the opening of A Tale of Two Cities, where Dickens dismantles the idea that any age can be reduced to a single label. By stacking oppositional pairs, he shows that the late eighteenth century was simultaneously a time of enlightenment and suffering, faith and doubt, hope and despair—a reminder that historical moments are never monolithic.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1 (The Period)",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote directly captures the concept of historical contradiction by listing stark opposites that coexisted during the French Revolution era, undermining any one-sided view of the period."
+    }
+  ],
+  "limits": "No uncertainty; the quotation is the complete opening paragraph of the novel."
+}

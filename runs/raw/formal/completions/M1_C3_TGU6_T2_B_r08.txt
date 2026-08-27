@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'my name is Noman' is spoken by Odysseus in Homer’s *Odyssey*, Book 9. He uses this alias as a clever trick to deceive the Cyclops Polyphemus, ensuring that when the monster cries for help, his fellow Cyclopes will misunderstand his cries and think no man is harming him.",
+  "evidence": [
+    {
+      "quote": "‘Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 364-367 (approximate, depending on translation)",
+      "speaker_or_narrator": "Odysseus (disguising his identity)",
+      "use_in_answer": "This quote directly attributes the line to Odysseus and shows his strategic deception of Polyphemus."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly across translations, but the episode is universally recognized in Book 9 of *The Odyssey*."
+}

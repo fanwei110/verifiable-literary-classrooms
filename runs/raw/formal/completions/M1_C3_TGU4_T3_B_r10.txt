@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *A Tale of Two Cities*, Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral contradictions of the French Revolution. The novel’s famous opening lines—'It was the best of times, it was the worst of times'—capture the duality of the era, where hope and despair, light and darkness, coexist. This doubling extends to characters like Sydney Carton and Charles Darnay, who embody opposing yet intertwined fates. Revolution, too, is depicted as both a force of justice and destruction. The mob’s violence, for instance, is described in Chapter XXII of Book the Third: 'The sea of black and threatening waters, and of destructive upheaving of wave against wave, whose depths were yet unfathomed and whose forces were yet unknown.' This imagery underscores the revolution’s uncontrollable, dehumanizing power. Sacrifice, meanwhile, is epitomized by Carton’s final act, where he declares, 'It is a far, far better thing that I do, than I have ever done,' transforming his wasted life into a redemptive gesture. These themes intertwine to show how revolution demands personal and collective sacrifice, often blurring the lines between heroism and brutality.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling, illustrating the paradoxical nature of the revolutionary period."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, highlighting Carton’s redemptive act as the culmination of his character arc."
+    }
+  ],
+
+  "limits": "The second quote is from the novel’s conclusion, but the exact chapter numbering may vary slightly by edition. The first quote is universally recognized as the novel’s opening lines."
+}
+```

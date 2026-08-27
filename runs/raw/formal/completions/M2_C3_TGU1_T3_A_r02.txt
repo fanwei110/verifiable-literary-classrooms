@@ -1,0 +1,22 @@
+{
+  "answer": "In Act 3, Hamlet’s paralysis illuminates the intertwining of hesitation, mortality, and performance. The prince’s famous deliberation—“To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them. To die—to sleep … To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come … Must give us pause”—reveals how fear of an unknown afterlife arrests action. Suicide or revenge becomes thinkable yet unperformable because mortality transforms from a simple end into a theatrical stage where “dreams” might enact judgment. This inner theatre of speculation generates the hesitation that defines Hamlet’s delay. Simultaneously, Claudius’s private confession—“The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word”—exposes performance as a corrupt surface. His “painted word” parallels the actor’s art; both disguise foul deeds beneath fair shows. Thus, Hamlet’s existential standstill and Claudius’s guilt both hinge on the gap between being and seeming. In Denmark’s rotten state, performance conceals truth, mortality breeds dread, and hesitation becomes the only honest response to a world where even death is a potential illusion.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them. To die—to sleep, No more; … To sleep, perchance to dream—ay, there's the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Source window 1 (3.1.56-68)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Demonstrates how hesitation is rooted in the fear of an afterlife that may hold painful dreams, framing mortality as a performance whose script is unknown."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Source window 1 (3.1.51-53)",
+      "speaker_or_narrator": "King Claudius",
+      "use_in_answer": "Reveals the theme of performance by equating painted beauty and deceptive words, highlighting the corrupt gap between seeming and being."
+    }
+  ],
+  "limits": "Texts taken from the provided excerpts; lineation may vary slightly between editions."
+}

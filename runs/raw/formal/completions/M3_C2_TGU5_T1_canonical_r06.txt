@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton begins his epic by introducing the central themes of the poem—man's first act of disobedience and the loss of Paradise—setting the stage for a profound exploration of the fall of Adam and Eve. The very opening lines encapsulate the tragic consequences of defying divine law, which we will unpack further in our discussion.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit Of that Forbidden Tree, whose mortal taste Brought Death into the World, and all our woe, With loss of Eden, till one greater Man Restore us, and regain the blissful Seat,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1-5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly introduces the themes of disobedience and the fall from grace, explaining how Adam and Eve's act led to the loss of Eden and humanity's fallen state."
+    }
+  ],
+  "limits": "The quotation is from the first edition of Paradise Lost (1667), based on standard modern editions such as the Hughes edition of the Complete Poetry and Major Prose."
+}

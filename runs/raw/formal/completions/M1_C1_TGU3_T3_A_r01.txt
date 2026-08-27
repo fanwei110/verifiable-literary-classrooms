@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, social class, and marriage intersect to shape characters' lives. The novel critiques the superficial judgments that often dictate relationships, as seen when Elizabeth Bennet initially dismisses Mr. Darcy based on his pride. His first impression—'He was the proudest, most disagreeable man in the world' (Ch. 3)—reflects her snap judgment, which is later challenged as she uncovers his true character. Class also plays a pivotal role, as marriage is frequently treated as a transaction to secure financial stability. Charlotte Lucas’s pragmatic acceptance of Mr. Collins’s proposal—'I am not romantic, you know; I never was' (Ch. 22)—highlights how women of lower social standing often prioritize security over love. Austen uses these dynamics to question societal norms, showing how first impressions and class constraints can distort relationships while advocating for marriages based on mutual respect and understanding.",
+  "evidence": [
+    {
+      "quote": "He was the proudest, most disagreeable man in the world",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Narrator (free indirect discourse, reflecting Elizabeth’s perspective)",
+      "use_in_answer": "This quote illustrates Elizabeth’s initial negative impression of Darcy, which drives much of the novel’s conflict and her personal growth."
+    },
+    {
+      "quote": "I am not romantic, you know; I never was",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This line underscores Charlotte’s pragmatic view of marriage, contrasting with Elizabeth’s idealism and critiquing the limited options for women of lower social standing."
+    }
+  ],
+  "limits": "Quotations are based on standard editions of *Pride and Prejudice*; chapter numbers may vary slightly by publication."
+}

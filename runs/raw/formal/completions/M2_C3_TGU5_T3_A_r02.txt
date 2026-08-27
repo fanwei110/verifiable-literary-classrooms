@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton weaves temptation, free will, and rebellion into a unified tragic fabric. The poem opens by declaring humanity’s primordial choice: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us” (I, 1-5). This passage frames the Fall as an abuse of free will—a deliberate act with cosmic consequences, yet one that a redeemer will ultimately mend. The roots of that temptation are exposed in Satan’s defiant logic. Refusing to serve in heaven, he boasts, “Better to reign in Hell, then serve in Heav’n” (I, 263). Here, rebellion is recast as proud self-assertion: free will perverted into a demand for autonomy at any cost. Satan’s speech becomes the archetypal seduction—he tempts by persuading others that God’s order is tyranny, making submission feel like slavery. Milton thus shows that temptation works by misrepresenting freedom, luring creatures to grasp equality with God, which is precisely the rebellion that first caused heaven’s war. True freedom, the epic insists, lies not in usurping divine authority but in choosing obedience, a lesson only fulfilled by the “greater Man” who undoes Adam’s sin.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-5",
+      "speaker_or_narrator": "Narrator (the poet)",
+      "use_in_answer": "Establishes the theme of free will through Adam’s primordial disobedience and frames the entire poem as a story of choice, consequence, and ultimate restoration."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Reveals the rebellious perversion of free will and the logic of temptation—choosing self-rule over grateful obedience, which Satan later uses to seduce Eve."
+    }
+  ],
+  "limits": "Text follows the 1667 ten-book edition; spelling and punctuation preserved as in the source excerpts (e.g., 'tast', 'Heav'n')."
+}

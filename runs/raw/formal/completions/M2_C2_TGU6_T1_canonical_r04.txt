@@ -1,0 +1,14 @@
+{
+  "answer": "The epic begins by equating wandering with the story itself, as the narrator calls on the Muse to tell of the man who was driven far off course—his journey is the poem.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-2",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote shows how the hero’s ceaseless wandering is the subject of the story’s telling."
+    }
+  ],
+  "limits": "Robert Fagles translation (1996)."
+}

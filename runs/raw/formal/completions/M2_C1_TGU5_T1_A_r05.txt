@@ -1,0 +1,14 @@
+{
+  "answer": "Milton frames the entire epic with the first disobedience and its catastrophic result, identifying the original human sin as the act of eating the forbidden fruit, which brought death and woe into the world until redemption.",
+  "evidence": [
+    {
+      "quote": "Of man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe, / With loss of Eden, till one greater man / Restore us, and regain the blissful seat,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1-5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening invocation directly defines the Fall as humanity's first act of disobedience and its consequence of death and woe."
+    }
+  ],
+  "limits": "Quotation is from the second edition (1674) of Paradise Lost, which organized the poem into twelve books; spelling and punctuation follow modernized editions."
+}

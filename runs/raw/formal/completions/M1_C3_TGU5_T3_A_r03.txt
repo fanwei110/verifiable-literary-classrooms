@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n' (Book I). This line underscores his prideful rebellion, illustrating how free will—when misdirected—leads to self-destruction. Satan’s logic twists reason to justify his defiance, portraying rebellion as a perverse form of autonomy. Similarly, Adam and Eve’s fall in Book IX reveals temptation as a corruption of free will. Eve’s rationalization—'What fear I then, rather what know to fear / Under this ignorance of good and evil?' (Book IX)—shows how curiosity and desire override obedience, demonstrating that free will is both a gift and a vulnerability. Milton suggests that true freedom lies in alignment with divine will, while rebellion, though seductive, leads only to suffering. Through these moments, he invites readers to reflect on the consequences of their own choices and the nature of moral responsibility.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote highlights Satan’s prideful rejection of divine authority, framing rebellion as a distorted exercise of free will."
+    },
+    {
+      "quote": "What fear I then, rather what know to fear / Under this ignorance of good and evil?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This line demonstrates Eve’s temptation as a rationalization of disobedience, showing how free will can be misled by desire."
+    }
+  ],
+
+  "limits": "The quotations are drawn from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other versions."
+}

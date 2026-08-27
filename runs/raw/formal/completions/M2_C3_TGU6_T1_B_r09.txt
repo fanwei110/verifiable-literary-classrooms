@@ -1,0 +1,14 @@
+{
+  "answer": "Here is the very opening of The Odyssey, where the poet calls the Muse to sing of the hero’s wandering and the story itself: “Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home […] Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.” This passage directly links the act of storytelling with the hero’s physical and intellectual wandering—the tale is both a record of his travels and a journey in itself.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–5 (opening invocation)",
+      "speaker_or_narrator": "The narrator (calling on the Muse)",
+      "use_in_answer": "This opening invocation explicitly frames the entire epic as a story of wandering: the hero journeyed far, visited many places, and suffered at sea. At the same time, the repeated plea “Tell me” foregrounds the act of storytelling, making the wanderings inseparable from the narrative itself."
+    }
+  ],
+  "limits": "Translation by Samuel Butler, as preserved in the edition with preface by Henry Festing Jones (1921). The exact line numbering may vary in other editions; this passage comprises the first five lines of the poem."
+}

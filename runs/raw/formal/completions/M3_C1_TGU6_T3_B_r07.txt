@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply connected. Odysseus’s journey home is more than a physical return—it’s a reclamation of identity. Each time he reveals who he is, it’s done strategically, often after testing loyalty. Central to this process is xenia, the sacred Greek custom of hospitality. When hosts welcome guests, especially strangers, they honor the gods and uphold social order. The suitors violate this principle completely, consuming Odysseus’s wealth and dishonoring his household. In contrast, when Odysseus finally reveals himself to his son Telemachus, it’s a pivotal moment of reunion grounded in truth and recognition. Later, upon reclaiming his home, he exacts justice on those who disrespected both hospitality and his identity as ruler and father. These themes show that home isn’t just a place, but a restoration of rightful identity through proper relationships. As Athena says to Odysseus, 'You must not hold aloof any longer from your own son,' guiding their emotional reunion. And when Odysseus declares, 'I am he, the master of this house,' he asserts his identity and rightful place. These moments underscore that true homecoming requires both recognition and restored order.",
+  "evidence": [
+    {
+      "quote": "You must not hold aloof any longer from your own son",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16",
+      "speaker_or_narrator": "Athena",
+      "use_in_answer": "This quote supports the necessity of familial recognition in the process of homecoming."
+    },
+    {
+      "quote": "I am he, the master of this house",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 22",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote demonstrates Odysseus reclaiming his identity and authority upon returning home."
+    }
+  ],
+  "limits": "Translations may vary slightly; quotes are based on Robert Fagles' 1996 translation."
+}

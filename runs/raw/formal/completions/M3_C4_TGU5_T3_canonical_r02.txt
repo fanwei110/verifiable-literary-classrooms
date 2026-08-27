@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant embrace of evil after his expulsion from Heaven. Satan’s rebellion stems from pride and a refusal to submit to God’s authority, asserting his autonomy even in damnation. He declares, “The mind is its own place, and in itself / Can make a Heav’n of Hell, a Hell of Heav’n” (Book I), showing his belief that internal resolve overrides external circumstance. This assertion reflects his misuse of free will—he chooses defiance over obedience, framing rebellion as self-empowerment. Later, he famously states, “Better to reign in Hell, then serve in Heav’n,” cementing his commitment to autonomy at any cost. These lines reveal how Milton portrays temptation not as mere weakness, but as a calculated act of will, rooted in intellectual pride and a desire for sovereignty. Satan’s choice sets the stage for his later temptation of Adam and Eve, echoing his belief that disobedience is a path to equality with God. Thus, Milton presents rebellion as a tragic distortion of free will, where the pursuit of independence leads not to liberation, but to spiritual ruin.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's belief in the power of the mind to redefine moral and spiritual reality, illustrating his defiance and internal justification for rebellion."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote encapsulates Satan's preference for autonomous rule in damnation over obedient service in Heaven, highlighting his prideful misuse of free will."
+    }
+  ],
+  "limits": "The excerpts provided are sufficient to support the discussion of Satan's rebellion and his views on free will and temptation; no critical content appears to be missing for this focused analysis."
+}

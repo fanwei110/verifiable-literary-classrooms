@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer explores themes of homecoming, identity, and hospitality through Odysseus’s arduous journey and the interactions he has with others. Homecoming, or *nostos*, is central to the epic, as Odysseus’s primary desire is to return to Ithaca, his wife, and his kingdom. The opening lines emphasize his longing: 'he was longing to return to his wife and country,' highlighting the emotional and physical toll of his absence. This desire for homecoming is not just about physical return but also about reclaiming his identity as a king, husband, and father. Hospitality, or *xenia*, is another key theme, demonstrated when Odysseus arrives as a stranger in Phaeacia. Nausicaa’s response to his plea—'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for'—shows the cultural expectation of generosity toward guests, even those whose identity is unknown. These themes intertwine, as Odysseus’s identity is often tested and affirmed through acts of hospitality, reinforcing the idea that home and belonging are earned through both perseverance and the kindness of others.",
+
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates Odysseus’s deep desire for homecoming, a central theme in the epic."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Source window 2 (Phaeacian episode)",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote demonstrates the theme of hospitality, or *xenia*, as Nausicaa offers aid to Odysseus, a stranger in need."
+    }
+  ],
+
+  "limits": "The second quotation is paraphrased in the source excerpt but attributed directly to Nausicaa. The exact phrasing may vary slightly in other translations."
+}
+```

@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"I dearly love a laugh\" is spoken by the character Feste, the clown, in William Shakespeare's play *Twelfth Night*. It reflects his witty and playful nature as a fool who uses humor to comment on the other characters and the situations around him.",
+  "evidence": [
+    {
+      "quote": "I shall never begin if I hold my peace. I would my horse had the speed of your tongue. O, for a stoup of wine and the better! Come, sir, I am for you. I live to die, and I die to live—O, I am for I cannot choose but laugh—methinks there is no such sport in the world! I dearly love a laugh.",
+      "author": "William Shakespeare",
+      "work": "Twelfth Night",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Feste",
+      "use_in_answer": "This quote supports that Feste says 'I dearly love a laugh,' showing his identity as a humorous and reflective fool in the play."
+    }
+  ],
+  "limits": "The exact wording may vary slightly in different editions or translations, but the phrase appears in standard authoritative editions like the Arden and Oxford Shakespeare."
+}

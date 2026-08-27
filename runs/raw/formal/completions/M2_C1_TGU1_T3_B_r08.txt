@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s explore how hesitation, mortality, and performance intertwine in *Hamlet*. Hamlet’s famous “To be, or not to be” soliloquy shows hesitation as a deep existential stall—paralyzed not just by fear of death, but by the unknown quality of the afterlife. He frames action as a performance he cannot begin because the script is unclear. But earlier, Hamlet seizes upon performance itself as a weapon: “The play’s the thing / Wherein I’ll catch the conscience of the King.” Here, theatre becomes a way to force revelation, bypassing his own indecision by making others act. The connection is darkly ironic: Hamlet contemplates mortality endlessly yet can only move forward by staging a fiction. Performance, then, isn’t mere entertainment; it’s a response to the terror of mortality and the paralysis of hesitation. He substitutes a rehearsed death on stage for the real death he hesitates to deliver, showing how art steps in where the will falters.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s meditation on existence and suicide, highlighting his hesitation rooted in the fear of what dreams may come in death."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.603-604",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote reveals Hamlet’s plan to use theatrical performance to overcome his hesitation and confront mortality through Claudius’s reaction."
+    }
+  ],
+  "limits": "Line numbering follows the Arden Shakespeare; other editions may differ slightly."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In *A Tale of Two Cities*, Dickens captures the paradox of the French Revolution—how the same forces that sought justice and liberation also unleashed violence and oppression. This contradiction is vividly expressed in the novel’s famous opening lines, which highlight the duality of the era. Here’s the passage that illustrates this historical tension:",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1 (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the simultaneous existence of opposing forces—hope and despair, progress and regression—during the Revolution, reflecting the broader historical contradiction of an era that promised liberation but delivered chaos."
+    }
+  ],
+  "limits": "The quotation is from the 1859 first edition; minor variations may exist in later editions or adaptations."
+}

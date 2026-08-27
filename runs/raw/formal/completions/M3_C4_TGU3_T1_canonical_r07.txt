@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, the novel opens with a famous ironic statement about the marriage market: that a wealthy single man must be in want of a wife, when in reality, it is the families with daughters who are actively seeking such a match. This irony underscores the social pressure and economic motivations driving marriage in Regency-era England.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the irony of the marriage market by reversing expectations: rather than women being in want of wealthy husbands, the narrative ironically claims the reverse, highlighting societal assumptions and pressures."
+    }
+  ],
+  "limits": ""
+}

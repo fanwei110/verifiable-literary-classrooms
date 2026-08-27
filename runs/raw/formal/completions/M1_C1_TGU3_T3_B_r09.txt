@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how *Pride and Prejudice* uses first impressions to critique class and marriage in Regency England. Austen’s opening line—'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'—immediately satirizes the marriage market, exposing how economic status, not love, often dictates unions. This sets the stage for Elizabeth Bennet’s initial judgment of Mr. Darcy, whose pride and wealth blind her to his integrity. Class further complicates their relationship: Darcy’s first impression of Elizabeth’s family—'their want of propriety'—reveals his prejudice against their lower social standing, while Elizabeth’s refusal to marry for convenience (e.g., Mr. Collins) challenges the era’s transactional view of marriage. Austen forces us to question whether first impressions are shaped by character or class, and whether marriage should prioritize love or social advantage. Notice how these themes intertwine: Darcy’s growth hinges on overcoming his class bias, while Elizabeth’s wit exposes the absurdity of judging others based on wealth alone. Their evolving relationship becomes a critique of a society that values status over substance.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in Regency England was often treated as a financial transaction, prioritizing wealth over personal compatibility."
+    },
+    {
+      "quote": "their want of propriety",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy (via narrator’s paraphrase)",
+      "use_in_answer": "This phrase highlights Darcy’s class-based prejudice against Elizabeth’s family, illustrating how social standing shapes first impressions and judgments."
+    }
+  ],
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in modern editions."
+}

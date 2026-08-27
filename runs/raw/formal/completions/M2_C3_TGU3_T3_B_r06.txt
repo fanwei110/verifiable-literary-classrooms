@@ -1,0 +1,22 @@
+{
+  "answer": "Let's test that demand for textual proof with two moments that crystallize the novel's concerns. Austen's opening immediately links marriage to class and economic reality. The famous first line, spoken by the narrator, announces the neighbourhood's mercenary logic: a wealthy single man is 'the rightful property of some one or other of their daughters.' Here, marriage is a transaction, a social scheme where first impressions are already fixed by fortune, not character. But later, after reading Darcy's letter, Elizabeth Bennet performs a brutal self-examination that shatters her own first impressions and class prejudice: 'How despicably have I acted! … I, who have prided myself on my discernment! … Till this moment, I never knew myself.' Her confession reveals how vanity and class-based resentment distorted her judgment of both Darcy and Wickham. Together, the quotes show Austen's design: the opening satire of a marriage market built on superficial first impressions and status gives way to an individual's painful recognition that true understanding requires overturning those very assumptions. Marrying well, Austen suggests, demands not just money or charm, but self-knowledge.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic opening line establishes the economic and class-based framework that reduces marriage to a property transaction, exposing how first impressions are shaped by wealth rather than personal merit."
+    },
+    {
+      "quote": "How despicably have I acted! … I, who have prided myself on my discernment! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth's confession reveals the collapse of her own class prejudice and faulty first impressions, showing Austen's argument that genuine marriage requires painful self-awareness beyond superficial judgments."
+    }
+  ],
+  "limits": "Quotations are from standard editions; the first is the novel's opening sentence, the second from Elizabeth's epiphany after reading Darcy's letter."
+}

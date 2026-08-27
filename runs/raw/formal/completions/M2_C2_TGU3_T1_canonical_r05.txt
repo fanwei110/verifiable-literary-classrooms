@@ -1,0 +1,14 @@
+{
+  "answer": "Austen opens with a famously ironic statement that mocks the marriage market's assumptions. The narrator declares that a wealthy single man is universally expected to be looking for a wife, but the novel reveals it's the neighborhood's daughters who are truly on the hunt, flipping the supposed 'truth' on its head.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote sets up the irony that the marriage market is driven by economic need and social pressure, not by a bachelor's desire for a wife."
+    }
+  ],
+  "limits": "Quotation from the first sentence of Chapter 1, standard text."
+}

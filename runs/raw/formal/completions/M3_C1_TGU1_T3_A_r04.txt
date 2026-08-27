@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined themes that shape the protagonist’s tragic arc. Hamlet's contemplation of action versus inaction is most evident after the Ghost reveals the truth of King Hamlet’s murder. Though tasked with avenging his father, Hamlet delays, caught in a web of moral uncertainty and existential dread. This hesitation is not mere cowardice but reflects his profound awareness of mortality and the consequences of irreversible action. As he muses, 'To be, or not to be, that is the question' (Act 3, Scene 1), Hamlet confronts the fundamental choice between enduring life’s suffering and ending it, exposing his psychological depth. Furthermore, performance becomes a tool for truth-seeking: Hamlet stages 'The Mousetrap' to 'catch the conscience of the King' (Act 2, Scene 2), using theater to mirror reality. This meta-theatrical moment underscores how performance can reveal hidden truths in a corrupt world. Hamlet’s introspection, fear of death, and reliance on acting expose the tension between appearance and reality, thought and action. His hesitation ultimately stems from grappling with human mortality and the weight of ethical decisions—making his tragedy not just personal, but universally resonant.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's deep contemplation of mortality and the psychological roots of his hesitation."
+    },
+    {
+      "quote": "The play's the thing wherein I'll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how Hamlet uses performance as a strategic tool to uncover truth and motivate action."
+    }
+  ],
+  "limits": "The quoted lines are from the Folger Shakespeare Library edition of Hamlet; wording may vary slightly in other editions."
+}

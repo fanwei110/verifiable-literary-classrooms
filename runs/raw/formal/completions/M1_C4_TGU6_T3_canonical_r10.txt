@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer explores the themes of homecoming, identity, and hospitality through Odysseus’s long journey and the interactions he has with others. Homecoming, or *nostos*, is central to the epic, as Odysseus’s primary goal is to return to Ithaca, his homeland, and reunite with his family. His identity is tested repeatedly—he is often unrecognized, even by those closest to him, forcing him to prove himself through cunning and resilience. Hospitality, or *xenia*, is a sacred duty in Greek culture, and the epic highlights its importance through both positive and negative examples. For instance, the Phaeacians, though strangers, offer Odysseus aid without hesitation, embodying the ideal of generosity. Conversely, the suitors in Ithaca violate *xenia* by overstaying their welcome and consuming Odysseus’s resources. These themes intertwine to show how homecoming is not just a physical return but a restoration of identity and moral order.",
+
+  "evidence": [
+    {
+      "quote": "he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This quote underscores the theme of homecoming by illustrating Odysseus’s relentless struggle to return home despite divine and human obstacles."
+    },
+    {
+      "quote": "Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI (implied by context, though not explicitly labeled in the excerpt)",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote demonstrates the theme of hospitality, as Nausicaa extends generosity to Odysseus, a stranger in need, reflecting the Greek ideal of *xenia*."
+    }
+  ],
+
+  "limits": "The second quotation is attributed to Nausicaa based on contextual clues in the excerpt, though the exact book number is not provided in the frozen source. The excerpt does not include direct evidence for the theme of identity, so that aspect is supported by broader textual knowledge."
+}
+```

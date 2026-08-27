@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Yet, this ambition is not merely external—it becomes a consuming force, as seen when Macbeth admits, 'I have no spur / To prick the sides of my intent, but only / Vaulting ambition' (1.7). This confession reveals how his desire for power overrides moral restraint, setting him on a path of violence. Prophecy, too, plays a crucial role, as the witches’ predictions manipulate Macbeth’s actions, making him believe fate is on his side. Banquo’s warning—'oftentimes, to win us to our harm, / The instruments of darkness tell us truths' (1.3)—highlights how prophecy can deceive, luring Macbeth into a false sense of security. Finally, guilt haunts Macbeth, manifesting in hallucinations like the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' (2.1). This vision symbolizes his psychological unraveling, as his crimes weigh on his conscience. Together, these themes illustrate how unchecked ambition, fueled by prophecy and tormented by guilt, leads to destruction.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s acknowledgment of his overwhelming ambition as the sole driving force behind his murderous intent."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s guilt-induced hallucination, showing how his conscience torments him before the murder of Duncan."
+    }
+  ],
+  "limits": "The first evidence record is not present in the frozen source excerpts provided, so it is attributed based on standard *Macbeth* text. Only the second quote appears in the given excerpts."
+}

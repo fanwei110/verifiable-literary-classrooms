@@ -1,0 +1,22 @@
+{
+  "answer": "Alright, let’s look closely at how Milton weaves temptation, free will, and rebellion together. Notice that Paradise Lost insists we were never tricked into sin without full agency. God Himself announces in Book III that humanity and angels were “Freely they stood who stood, and fell who fell.” That line locks down the poem’s central rule: every choice is unforced, so rebellion is absolutely real. Temptation doesn’t erase that freedom; it invites us to misuse it. Look at Eve in Book IX. The narrator doesn’t say the serpent’s logic overpowered her reason; he shows her deliberate, knowing reach: “So saying, her rash hand in evil hour / Forth reaching to the Fruit, she pluck’d, she eat.” The verb chain — reaching, plucking, eating — is a cascade of active choices. She isn’t overwhelmed; she rebels by choosing her desire over divine command. That’s Milton’s terrifying picture: temptation provides the occasion, but free will supplies the act. Rebellion, then, is simply free will saying no to God. Once you see that, you understand why the poem treats the Fall not as a cosmic accident but as a voluntary catastrophe.",
+  "evidence": [
+    {
+      "quote": "Freely they stood who stood, and fell who fell.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book III, line 102",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This quote establishes that free will is absolute and that standing or falling is a result of each being’s own choice, grounding the concept of rebellion in voluntary action."
+    },
+    {
+      "quote": "So saying, her rash hand in evil hour / Forth reaching to the Fruit, she pluck’d, she eat.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 780-781",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This quote demonstrates the moment temptation succeeds through a series of deliberate, free actions, illustrating rebellion as the will’s conscious turn away from God."
+    }
+  ],
+  "limits": "Quotations follow the 1674 edition; line numbers may vary slightly in modern editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "When we trace the arc of Macbeth, we see how the witches' prophecy lights a fire of ambition that burns away his loyalty and peace. Macbeth himself admits before killing Duncan that he has 'no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other' (1.7.25-28). He knows ambition is his sole motivation, and he already senses it will cause his downfall. That overreaching desire, once acted upon, produces overwhelming guilt. After the murder, Macbeth cries, 'Will all great Neptune’s ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red' (2.2.59-62). The blood on his hands becomes a permanent stain, a symbol of his guilt that no amount of water can cleanse. Thus, prophecy sparks ambition, ambition leads to regicide, and guilt punishes the conscience, ultimately driving Macbeth to madness and tyranny. The play shows how unnatural ambition, once unleashed, traps the mind in an endless loop of horror.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "1.7.25-28",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth's recognition that ambition is his only spur to murder, highlighting the dangerous force of prophecy-fueled desire."
+    },
+    {
+      "quote": "Will all great Neptune's ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.2.59-62",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the theme of inescapable guilt, showing how his ambition has left a psychological stain that nothing can remove."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from William Shakespeare’s play *Hamlet*. It’s spoken by Prince Hamlet in Act 2, Scene 2, as he devises a plan to test whether his uncle, King Claudius, is guilty of murdering Hamlet’s father.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633–634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly identifies the source and speaker of the line the student asked about."
+    }
+  ],
+  "limits": "The line numbering may vary slightly depending on the edition of *Hamlet* used."
+}

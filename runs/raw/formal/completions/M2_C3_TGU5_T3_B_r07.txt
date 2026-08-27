@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s press into the text. Milton opens by announcing his subject: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe” (Book I, lines 1–3). Notice that disobedience is first—the act of choice, not the fruit itself. Temptation is the occasion, but free will is the true cause. The “Forbidden Tree” offers a test, not a compulsion; Adam and Eve’s eventual fall comes from a will that could have resisted. Now flip to Satan’s rebellion: he declares, “Better to reign in Hell, then serve in Heav’n” (Book I, line 263). Here free will is weaponized into defiance. Satan exercises choice to reject divine order, prizing autonomy over obedience. The line drips with perverse logic: he frames servitude as the only alternative to rebellion, obscuring the love that reigns in Heaven. Taken together, these two moments reveal Milton’s core argument: temptation never forces the hand; free will makes rebellion possible, and both human and angelic falls stem from the same proud refusal to serve. The poem insists that paradise was lost not through a trick, but through a choice.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes that the epic's central concern is a free act of disobedience, framing temptation as the catalyst for a willed fall, not a predetermined fate."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates how Satan's rebellion is an extreme exercise of free will, where he proudly chooses self-rule over loving servitude, embodying the same pride that will later tempt Eve."
+    }
+  ],
+  "limits": "Quotations are from the provided excerpt windows; line numbers follow the 1667 ten-book edition's opening book."
+}

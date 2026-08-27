@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define the human condition and cosmic order. Satan’s rebellion against God illustrates the catastrophic consequences of prideful defiance, yet Milton emphasizes that both angels and humans possess free will—the ability to choose obedience or disobedience. When Satan declares, 'Better to reign in Hell, than serve in Heav'n' (Book 1), he articulates a defiant assertion of autonomy, rejecting divine hierarchy in favor of self-rule. This line captures the seductive danger of rebellion—mistaking pride for freedom. Yet Milton also shows that true freedom involves moral responsibility, not just choice. This becomes clear when Adam and Eve face temptation: Eve is misled not by overt force, but by subtle distortion of God's command. After eating the fruit, she says, 'O fair foundation laid whereon to build / Th' imperial throne of God, for man so low!' (Book 9), revealing how temptation reframes disobedience as empowerment. Milton uses these moments to argue that while creatures have free will, they must discern true good from deceptive allure. Ultimately, rebellion rooted in pride leads to fall, not liberation. The poem challenges readers to recognize the inner workings of temptation and the moral weight of free choice.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan values self-rule over divine order, illustrating rebellion rooted in pride."
+    },
+    {
+      "quote": "O fair foundation laid whereon to build / Th' imperial throne of God, for man so low!",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 842–843",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote shows how Eve mistakenly interprets her disobedience as a step toward divine status, revealing the deceptive logic of temptation."
+    }
+  ],
+  "limits": "Quotations are based on the 1674 edition of Paradise Lost; line numbers may vary slightly across editions."
+}

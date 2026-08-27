@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, students. Today’s mini-lesson explores how Dickens intertwines revolution, sacrifice, and doubling in *A Tale of Two Cities*. The novel is built on paradox, famously opening with a doubled world: “It was the best of times, it was the worst of times.” This structural doubling—Light and Darkness, hope and despair—mirrors the revolutionary era’s extreme contradictions and foreshadows the personal double of Charles Darnay and Sydney Carton. Revolution becomes the storm that sweeps away the old world, but its engine is sacrifice. The ultimate example is Carton’s Christ-like substitution, where he sacrifices himself to save Darnay for Lucie’s sake. This heroic act echoes the title of the novel’s closing chapter, “The Footsteps Die Out For Ever,” which suggests both an ending and a transcendence. Sacrifice thus resounds through the chaos, giving private meaning to public upheaval. In essence, Dickens shows that in a doubled universe of violent oppositions, the act of giving one’s life for another is the only source of resurrection and redemption.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...it was the spring of hope, it was the winter of despair...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I, The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Illustrates the fundamental doubling that structures the novel’s vision of the revolutionary period as an era of extreme and inseparable opposites."
+    },
+    {
+      "quote": "The Footsteps Die Out For Ever",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Narrator (Chapter Title)",
+      "use_in_answer": "Supports the theme of sacrifice as a redemptive act that echoes into the future, transforming finality into a form of resurrection through Carton’s self-giving."
+    }
+  ],
+  "limits": "The provided source windows only contain the table of contents and the opening of Chapter I. The quotes and analysis draw from knowledge of the full novel as referenced in the chapter titles."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Let's turn to the text. Austen's opening irony—“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”—satirizes a world where marriage is a class transaction. Mrs. Bennet's breathless news that Netherfield is let reveals that daughters are practically the ‘rightful property’ of any wealthy newcomer. Class anxieties reduce marriage to a hunt. Yet the novel's central lesson lies in the danger of first impressions formed through such a lens. Elizabeth's crucible moment arrives when she reads Darcy’s letter and exclaims: “How despicably have I acted! … Till this moment, I never knew myself.” She confesses that vanity, not love, drove her, that she ‘courted prepossession and ignorance’—favoring charming Wickham and scorning proud Darcy. Her self-reproach shows how class prejudice and wounded pride warp judgment. Only by humbling herself and revising her first impression can she recognize Darcy’s true worth. Austen thus argues that a lasting marriage must be founded not on fortune or flattery, but on mutual self-knowledge and the courage to overcome initial blindness.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening epigram establishes the mercenary, class-based view of marriage that the novel critiques."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth's anguished self-revelation demonstrates that pride and class prejudice distort first impressions, and that self-knowledge is necessary for a worthy marriage."
+    }
+  ],
+  "limits": "Chapter numbers may vary by edition; the second quotation is from the chapter following Darcy's first proposal, conventionally Chapter 36."
+}

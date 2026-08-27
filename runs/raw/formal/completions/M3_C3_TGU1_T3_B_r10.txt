@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his profound hesitation about action, rooted in fears about death and the afterlife. He questions whether enduring life's suffering is nobler than ending it, showing how awareness of mortality paralyzes decisive action. This internal conflict is heightened by his need to perform—both on stage and in court—where appearances mask truth. When Hamlet encounters his father’s ghost, the demand for revenge intensifies his inner turmoil. The supernatural revelation forces him into a role he must perform, yet he remains uncertain, caught between duty and doubt. His hesitation reflects not cowardice but philosophical depth, as he contemplates the moral weight of revenge and the unknowns of death. Through these moments, Shakespeare illustrates how human performance—putting on a role—intersects with the existential fear of mortality, making action nearly unbearable. The play suggests that when life becomes a series of performances, and death an uncertain dream, hesitation becomes both tragic and inevitable.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's hesitation, illustrating his internal debate about life, death, and action."
+    },
+    {
+      "quote": "I am thy father’s spirit, Doom’d for a certain term to walk the night, And for the day confin’d to fast in fires, Till the foul crimes done in my days of nature Are burnt and purg’d away.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5, Lines 10–14",
+      "speaker_or_narrator": "Ghost",
+      "use_in_answer": "This quote underscores the reality of mortality and the afterlife, deepening Hamlet's existential crisis and contributing to his hesitation."
+    }
+  ],
+  "limits": "The quoted passages are based on standard modernized versions of the First Folio text; minor wording variations may exist across editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome to your mini-lesson on revolution, sacrifice, and doubling in A Tale of Two Cities. Dickensâs opening paragraph immediately establishes the bookâs obsession with dualityâa world split between extremes that mirrors the chaotic energy of revolution and the personal cost of sacrifice. The famous first line sets this pattern: every declared âbestâ is instantly undermined by a âworst,â every hope by despair. This doubling reflects the French Revolutionâs simultaneous promise of liberation and its descent into terror. Sacrifice, too, lives in this tension: characters will later claim âeverything before usâ only to lose it, or go âdirect the other wayâ toward death for the sake of others. As the paired opposites cascade, Dickens insists that no single truth can hold; the age itself is âso far like the present periodâ that its contradictions feel eternal. Notice how the rhythm of the prose enacts the seesaw of revolutionary fervor and destructionâLight and Darkness, hope and despair, Heaven and the other way. These echoes prepare us for a story where one manâs salvation depends on anotherâs sacrifice, and where the best of times and the worst of times are often the same moment.",
+  "evidence": [
+    {
+      "quote": "it was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This iconic sentence establishes the central pattern of doubling and introduces the contradictory nature of an era shaped by revolution."
+    },
+    {
+      "quote": "it was the season of Light, it was the season of Darkness",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This pairing embodies the paradoxical spirit of the French Revolution and foreshadows the sacrifices made as characters move between illumination and destruction."
+    }
+  ],
+  "limits": "Only the opening paragraph of Chapter I is provided in the excerpt; all quotations are drawn from that passage. The lesson connects these quotations to the novelâs broader themes of revolution and sacrifice as they develop in later chapters, but those chapters are not included in the frozen source."
+}

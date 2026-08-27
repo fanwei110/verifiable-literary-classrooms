@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, unchecked ambition can blur the line between reality and imagination, as Macbeth experiences a hallucination of a dagger leading him toward murder. This moment captures how intense desire can distort perception, making imagined paths feel real.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, Lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth’s ambition to kill Duncan triggers a hallucination, revealing the psychological toll of his inner conflict and the way ambition can create false realities."
+    }
+  ],
+  "limits": "Line numbers may vary slightly depending on the edition (e.g., Folger, Arden, Oxford), but the passage consistently appears in Act 2, Scene 1 during Macbeth's soliloquy before Duncan’s murder."
+}

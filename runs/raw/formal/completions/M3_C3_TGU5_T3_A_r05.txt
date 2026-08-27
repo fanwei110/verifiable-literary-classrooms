@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Parad,'#e00d8f  '“Reason” and “freedom” are central to Satan’s rebellion and humanity’s fall. After being cast from Heaven, Satan declares his defiant autonomy, asserting, “The mind is its own place, and in itself / Can make a Heav’n of Hell, a Hell of Heav’n” (Book I). This reflects his belief in self-determination, even in damnation, and frames rebellion as an act of asserted will. His assertion underpins the poem’s exploration of free will—both angelic and human—as a double-edged gift. Later, temptation enters as Satan exploits this freedom in Eve. He whispers, “/ excited more / In serpent, woman” (Book IX), justifying deceit as a path to godlike knowledge. Here, temptation is not brute force but seduction of the will. Milton thus presents rebellion not as mere disobedience, but as a tragic misuse of reason and freedom. Both Satan and Eve choose knowledge over obedience, revealing that free will, when detached from virtue, leads to fall. The tragedy lies not in lack of choice, but in choosing pride over humility, autonomy over relationship with God.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself Can make a Heav'n of Hell, a Hell of Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan values self-rule above divine order, establishing his rebellion as a philosophical assertion of will."
+    },
+    {
+      "quote": "Into what fears / Of frozen conscience, guilt and shame, or where / Ambiguous dreams, which hover to and fro / Between good and evil, a waking choice, / Affecting to subdue him, but with strain / Of accumulation more, / excited more / In serpent, woman",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 823–829",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage illustrates how temptation works psychologically in Eve, showing her internal conflict and the manipulation of free will by evil."
+    }
+  ],
+  "limits": "The second quote involves reconstructive inference from fragmented source text; full context may alter interpretation slightly."
+}

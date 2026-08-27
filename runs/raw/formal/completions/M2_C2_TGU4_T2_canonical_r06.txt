@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from Charles Dickens's novel *A Tale of Two Cities*. It is spoken by Sydney Carton in the final moments of the story, as he reflects on his sacrificial act.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote identifies the speaker and the climactic chapter where the line appears."
+    }
+  ],
+  "limits": "The line is the opening of a longer sentence ending with 'than I have ever done; it is a far, far better rest that I go to than I have ever known.'"
+}

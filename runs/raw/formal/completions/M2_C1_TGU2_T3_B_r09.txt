@@ -1,0 +1,22 @@
+{
+  "answer": "Ambition, prophecy, and guilt form a destructive chain in Macbeth. The witches’ prophecy plants a seed of possibility, but it is Macbeth’s own ambition that gives it dark growth. After hearing he will be king, he immediately recoils from his own thoughts, revealing that the desire was already within him. That hidden ambition, once acted upon, breeds a guilt that proves inescapable—not just for Macbeth but for Lady Macbeth as well. Her sleepwalking confession exposes how ambition’s residue is a guilt that corrodes the mind, even when she once believed “a little water clears us of this deed.” These two quotations—one whispered before murder, one cried out after—bookend the moral collapse: ambition transforms prophecy into regicide, and guilt unmakes the murderers from within.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; Let not light see my black and deep desires.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4, lines 50–51",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This aside reveals how the prophecy awakens Macbeth’s pre-existing ambition and his immediate recognition that his desires are evil."
+    },
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1, line 37",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This hallucinated bloodstain demonstrates that guilt cannot be washed away, directly contradicting her earlier dismissal of remorse."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; other editions may vary slightly."
+}

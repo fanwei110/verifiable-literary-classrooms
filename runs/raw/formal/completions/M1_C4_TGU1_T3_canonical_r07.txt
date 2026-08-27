@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is most famously articulated in his 'To be, or not to be' soliloquy, where he grapples with the fear of the unknown after death. His contemplation of suicide—'To die, to sleep— / No more'—reveals his paralysis, as the 'rub' of potential 'dreams' in death makes him pause, prolonging his suffering. This hesitation is not merely philosophical but deeply personal, as Hamlet’s awareness of mortality ('the thousand natural shocks / That flesh is heir to') underscores his inability to act decisively. Meanwhile, performance permeates the play, as characters like Polonius and Claudius manipulate appearances. Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself'—exposes the duplicity at Elsinore, where even Hamlet adopts an 'antic disposition' to mask his true intentions. Together, these themes reveal how hesitation and performance are intertwined with Hamlet’s existential dread, ultimately delaying justice and deepening the play’s tragedy.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep— / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and preoccupation with mortality, as his fear of the unknown after death paralyzes him from taking action."
+    },
+    {
+      "quote": "’Tis too much prov’d, that with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This line highlights the theme of performance, showing how characters in the play use false appearances to conceal their true motives."
+    }
+  ],
+  "limits": "The provided excerpts do not include Hamlet’s explicit hesitation in avenging his father or his later feigned madness, limiting the discussion to the soliloquy and Polonius’s advice."
+}

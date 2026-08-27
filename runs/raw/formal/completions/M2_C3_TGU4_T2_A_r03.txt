@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by the character Sydney Carton in Charles Dickens's novel \"A Tale of Two Cities.\" It appears at the very end of the book as Carton's final, unspoken thoughts before he is executed. He has just sacrificed his own life by taking the place of Charles Darnay at the guillotine so that the woman he loves, Lucie Manette, can keep her husband. The quote reflects his profound spiritual redemption, foreseeing that this selfless act will bring him honor in the memories of Lucie and her family, and that his death will be a far more peaceful end than his wasted life deserved.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15, final lines",
+      "speaker_or_narrator": "Sydney Carton (narrator presents his internal thought)",
+      "use_in_answer": "This is the exact quote in question, spoken internally by Sydney Carton as he faces his execution."
+    }
+  ],
+  "limits": "This excerpt is from the final lines of the Project Gutenberg e-text; print editions may have slight formatting variations."
+}

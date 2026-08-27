@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a deliberate choice—one rooted in pride and the illusion of autonomy. His argument that 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' reveals his belief in the power of free will to redefine reality, even in damnation. Yet this freedom is illusory, as Satan’s rebellion leads only to suffering, illustrating Milton’s view that true liberty lies in obedience to God. Adam and Eve’s later fall mirrors Satan’s: both are tempted by the promise of godlike knowledge and autonomy, but their choices result in exile from paradise. Through these characters, Milton suggests that rebellion is not an act of strength but a surrender to pride, while free will, when misused, becomes a tool of self-destruction rather than liberation.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rejection of divine authority and his preference for self-rule, even in suffering, as the core of his rebellion."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This line illustrates Satan’s belief in the power of free will to reshape perception, masking his rebellion as a form of autonomy."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct quotations from Adam or Eve’s temptation or fall, limiting the discussion to Satan’s perspective on rebellion and free will."
+}

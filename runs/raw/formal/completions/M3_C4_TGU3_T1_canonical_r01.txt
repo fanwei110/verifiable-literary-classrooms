@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's Pride and Prejudice, the opening line brilliantly captures the irony of the marriage market by stating a 'truth universally acknowledged'—that a wealthy single man must be in want of a wife—when in reality, it is the families with unmarried daughters who are eager for such a match. This satirical inversion exposes societal pressures and expectations surrounding marriage in early 19th-century England.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote illustrates the irony of the marriage market by presenting societal assumptions as universal truths, when in fact it reflects the hopes of families like the Bennets rather than the desires of wealthy single men."
+    }
+  ],
+  "limits": ""
+}

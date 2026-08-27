@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores how hesitation, mortality, and performance intersect to shape the protagonist’s tragic journey. Hamlet’s delay in avenging his father’s murder stems from his profound awareness of life’s fragility and the moral weight of action. His famous soliloquy, 'To be, or not to be,' reveals his paralyzing contemplation of death as both an escape and a terrifying unknown, illustrating how mortality fuels his indecision. Performance, too, becomes a tool for Hamlet—he adopts an 'antic disposition' to navigate the corrupt court, yet this theatricality further complicates his ability to act decisively. These themes converge to show how Hamlet’s intellectual depth and existential dread transform hesitation into a defining, and ultimately fatal, trait. His struggle invites us to question whether action or reflection holds greater value in a world where both carry irreversible consequences.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s existential hesitation, as he weighs the pain of life against the uncertainty of death, revealing how mortality paralyzes his resolve."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606-607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s use of performance as a strategy to confirm Claudius’s guilt, showing how theatricality becomes a substitute for direct action."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet*; line numbers may vary slightly in other editions."
+}

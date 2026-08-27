@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Satan, the “lost Arch Angel,” in John Milton’s epic poem *Paradise Lost*. After being cast out of Heaven, Satan consoles himself and his fellow fallen angels by declaring that it is better to rule in Hell than to submit in Heaven, a defiant rejection of God’s authority.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I (the source window does not supply line numbers, but this is traditionally line 263)",
+      "speaker_or_narrator": "Satan (the lost Arch Angel)",
+      "use_in_answer": "This quote is the exact line the student asked about, confirming the speaker and the work."
+    }
+  ],
+  "limits": "The frozen source excerpt does not include explicit book or line numbers; the traditional location (Book I, line 263) is supplied for clarity."
+}

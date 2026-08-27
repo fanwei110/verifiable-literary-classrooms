@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's The Odyssey, wandering is both a physical journey and a narrative device through which identity and experience are revealed. As Odysseus recounts his travels, he emphasizes the necessity of telling his story, showing how wandering and storytelling are deeply connected. One moment that captures this link is when Odysseus says, 'I am that Odysseus, son of Laertes, known to the world for my cunning, and my fame reaches the heavens.' This self-introduction during his narration underscores how storytelling emerges from wandering, allowing him to assert who he is after years of exile and movement.",
+  "evidence": [
+    {
+      "quote": "I am that Odysseus, son of Laertes, known to the world for my cunning, and my fame reaches the heavens.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that storytelling allows Odysseus to reclaim his identity after years of wandering, linking personal narrative to the experience of journeying."
+    }
+  ],
+  "limits": "Exact line numbers may vary slightly by translation; this quote is based on the Richard Lattimore translation (University of Chicago Press, 1967)."
+}

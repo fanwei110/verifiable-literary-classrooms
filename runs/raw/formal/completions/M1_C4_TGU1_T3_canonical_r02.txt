@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is not merely indecision but a profound existential crisis, as seen in his famous soliloquy: 'To be, or not to be, that is the question.' Here, he grapples with the fear of the unknown after death—'the undiscover’d country'—which paralyzes him into inaction. Mortality looms large, not just as a personal dilemma but as a force that exposes the rot in Denmark, from Claudius’s guilty conscience to the Ghost’s torment. Performance, too, is a survival tactic; characters like Polonius and Claudius 'sugar o’er / The devil himself' with false piety, while Hamlet feigns madness to navigate a corrupt court. Yet even Hamlet’s resolve falters when confronted with the Ghost’s command, revealing how hesitation and performance intertwine. These themes underscore the play’s tension between thought and action, life and death, and truth and deception.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and existential contemplation of mortality, framing his inaction as a philosophical struggle."
+    },
+    {
+      "quote": "’Tis too much prov’d, that with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This line highlights the theme of performance, showing how characters mask their true intentions with false virtue, a tactic Hamlet later adopts."
+    }
+  ],
+  "limits": "The excerpts provided do not include Hamlet’s full 'To be, or not to be' soliloquy or the Ghost’s direct command for revenge, which could further emphasize mortality and action. The second quote is attributed to Polonius, not Hamlet, but it reflects the play’s broader concern with deception."
+}

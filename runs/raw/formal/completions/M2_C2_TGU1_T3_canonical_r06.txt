@@ -1,0 +1,22 @@
+{
+  "answer": "Class, Hamlet’s delay is not just procrastination—it’s a profound entanglement of hesitation, mortality, and performance. In the “To be or not to be” soliloquy, Hamlet weighs the agony of existence against the terror of the unknown after death. His paralysis stems from a fear that death is not a sleep but a passage to something worse, making the act of living a prolonged performance of endurance. Yet Hamlet turns to literal performance to break this deadlock. He stages The Murder of Gonzago, declaring the play a trap to expose Claudius’s guilt. The theatrical act becomes a weapon to force the hidden truth of mortality—regicide—into the open. Where private rumination fails, public performance succeeds. The play-within-the-play mirrors Hamlet’s own dilemma: to act or not to act, and what comes after. Through performance, he confronts the king’s mortal sin, transforming his own hesitation into a calculated, albeit indirect, action. Thus, Shakespeare interweaves the fear of death with the compulsion to stage it, suggesting that performance might be our only answer to the unanswerable question of existence.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line captures Hamlet’s existential hesitation and his contemplation of mortality."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.601-602",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Here, Hamlet commits to performance as a means to confront hidden mortality and move beyond paralysis."
+    }
+  ],
+  "limits": "Line numbering follows standard modern editions (e.g., Arden, Riverside); slight variations exist between folio and quarto texts."
+}

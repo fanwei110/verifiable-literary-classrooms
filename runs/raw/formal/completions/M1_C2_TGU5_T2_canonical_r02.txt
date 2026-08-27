@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from John Milton’s epic poem *Paradise Lost*. The character Satan speaks it after he and the other fallen angels have been cast out of Heaven, declaring his defiant preference for ruling in Hell over serving in Heaven.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports identifying the source and the speaker who voices the defiant sentiment."
+    }
+  ],
+  "limits": "The spelling 'then' instead of 'than' appears in some early editions; modern texts usually correct it to 'than'."
+}

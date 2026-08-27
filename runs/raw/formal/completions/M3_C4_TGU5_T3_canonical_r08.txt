@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through the choices of both Satan and Adam and Eve. Satan’s rebellion against God exemplifies a willful misuse of free will, driven by pride and a desire for autonomy. His famous declaration, 'Better to reign in Hell, then serve in Heav’n,' captures his defiant rejection of divine authority, choosing self-rule even in damnation. This moment establishes rebellion not as a fight for justice, but as a tragic assertion of false independence. Temptation, in turn, arises from this same pride, as Satan seeks to corrupt God’s creation. He exploits free will by deceiving Eve, appealing to her desire for knowledge and equality. Milton presents free will as a gift, but one that carries moral responsibility. Adam and Eve’s eventual disobedience mirrors Satan’s pride, though their fall stems more from misplaced love and deception than outright defiance. Thus, Milton illustrates that rebellion—whether in Heaven or Eden—originates in the mind’s capacity to choose wrongly. As Satan admits, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n,' showing that moral ruin begins internally, not externally.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion as a prideful assertion of autonomy, highlighting Satan's preference for self-rule in damnation over obedience in Heaven."
+    },
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates the internal origin of temptation and moral decay, emphasizing that one's mindset determines their spiritual condition regardless of external circumstances."
+    }
+  ],
+  "limits": "The provided excerpts are from Book I only, so analysis is limited to Satan’s perspective and does not include later developments involving Adam, Eve, or God’s responses in subsequent books."
+}

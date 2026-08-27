@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's The Odyssey, the theme of wandering and the telling of stories is introduced from the very beginning, as the narrator calls upon the Muse to recount the journey of the 'ingenious hero' who 'travelled far and wide' after the fall of Troy, emphasizing both physical wandering and the oral tradition of storytelling.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-10",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote introduces the themes of wandering and storytelling, as it calls upon divine inspiration to recount Odysseus's extensive travels and misfortunes, framing the entire epic as a story rooted in journeying and oral tradition."
+    }
+  ],
+  "limits": "The provided excerpt is from a translated and annotated version of The Odyssey, likely in the public domain; exact line numbers may vary slightly by edition."
+}

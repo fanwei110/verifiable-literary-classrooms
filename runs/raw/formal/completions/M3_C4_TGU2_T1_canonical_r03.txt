@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, the protagonist's hallucination of a dagger illustrates how overwhelming ambition can distort reality. Macbeth sees a dagger floating in the air, covered in blood, which symbolizes his inner turmoil and the violent act he is about to commit. This moment captures the psychological toll of unchecked ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth's ambition leads to a hallucination, revealing the psychological conflict and moral hesitation preceding his murder of Duncan."
+    }
+  ],
+  "limits": ""
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are deeply tied to class and marriage. Austen critiques snap judgments shaped by social rank, showing how Elizabeth and Darcy must move beyond initial prejudice and pride to find true compatibility. When Elizabeth visits Pemberley, her changing perception of Darcy mirrors her reassessment of class assumptions—his refined estate initially intimidates, but his genuine character ultimately wins her respect. Similarly, marriage is portrayed not just as personal union but as a social negotiation. Austen uses irony to expose characters like Charlotte Lucas, who pragmatically accepts Mr. Collins despite his foolishness, highlighting limited options for women. Yet Elizabeth resists economic pressure, insisting marriage require mutual esteem. As the narrator observes, 'Pride relates more to our opinion of ourselves, vanity to what we would have others think of us' (Ch. 12). This distinction reveals how class inflates pride, while the pursuit of status fuels vanity. Later, Darcy admits, 'I was in the middle before I knew that I had begun' (Ch. 58), acknowledging how his love for Elizabeth overcame ingrained class bias. His vulnerability signals growth, proving that meaningful marriage demands self-awareness and the courage to revise first impressions.",
+  "evidence": [
+    {
+      "quote": "Pride relates more to our opinion of ourselves, vanity to what we would have others think of us",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 12",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the distinction between internal pride and external vanity, central to character development around class identity."
+    },
+    {
+      "quote": "I was in the middle before I knew that I had begun",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote illustrates Darcy's realization of his unconscious emotional transformation, showing how love overcame class-based pride."
+    }
+  ],
+  "limits": "Quotations are from the Project Gutenberg edition; minor wording may differ in print versions."
+}

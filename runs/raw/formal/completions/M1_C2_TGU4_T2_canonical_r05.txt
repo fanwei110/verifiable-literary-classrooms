@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Charles Dickens's novel *A Tale of Two Cities*. It is the famous closing sentence spoken by the character Sydney Carton as he goes to the guillotine in place of another man, expressing his redemption and sacrifice.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15 (The Footsteps Die Out For Ever)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote confirms the origin of the line and identifies the speaker as Sydney Carton during his final moments."
+    }
+  ],
+  "limits": "The exact phrasing may vary slightly depending on the edition, but the core wording remains consistent."
+}

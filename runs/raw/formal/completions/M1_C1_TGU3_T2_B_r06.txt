@@ -1,0 +1,14 @@
+{
+  "answer": "That line is from Charles Dickens’s novel *Hard Times*. The narrator says it in Book the First, Chapter 5, to underscore the novel’s theme that joy and laughter are essential to a healthy life, even in a utilitarian world.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "Hard Times",
+      "locator": "Book the First, Chapter 5",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This exact sentence identifies the source and speaker while illustrating the novel’s critique of Gradgrind’s joyless philosophy."
+    }
+  ],
+  "limits": "The phrase appears only once in the novel; some editions may vary slightly in chapter numbering."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening of Paradise Lost, Milton immediately announces his subject and the consequences of the Fall: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat” (Book I, lines 1–5). These lines frame the entire epic, identifying the first act of disobedience, the forbidden fruit, and the resulting death and loss of Eden, while also foreshadowing redemption.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly states the poem's theme: the first act of disobedience, the forbidden tree, and the consequences—death, woe, and loss of Eden—while looking ahead to restoration, thus explaining the Fall."
+    }
+  ],
+  "limits": "None"
+}

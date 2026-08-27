@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens with a call to the Muse that yokes the hero’s endless wandering to the very act of telling his story. The bard asks the Muse to sing of the man who was driven far off course after sacking Troy, setting up the epic’s double helix—physical journey and narrative journey. The poem begins not with the wanderings themselves, but with the instruction to recount them, reminding us that story is what gives wandering its shape and meaning.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–2",
+      "speaker_or_narrator": "the narrator, invoking the Muse",
+      "use_in_answer": "This invocation frames the epic as a tale of ceaseless wandering and immediately ties that movement to the performance of story."
+    }
+  ],
+  "limits": "Translation by Robert Fagles (1996). Slightly different wording appears in other translations."
+}

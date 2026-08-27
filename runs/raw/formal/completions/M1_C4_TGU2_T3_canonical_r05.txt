@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Yet, his initial hesitation—'I think not of them'—quickly gives way to obsession, revealing how prophecy fuels ambition rather than merely predicting fate. Once Macbeth acts on his ambition by murdering Duncan, guilt consumes him, manifesting in hallucinations like the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his psychological unraveling, as guilt distorts reality and foreshadows his descent into paranoia. The play suggests that unchecked ambition, spurred by prophecy, leads not to fulfillment but to moral and mental collapse, with guilt as the inescapable consequence of betraying one’s conscience.",
+
+  "evidence": [
+    {
+      "quote": "I think not of them: / Yet, when we can entreat an hour to serve, / We would spend it in some words upon that business, / If you would grant the time.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s initial denial of the witches’ prophecy, which later gives way to his obsessive ambition to fulfill it."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s guilt-induced hallucination, showing how his ambition and subsequent actions lead to psychological torment."
+    }
+  ],
+
+  "limits": "The frozen excerpts do not include Lady Macbeth’s role in manipulating Macbeth’s ambition or later scenes depicting his full descent into tyranny, limiting the scope of guilt’s consequences to early manifestations."
+}
+```

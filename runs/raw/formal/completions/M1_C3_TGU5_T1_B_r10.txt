@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a key passage from *Paradise Lost* that directly addresses the fall and disobedience of humanity. This quotation from Book IX captures the moment Eve succumbs to temptation, illustrating the consequences of defying divine command and the introduction of sin into the world.",
+  "evidence": [
+    {
+      "quote": "She pluck’d, she eat: / Earth felt the wound, and Nature from her seat / Sighing through all her Works gave signs of woe, / That all was lost.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 781–784",
+      "speaker_or_narrator": "Narrator (Milton)",
+      "use_in_answer": "This quote supports the explanation of the fall as an act of disobedience with immediate cosmic consequences, emphasizing the irreversible nature of Eve’s choice and its impact on creation."
+    }
+  ],
+  "limits": "The line numbers may vary slightly depending on the edition of *Paradise Lost*; the provided locator reflects a standard modern reference."
+}

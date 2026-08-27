@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s downfall. Sparked by the witches’ prophecy that 'All hail, Macbeth, that shalt be king hereafter!' (Act I, Scene 3), Macbeth’s unchecked ambition pushes him to murder King Duncan. Despite initial hesitation, he succumbs to his 'vaulting ambition,' believing he can control fate. However, prophecy only entangles him further, as it does Banquo, whose descendants are foretold to inherit the throne. This prophecy fuels Macbeth’s paranoia and leads to further bloodshed. As his moral decay grows, so does his psychological torment. After killing Duncan, Macbeth is tormented by hallucinations: 'Is this a dagger which I see before me, / The handle toward my hand?' (Act II, Scene I). This vision symbolizes his inner guilt and foreshadows the consequences of his actions. The 'dagger of the mind' reveals how his ambition has overwhelmed reason. Ultimately, the witches’ prophecies don’t guarantee power but invite destruction. Macbeth’s rise and fall illustrates how ambition, when divorced from conscience and inflamed by prophecy, leads inevitably to guilt, madness, and ruin.",
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene 3",
+      "speaker_or_narrator": "Second Witch",
+      "use_in_answer": "This quote supports how prophecy ignites Macbeth's ambition and sets his tragic path in motion."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's guilt and psychological unraveling as he contemplates murdering King Duncan."
+    }
+  ],
+  "limits": "The quotations are standard in most modern editions of Macbeth; minor variations in punctuation may exist across versions."
+}

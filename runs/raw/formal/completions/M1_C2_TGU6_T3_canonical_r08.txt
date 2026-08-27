@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are central themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father after years of wandering. His disguise as a beggar upon returning to Ithaca tests his patience and cunning, revealing that true homecoming requires both endurance and wisdom. Identity is fluid yet essential; Odysseus’s name and reputation precede him, but he must prove himself anew, as seen when he strings his bow to win Penelope’s hand. Hospitality, governed by *xenia*, is a sacred duty that exposes the moral decay of Ithaca. The suitors’ abuse of Odysseus’s home violates this code, justifying their violent downfall. These themes intertwine: hospitality preserves social order, identity is affirmed through recognition, and homecoming restores balance. Together, they illustrate the poem’s vision of justice, perseverance, and the enduring power of home.",
+
+  "evidence": [
+    {
+      "quote": "Tell me, why do you weep so sore when you hear the fate of the Argives, hear the fall of Troy? That is the gods’ work, spinning threads of death for mortal men, so that songs may be made of them in days to come.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 8, lines 579-582",
+      "speaker_or_narrator": "Alcinous (to Odysseus)",
+      "use_in_answer": "This quote underscores the cultural importance of storytelling in preserving identity and legacy, linking Odysseus’s suffering to his eventual homecoming as a figure of song and memory."
+    },
+    {
+      "quote": "No finer, greater gift in the world than that... when man and woman possess their home, two minds, two hearts that work as one.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 182-184",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "This passage highlights the ideal of homecoming as a reunion of minds and hearts, emphasizing the emotional and social restoration Odysseus seeks with Penelope."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

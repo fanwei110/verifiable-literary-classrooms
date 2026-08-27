@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey home to Ithaca is not just a physical return but a reclamation of identity and rightful place. When he finally arrives in Ithaca disguised as a beggar, his reunion with his loyal swineherd Eumaeus highlights the importance of hospitality—xenia—even to strangers. Despite Odysseus’s ragged appearance, Eumaeus welcomes him, saying, 'Stranger, you shall not find me wanting in kindness, not when Zeus’s guests are involved' (Homer, The Odyssey, Book 14, line 58–59). This moment underscores how hospitality reflects moral virtue and social order. Later, when Odysseus reveals himself to Eumaeus, he declares, 'I am he, the man of sorrows…returning at last in the twentieth year' (Homer, The Odyssey, Book 21, line 197–199). This declaration unites homecoming with identity: after enduring years of disguise and suffering, Odysseus reclaims not only his homeland but also his true self. The emotional weight of reunion depends on recognition and trust, which hospitality enables. In this way, The Odyssey portrays home not merely as a location, but as a place where identity is restored through loyal relationships and the proper observance of hospitality.",
+  "evidence": [
+    {
+      "quote": "Stranger, you shall not find me wanting in kindness, not when Zeus’s guests are involved",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 58–59",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote supports the idea that hospitality in The Odyssey is a sacred duty tied to divine justice and social virtue."
+    },
+    {
+      "quote": "I am he, the man of sorrows…returning at last in the twentieth year",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 21, line 197–199",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the theme of identity restoration through homecoming, as Odysseus openly reclaims who he is after years of displacement."
+    }
+  ],
+  "limits": "Quotations are based on Robert Fagles’s 1996 translation; line numbers may vary slightly by edition."
+}

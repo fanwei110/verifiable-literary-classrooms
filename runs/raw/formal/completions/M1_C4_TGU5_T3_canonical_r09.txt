@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion as central themes in humanity’s fall. Satan’s defiance stems from his belief in his own autonomy, as he declares, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.' This quote underscores his rejection of divine authority, framing rebellion as an act of self-determination—even if it leads to suffering. His pride blinds him to the consequences of his choices, illustrating how free will, when misused, becomes a tool of destruction. Similarly, the poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—link temptation directly to rebellion, showing how Adam and Eve’s fall mirrors Satan’s own defiance. Both acts stem from a desire to transcend limits, whether divine or moral, revealing the dangerous allure of autonomy when separated from obedience. Milton thus presents rebellion not as mere disobedience but as a tragic misuse of free will, where the pursuit of self-rule leads to irreversible loss.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s belief in the power of free will to redefine reality, justifying his rebellion as an act of self-creation."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the connection between temptation (the forbidden fruit) and rebellion (disobedience), framing the fall as a consequence of defiance."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct dialogue or narration about Adam and Eve’s temptation, limiting the discussion of their specific rebellion to the broader thematic context introduced in Book I."
+}

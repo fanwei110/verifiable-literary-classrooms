@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is not merely indecision but a profound existential crisis, as seen in his famous soliloquy: 'To be, or not to be, that is the question.' Here, he grapples with the fear of the unknown after death—'the undiscover’d country'—which paralyzes him into inaction. This hesitation is tied to his awareness of mortality; the 'thousand natural shocks / That flesh is heir to' make life unbearable, yet the uncertainty of death ('what dreams may come') makes suicide equally terrifying. Performance, too, plays a critical role. Hamlet feigns madness as a strategy, but his 'antic disposition' blurs the line between reality and role-playing, complicating his ability to act decisively. Even Claudius, in an aside, reveals how performance masks guilt: 'The harlot’s cheek, beautied with plastering art, / Is not more ugly to the thing that helps it / Than is my deed to my most painted word.' Both quotes underscore how Hamlet’s internal conflict—between thought and action, life and death—mirrors the broader corruption and deception in Denmark, where appearances obscure truth and delay justice.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and existential dread, as he weighs the suffering of life against the uncertainty of death."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, / Is not more ugly to the thing that helps it / Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Claudius (aside)",
+      "use_in_answer": "This quote highlights the theme of performance and deception, as Claudius compares his own guilt to a painted facade, revealing how appearances mask moral corruption."
+    }
+  ],
+
+  "limits": "The quotes are from the First Folio text; line numbers may vary slightly in other editions."
+}

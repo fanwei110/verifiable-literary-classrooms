@@ -1,0 +1,14 @@
+{
+  "answer": "Macbeth's hallucination of the dagger before Duncan's murder directly links his vaulting ambition to a break with reality. In Act 2, Scene 1, he sees a handle pointing him toward the deed, yet cannot grasp it—a perfect image of ambition creating a mirage.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation illustrates how Macbeth's ambition to seize the crown triggers a hallucination, as he sees a tangible dagger that vanishes when he tries to grasp it, revealing his mind's projection of the murder he intends."
+    }
+  ],
+  "limits": "Line numbers may differ slightly across editions; this citation follows the commonly used Arden Shakespeare sequence."
+}

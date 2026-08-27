@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens opens A Tale of Two Cities with a cascade of direct opposites that embody historical contradiction—the idea that an era can be defined by extremes that coexist. The famous first paragraph of Book the First, Chapter I, 'The Period,' lists these paradoxes to show that the period (and, by implication, any period of upheaval) cannot be reduced to one simple characterization. He writes that 'it was the best of times, it was the worst of times,' pairing wisdom and foolishness, belief and incredulity, light and darkness, hope and despair, and concluding that the age was so full of contradictions that its 'noisiest authorities' could only describe it in superlatives. This passage directly helps explain historical contradiction by refusing to choose one side of a binary, insisting instead on the simultaneous truth of opposites.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I, 'The Period'",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote demonstrates historical contradiction by stringing together a series of antithetical pairs, showing that the period contained both extremes at once and could only be understood in the superlative degree of comparison."
+    }
+  ],
+  "limits": "The provided source excerpt contains only the opening paragraph of Book the First, Chapter I; no other chapters or passages are available to quote. The quotation is taken directly from that excerpt."
+}

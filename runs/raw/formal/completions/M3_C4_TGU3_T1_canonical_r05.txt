@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, the irony of the marriage market is immediately evident in the novel's famous opening line, which humorously inverts reality: wealthy men are assumed to want wives, not because of love, but because society presumes marriage to be a transaction where women are the products to be claimed by financial security. This satirizes the social pressure on families to marry off their daughters to prosperous bachelors, revealing the economic underpinnings of courtship.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote introduces the central irony of the marriage market, where a wealthy man is treated as a commodity to be acquired by families seeking advantageous matches, rather than as an individual with personal desires."
+    }
+  ],
+  "limits": ""
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "Today, let’s explore how *The Odyssey* ties homecoming, identity, and hospitality into a single theme—*nostos*, the Greek concept of a hero’s return. Odysseus’s journey isn’t just about reaching Ithaca; it’s about reclaiming his place as king, husband, and father, which requires proving his identity at every turn. Hospitality, or *xenia*, becomes the test: strangers must be welcomed, but true hosts recognize their guests’ worth. When Odysseus finally returns in disguise, his old nurse Eurycleia identifies him by a scar, showing how identity is both hidden and revealed through intimate knowledge. Later, the suitors’ abuse of hospitality seals their fate—Odysseus’s homecoming is also their reckoning. These moments reveal that home isn’t just a place; it’s a restored relationship, earned through cunning, memory, and the rituals of recognition. Let’s look at two key passages to see this in action.",
+
+  "evidence": [
+    {
+      "quote": "‘But come, nurse, make me a bed, so I can lie down alone, / for this one has a heart of iron in her breast.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 358-359",
+      "speaker_or_narrator": "Odysseus (disguised as a beggar)",
+      "use_in_answer": "This quote underscores the tension between identity and hospitality: Odysseus tests Penelope’s loyalty while hiding his own, showing how homecoming requires both concealment and revelation."
+    },
+    {
+      "quote": "‘The stool he let fly hit the man’s right shoulder / on the packed muscle under the shoulder blade—like solid rock, / for all the effect one saw.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 17, lines 492-494",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This moment highlights the suitors’ violation of *xenia* by attacking Odysseus in disguise, proving that hospitality is a moral test—one that justifies his violent homecoming."
+    }
+  ],
+
+  "limits": "Quotations are from Robert Fagles’ translation (1996); line numbers may vary slightly in other editions."
+}

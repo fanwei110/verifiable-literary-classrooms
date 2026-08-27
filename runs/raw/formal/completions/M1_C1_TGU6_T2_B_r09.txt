@@ -1,0 +1,22 @@
+{
+  "answer": "The line 'my name is Noman' comes from Homer’s *Odyssey*. It’s spoken by Odysseus to the Cyclops Polyphemus as a clever trick to conceal his identity after blinding the giant. The name 'Noman' (or 'Nobody' in some translations) allows Odysseus to escape Polyphemus’s curse by making the other Cyclopes think no one harmed him.",
+  "evidence": [
+    {
+      "quote": "Οὖτις ἐμοί γ᾽ ὄνομα· Οὖτιν δέ με κικλήσκουσι / μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This is the original Greek version of Odysseus’s deception, where he tells Polyphemus his name is 'Noman' (Οὖτις)."
+    },
+    {
+      "quote": "My name is Noman; my mother and father call me Noman, as do all the others who are my companions.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9 (translations vary; e.g., Fagles, line ~366–367)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This English translation directly supports the line in question, showing Odysseus’s cunning use of the name to mislead Polyphemus."
+    }
+  ],
+  "limits": "The exact phrasing may vary slightly depending on the translation (e.g., 'Nobody' instead of 'Noman'). The Greek 'Οὖτις' (Outis) is a pun meaning 'no one,' which is central to the trick."
+}

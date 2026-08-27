@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's famous soliloquy, mortality is imagined as a sleep of death after we have “shuffled off this mortal coil,” and hesitation springs from the dread of what dreams may come in that sleep. He says, “For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.”",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly ties the mystery of mortality to the hesitation that prevents action, showing how the uncertainty of death gives us pause."
+    }
+  ],
+  "limits": "The excerpt contains the complete soliloquy through “To grunt and sweat,” so the quotation is fully supported."
+}

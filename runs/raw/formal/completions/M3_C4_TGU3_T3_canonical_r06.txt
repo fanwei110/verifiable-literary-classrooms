@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when intertwined with class and ideals about marriage. The novel opens with a satirical generalization about wealth and marital desire, establishing how societal expectations shape assumptions. Elizabeth initially misjudges both Darcy and Wickham due to pride and prejudice, later realizing her error: 'How despicably have I acted!...I, who have prided myself on my discernment!' Her self-reckoning reveals the danger of relying on surface impressions. Class plays a key role—Darcy’s initial reserve is read as arrogance, while Wickham’s charm masks deceit. Marriage, too, is framed by economic and social concerns, as seen in the opening line that ironically presents a 'universal truth' about wealthy bachelors. Ultimately, Austen critiques snap judgments, showing that true understanding requires reflection and humility.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the societal pressure around marriage and how wealth influences perceptions of suitability."
+    },
+    {
+      "quote": "How despicably have I acted! I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports Elizabeth’s realization that her first impressions were flawed due to vanity and bias."
+    }
+  ],
+  "limits": "The exact chapter for the second quote is not visible in the source window, but it is widely recognized as Chapter XXXVI in standard editions."
+}

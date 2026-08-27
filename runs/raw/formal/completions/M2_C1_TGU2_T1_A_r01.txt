@@ -1,0 +1,14 @@
+{
+  "answer": "Macbeth’s hallucination of a floating dagger in Act 2 shows how consuming ambition can blur the line between reality and delusion, with the vision both guiding him toward murder and reflecting his fractured mental state.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation directly links Macbeth's vaulting ambition to his hallucination, as he questions whether the dagger is real or a 'false creation' born from his 'heat-oppressed brain' while he steels himself to murder Duncan."
+    }
+  ],
+  "limits": "Quotation follows the First Folio spelling and punctuation as commonly modernized; slight differences may appear across editions (e.g., line numbering can vary between the Arden, Oxford, and Cambridge editions). This excerpt selects the most salient lines for the theme of ambition and hallucination from the longer dagger soliloquy."
+}

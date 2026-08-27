@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition, prophecy, and guilt are deeply intertwined forces that drive Macbeth’s downfall. At first, the witches’ prophecy sparks Macbeth’s hidden ambition to become king, as seen when Banquo notes the sisters' partial truth: 'I dreamt last night of the three Weird Sisters: To you they have show’d some truth.' This reveals how prophecy haunts their thoughts, setting Macbeth on a dangerous path. But once he murders Duncan to fulfill his ambition, guilt consumes him. In a powerful hallucination, Macbeth sees a dagger before the murder: 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee'—a vivid symbol of his inner turmoil. The 'dagger of the mind' reflects his conscience warring with his ambition, showing that his guilt is already active before the deed is done. These psychological tensions—prophecy igniting desire, ambition overriding morality, and guilt punishing the soul—define Macbeth’s tragic arc. Shakespeare uses these themes to warn that unchecked ambition, fueled by external forces and internal weakness, leads inevitably to destruction.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show’d some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote supports how the prophecy of the witches begins to influence Macbeth’s actions and inner conflict."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s psychological guilt and hesitation before committing murder, revealing the moral cost of his ambition."
+    }
+  ],
+  "limits": "The textual excerpts provided are consistent with the First Folio and standard modern editions of *Macbeth*, though lineation may vary slightly across versions."
+}

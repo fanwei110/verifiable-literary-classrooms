@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Macbeth*, ambition, prophecy, and guilt intertwine to drive the protagonist’s downfall. The witches’ prophecy ignites Macbeth’s latent ambition, leading him to consider regicide. As he wrestles with his conscience, guilt begins to distort his perception, revealing the psychological toll of his moral decay. After deciding to kill King Duncan, Macbeth experiences a vision of a dagger dripping with blood—a manifestation of his inner turmoil. This moment captures his descent into guilt-ridden madness, as the prophecy sets in motion a chain of events he can no longer control. Macbeth’s hallucination illustrates how his ambition, once spurred by supernatural prediction, now leads to psychological fragmentation. Even as he commits the murder, he is haunted by visions, showing that guilt undermines his sense of reality. Shakespeare uses these elements to reveal how unchecked ambition, provoked by prophecy, leads inevitably to guilt and self-destruction. As Macbeth says, 'Is this a dagger which I see before me... / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?'—a moment that reveals his unraveling psyche (Act II, Scene I). Later reflection by an old man underscores the moral inversion: 'By the clock, 'tis day, / And yet dark night strangles the travelling lamp'—symbolizing how guilt and evil obscure natural order (Act II, Scene IV).",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth's guilt and ambition lead to hallucinations, revealing his psychological deterioration."
+    },
+    {
+      "quote": "By the clock, 'tis day, And yet dark night strangles the travelling lamp",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene IV",
+      "speaker_or_narrator": "Old Man",
+      "use_in_answer": "This quote illustrates how guilt and evil deeds have disrupted the natural order, symbolizing moral darkness."
+    }
+  ],
+  "limits": "The source excerpt provided does not contain the full context of the second quote; however, it is present in standard editions of *Macbeth* at Act II, Scene IV. The attribution and meaning are consistent with canonical text."
+}

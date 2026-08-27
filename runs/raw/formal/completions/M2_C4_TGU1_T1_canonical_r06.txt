@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's famous soliloquy, the prince weighs the pain of life against the uncertainty of death, capturing both the hesitation that delays action and the mortal stakes that make the decision so weighty.",
+  "evidence": [
+    {
+      "quote": "To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: 'tis a consummation Devoutly to be wish'd. To die, to sleep. To sleep, perchance to dream—ay, there's the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage contemplates mortality by imagining death as a sleep that ends earthly suffering, while the fear of unknown dreams after death introduces the hesitation—'the rub' that 'must give us pause.'"
+    }
+  ],
+  "limits": "Quotation taken directly from the provided excerpt; line numbers are not given in the source window."
+}

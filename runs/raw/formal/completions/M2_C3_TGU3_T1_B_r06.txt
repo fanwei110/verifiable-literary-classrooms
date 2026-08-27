@@ -1,0 +1,14 @@
+{
+  "answer": "The most efficient way to illustrate the novel’s ironic take on the marriage market is to open the book itself. Our narrator begins with a statement that sounds like an economic law—but the irony is that the “truth” belongs not to the wealthy bachelor but to the families who view him as a resource to be claimed. The humor comes from the gap between the man’s unknown feelings and the neighborhood’s absolute certainty about his destiny.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening line establishes the central marriage-market irony: the community turns a desirable man into a guaranteed commodity, projecting a need onto him that he may not feel, simply because he has wealth."
+    }
+  ],
+  "limits": "Text verified against the provided source excerpt; quotation is the opening sentence of the novel."
+}

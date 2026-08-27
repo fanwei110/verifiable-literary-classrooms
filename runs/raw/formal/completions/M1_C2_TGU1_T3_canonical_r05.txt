@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance through the titular prince’s internal conflict. Hamlet’s delay in avenging his father’s murder stems from his existential dread and self-awareness, which render action nearly impossible. His famous soliloquy, 'To be, or not to be,' encapsulates this struggle, as he questions whether enduring life’s suffering is nobler than facing the unknown of death. Here, mortality isn’t just a fear but a philosophical dilemma that stalls his resolve. Similarly, Hamlet’s obsession with performance—both theatrical and personal—reveals his anxiety about authenticity and consequence. When he declares, 'The play’s the thing / Wherein I’ll catch the conscience of the king,' he weaponizes theater to confirm Claudius’s guilt, yet this reliance on artifice underscores his own inability to act directly. Together, these moments illustrate how hesitation becomes a prison, where thought and performance replace decisive action, and mortality looms as both a threat and an escape.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation, framing mortality as a central dilemma that paralyzes his ability to act."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606-607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s reliance on performance as a substitute for direct action, highlighting his hesitation and strategic delay."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet*; line numbers may vary slightly in other editions."
+}

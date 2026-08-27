@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's \"To be or not to be\" soliloquy, he directly links mortality and hesitation by pondering the mystery of what comes after death. The uncertainty of \"what dreams may come\" in the sleep of death is the very thing that \"must give us pause\" and makes us endure life's suffering rather than seek its end.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To dieâto sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: âtis a consummation Devoutly to be wish'd. To die, to sleep. To sleep, perchance to dreamâay, there's the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage explicitly frames mortality (the sleep of death) as the cause of hesitation, with the fear of unknown dreams after death making us pause and choose to bear life's suffering."
+    }
+  ],
+  "limits": "The locator is inferred from the iconic context in the source window; the excerpt does not explicitly state the act and scene numbers."
+}

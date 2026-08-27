@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth's downfall. The witches' prophecy ignites Macbeth's ambition, leading him to murder King Duncan. Yet, as his guilt surfaces, it torments him psychologically. Before committing the murder, Macbeth hallucinates, seeing a dagger covered in blood, symbolizing his inner turmoil: 'I see thee yet, in form as palpable / As this which now I draw' (Act II, Scene I). This vision reveals his conscience warring with his ambition. The prophecy that set events in motion — 'All hail, Macbeth, that shalt be king hereafter!' — spoken by the Weird Sisters (Act I, Scene III), fuels his fatal belief in invincibility. However, this same prophecy leads to paranoia and further bloodshed. Lady Macbeth, initially more resolute, later succumbs to guilt, sleepwalking and attempting to wash imaginary blood from her hands. Ultimately, ambition, inspired by prophecy and corrupted by guilt, leads to psychological disintegration and ruin. Macbeth’s trajectory illustrates how unchecked ambition, when combined with supernatural suggestion and moral guilt, results in tragedy. The play warns that vaulting desire can override conscience, with devastating consequences.",
+  "evidence": [
+    {
+      "quote": "I see thee yet, in form as palpable / As this which now I draw",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the manifestation of Macbeth's guilt as a hallucinated dagger, reflecting his inner conflict before murdering Duncan."
+    },
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene III",
+      "speaker_or_narratator": "Second Witch",
+      "use_in_answer": "This quote supports how prophecy ignites Macbeth's ambition, setting the tragic chain of events into motion."
+    }
+  ],
+  "limits": "The second Witch's line is sometimes attributed to the 'Third Witch' depending on edition; the exact speaker may vary slightly by version, though the prophecy remains consistent."
+}

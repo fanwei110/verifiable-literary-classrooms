@@ -1,0 +1,18 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens uses the French Revolution as a backdrop to explore how extreme social upheaval creates doubles—pairs of oppositions that define the age. The famous opening, “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness…” immediately sets up a world of stark contrasts. This doubling mirrors a revolution that promises liberty but delivers the Terror, and characters who mirror each other, like Charles Darnay and Sydney Carton. Carton’s sacrifice is the novel’s ultimate act of doubling: a wasted life becoming a meaningful death. His final vision, “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known,” reveals that through self-sacrifice, he achieves a personal resurrection that stands against the revolution’s indiscriminate violence. Dickens suggests that while the revolution devours its children through mob justice, an individual’s loving sacrifice can redeem even the darkest times, transforming death into a gift of life for others. Thus, doubling becomes the structural and thematic engine that drives the story from historical chaos to spiritual restoration.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, ...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening establishes the novel's central doubling pattern, framing the era of revolution as one of extreme opposites."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "

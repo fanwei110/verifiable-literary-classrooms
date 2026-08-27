@@ -1,0 +1,14 @@
+{
+  "answer": "Today we’ll look at how Shakespeare dramatizes the dangerous allure of ambition and the psychological unraveling it can trigger. In *Macbeth*, the protagonist’s vaulting ambition leads him not only to murder but also to terrifying hallucinations—visible signs of a guilty conscience. This moment from Act 2, Scene 1, captures both the intoxicating pull of power and the mind’s fragile grip on reality.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressèd brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This soliloquy illustrates how Macbeth’s ambition has already warped his perception, producing a hallucinated dagger that symbolizes both his murderous intent and the psychological toll of his unchecked desires."
+    }
+  ],
+  "limits": "Quotation follows the First Folio text; line numbers may vary slightly in modern editions."
+}

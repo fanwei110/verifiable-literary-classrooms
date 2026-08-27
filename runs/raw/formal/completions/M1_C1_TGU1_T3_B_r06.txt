@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how Hamlet’s hesitation, mortality, and performance intersect—three forces that shape his tragedy. Hamlet’s delay in avenging his father isn’t just indecision; it’s a crisis of existence. He’s acutely aware of life’s fragility, famously declaring, 'The dread of something after death' terrifies him into inaction. This fear of the unknown paralyzes him, making mortality not just a theme but a psychological barrier. Yet Hamlet also performs—he feigns madness, stages a play, and even delivers soliloquies as if auditioning for an audience. His 'antic disposition' becomes a tool to probe truth, but it also reveals how performance blurs with reality. When he asks, 'What’s Hecuba to him, or he to Hecuba?' he’s questioning the gap between actor and role, mirroring his own struggle to reconcile thought with action. These moments show hesitation as both a philosophical burden and a theatrical device, where mortality and performance collide to define Hamlet’s tragic flaw: overthinking in a world that demands decisiveness.",
+  "evidence": [
+    {
+      "quote": "The dread of something after death, / The undiscovered country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s fear of the unknown after death, which fuels his hesitation and inaction."
+    },
+    {
+      "quote": "What’s Hecuba to him, or he to Hecuba, / That he should weep for her?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s meditation on the disconnect between actor and role, reflecting his own struggle to perform his duty."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series); line numbers may vary slightly in other editions."
+}

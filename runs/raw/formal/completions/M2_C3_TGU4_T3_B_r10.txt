@@ -1,0 +1,22 @@
+{
+  "answer": "Alright, let’s go straight to Dickens’s own words to see how he weaves together doubling, revolution, and sacrifice from the very first page. The novel opens with a cascading series of opposites: “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.” This doubled language embodies a world split to its core—a world trembling on the brink of revolution. Notice how “going direct to Heaven” is immediately mirrored by its opposite; this pattern prefigures the novel’s deep logic of sacrifice, where a final, voluntary act can redeem a broken life. Dickens then anchors that universal tension in political satire: “there were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France.” By doubling the monarchs in near-identical sentences, he insists that the forces fueling the coming storm in France are not unique—they are the shadow of an entire era, a doubling that makes the Revolution’s sacrificial demands both inevitable and hauntingly universal.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote demonstrates the novel’s central rhetorical strategy of doubling and contrasts, establishing a world of extreme opposites that sets the stage for revolution and foreshadows the theme of personal sacrifice through the image of final destinations."
+    },
+    {
+      "quote": "there were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote uses satirical doubling to mirror the two monarchies, reinforcing the idea that revolutionary energy is not isolated but a trans-national condition that will eventually demand a sacrificial reckoning."
+    }
+  ],
+  "limits": "The source excerpt cuts off mid-sentence after 'It w'; only the opening paragraphs of Book I, Chapter 1 are available for quotation."
+}

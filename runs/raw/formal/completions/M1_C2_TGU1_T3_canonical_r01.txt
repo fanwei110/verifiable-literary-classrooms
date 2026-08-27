@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance through the titular character’s internal conflict. Hamlet’s delay in avenging his father’s murder stems from his profound existential dread—he questions not only the morality of action but also the very meaning of life and death. His famous soliloquy, 'To be, or not to be,' encapsulates this crisis, as he weighs the suffering of existence against the unknown terrors of death. This hesitation isn’t mere cowardice; it reflects a deeper philosophical struggle with the consequences of action and inaction. Similarly, Hamlet’s obsession with performance—both theatrical and personal—reveals his fear of insincerity and the masks people wear. When he instructs the players, 'Suit the action to the word, the word to the action,' he critiques the gap between appearance and reality, a theme that mirrors his own struggle to align his thoughts with deeds. Through Hamlet, Shakespeare examines how mortality sharpens hesitation and how the fear of failure can render even the most decisive minds inert.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s existential hesitation as he grapples with the fear of death and the burden of action."
+    },
+    {
+      "quote": "Suit the action to the word, the word to the action, with this special observance, that you o'erstep not the modesty of nature.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.2.17-19",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote highlights Hamlet’s concern with authenticity in performance, reflecting his broader anxiety about the disconnect between thought and action."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet*."
+}

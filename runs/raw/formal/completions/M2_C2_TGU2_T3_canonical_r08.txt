@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, Shakespeare explores how ambition, fuelled by prophecy, cascades into all-consuming guilt. When the Weird Sisters hail Macbeth as future king, their prophecy triggers his latent ambition, but it also plants a seed of moral corruption. In an aside, Macbeth whispers, “Stars, hide your fires; / Let not light see my black and deep desires” (1.4.50-51). Here, ambition is not just a desire for power—it is a conscious suppression of his moral vision, a plea to darkness to cloak his “black” thoughts. The prophecy has lit a fire he now wishes to hide, showing how external predictions can feed internal darkness. Yet after he seizes the crown by murdering Duncan, ambition gives way to unbearable guilt. Macbeth stares at his bloody hands and cries, “Will all great Neptune’s ocean wash this blood / Clean from my hand?” (2.2.60-61). The cosmic scale of “Neptune’s ocean” highlights his feeling that no ritual or power can undo his crime. The blood is both literal and symbolic—a stain on his soul. Thus Shakespeare links prophecy to ambition, and ambition to guilt, as Macbeth’s initial stars-hidden desire transforms into an ocean of remorse that cannot be cleansed.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; / Let not light see my black and deep desires.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4, lines 50-51",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This aside reveals Macbeth's vaulting ambition ignited by the witches' prophecy that he will be king, as he wishes to conceal his murderous intentions."
+    },
+    {
+      "quote": "Will all great Neptune's ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2, lines 60-61",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Macbeth's hyperbolic question demonstrates his immediate, overwhelming guilt after murdering Duncan, illustrating how his ambition has cursed him with a conscience he cannot cleanse."
+    }
+  ],
+  "limits": "Quotes follow standard lineation; slash indicates line break. Exact line numbers may vary slightly across editions."
+}

@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined, shaping characters' judgments and relationships. The novel opens with a satirical observation about societal expectations: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line highlights how marriage is often treated as a transaction driven by class and wealth, rather than love or compatibility. Mrs. Bennet’s obsession with marrying off her daughters to wealthy men like Mr. Bingley reflects this pressure, as she sees marriage as a means of securing their social and financial future. However, first impressions can be misleading, as Elizabeth Bennet learns when her initial prejudice against Mr. Darcy blinds her to his true character. Later, she reflects, 'How despicably have I acted! ... I, who have prided myself on my discernment!' This moment of self-awareness underscores how pride and prejudice distort perceptions, particularly in matters of class and marriage. Austen critiques the superficiality of first impressions while showing how self-reflection and humility can lead to deeper understanding and more meaningful relationships.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the societal expectation that marriage is primarily a financial and class-based arrangement, setting the stage for the novel’s exploration of these themes."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Unspecified (later in the novel, likely Chapter 36)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s realization of her own flawed first impressions, particularly her prejudice against Darcy, and how her pride clouded her judgment in matters of class and marriage."
+    }
+  ],
+
+  "limits": "The second quotation’s exact locator is not provided in the frozen source excerpt, but it is a well-known line from Elizabeth’s introspective moment after reading Darcy’s letter. The excerpt does not include direct evidence for all aspects of class dynamics in marriage, but the selected quotes support the broader themes of first impressions and societal expectations."
+}
+```

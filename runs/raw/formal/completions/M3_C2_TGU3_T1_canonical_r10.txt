@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's Pride and Prejudice, the novel opens with a famously ironic statement about marriage: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.' This line satirizes the societal assumption that wealthy men are naturally seeking wives, when in reality, it is the women—and their families—who are actively seeking wealthy husbands. The irony lies in how the statement inverts the actual dynamics of the marriage market, masking economic necessity with the guise of universal truth.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the irony of the marriage market by reversing the true social motivation—women seeking wealthy husbands—into a supposed universal truth about wealthy men seeking wives."
+    }
+  ],
+  "limits": "The quotation is from the first chapter of the 1813 edition of Pride and Prejudice. Some modern editions may vary slightly in punctuation, but the wording remains consistent in standard scholarly sources."
+}

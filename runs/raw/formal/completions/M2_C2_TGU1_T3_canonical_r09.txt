@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance form a tightly wound knot. Hamlet’s most famous soliloquy transforms procrastination into a philosophical meditation on death: “To be, or not to be, that is the question” (3.1.56). Here, the prince rehearses his own ending, weighing the pains of life against the unknown “undiscovered country.” The speech itself is a performance of existential paralysis—he talks himself out of suicide by performing the very anxiety that prevents decisive action. Mortality thus becomes a mental stage upon which Hamlet endlessly hesitates. Performance, however, also offers a way through that hesitation. After the ghost’s accusation, Hamlet seizes upon the players, declaring, “The play’s the thing / Wherein I’ll catch the conscience of the King” (2.2.606–7). By staging a murder mirroring Claudius’s crime, he transforms theatre into a moral trap. The metatheatrical device allows him to confront mortality indirectly, using performance to verify guilt before he can commit to revenge. Together, these moments show how performance mediates between hesitation and the fact of death: the soliloquy performs internal dread, while the inset play turns art into a catalyst for action, momentarily breaking the cycle of delay.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Illustrates how hesitation is entangled with a performed meditation on mortality, as Hamlet rhetorically stages his own existential doubt."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606–7",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Demonstrates how performance becomes a strategy to overcome hesitation and confront moral (and ultimately mortal) truth before acting."
+    }
+  ],
+  "limits": "Lineation for the second quotation follows common modern editions (e.g., Arden, Folger). Slight variations in line numbering may occur."
+}

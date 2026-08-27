@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion as central to the human condition. Though God grants Adam and Eve the gift of free will, their choice to eat the forbidden fruit reveals how temptation exploits human curiosity and desire. Satan, the archetypal rebel, justifies his actions by rejecting divine authority, but Milton shows how this rebellion stems not from strength but pride and envy. Even before entering Eden, Satan embodies defiance, declaring, \"The mind is its own place, and in itself / Can make a Heav’n of Hell, a Hell of Heav’n\"—revealing his belief that inner resolve supersedes external authority. This mindset enables him to tempt Eve by twisting God’s commandment and framing disobedience as enlightenment. Yet Milton emphasizes that obedience and humility lead to true freedom, while rebellion leads only to spiritual downfall. Adam and Eve’s fall is not predestined but results from their own choices, underscoring Milton’s view that free will demands responsibility. As Raphael cautions, \"Nor can I think that God, Creator blessed, / Hath placed thee here [in Eden] thus free to choose / Both good and evil\"—highlighting that moral choice is essential to human dignity. Temptation, then, does not force the fall; it exposes the tragic misuse of free will.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heav’n of Hell, a Hell of Heav’n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's assertion of mental autonomy as a justification for rebellion, illustrating his belief that self-determination outweighs obedience to God."
+    },
+    {
+      "quote": "Nor can I think that God, Creator blessed, / Hath placed thee here thus free to choose / Both good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 8, lines 583–585",
+      "speaker_or_narrator": "Raphael",
+      "use_in_answer": "This quote supports the idea that God granted Adam free will, emphasizing moral choice as a divine gift essential to human nature."
+    }
+  ],
+  "limits": "Quotations are based on the 1674 edition of Paradise Lost; line numbers may vary slightly in different printings."
+}

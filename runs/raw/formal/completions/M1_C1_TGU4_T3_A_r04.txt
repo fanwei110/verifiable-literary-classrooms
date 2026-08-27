@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as a double-edged sword—both a force for justice and a cycle of violence. The sacrifices of characters like Sydney Carton, who gives his life to save Charles Darnay, highlight the redemptive power of selflessness amid societal upheaval. Doubling appears in characters and settings, such as the parallel lives of Carton and Darnay or the contrasting cities of London and Paris, reinforcing the idea that revolution often repeats history’s mistakes. Dickens warns that unchecked vengeance, like the revolutionaries’ bloodlust, risks perpetuating the very oppression it seeks to overthrow. The novel’s famous opening—'It was the best of times, it was the worst of times'—captures this duality, framing revolution as both a moment of hope and a descent into chaos. Carton’s final words, 'It is a far, far better thing that I do, than I have ever done,' underscore how sacrifice can transcend personal failure, offering a glimmer of moral clarity in a world consumed by revolution’s destructive forces.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of doubling and the dual nature of revolution, illustrating the contradictions of the era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, showing how Carton’s selfless act redeems his life and offers hope amid revolution’s brutality."
+    }
+  ],
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'my name is Noman' is spoken by Odysseus in Homer's epic poem *The Odyssey*. He says it while trapped in the cave of the Cyclops Polyphemus, after getting the giant drunk on wine. Odysseus uses the false name 'Noman' (or 'Nobody') as a clever trick to conceal his true identity so that when Polyphemus is later wounded, he will be unable to call for help effectively. This allows Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports that Odysseus intentionally gives the false name 'Noman' to the Cyclops to enable his escape plan."
+    }
+  ],
+  "limits": "The quote is paraphrased in the provided source text; exact line numbers may vary by translation."
+}

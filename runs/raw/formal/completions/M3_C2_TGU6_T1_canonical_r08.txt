@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is not just physical movement but a path through which stories are made and shared. As Odysseus says, his journeys become a means of conveying identity and experience, showing how travel and storytelling are deeply connected.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known before all men for the study of the ways of subtlety and craft, and my fame goes up into the heavens. I live in Ithaca, where there is a high mountain, Neriton, covered with rustling forests; visible afar, it is not lost to view among the islands which lie beyond the sea toward the west, while others face the east and the sun. It is rough, but a good nurse of men; and there is no place more dear to me in the world.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-26",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how wandering is tied to identity and story, as Odysseus introduces himself by recounting his origin and experiences, anchoring his narrative in place and personal history."
+    }
+  ],
+  "limits": "The translation used is based on the Richmond Lattimore version; slight wording may vary in other translations."
+}

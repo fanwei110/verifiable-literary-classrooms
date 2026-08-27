@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *Hamlet* dramatizes hesitation, mortality, and performance—three forces that shape Hamlet’s inaction and the play’s tension. First, hesitation: Hamlet’s famous soliloquy reveals his paralysis when confronting life’s suffering. He asks, 'To be, or not to be, that is the question,' weighing whether enduring 'the slings and arrows of outrageous fortune' is nobler than suicide. Yet the fear of 'what dreams may come' in death—an unknown beyond—'must give us pause,' turning his resolve into hesitation. This moment captures his intellectualizing of action, a theme that delays his revenge. Second, mortality: The Ghost’s revelation about his torment—'Doom’d for a certain term to walk the night, / And for the day confin’d to fast in fires'—frames death as a purgatorial punishment, not an escape. This complicates Hamlet’s earlier musings on suicide, tying mortality to guilt and unfinished business. Finally, performance: Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself'—exposes the play’s obsession with deception. Characters perform piety, madness, or loyalty, but these masks often hide darker truths, like Claudius’s 'painted word.' Hamlet’s own 'antic disposition' blurs the line between performance and reality, making his hesitation feel like another role. Together, these elements show how *Hamlet* uses hesitation to interrogate mortality and the performative nature of human action.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and his fixation on mortality, as he intellectualizes suicide but is paralyzed by the uncertainty of death."
+    },
+    {
+      "quote": "with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This line highlights the theme of performance, showing how characters use pious appearances to mask their true motives, a tactic mirrored in Hamlet’s own 'antic disposition.'"
+    }
+  ],
+  "limits": "The Ghost’s lines about purgatorial torment are paraphrased in the answer due to the 2-quote limit; the exact text appears in Act 1, Scene 5."
+}

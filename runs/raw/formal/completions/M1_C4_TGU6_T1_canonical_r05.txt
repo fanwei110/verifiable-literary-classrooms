@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "In *The Odyssey*, the opening lines beautifully capture the essence of wandering and the power of story. The narrator invokes the Muse to recount the journey of Odysseus, emphasizing how his travels, suffering, and the tales of his adventures define his identity and the epic itself. Here’s a key quotation that illustrates this connection:",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quotation supports the idea that wandering—both physical and existential—is central to Odysseus’s story, as his journey is marked by exploration, suffering, and the unfolding of a grand narrative."
+    }
+  ],
+  "limits": "The provided excerpt is from the opening invocation of *The Odyssey* as presented in the frozen source, which is a translated version. The exact phrasing may vary slightly in other translations."
+}
+```

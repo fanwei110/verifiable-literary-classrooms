@@ -1,0 +1,22 @@
+{
+  "answer": "Shakespeareâs Macbeth explores how prophecy ignitesambition, which in turn births guilt that cannot be washed away. The Weird Sistersâ prediction that Macbeth will be king plants a seed of vaulting ambition. Macbethâs soliloquy in Act 1 captures his immediate reaction: he begs the stars to conceal his sinister yearnings. His words, âStars, hide your fires; Let not light see my black and deep desires,â reveal that the prophecy has already stirred a murderous wish, even before Lady Macbeth pushes him. Ambition, once awakened, propels him to kill Duncan. Yet ambitionâs satisfaction is fleeting; guilt floods in. After the murder, Macbeth stares at his bloody hands and cries out, âWill all great Neptuneâs ocean wash this blood Clean from my hand? No, this my hand will rather The multitudinous seas incarnadine, Making the green one red.â The hyperbolic image of turning the entire ocean red underscores that guilt is inescapable, staining the mind permanently. Thus, prophecy triggers unchecked ambition, and the resulting guilt endures as an internal hell, driving Macbeth toward tyranny and madness. The play demonstrates that illicit ambition, once acted upon, leaves a psychological stain no external force can cleanse.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; Let not light see my black and deep desires.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4, lines 50â51",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how the witches' prophecy immediately awakens Macbeth's hidden ambition to seize the throne."
+    },
+    {
+      "quote": "Will all great Neptune's ocean wash this blood Clean from my hand? No, this my hand will rather The multitudinous seas incarnadine, Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2, lines 60â63",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hyperbolic image reveals Macbeth's overwhelming guilt, which he feels can never be cleansed, staining the entire world."
+    }
+  ],
+  "limits": ""
+}

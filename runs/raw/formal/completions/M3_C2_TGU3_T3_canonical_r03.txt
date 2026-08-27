@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined. The novel critiques how initial judgments based on social standing often cloud true understanding. Elizabeth Bennet and Mr. Darcy’s relationship evolves as they overcome their pride and prejudice, realizing that personal virtue matters more than rank. Elizabeth’s initial dislike of Darcy stems from his aloof demeanor at the Meryton ball, where he claims, 'She is tolerable; but not handsome enough to tempt me' (Ch. 3), revealing his class-conscious arrogance. This first impression misleads Elizabeth, reinforcing her bias against him. Similarly, societal pressure to marry well is seen in Mrs. Bennet’s eagerness to secure wealthy matches for her daughters. Austen illustrates through Charlotte Lucas’s marriage to Mr. Collins that practicality often overrides affection. Charlotte accepts him, saying, 'I am not romantic, you know; I never was. I ask only a comfortable home' (Ch. 22), highlighting how limited options push women to prioritize security over love. Ultimately, Austen challenges rigid class norms and impulsive judgments, suggesting that true compatibility in marriage requires self-awareness and moral growth.",
+  "evidence": [
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports Darcy’s initial pride and class-based dismissal of Elizabeth, shaping her negative first impression of him."
+    },
+    {
+      "quote": "I am not romantic, you know; I never was. I ask only a comfortable home",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote supports how societal pressures and class concerns lead women like Charlotte to marry for economic stability rather than affection."
+    }
+  ],
+  "limits": "Chapter numbers based on standard Penguin Classics edition; wording may vary slightly across editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are central to the fall of both Satan and humanity. Satan, once the most radiant angel, exercises his free will to rebel against God, driven by pride and a desire for autonomy. His declaration, \"Better to reign in Hell, than serve in Heav'n\" (Book 1, line 263), captures the essence of his defiant rebellion—he chooses suffering with sovereignty over obedience in bliss. This assertion underscores Milton’s exploration of free will: beings created good can still choose evil. Similarly, Eve falls not through coercion but through temptation artfully delivered by Satan in the form of a serpent. He tells her, \"Ye shall be as Gods, knowing good and evil\" (Book 9, line 700), echoing his own prideful ambition. This promise appeals to her desire for knowledge and self-elevation, mirroring Satan’s original sin. Milton portrays temptation as a manipulation of desire, and both Satan’s and Eve’s choices stem from the same misuse of free will. Thus, rebellion in *Paradise Lost* is not merely an act of defiance but a tragic consequence of freedom misdirected by ambition and deceit.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's prideful rebellion and his preference for autonomous rule in damnation over obedient service in heaven."
+    },
+    {
+      "quote": "Ye shall be as Gods, knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, line 700",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote supports how temptation exploits the desire for godlike knowledge, leading Eve to disobey God."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of Paradise Lost; line numbers may vary slightly by edition."
+}

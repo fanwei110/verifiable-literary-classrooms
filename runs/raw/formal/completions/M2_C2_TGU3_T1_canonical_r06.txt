@@ -1,0 +1,14 @@
+{
+  "answer": "The novel's famous opening immediately signals the irony of the marriage market by stating what everyone supposedly knowsâthat a wealthy single man must need a wifeâwhen in fact the community projects its own economic interests onto him, turning his financial status into a public pretext for matchmaking and speculation.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote directly illustrates marriage market irony by presenting a self-serving social belief as universal truth, exposing how economic considerations masquerade as romantic necessity."
+    }
+  ],
+  "limits": "Quotation is from the widely accepted first sentence of the novel; any edition may have minor punctuation variants, but the wording is standard."
+}

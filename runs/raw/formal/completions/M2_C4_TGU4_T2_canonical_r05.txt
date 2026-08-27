@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from Charles Dickens’s novel *A Tale of Two Cities*. It is spoken by the character Sydney Carton in the final moments of the story, as he goes to his execution in place of Charles Darnay. The words are Carton’s final thoughts, expressing his peace in making the ultimate sacrifice.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "final lines (Book the Third, Chapter 15)",
+      "speaker_or_narrator": "Sydney Carton (his final silent thoughts, narrated)",
+      "use_in_answer": "This direct quotation confirms the wording and that it is the closing line of the novel, attributed to the point of view of Sydney Carton."
+    }
+  ],
+  "limits": "The supplied excerpt does not include chapter titles; the locator 'Book the Third, Chapter 15' is based on external knowledge of the novel's structure."
+}

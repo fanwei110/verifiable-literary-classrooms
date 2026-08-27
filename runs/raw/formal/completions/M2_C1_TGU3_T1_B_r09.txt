@@ -1,0 +1,14 @@
+{
+  "answer": "The novel immediately signals its ironic view of the marriage market with its celebrated opening sentence: the supposed 'truth' is really a projection of the neighbourhood’s mercenary desires onto any unattached wealthy man, making him a target rather than a seeker.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the ironic inversion at the heart of the marriage market: the statement that a rich man must want a wife actually exposes the local families' determination to secure him for their daughters."
+    }
+  ],
+  "limits": "Quotation from the first edition text, no textual variants noted."
+}

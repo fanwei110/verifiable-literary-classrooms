@@ -1,0 +1,14 @@
+{
+  "answer": "That famous closing line—'It is a far, far better thing that I do'—comes from Charles Dickens’s *A Tale of Two Cities*. It’s spoken by Sydney Carton just before his execution during the French Revolution, as he sacrifices himself to save another man’s life.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 ('The Footsteps Die Out For Ever')",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote confirms the exact wording, speaker, and source of the line the student asked about."
+    }
+  ],
+  "limits": "The phrasing appears only in the final chapter of the novel; earlier drafts or adaptations may vary slightly."
+}

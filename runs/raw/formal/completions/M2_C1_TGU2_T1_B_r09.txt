@@ -1,0 +1,14 @@
+{
+  "answer": "Macbeth’s soliloquy in Act 2, Scene 1, directly ties his overwhelming ambition to the hallucinatory dagger he sees before him. The vision materializes as he resolves to murder Duncan, showing how unchecked ambition can fracture perception and conjure guilt-driven illusions.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote captures the moment Macbeth’s ambition to seize the throne triggers a hallucination of a floating dagger, linking his psychological unraveling directly to his murderous intent."
+    }
+  ],
+  "limits": "Line numbering may differ slightly among editions; this follows the commonly used Folger Shakespeare Library sequence."
+}

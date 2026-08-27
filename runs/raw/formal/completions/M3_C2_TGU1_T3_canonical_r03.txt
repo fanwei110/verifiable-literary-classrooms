@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined themes that shape the protagonist’s tragic arc. Hamlet's contemplation of death and duty leads to paralyzing doubt, most famously captured in his soliloquy: 'To be, or not to be, that is the question' (3.1.56). This hesitation is not mere indecision but a philosophical wrestling with existence itself, triggered by the moral weight of avenging his father’s murder. The fear of what lies beyond death, 'the undiscovered country from whose bourn / No traveller returns' (3.1.79–80), stalls action and underscores human vulnerability. Simultaneously, performance becomes a means of probing truth in a corrupt world. Hamlet stages 'The Murder of Gonzago,' asking the players to perform with subtle precision so that 'the guilty / May be caught' by their reaction. Thus, theatricality serves both as shield and weapon. His feigned madness and use of drama reflect a mind acutely aware of appearances, yet immobilized by introspection. Ultimately, Hamlet’s hesitation—fueled by awareness of mortality and a preoccupation with performance—reveals the psychological complexity of a man caught between action and thought, life and death.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation and deep internal conflict about life, death, and action."
+    },
+    {
+      "quote": "the undiscovered country from whose bourn / No traveller returns",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.79–80",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s fear of the unknown after death, which contributes to his hesitation in taking decisive action."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of *Hamlet*; line numbers may vary slightly in other editions."
+}

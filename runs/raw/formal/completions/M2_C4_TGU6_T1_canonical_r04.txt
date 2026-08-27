@@ -1,0 +1,14 @@
+{
+  "answer": "In our discussion of wandering and story in The Odyssey, consider the poem's very opening. The narrator calls on the Muse to sing about a man who \"travelled far and wide\" and \"suffered much by sea.\" This immediate fusion of storytelling and wandering establishes the epic as a tale of movement and hardship, where the hero's journey and the act of narration are inseparable.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This opening invocation directly links storytelling ('Tell me, O Muse') to the hero's extensive wanderings and hardships, encapsulating the poem's central theme of a wandering tale."
+    }
+  ],
+  "limits": "Quotation is from the Samuel Butler translation (1921)."
+}

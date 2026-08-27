@@ -1,0 +1,22 @@
+{
+  "answer": "John Milton’s *Paradise Lost* confronts temptation, free will, and rebellion as the engine of cosmic tragedy. The epic opens by announcing its subject—not the glory of creation but the catastrophe of choice. The narrator declares he will sing “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe” (Book I, lines 1–4). Here temptation is the test, free will the capacity to stand or fall, and disobedience the act that shatters paradise. The poem extends this pattern from Eden to Heaven itself. Satan, refusing to serve, redefines freedom as rejection: “Better to reign in Hell, then serve in Heav’n” (Book I, line 263). His statement is not liberation but a willed inversion of good, a rebellion that chains him more tightly to pride. Milton shows that temptation does not force a hand; it reveals the heart’s true allegiance. Free will remains intact even in Hell, yet rebellion twists that freedom into a prison of self. The mind, as Satan later insists, can make a heaven of hell or a hell of heaven—but his own choice transforms freedom into eternal defiance. Thus *Paradise Lost* teaches that temptation is not the root of sin: the root is a freely chosen rebellion that prioritizes self over God, echoing from Lucifer’s fall to Adam’s bite.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–4 (Source window 1)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening frames the entire poem around an act of willful disobedience, linking temptation to the universal woe caused by misused free will."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263 (Source window 2)",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Satan’s defiant declaration crystallizes the core of rebellion: a deliberate choice to invert divine order, illustrating how free will can be perverted into prideful self-assertion."
+    }
+  ],
+  "limits": "Source window 1 cuts off before the end of the invocation; the opening lines are fully present. Source window 2 begins mid-line from a previous page, but the quoted line is intact in the provided text."
+}

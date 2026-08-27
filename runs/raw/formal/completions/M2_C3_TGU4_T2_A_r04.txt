@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Sydney Carton at the very end of Charles Dickens’s *A Tale of Two Cities*.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "final chapter / closing paragraphs",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This is the exact quotation the student asked about, showing the wording, speaker, and work."
+    }
+  ],
+  "limits": "The source excerpt ends with the Gutenberg closing marker; the line is Carton’s last spoken or narrated words before that marker."
+}

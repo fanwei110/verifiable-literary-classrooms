@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is deeply tied to storytelling, as Odysseus's travels are not just physical journeys but also narratives shared to convey identity and experience. His adventures become a means of making meaning from displacement and delay.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the sacred heights of Troy.",
+      "author": "Homer",
+      narcissus": "The Odyssey",
+      "locator": "Book 1, lines 1–5",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This opening establishes that Odysseus’s wandering is central to the story and framed as a song or tale passed down, showing how movement and narrative are intertwined."
+    }
+  ],
+  "limits": "The exact line numbering might vary slightly depending on translation (e.g., Lattimore, Fagles, or Fitzgerald), but the quote corresponds to the proem in Book 1 of most standard editions."
+}

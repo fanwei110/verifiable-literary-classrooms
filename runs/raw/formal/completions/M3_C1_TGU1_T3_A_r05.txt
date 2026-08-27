@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined themes that shape the protagonist’s tragic arc. Hamlet's contemplation of death drives his procrastination in avenging his father’s murder, as seen when he soliloquizes, 'To be, or not to be: that is the question' (Act 3, Scene 1). This hesitation stems not from cowardice but from philosophical depth—Hamlet grapples with the moral and existential consequences of action in a corrupt world. His obsession with truth and authenticity also leads him to use performance as a tool for revelation. He stages 'The play’s the thing / Wherein I’ll catch the conscience of the King' (Act 2, Scene 2), using theater to confirm Claudius’s guilt. Performance thus becomes both a shield and a weapon, reflecting Hamlet’s inner turmoil. Yet, despite his clever use of illusion, Hamlet remains paralyzed, underscoring how awareness of mortality—'we defy augury'—ultimately renders human action futile. The play suggests that overthinking, fueled by the inevitability of death, hinders decisive action. In this way, Hamlet embodies the tension between intellectual reflection and the demands of revenge, making his performance a mirror of human fragility.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s philosophical hesitation and deep contemplation of mortality and action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a strategic means to uncover truth and justify action."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of Hamlet; slight variations may exist in other editions."
+}

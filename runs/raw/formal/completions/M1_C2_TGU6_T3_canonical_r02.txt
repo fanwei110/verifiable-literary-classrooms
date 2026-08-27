@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that reveal the moral and social values of ancient Greek culture. Odysseus’s long journey home is not just a physical return but a restoration of his identity as king, husband, and father. His struggles—from the Cyclops’s cave to the halls of the Phaeacians—test his cunning and resilience, but they also highlight the importance of *xenia* (hospitality), a sacred duty that defines civilization. When strangers are welcomed, identities are revealed, and bonds are forged, as seen in Odysseus’s interactions with figures like Nausicaa and Eumaeus. Conversely, violations of hospitality, such as the suitors’ abuse of Odysseus’s home, underscore the chaos that arises when social order breaks down. These themes remind us that homecoming is not merely about arrival but about reclaiming one’s place in a world governed by mutual respect and recognition.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll be the first to question you—who are you, and where do you come from? Who gave you the clothes you’re wearing now?",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 175-177",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates how hospitality begins with the recognition of identity, as Nausicaa’s polite inquiry invites Odysseus to reveal himself while upholding the customs of *xenia*."
+    },
+    {
+      "quote": "Here in my house you’ll find a royal welcome. Eat and drink, and tell me where you’re from and all the pains you’ve weathered.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 4, lines 60-62",
+      "speaker_or_narrator": "Menelaus",
+      "use_in_answer": "This line demonstrates the ideal of hospitality, where Menelaus offers sustenance and care before demanding Odysseus’s story, reinforcing the link between generosity and the restoration of identity."
+    }
+  ],
+
+  "limits": "Quotations are from Robert Fagles’s translation (1996); line numbers may vary slightly in other editions."
+}

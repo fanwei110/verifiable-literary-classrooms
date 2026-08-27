@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her with the promise of godlike knowledge: 'Ye shall be as Gods, / Knowing good and evil.' This deception exploits Eve’s free will, framing her choice as an act of empowerment rather than subjugation. Yet Milton underscores that rebellion is a conscious decision, not an inevitability. When Adam later chooses to eat the fruit despite knowing the divine command, he asserts his autonomy, declaring, 'Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.' Here, Adam’s rebellion stems from love and loyalty to Eve, but it also reveals the tragic cost of prioritizing human bonds over divine obedience. Both moments highlight Milton’s argument that free will is both a gift and a burden—one that demands responsibility and invites moral scrutiny.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s manipulative temptation of Eve, appealing to her desire for knowledge and equality with God."
+    },
+    {
+      "quote": "Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 958-959",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This quote demonstrates Adam’s exercise of free will in choosing rebellion out of love for Eve, despite knowing the consequences."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In this scene, Macbeth’s ambition to seize the throne drives him to murder Duncan, and his guilt-ridden mind conjures a hallucinatory dagger that seems to lead him toward the deed. The vision he can see but not grasp—“Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?”—shows how his ‘heat-oppressed’ (ambition-fevered) brain produces the image that marshals him forward. The hallucination reveals how unchecked ambition can overwhelm reason and conscience, blurring the line between reality and imagination.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain? / I see thee yet, in form as palpable / As this which now I draw. / Thou marshall'st me the way that I was going; / And such an instrument I was to use.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation illustrates the fusion of ambition and hallucination: Macbeth’s ‘heat-oppressed brain,’ inflamed by his desire for power, manufactures a dagger that both mirrors his deadly intent and steers him toward regicide."
+    }
+  ],
+  "limits": "The frozen source excerpt does not include act/scene numbering; the locator is provided from standard scholarly editions."
+}

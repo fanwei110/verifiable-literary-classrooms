@@ -1,0 +1,14 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the poem begins by addressing the theme of mankind's first disobedience, which leads to the fall from Eden. The opening lines explicitly state that eating from the forbidden tree brought death and sorrow into the world, setting the stage for the entire epic.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought Death into the World, and all our woe,\nWith loss of _Eden_, till one greater Man\nRestore us, and regain the blissful Seat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-5",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This quote supports the explanation of the Fall and disobedience by directly describing Adam and Eve's sin as 'Man's First Disobedience' and outlining its consequences: death, suffering, and exile from Eden."
+    }
+  ],
+  "limits": ""
+}

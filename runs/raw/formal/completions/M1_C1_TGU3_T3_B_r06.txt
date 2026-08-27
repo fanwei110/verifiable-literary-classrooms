@@ -1,0 +1,24 @@
+{
+  "answer": "Today, let’s examine how *Pride and Prejudice* uses first impressions to explore class and marriage. Austen immediately signals that appearances deceive: Elizabeth Bennet’s initial judgment of Darcy as proud and unworthy is rooted in his aloof demeanor at the Meryton ball, while her own wit and charm blind others to her family’s lower social standing. These snap judgments shape the novel’s central conflicts, particularly around marriage. For Austen, marriage isn’t just romantic—it’s an economic and social transaction. Charlotte Lucas’s pragmatic acceptance of Mr. Collins, for example, reveals how women of limited means often prioritize security over affection. Meanwhile, Darcy’s evolving view of Elizabeth challenges his class prejudices, showing how personal growth can reshape marital prospects. Austen critiques a society where first impressions and class dictate one’s worth, yet she also suggests that genuine connection can transcend these barriers. Let’s look at two key moments that illustrate this tension.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line satirizes the societal obsession with marriage as a financial arrangement, setting up the novel’s critique of class-driven matrimony."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s defiant claim to Lady Catherine underscores the novel’s tension between personal merit and inherited class, challenging the idea that first impressions or rank should determine one’s value in marriage."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

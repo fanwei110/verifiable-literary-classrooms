@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Sydney Carton in his final moments at the end of Charles Dickens’ novel *A Tale of Two Cities*, reflecting on his self-sacrifice for love.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15, final paragraph",
+      "speaker_or_narrator": "Sydney Carton (internal reflection, narrated in third person)",
+      "use_in_answer": "This quotation directly provides the line and context, confirming it is Sydney Carton's closing thought on his sacrifice."
+    }
+  ],
+  "limits": "No uncertainty; the attribution is well-established."
+}

@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion—central themes that define humanity’s fall. Satan’s defiance is rooted in his assertion of autonomy, as he declares, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' (Book I, lines 254-255). This quote underscores his belief in the power of individual choice, even in damnation, framing rebellion as an act of self-determination rather than mere disobedience. Yet, this autonomy is illusory; Satan’s pride blinds him to the consequences of his actions, illustrating how free will, when misused, becomes a tool of self-destruction. Similarly, Adam and Eve’s fall in Book IX reveals temptation as a test of their fidelity to God. Their decision to eat the forbidden fruit—despite divine warning—demonstrates the fragility of human will when confronted with desire. Milton’s portrayal suggests that true freedom lies not in defiance but in alignment with divine order, a tension that elevates the poem’s moral stakes. These moments invite us to question: Is rebellion an act of courage or folly? And how does temptation expose the limits of human agency?",
+
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s belief in the power of individual choice and self-determination, framing rebellion as an act of autonomy rather than mere defiance."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This opening lines establish the central conflict of the poem—human disobedience and its consequences—setting the stage for exploring temptation and free will."
+    }
+  ],
+
+  "limits": "The quoted lines are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions. The second quote is part of the invocation, not a character’s speech, but it frames the thematic focus of the poem."
+}
+```

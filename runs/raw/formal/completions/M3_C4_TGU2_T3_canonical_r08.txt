@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s downfall. The witches’ prophecy ignites Macbeth’s latent ambition, leading him to consider regicide. As he wrestles with his conscience, guilt manifests psychologically, warping his perception. After deciding to murder King Duncan, Macbeth hallucinates a dagger covered in blood — a 'fatal vision' that symbolizes his inner turmoil and the irreversible path he is about to take. This moment reveals how guilt already torments him before the crime is committed. The prophecy sets events in motion, but it is Macbeth’s unchecked ambition that seals his fate. Later, the consequences of his actions emerge in shattered composure and paranoia. Even Lady Macbeth, once resolute, descends into madness, walking in her sleep and attempting to wash imaginary blood from her hands — though this exact image is not in the provided excerpts. Macbeth’s journey illustrates how ambition, when detached from morality, leads to psychological disintegration, spurred by prophetic suggestion and consumed by guilt.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the manifestation of guilt in Macbeth’s mind as he hallucinates a dagger before murdering Duncan, revealing his inner conflict."
+    },
+    {
+      "quote": "There to meet with Macbeth.",
+      "author": "William Shakespeare",
+      "work": "Mac战士职业
+      "locator": "Act I, Scene I",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quote supports how prophecy initiates Macbeth's trajectory, as the witches plan to confront him, foreshadowing the coming evil."
+    }
+  ],
+  "limits": "The source excerpts do not include Lady Macbeth’s sleepwalking scene, so her guilt cannot be directly cited beyond inference."
+}

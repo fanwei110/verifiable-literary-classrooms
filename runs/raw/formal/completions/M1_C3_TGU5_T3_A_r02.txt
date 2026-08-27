@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s fall and Satan’s defiance. Satan’s rebellion stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n' (Book I). This line underscores his pride and rejection of submission, framing rebellion as a perverse assertion of autonomy. Similarly, Adam and Eve’s fall in Book IX results from their exercise of free will—tempted by Satan’s deception, they choose to disobey God’s command, believing they can 'be as Gods' (Book IX). Milton portrays temptation not as an external force but as a test of moral choice, where free will becomes both the gift and the vulnerability that leads to ruin. Through these moments, Milton suggests that rebellion, whether Satan’s or humanity’s, arises from a misguided pursuit of self-determination, ultimately revealing the consequences of defying divine order.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263-264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s prideful rebellion and his rejection of divine authority, framing his defiance as a twisted assertion of autonomy."
+    },
+    {
+      "quote": "ye shall be as Gods, knowing good and evil.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, line 708 (Satan’s temptation of Eve)",
+      "speaker_or_narrator": "Satan (as the serpent)",
+      "use_in_answer": "This quote highlights the temptation that exploits Eve’s desire for knowledge and equality, demonstrating how free will is tested and misused in the fall."
+    }
+  ],
+
+  "limits": "The second quotation is paraphrased in some editions as 'ye shall be as Gods'; the exact phrasing may vary slightly depending on the version of *Paradise Lost* used. The lesson assumes familiarity with Book IX’s context of the Fall."
+}

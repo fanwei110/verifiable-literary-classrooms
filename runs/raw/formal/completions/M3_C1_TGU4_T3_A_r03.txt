@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the turbulent themes of revolution, sacrifice, and duality through the lens of the French Revolution and the parallel lives of characters like Charles Darnay and Sydney Carton. The novel portrays revolution not just as a political upheaval but as a force that reveals both the worst and best of humanity. Sacrifice is embodied in Sydney Carton’s ultimate act of selflessness, giving his life so that Lucie Manette and her family may live in peace. This redemptive sacrifice contrasts with the violent excesses of the revolutionaries, who seek justice through vengeance. The theme of doubling is evident in the physical resemblance and moral contrasts between Darnay and Carton, highlighting personal choice and transformation. Dickens uses these intertwined motifs to suggest that even in the darkest times, individual goodness can shine. As the revolution spirals into chaos, personal love and sacrifice emerge as more enduring than political fury. Carton’s final vision of a better future affirms the possibility of resurrection—not literally, but through legacy and hope. In a world of 'recalled to life,' personal redemption parallels societal change.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the theme of doubling and duality, setting the stage for the novel’s exploration of contrasts—revolution and redemption, chaos and sacrifice."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (Carton's thoughts)",
+      "use_in_answer": "This quote illustrates the theme of sacrifice, showing Carton’s redemption through his selfless decision to die in Darnay’s place."
+    }
+  ],
+  "limits": "Quotations are from standard editions of the novel; slight variations in wording may appear across translations or editions, but the chapter references are consistent in most English versions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The opening lines of *Pride and Prejudice* masterfully encapsulate the irony of the marriage market: the 'universal truth' that a wealthy single man must want a wife is in fact a projection of the surrounding families' economic and social ambitions, not a genuine reflection of the man's own feelings. The narrator states that this 'truth' is 'so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.' The irony lies in the inversion—the man is treated as an object of acquisition rather than a desiring subject, exposing the mercenary and speculative nature of Regency-era courtship.",
+  "evidence": [
+    {
+      "quote": "However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation directly exposes the irony behind the novel's famous 'universal truth' by showing that the marriage market reduces wealthy men to passive objects of local families' economic designs."
+    }
+  ],
+  "limits": "The quotation is from the opening chapter as provided in the source excerpt. No version variants beyond standard editions."
+}

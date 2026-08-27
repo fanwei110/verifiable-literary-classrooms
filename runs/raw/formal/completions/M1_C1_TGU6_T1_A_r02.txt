@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the deep connection between wandering and story when Odysseus himself declares, 'Tell me, why do you weep when you hear the fate of the Danaans and of Troy? The gods wove this sorrow into their lives so that there would be song for men to come.' This moment reminds us that the trials of wandering—whether physical or emotional—become the raw material of narrative, turning suffering into something enduring and meaningful. The quote also suggests that stories themselves are a kind of wandering, a journey through memory and imagination that keeps the past alive.",
+  "evidence": [
+    {
+      "quote": "Tell me, why do you weep when you hear the fate of the Danaans and of Troy? The gods wove this sorrow into their lives so that there would be song for men to come.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 8, lines 579–580",
+      "speaker_or_narrator": "Odysseus (to the Phaeacian bard Demodocus)",
+      "use_in_answer": "This quote supports the idea that wandering and hardship are transformed into story, ensuring that human experiences endure through narrative."
+    }
+  ],
+  "limits": "The translation used here is based on the Robert Fagles version (1996); slight variations may exist in other translations. The locator refers to the Greek text's traditional book-line numbering."
+}

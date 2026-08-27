@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the tumultuous themes of revolution, sacrifice, and doubling against the backdrop of the French Revolution. The revolution is portrayed as both a violent uprising and a call for justice, where the oppressed rise against long-standing aristocratic abuse. The cyclical nature of violence is evident as the revolution turns bloody, mirroring the tyranny it sought to destroy. Sacrifice becomes a central virtue, epitomized by Sydney Carton, whose ultimate act of selflessness redeems his perceived failures. Carton’s death—taking the place of Charles Darnay—reflects the novel’s theme of resurrection through sacrifice. Doubling is used throughout, with Carton and Darnay as doppelgängers, highlighting contrasting lives shaped by choice and circumstance. This parallelism deepens the moral complexity of identity and redemption. As the novel suggests, 'It was the best of times, it was the worst of times,' illustrating the duality inherent in both revolution and human nature. Carton’s final vision of a better future, secured through personal sacrifice, underscores hope amid chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling and the contradictory nature of the revolutionary era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice, showing Carton’s redemptive and selfless act at the novel’s climax."
+    }
+  ],
+  "limits": "The quoted excerpts are from standard editions of the text; minor variations in wording may exist across publications."
+}

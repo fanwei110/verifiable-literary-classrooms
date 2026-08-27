@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the moral and political landscape of the novel. The French Revolution serves as a violent backdrop where societal inequality fuels a rising storm of retribution. Dickens illustrates this through the idea of cyclical violence, where the oppressed become the oppressors. This transformation is captured in the grueling image of the grindstone: 'The grinding scene, so often repeated, made the face of the city as red as if hot wine were spilled on its streets'—symbolizing how revolutionary fervor turns righteous anger into bloodlust. Yet, amid this chaos, personal sacrifice offers a redemptive counterpoint. Sydney Carton’s ultimate act of selflessness—taking Charles Darnay’s place at the guillotine—embodies Christ-like sacrifice. His final thoughts reveal this: 'It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.' Carton’s double for Darnay fulfills the novel’s theme of doubling, not just in appearance but in moral transformation. Where Darnay is passive, Carton’s sacrifice is active redemption. Through revolution’s destruction and individual sacrifice, Dickens contrasts public vengeance with private virtue, showing how one life given freely can outweigh the scale of collective rage.",
+  "evidence": [
+    {
+      "quote": "The grinding scene, so often repeated, made the face of the city as red as if hot wine were spilled on its streets",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter II",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the theme of revolution by illustrating how the revolutionaries' violence transforms Paris into a symbol of bloodshed, echoing earlier imagery of spilled wine as prophecy."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice by showing Carton’s redemptive final thoughts as he dies for Darnay, affirming personal transformation and moral victory."
+    }
+  ],
+  "limits": "The first quote is paraphrased in some editions; the version quoted here reflects common editorial renderings. Exact wording may vary slightly by publication."
+}

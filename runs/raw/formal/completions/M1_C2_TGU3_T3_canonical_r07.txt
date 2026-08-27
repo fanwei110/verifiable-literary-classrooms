@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, first impressions often shape perceptions of class and marriage, revealing the rigid social hierarchies of Regency England. The novel opens with the famous line, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife,' immediately highlighting how marriage is treated as a transactional arrangement driven by wealth and status rather than love. Elizabeth Bennet’s initial prejudice against Mr. Darcy stems from his pride and her misjudgment of his character, illustrating how first impressions can obscure true worth. Meanwhile, class distinctions dictate marital prospects—Charlotte Lucas’s pragmatic acceptance of Mr. Collins’s proposal underscores the limited options for women of modest means. Austen critiques these societal norms by contrasting superficial judgments with deeper moral and emotional truths, ultimately suggesting that genuine connection transcends class and first impressions. As the novel progresses, characters like Elizabeth and Darcy must overcome their biases to recognize each other’s true value, challenging the very foundations of their society’s expectations.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is often treated as a transactional arrangement driven by wealth and social status rather than personal affection."
+    },
+    {
+      "quote": "He was the proudest, most disagreeable man in the world, and everybody hoped that he would never come there again.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Narrator (reflecting local opinion)",
+      "use_in_answer": "This quote demonstrates how first impressions, particularly of class and demeanor, can lead to lasting prejudice, as seen in the community’s immediate dislike of Mr. Darcy."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}
+```

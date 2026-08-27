@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Austen critiques first impressions, class, and marriage through sharp social observation and irony. The novel opens with a satirical jab at societal assumptions: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line exposes how marriage is often treated as a transactional opportunity, particularly for families like the Bennets, who lack wealth and status. Mrs. Bennet’s obsession with marrying off her daughters reflects the economic pressures on women of their class, where security—not love—drives matrimonial pursuits. Yet Austen complicates this dynamic through Elizabeth’s journey. Her initial prejudice against Darcy stems from his pride and her misjudgment of Wickham, revealing how first impressions can distort reality. Later, Elizabeth’s self-reckoning—'How despicably have I acted! ... I, who have prided myself on my discernment!'—underscores the novel’s theme: true understanding requires humility and the dismantling of class-based biases. Austen suggests that marriage, when rooted in mutual respect rather than social climbing, can challenge rigid hierarchies, as seen in Elizabeth and Darcy’s union, which merges personal growth with upward mobility.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is framed as a social and economic transaction, particularly for families like the Bennets who prioritize financial security over love."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization of her own prejudices and the flaws in her first impressions, highlighting the novel’s critique of snap judgments and class-based biases."
+    }
+  ],
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The provided source windows did not include the full text of Chapter XXXVI, so the chapter number is based on standard editions."
+}
+```

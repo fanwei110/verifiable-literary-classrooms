@@ -1,0 +1,16 @@
+{
+  "answer": "Welcome, students. Today we explore how ambition, prophecy, and guilt intertwine in Shakespeare's Macbeth. The witches’ cryptic prophecies ignite Macbeth’s latent ambition, but it is his own “vaulting ambition” that drives him to murder Duncan. In a crucial soliloquy, Macbeth confesses he has no real reason to kill the king, only his overwhelming desire to rise: “I have no spur to prick the sides of my intent, but only vaulting ambition, which o'erleaps itself and falls on th'other.” This image of a rider overleaping the saddle captures how unchecked ambition inevitably collapses into disaster. That disaster breeds profound guilt. Lady Macbeth, who initially scorned remorse, later sleepwalks, obsessively trying to wash imaginary blood from her hands, crying, “Out, damned spot! out, I say!” Her fragmented speech reveals a psyche shattered by guilt, proving that the prophecies’ promises cannot silence the conscience. Thus, Shakespeare shows that while prophecy may spark ambition, the ensuing guilt exacts a devastating psychological toll, destroying both Macbeth and his wife.",
+  "evidence": [
+    {
+      "quote": "I have no spur to prick the sides of my intent, but only vaulting ambition, which o'erleaps itself and falls on th'other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-28",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's self-awareness that his drive to kill Duncan stems solely from unchecked ambition, not from rational motive, highlighting ambition as his tragic flaw."
+    },
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 

@@ -1,0 +1,14 @@
+{
+  "answer": "In *A Tale of Two Cities*, Dickens captures the paradoxical nature of the French Revolution—how an uprising for liberty could descend into violent oppression. This quotation helps us see how historical contradictions emerge when ideals clash with reality.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the stark contradictions of the era, showing how the same historical moment could embody both progress and regression."
+    }
+  ],
+  "limits": "The locator refers to the opening chapter; some editions may vary in chapter numbering."
+}

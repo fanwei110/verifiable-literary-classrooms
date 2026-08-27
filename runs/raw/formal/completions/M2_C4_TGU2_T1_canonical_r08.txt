@@ -1,0 +1,14 @@
+{
+  "answer": "In *Macbeth*, ambition and hallucination intertwine when Macbeth envisions a dagger guiding him toward Duncan's murder. He recognizes that the vision stems directly from his murderous plans, stating, “It is the bloody business which informs / Thus to mine eyes.” The hallucination is thus a product of his guilty, ambitious imagination.",
+  "evidence": [
+    {
+      "quote": "It is the bloody business which informs / Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote reveals that Macbeth's hallucination of the dagger is directly caused by his ambitious plan to commit murder, linking ambition and hallucination."
+    }
+  ],
+  "limits": "The frozen excerpt does not provide exact line numbers, so the locator is given as act and scene only."
+}

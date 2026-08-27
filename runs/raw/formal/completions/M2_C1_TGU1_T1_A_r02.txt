@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet’s famous soliloquy, he links mortality and hesitation by arguing that the dread of an unknown afterlife “puzzles the will” and causes the mind to overthink, until “enterprises of great pith and moment … lose the name of action.”",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience does make cowards of us all; / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought, / And enterprises of great pith and moment / With this regard their currents turn awry, / And lose the name of action.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 78–88",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage directly explains how the fear of death (mortality) causes hesitation, making us ‘cowards’ and draining action of its force."
+    }
+  ],
+  "limits": "Line numbers and punctuation vary by edition; the quoted text follows a commonly accepted modernised version."
+}

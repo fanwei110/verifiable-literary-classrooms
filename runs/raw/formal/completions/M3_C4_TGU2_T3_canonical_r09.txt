@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Macbeth*, ambition, prophecy, and guilt are central themes that drive the tragic arc of the play. Macbeth’s ambition is ignited by the prophecy of the three Weird Sisters, who predict his rise to power. Though he initially hesitates, the vision of the crown consumes him, leading him to consider murder. This internal conflict manifests in hallucinations that reveal his mounting guilt. Before killing King Duncan, Macbeth sees a spectral dagger dripping with blood, asking, 'Is this a dagger which I see before me, / The handle toward my hand?' This vision, a 'false creation / Proceeding from the heat-oppressed brain,' symbolizes how his ambition warps reality. The second quote, when Banquo mentions, 'I dreamt last night of the three Weird Sisters: / To you they have show’d some truth,' underscores the role of prophecy in validating Macbeth’s path, while also foreshadowing the consequences. The witches’ influence spurs the actions, yet Macbeth’s choices make the prophecy self-fulfilling. Ultimately, his guilt unravels him, as the blood on the imaginary dagger becomes inescapable in his mind. Together, ambition fueled by prophecy and corroded by guilt define Macbeth’s downfall.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s guilt and inner turmoil as he hallucinates a dagger before murdering Duncan, showing how ambition distorts reality."
+    },
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show’d some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote highlights the influence of prophecy on Macbeth, as Banquo acknowledges the witches’ predictions coming true, reinforcing how prophecy drives the plot."
+    }
+  ],
+  "limits": ""
+}

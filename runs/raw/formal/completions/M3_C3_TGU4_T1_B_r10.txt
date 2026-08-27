@@ -1,0 +1,14 @@
+{
+  "answer": "A key passage that illustrates the historical contradiction of the French Revolution—where ideals of liberty and equality coexist with violence and oppression—is the famous opening of *A Tale of Two Cities*. Dickens captures the paradox of the era by juxtaposing hope and despair, wisdom and foolishness, light and darkness, showing how such opposing forces defined the time. This contradiction reflects the dual nature of revolutionary progress, which promises freedom yet often brings chaos and suffering.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by presenting the coexistence of extremes during the period leading up to the French Revolution, highlighting how progress and peril unfolded simultaneously."
+    }
+  ],
+  "limits": "The source excerpt provided begins mid-sentence ('It w'), but the full quote is verifiable in standard editions of *A Tale of Two Cities*. The version used here aligns with the widely accepted text of the novel."
+}

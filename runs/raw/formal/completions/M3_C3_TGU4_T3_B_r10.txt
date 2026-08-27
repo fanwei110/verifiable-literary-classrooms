@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the characters and the stormy backdrop of the French Revolution. The novel opens with a powerful example of doubling: 'It was the best of times, it was the worst of times...' This contrast reflects the dual nature of the era—both full of promise and rife with suffering—and mirrors the parallel lives of Charles Darnay and Sydney Carton, who look alike but lead vastly different lives. As the revolution erupts, chaos consumes both the oppressed and the oppressors, demonstrating how violence begets violence. Yet in this darkness, sacrifice emerges as a redemptive force. Sydney Carton’s ultimate act—giving his life for Darnay’s—transforms his personal failure into heroism. He declares, 'It is a far, far better thing that I do, than I have ever done...' This moment shows how individual sacrifice can rise above political turmoil and personal regret. Carton’s death not only saves a family but also echoes the novel’s Christian theme of resurrection through selflessness. Thus, through doubling, Dickens contrasts lives and choices; through revolution, he reveals the cost of injustice; and through sacrifice, he offers hope. The interplay of these themes underscores the novel’s enduring power.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by establishing the novel’s central contrasts—between eras, societies, and individuals—framing the duality that defines the story."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Narrator (Carton's final thoughts)",
+      "use_in_answer": "This quote supports the theme of sacrifice by capturing Sydney Carton’s redemptive act, showing how his death brings meaning to his life and hope to others."
+    }
+  ],
+  "limits": "The provided source excerpts are truncated, but the quoted passages are standard in most editions of the novel and align with the canonical text."
+}

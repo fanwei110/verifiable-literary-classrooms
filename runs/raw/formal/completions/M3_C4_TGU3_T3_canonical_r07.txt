@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when intertwined with class and marriage. The novel opens with a satirical commentary on societal assumptions: \"It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.\" This ironically highlights how marriage is treated as a transaction shaped by class and economics, not emotion. Initial judgments based on status or manners often lead to errors in understanding character. Elizabeth Bennet, reflecting on her misjudgments, admits, \"How despicably have I acted!... I, who have prided myself on my discernment!\" Her realization shows that first impressions—like her prejudice against Darcy and favor for Wickham—are clouded by vanity and social bias. Darcy, though initially perceived as proud due to his reserved demeanor and high class, later reveals integrity and deep feeling. Ultimately, Austen critiques a society where marriage prospects are filtered through class-based assumptions, urging deeper moral evaluation over snap judgments.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is framed by societal expectations tied to class and wealth."
+    },
+    {
+      "quote": "How despicably have I acted!... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s realization that her first impressions were flawed due to pride and prejudice, especially in relation to class and character judgment."
+    }
+  ],
+  "limits": "The source windows are fragmented, but both quotations are fully present and correctly locatable within the provided text."
+}

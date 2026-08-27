@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens opens A Tale of Two Cities with a paragraph built from direct contradictions, showing how the same historical moment can be seen as both light and dark, wise and foolish, hopeful and despairing. The famous first lines lay out the fundamental historical contradiction of an era that was simultaneously an age of enlightenment and of brutal injustice, a spring of revolutionary hope and a winter of reactionary despair.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other wayâ",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period), opening paragraph",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This litany of opposites demonstrates how the period leading to the French Revolution was defined by extreme historical contradiction, each positive quality mirrored by its negative twin."
+    }
+  ],
+  "limits": "Exact wording from the first paragraph; Dickensâs punctuation and capitalisation retained."
+}

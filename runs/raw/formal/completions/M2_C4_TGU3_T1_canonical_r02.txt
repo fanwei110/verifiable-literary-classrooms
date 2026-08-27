@@ -1,0 +1,14 @@
+{
+  "answer": "The opening lines of *Pride and Prejudice* encapsulate the marriage market irony: the community treats a wealthy single man as communal property to be secured by a daughter, regardless of his own wishes. This satirizes the transactional nature of courtship in the novel.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote reveals the ironic mismatch between society's assumptions about wealthy bachelors and the actual desires of the man, highlighting the commodification of marriage."
+    }
+  ],
+  "limits": "The excerpt is limited to the novel's first chapter; no other passages are provided."
+}

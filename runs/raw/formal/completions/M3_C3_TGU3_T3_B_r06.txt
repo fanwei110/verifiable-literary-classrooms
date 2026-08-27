@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions deeply influence judgments about class and marriage, often leading to误解 that must be corrected. The novel opens with a satirical commentary on societal assumptions: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife' (Chapter I, Narrator). This establishes how marriage is treated as a transaction where wealth and status are paramount. Characters immediately assess newcomers like Mr. Bingley based on class, revealing the social pressure to secure advantageous matches. Elizabeth initially dismisses Darcy not for moral faults but because his pride offends her at the Meryton ball—a flawed judgment rooted in wounded vanity. Later, she reflects, 'How despicably have I acted! ... I, who have prided myself on my discernment!' (Chapter XXXVI, Elizabeth Bennet). This moment marks her realization that her first impression was clouded by prejudice and class-based assumptions. Austen uses these errors to critique how rigid class hierarchies distort personal judgment, especially in marriage. Ultimately, true compatibility emerges not from status or instant attraction but from self-awareness and moral growth. The novel challenges its readers to look beyond surface impressions and recognize the complexity of character.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the societal pressure surrounding marriage and class, introducing the theme that financial status shapes romantic expectations."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s self-critique after recognizing her prejudiced first impression, showing personal growth tied to class and judgment."
+    }
+  ],
+  "limits": "The provided source windows are fragmented; Chapter XXXVI is not fully visible but the quote is standard in canonical editions. Locator for the second quote is inferred from context."
+}

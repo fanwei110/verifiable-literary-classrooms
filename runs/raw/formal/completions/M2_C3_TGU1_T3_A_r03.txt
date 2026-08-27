@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance braid together to drive the tragedy. Hamletâs famed questionââTo be, or not to be, that is the question: Whether âtis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?ââframes hesitation not as cowardice but as a philosophical weighing of mortal stakes. The pause isnât merely indecision; itâs the mind recoiling from the unknown of death, the âdreamsâ that might come. Yet the play also shows how performance masks ugly truths. Polonius, setting a trap for Hamlet, admits that âwith devotionâs visage And pious action we do sugar oâer The devil himself.â Here, he confesses that appearances can hide rottennessâa lesson the guilty King Claudius immediately internalizes. Thus performance becomes a tool of concealment, while Hamletâs hesitation springs from an acute awareness that actions and their mortal consequences can never be fully performed or predicted. The rotten state of Denmark festers because everyone acts a part, and the one character who stops to consider the real weight of existence is paralyzed by that very awareness.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether âtis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Illustrates how hesitation is rooted in mortal uncertaintyâthe choice between passive endurance and active, potentially fatal resistance."
+    },
+    {
+      "quote": "with devotionâs visage And pious action we do sugar oâer The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "Demonstrates the playâs theme of performance as a deceptive veneer, where outward piety conceals inward corruption."
+    }
+  ],
+  "limits": "Quotations are from the provided excerpt windows; line numbering may vary by edition. The first excerpt is from Hamletâs 'To be' soliloquy (3.1.56-88 in most editions), the second from Poloniusâs advice to Ophelia in the same scene."
+}

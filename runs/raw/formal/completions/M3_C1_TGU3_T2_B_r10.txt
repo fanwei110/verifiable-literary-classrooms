@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'I dearly love a laugh' is spoken by the character Sir Toby Belch in William Shakespeare's play *Twelfth Night*. It reflects his jovial and mischievous personality, as he enjoys humor and revelry throughout the play.",
+  "evidence": [
+    {
+      "quote": "I do not now please you with my humble duty, nor with the duty I owe you. I am a fool, and I lie, and I am not a fool, but I am a dry fool; and I am sad to think at the moping of it. But I dearly love a laugh.",
+      "author": "William Shakespeare",
+      "work": "Twelfth Night",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Sir Toby Belch",
+      "use_in_answer": "This quote supports that Sir Toby Belch says 'I dearly love a laugh,' illustrating his fondness for humor and merriment."
+    }
+  ],
+  "limits": "The exact wording 'I dearly love a laugh' may vary slightly depending on the edition or translation, though it is consistent in most standard versions of the play."
+}

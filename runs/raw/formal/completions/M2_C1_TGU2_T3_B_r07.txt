@@ -1,0 +1,22 @@
+{
+  "answer": "Let's look at how ambition, prophecy, and guilt intertwine in Macbeth. When the witches first meet Macbeth, the Third Witch declares, âAll hail, Macbeth, that shalt be king hereafter!â This prophecy does not merely predictâit plants a seed of ambition. Macbeth wasnât actively plotting to be king before this moment, but the words hook into his imagination, driving him to contemplate murder to speed up fate. Shakespeare shows that ambition, once sparked by external suggestion, can consume reason. But ambitionâs payoff is guilt. After killing Duncan, Macbethâs horror crystallizes in his frantic question, âWill all great Neptuneâs ocean wash this blood / Clean from my hand?â The imagery of an entire ocean being insufficient to wash away a spot of blood reveals that guilt is not physicalâitâs psychological and permanent. The prophecy gave him a shortcut to power, yet the guilt stains his conscience, proving that the crown won at the cost of morality can never bring peace. So these three elements form a tragic chain: prophecy awakens ambition, ambition drives murder, and murder births inescapable guilt, showing that supernatural prediction cannot override human consequences.",
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "1.3.50",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quotation illustrates how the prophecy ignites Macbethâs latent ambition by presenting a concrete, tantalizing future."
+    },
+    {
+      "quote": "Will all great Neptuneâs ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.2.61-62",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation demonstrates the profound guilt Macbeth feels immediately after the murder, emphasizing that the stain of his deed is permanent."
+    }
+  ],
+  "limits": "Quotations follow standard Folger Shakespeare Library lineation; some editions may vary slightly in line numbering."
+}

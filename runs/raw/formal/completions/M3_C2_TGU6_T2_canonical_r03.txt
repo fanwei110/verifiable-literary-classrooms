@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is spoken by Odysseus in Homer's epic poem *The Odyssey*. He says this during his encounter with the Cyclops Polyphemus, as a clever trick to hide his true identity. When Polyphemus later cries for help and says that \"Nobody\" is hurting him, his fellow Cyclopes assume there is no danger, allowing Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "my name is Noman",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports that Odysseus uses the pseudonym 'Noman' to deceive Polyphemus the Cyclops, enabling his escape."
+    }
+  ],
+  "limits": "The exact wording may vary by translation; 'Noman' is also rendered as 'Nobody' in some versions."
+}

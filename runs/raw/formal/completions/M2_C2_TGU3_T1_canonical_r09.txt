@@ -1,0 +1,14 @@
+{
+  "answer": "The novel’s opening sentence famously asserts that a wealthy single man 'must be in want of a wife.' The irony, of course, is that it is not the wealthy men who are actively seeking wives, but the families with daughters who are desperately seeking wealthy husbands. This inversion exposes the marriage market as a system where women and their families compete for economic security, cloaked in the polite fiction of romantic pursuit.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote encapsulates the central irony of the marriage market: the assumption that rich bachelors actively want wives masks the reality that it is marriage-minded families who relentlessly pursue them."
+    }
+  ],
+  "limits": "The wording is from the standard opening line as published in the first edition (1813); minor variations may appear in modern reprints."
+}

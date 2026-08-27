@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful moment in Hamlet that captures both the weight of mortality and the paralysis of hesitation comes when Hamlet delivers his famous soliloquy. This quote forces us to confront the fear of the unknown after death and how that fear can freeze us in inaction.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be—that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them. To die, to sleep— / No more—and by a sleep to say we end / The heartache and the thousand natural shocks / That flesh is heir to—'tis a consummation / Devoutly to be wished. To die, to sleep— / To sleep—perchance to dream. Ay, there's the rub, / For in that sleep of death what dreams may come / When we have shuffled off this mortal coil / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This soliloquy directly addresses the fear of death and the hesitation it creates, illustrating how mortality and uncertainty can paralyze decision-making."
+    }
+  ],
+  "limits": "The quoted passage follows the First Folio text; line numbering may vary slightly in modern editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Pride and Prejudice, Jane Austen immediately links marriage to class and first impressions with her ironic opening: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” This universal assumption reveals how a man’s wealth makes him a commodity, and families like the Bennets act on superficial knowledge. Yet, Austen warns against such snap judgments. After Elizabeth reads Darcy’s letter, she recoils at her own blindness: “How despicably have I acted! … I, who have prided myself on my discernment! … Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance, and driven reason away. … Till this moment, I never knew myself.” Her “prepossession” based on charm versus reserve shows how first impressions can be manipulated by class prejudices. Elizabeth’s humiliating self-discovery that “vanity, not love, has been my folly” underscores that true marriage should be founded on self-knowledge and genuine understanding rather than economic scheming or initial biases. Thus, Austen critiques a society that rushes to pair fortunes with daughters, advocating instead for relationships built on clarity, respect, and reformed impressions.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic statement establishes the novel’s satirical view of marriage as an economic transaction driven by class assumptions and first impressions."
+    },
+    {
+      "quote": "How despicably have I acted! … I, who have prided myself on my discernment! … Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance, and driven reason away. … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s self-reproach reveals how first impressions, colored by class prejudice and vanity, can blind even the most discerning person, and that true understanding is necessary for a worthy marriage."
+    }
+  ],
+  "limits": "The second quotation is taken from the provided source window without explicit chapter labeling, but it is commonly located in Chapter 36 (Volume II, Chapter 13)."
+}

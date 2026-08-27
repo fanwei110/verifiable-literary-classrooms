@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Odysseus in Homer’s *Odyssey*, Book 9. Trapped in the cave of the Cyclops Polyphemus, Odysseus gives a false name—'Noman'—so that when he later attacks the Cyclops, Polyphemus’s cries that 'Noman is killing me' will make the other Cyclopes think nothing is wrong.",
+  "evidence": [
+    {
+      "quote": "My name is Noman",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms the exact words spoken by Odysseus to deceive the Cyclops Polyphemus."
+    }
+  ],
+  "limits": "The name is translated as 'Nobody' in many versions; 'Noman' appears in Samuel Butler’s translation (among others). The student’s exact phrase 'my name is Noman' matches Butler’s wording."
+}

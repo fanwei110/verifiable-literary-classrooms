@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Jane Austen's *Pride and Prejudice*. It is spoken by Elizabeth Bennet during a conversation with her sister Jane in Chapter 11 of the novel.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote confirms the exact wording, the speaker, and the source of the line in question."
+    }
+  ],
+  "limits": "No uncertainty; the line is consistently rendered this way and attributed to Elizabeth in Chapter 11."
+}

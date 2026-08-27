@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens by calling on the Muse to sing of the man who wandered far and wide, seeing many cities and learning the minds of men—a perfect fusion of wandering and story.",
+  "evidence": [
+    {
+      "quote": "Tell me, Muse, of the man of many ways, who was driven far journeys, after he had sacked Troy's sacred citadel. Many were they whose cities he saw, whose minds he learned of, many the pains he suffered in his spirit on the wide sea, struggling for his own life and the homecoming of his companions.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "1.1-5",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This opening invocation explicitly frames the epic as a story of a much-wandering man, linking physical wandering to the narrative that will unfold."
+    }
+  ],
+  "limits": "Translation by Richmond Lattimore; line numbers may vary in other editions."
+}

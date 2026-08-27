@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragedy. The witches’ prophecies ignite Macbeth’s latent ambition, but their cryptic words also plant the seeds of his downfall. For instance, when Banquo warns, ‘I dreamt last night of the three Weird Sisters: / To you they have show’d some truth,’ he highlights how prophecy fuels Macbeth’s obsession—yet Banquo resists its corrupting pull, unlike Macbeth, who fixates on the witches’ promises. This obsession leads to guilt, as seen in Macbeth’s hallucination of the dagger: ‘Is this a dagger which I see before me, / The handle toward my hand?’ The vision symbolizes his fractured psyche, revealing how guilt warps reality. The dagger’s ‘gouts of blood’ foreshadow the violence he commits, showing how ambition and prophecy culminate in psychological torment. Shakespeare suggests that unchecked ambition, fueled by prophecy, breeds guilt—and ultimately, self-destruction.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: / To you they have show’d some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote demonstrates how the witches’ prophecies haunt Macbeth and Banquo, contrasting Banquo’s cautious response with Macbeth’s growing fixation on their words."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination reveals Macbeth’s guilt and psychological unraveling, illustrating how ambition and prophecy manifest as self-destructive paranoia."
+    }
+  ],
+  "limits": "Quotes are from the Folger Shakespeare Library edition; line numbers may vary slightly in other versions."
+}

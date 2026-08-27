@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'I dearly love a laugh' is spoken by Elizabeth Bennet in Jane Austen's novel *Pride and Prejudice*. It occurs during a conversation with Miss Bingley and Mr. Darcy, where Elizabeth defends her enjoyment of laughter while teasing Miss Bingley about her inability to provoke Mr. Darcy into ridicule.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11 (volume I, chapter 11)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote identifies the speaker and the work from which the line originates."
+    }
+  ],
+  "limits": "The exact chapter numbering may vary slightly depending on the edition of *Pride and Prejudice*."
+}

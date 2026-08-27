@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s turn directly to the text to see how Shakespeare layers hesitation, mortality, and performance. Hamlet’s famous delay isn’t simply cowardice; it’s a philosophical paralysis rooted in fear of the unknown after death. He weighs action against endurance, but the thought of what dreams may come in death’s sleep “must give us pause.” The verb “pause” embodies hesitation itself—the intellectual conscience that halts revenge. Meanwhile, Claudius’s private confession exposes performance as a moral sickness. He compares his own duplicity to a harlot’s painted cheek, where the “plastering art” makes the ugly deed more hideous by contrast with his “most painted word.” The king’s whole public persona is a performance hiding murder. Hamlet, too, performs madness, but Claudius’s lines reveal that performance in this play isn’t just strategic—it’s a symptom of a rotten state where words and deeds never align. So hesitation springs from mortality’s terror, and performance from the need to conceal that terror or the crimes it prompts.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep— / To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Shows how fear of the afterlife—mortality—directly causes Hamlet’s hesitation, the central pause that delays action."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, / Is not more ugly to the thing that helps it / Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "King Claudius (aside)",
+      "use_in_answer": "Demonstrates that performance, figured as cosmetic deception, conceals monstrous guilt, linking surface beauty with internal rot."
+    }
+  ],
+  "limits": "Quotations drawn only from the provided source window 1; no other editions consulted."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Austen’s *Pride and Prejudice* opens by collapsing class and marriage into a single economic formula: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” The neighborhood treats Bingley’s arrival not as a social call but as a property transfer, reducing daughters to commodities. First impressions, however, are the engine of the novel’s real critique. Elizabeth Bennet prides herself on discernment, yet her initial encounters with Darcy and Wickham reveal how class-based pride and prejudice distort judgment. After reading Darcy’s letter, she confronts her own blindness: “How despicably have I acted! … Till this moment, I never knew myself.” That moment of humiliating self-knowledge ties the themes together. Her mistaken first impressions of Darcy as arrogant and of Wickham as amiable were shaped by the same class-consciousness that fuels the marriage market. Austen argues that lasting marriage requires piercing both personal vanity and the social scripts that assign worth according to fortune. Elizabeth’s and Darcy’s eventual union is not a triumph of romance over class but a hard-won revision of first impressions, proving that genuine understanding can overcome the “truths” universally acknowledged.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line establishes the mercenary marriage market driven by class, where wealth makes a man a target for families seeking social security."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36 (Volume II, Chapter XIII)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth's epiphany reveals how her first impressions, fueled by pride and class prejudice, blinded her, illustrating the novel's central lesson about self-knowledge and overcoming superficial judgments."
+    }
+  ],
+  "limits": "Quotes are taken verbatim from the provided frozen source excerpts. The chapter locator for the second quote is not shown in the excerpt but is standard in editions of the novel."
+}

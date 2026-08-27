@@ -1,0 +1,22 @@
+{
+  "answer": "Class, marriage, and first impressions drive the emotional machinery of *Pride and Prejudice*. Austen’s narrator immediately satirizes a world where marriage is a financial transaction, announcing a “truth” that is really a cynical social script. Against this backdrop, Elizabeth Bennet’s first encounter with Darcy at the Meryton assembly leaves a wound that festers into prejudice. She overhears his dismissive remark and her pride turns to scorn; the slight matters precisely because it comes clothed in class condescension. From that moment, she actively misreads his subsequent behavior, collecting every piece of “evidence” that confirms her initial verdict. The novel’s romance, then, is not simply a love story but a hard-won education: both characters must unlearn the snap judgments that class entitlement and wounded vanity produce. Darcy’s letter and his quiet generosity pry open Elizabeth’s self-awareness, proving that a lasting marriage requires overturning first impressions—not merely forgiving them. Austen thus insists that genuine partnership demands looking past rank and pride, a lesson that makes the final union feel earned rather than inevitable.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic opening establishes the mercenary link between class and marriage that shapes the novel’s entire courtship economy."
+    },
+    {
+      "quote": "I could easily forgive his pride, if he had not mortified mine.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 5",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This confession reveals how a wounded first impression, tangled with class resentment, hardens into the prejudice that obstructs her and Darcy’s eventual understanding."
+    }
+  ],
+  "limits": "Quotations conform to standard editions; chapter numbers are consistent."
+}

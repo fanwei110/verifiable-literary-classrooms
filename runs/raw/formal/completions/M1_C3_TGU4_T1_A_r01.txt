@@ -1,0 +1,14 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens vividly captures the historical contradiction of the late 18th century—a time of extreme opposites where progress and suffering, hope and despair, coexisted. This tension is best illustrated in the novel’s famous opening lines, which I’ll share with you now. These words remind us that history is rarely one-dimensional; it is often a clash of contradictions that shape the world we inherit.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly illustrates the historical contradiction of the era by juxtaposing opposing forces—hope and despair, wisdom and foolishness—highlighting the duality of the pre-Revolutionary period."
+    }
+  ],
+  "limits": "The quoted passage is from the 1859 first edition; minor variations may exist in later editions or adaptations."
+}

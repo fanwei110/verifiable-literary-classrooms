@@ -1,0 +1,14 @@
+{
+  "answer": "The poem opens by asking the Muse to narrate the hero’s far-reaching travels and the knowledge he gained from many peoples—a direct linkage of wandering and story.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1–5 (Butler translation)",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This invocation shows that the story itself is defined by Odysseus’s wandering—his travels, his encounters with diverse cultures, and his suffering at sea."
+    }
+  ],
+  "limits": "This is from Samuel Butler's prose translation (1921); the lineation is approximate."
+}

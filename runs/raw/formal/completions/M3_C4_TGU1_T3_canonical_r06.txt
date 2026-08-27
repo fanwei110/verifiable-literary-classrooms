@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy 'To be, or not to be' reveals his profound contemplation of death as both relief and risk. He weighs suicide as an end to life’s suffering, but hesitates because the afterlife is unknown: 'For in that sleep of death what dreams may come… Must give us pause.' This hesitation reflects not only personal fear but also a philosophical crisis about the nature of existence. At the same time, performance shapes his actions. The play-within-a-play and his feigned madness show how identity is acted, even as death looms. When the Ghost reveals his purgatorial torment—'Doom’d for a certain term to walk the night, / And for the day confin’d to fast in fires'—Hamlet is thrust into a moral performance: avenging a death he cannot fully comprehend. Thus, Hamlet’s hesitation arises from the collision of mortal uncertainty and the performative demands of revenge, making his tragedy both psychological and existential.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet's hesitation stems from fear of the unknown afterlife, complicating his view of death as a solution to suffering."
+    },
+    {
+      "quote": "Doom’d for a certain term to walk the night, And for the day confin’d to fast in fires",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Ghost",
+      "use_in_answer": "This quote illustrates the mortal consequences that extend beyond death, reinforcing the play’s preoccupation with judgment, purgatory, and the performative duty of revenge."
+    }
+  ],
+  "limits": "The excerpts provided are sufficient to support claims about Hamlet's hesitation and mortality, but they offer limited direct insight into broader performance themes beyond the ghost's revelation and Hamlet's response."
+}

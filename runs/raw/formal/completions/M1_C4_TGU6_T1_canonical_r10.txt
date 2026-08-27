@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the essence of wandering and the power of story right from the opening lines. Here’s a key quotation that illustrates how Odysseus’s journey—both physical and narrative—becomes a defining part of his identity and the tale itself:",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home... Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This passage establishes wandering as central to Odysseus’s story, framing his travels, suffering, and encounters with diverse cultures as the foundation of the epic’s narrative."
+    }
+  ],
+  "limits": "The frozen source excerpt only includes the opening lines of Book I, so the quotation is limited to this invocation. No additional context or later lines are provided."
+}

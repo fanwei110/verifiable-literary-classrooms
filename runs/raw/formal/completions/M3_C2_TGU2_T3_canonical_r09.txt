@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the tragic downfall of the protagonist. The witches' prophecy acts as a catalyst, igniting Macbeth’s latent ambition to become king. However, once he commits regicide to fulfill the prophecy, guilt quickly erodes his psyche. Macbeth’s internal struggle is evident when he laments, “I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o'er” (Act 3, Scene 4). This metaphor of being immersed in blood illustrates his realization that his actions have trapped him in a cycle of violence from which retreat is as difficult as continuing forward. His ambition, initially spurred by supernatural foresight, gives way to a consuming guilt that manifests in paranoia and hallucinations. Similarly, Lady Macbeth, who earlier urged her husband to embrace ruthless ambition, succumbs to psychological collapse, revealing that guilt knows no gender. Her sleepwalking scene, where she obsessively attempts to wash imaginary blood from her hands, underscores the inescapable moral consequences of their deeds. Thus, while prophecy sets the plot in motion, it is unchecked ambition and overwhelming guilt that define the tragedy.",
+  "evidence": [
+    {
+      "quote": "I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o'er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4, lines 168–170",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth’s recognition of being trapped by his violent actions and the escalating consequences of his ambition."
+    },
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1, line 37",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote illustrates Lady Macbeth’s psychological breakdown and overwhelming guilt despite her earlier ambition."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of Macbeth. Locator references use act-scene-line format standard to most modern editions."
+}

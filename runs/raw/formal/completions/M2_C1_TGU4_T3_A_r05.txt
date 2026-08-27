@@ -1,0 +1,22 @@
+{
+  "answer": "Class, today we'll examine how Dickens uses the paired motifs of revolution and sacrifice to develop his central theme of resurrection and duality. The novel's famous opening sets the stage for this structural doubling: the period is defined by extreme contrasts that will violently collide. This climate of opposition makes the sacrificial actions of characters like Sydney Carton not just acts of personal redemption, but symbolic attempts to counterbalance historical bloodshed. Dickens suggests that in an era of revolutionary vengeance—where the mob seeks a violent, retributive doubling of past wrongs—a different kind of sacrifice is required to restore humanity. Carton's ultimate choice represents a private, loving revolution against the public, hateful one. He enacts a \"doubling\" not of destruction, but of salvation, substituting himself for Darnay to break the cycle of violence. Through this parallel, the novel argues that true rebirth comes not from guillotines but from such acts of personal sacrifice, offering a hopeful, moral counterpoint to the era's terrifying reciprocities.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation establishes the foundational structural and thematic doubling of the entire novel, framing the revolutionary period as an era of extreme, paired opposites."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quotation reveals the redemptive sacrifice at the heart of the novel's theme, framing Carton's personal revolution of selfless love as a direct, transcendent contrast to the public violence of the revolution."
+    }
+  ],
+  "limits": "Quotations are from the standard text; punctuation and capitalization verified against Project Gutenberg edition."
+}

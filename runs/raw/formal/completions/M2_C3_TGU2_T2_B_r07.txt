@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from William Shakespeare's tragedy *Macbeth*, spoken by Lady Macbeth in Act 5, Scene 1. It occurs during the sleepwalking scene, where a guilt-ridden Lady Macbeth tries in vain to wash an imaginary bloodstain from her hands, revealing her mental unraveling after the murders of King Duncan and others.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote directly matches the student’s inquiry and demonstrates Lady Macbeth’s obsessive guilt as she hallucinates blood on her hands."
+    }
+  ],
+  "limits": "Text based on the provided frozen source excerpt; exact punctuation and line breaks may vary across different editions of *Macbeth*."
+}

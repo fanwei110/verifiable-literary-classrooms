@@ -1,0 +1,14 @@
+{
+  "answer": "Today, let’s look at how Shakespeare dramatizes the dangerous allure of ambition and its psychological toll. Macbeth’s own words show us ambition spiraling into hallucination, revealing how unchecked desire can distort reality itself.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This soliloquy illustrates how Macbeth’s vaulting ambition manifests as a hallucinated dagger, symbolizing the psychological unraveling that follows his ruthless pursuit of power."
+    }
+  ],
+  "limits": "Quotation follows the First Folio text; line numbers may vary slightly in modern editions."
+}

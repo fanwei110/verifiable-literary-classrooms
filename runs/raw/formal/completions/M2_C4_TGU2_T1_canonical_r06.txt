@@ -1,0 +1,14 @@
+{
+  "answer": "In Macbeth, ambition and hallucination intertwine when Macbeth, on the verge of murdering Duncan, sees a phantom dagger before him. He says, “Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.” This vision embodies his guilty ambition, as it both beckons him toward the deed and reveals the psychological fracturing caused by his ruthless drive for power.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This passage demonstrates how Macbeth’s overwhelming ambition triggers a hallucination—a ‘dagger of the mind’—that guides him toward regicide, showing that his psychological turmoil is directly produced by his ambition."
+    }
+  ],
+  "limits": "The excerpt only includes lines from the start of the dagger soliloquy; later parts of the speech (‘a dagger of the mind’, ‘heat-oppressed brain’) are not quoted as they are beyond the frozen excerpt window."
+}

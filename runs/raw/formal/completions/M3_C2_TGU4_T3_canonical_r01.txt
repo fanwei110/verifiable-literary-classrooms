@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’ A Tale of Two Cities, the themes of revolution, sacrifice, and doubling are central to the novel’s critique of social upheaval and personal redemption. The French Revolution sets the backdrop, exposing the extreme violence born from long-standing oppression. Dickens illustrates the dual nature of revolution—both destructive and transformative—through characters like Charles Darnay and Sydney Carton, who are physical doubles yet embody contrasting choices. Carton's ultimate act of sacrifice highlights the redemptive power of selflessness. He chooses to die in Darnay’s place, embracing martyrdom to save Lucie Manette’s husband and, by extension, her family. This sacrifice transforms Carton from a disillusioned man into a heroic figure, echoing the novel’s motif of resurrection. As the narrative moves toward its climax, Dickens underscores how personal sacrifice can counterbalance the chaos of revolution. The doubling between Carton and Darnay allows Carton to redeem not only himself but also the ideals of love and duty amidst widespread anarchy.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports Carton’s redemptive sacrifice, illustrating how his death is his most meaningful and peaceful act."
+    },
+    {
+      "quote": "Liberty, equality, fraternity, or death—the last, I regret to say, much THE most prevalent.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote highlights the extreme and often violent nature of the revolution, where death overshadows ideals."
+    }
+  ],
+  "limits": "Page numbers may vary by edition; quotations are from standard Penguin Classics edition."
+}

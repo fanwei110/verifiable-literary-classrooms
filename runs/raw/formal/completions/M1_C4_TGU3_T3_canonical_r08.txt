@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined, shaping characters' judgments and relationships. The novel opens with a satirical observation about societal expectations: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line highlights how marriage is often treated as a transaction driven by class and wealth, rather than love or compatibility. Mrs. Bennet’s eagerness to marry off her daughters to Mr. Bingley, a wealthy newcomer, underscores this obsession with securing advantageous matches. However, first impressions can be misleading, as Elizabeth Bennet learns when her initial prejudice against Mr. Darcy blinds her to his true character. Later, she reflects, 'How despicably have I acted! ... I, who have prided myself on my discernment!' This moment of self-awareness reveals how pride and prejudice distort perceptions, particularly in matters of class and marriage. Austen critiques a society where first impressions and social standing often dictate romantic outcomes, urging readers to look beyond surface judgments.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is often treated as a transaction driven by class and wealth, reflecting societal expectations."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Unspecified (from Source window 2)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization of how her first impressions and prejudices have clouded her judgment, particularly in matters of class and marriage."
+    }
+  ],
+
+  "limits": "The second quotation’s exact chapter or page number is not provided in the frozen source excerpt, but it is clearly attributed to Elizabeth Bennet’s introspection."
+}
+```

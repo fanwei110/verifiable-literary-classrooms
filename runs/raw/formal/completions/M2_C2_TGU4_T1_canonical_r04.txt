@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens opens the novel by casting the French Revolution era as a time of irreconcilable opposites, showing that historical moments are never monolithic but woven from clashing extremes.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This famous opening highlights the stark contradictions inherent in any tumultuous historical period, directly framing the French Revolution as an age of simultaneous hope and despair."
+    }
+  ],
+  "limits": "The quotation follows the original 1859 text; later editions may vary slightly in punctuation."
+}

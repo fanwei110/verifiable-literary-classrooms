@@ -1,0 +1,22 @@
+{
+  "answer": "Milton’s *Paradise Lost* frames temptation not as an external ambush but as a test of divinely granted free will. God makes clear that humanity begins upright, endowed fully with the capacity to choose obedience: “Sufficient to have stood, though free to fall.” Temptation, then, operates on a will already free; it cannot force the fall, only persuade. Satan’s entire rebellion models this logic. His famous declaration, “Better to reign in Hell, than serve in Heaven,” is not a cry of victimhood but a deliberate, prideful choice to sever himself from beatitude. He recasts service as slavery, proving that rebellion germinates in the self-corruption of reason. Eve’s temptation replays this drama: the serpent’s argument merely presents a false good; her will alone consents. Thus the poem insists that blame lies not with God’s decree nor the tempter’s cunning, but with the creature’s misuse of liberty. Free will is the condition of moral significance, and the tragedy of rebellion is that it is always a self-inflicted wound.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98-99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This quote establishes the poem’s core principle: free will means genuine power to stand or fall, making temptation possible but never irresistible."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures the moment rebellion is fully internalized, showing that Satan’s choice is a perversion of freedom into defiant self-assertion."
+    }
+  ],
+  "limits": "Line numbers follow the 1674 second edition; some editions may vary slightly."
+}

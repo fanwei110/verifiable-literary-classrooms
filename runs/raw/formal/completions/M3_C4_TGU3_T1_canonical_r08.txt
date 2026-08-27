@@ -1,0 +1,14 @@
+{
+  "answer": "A key example of irony in the marriage market of Pride and Prejudice is evident in the novel’s famous opening line, which satirizes the assumption that wealthy single men are naturally in need of wives, when in reality it is the families with daughters who are actively seeking advantageous matches.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote illustrates the irony of the marriage market by presenting societal assumption as universal truth, when in fact it reflects the ambitions of families like the Bennets rather than the desires of wealthy bachelors."
+    }
+  ],
+  "limits": ""
+}

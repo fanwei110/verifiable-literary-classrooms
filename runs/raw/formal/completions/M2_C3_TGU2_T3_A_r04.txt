@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition ignited by prophecy leads to a consuming guilt that distorts reality. Banquo’s admission, “I dreamt last night of the three Weird Sisters: / To you they have show’d some truth,” shows that the witches’ words have already seized Macbeth’s imagination, planting a dangerous seed of ambition. Though Macbeth feigns indifference, his thoughts are already bent on murder. This ambition quickly spirals into psychological torment. Before even committing the crime, Macbeth sees a floating dagger: “Is this a dagger which I see before me, … / a false creation, / Proceeding from the heat-oppressed brain?” The hallucination reveals how guilt punishes him in advance—the mere thought of killing Duncan summons a vision of a weapon leading him toward the act. The dagger symbolizes his murderous intent, and its blood-stained blade signals that his ambition has already corrupted his mind. Shakespeare thus binds prophecy, ambition, and guilt in a causal chain: the witches’ prediction provokes desire, desire breeds contemplated violence, and the very contemplation calls forth overwhelming guilt that blurs the line between reality and nightmare.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: / To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "Demonstrates how the prophecy immediately plants ambition in Macbeth's mind."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, ... / a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows guilt manifesting as a hallucination before the murder, revealing the psychological cost of ambition."
+    }
+  ],
+  "limits": "Act and scene numbers are not present in the source excerpts; locators are inferred from standard editions of Macbeth."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Right at the start, the narrator links storytelling and wandering by asking the Muse to sing of a hero defined by his long, off-course journey. This shows that Odysseus’s identity—and the very poem—are built around his wanderings.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns / driven time and again off course, once he had plundered / the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-3",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This opening directly frames the epic as the story of a wanderer, equating the act of telling the tale with the hero’s many detours."
+    }
+  ],
+  "limits": "Translation by Robert Fagles (1996). Line breaks reflect the original verse."
+}

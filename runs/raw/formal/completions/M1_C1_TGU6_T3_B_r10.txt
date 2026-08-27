@@ -1,0 +1,24 @@
+{
+  "answer": "Today, let’s explore how *The Odyssey* ties homecoming, identity, and hospitality into a single theme—*nostos*, the Greek idea of a hero’s return. Odysseus’s journey isn’t just about reaching Ithaca; it’s about reclaiming who he is. His identity is tested repeatedly, especially when strangers challenge his name or when he must prove himself to those who doubt his survival. Hospitality, or *xenia*, plays a crucial role here. The rules of *xenia* demand that hosts welcome strangers without question, but Odysseus often encounters those who twist this custom—like the Cyclops, who devours his guests, or the suitors, who abuse Penelope’s home. These violations highlight how broken hospitality threatens his homecoming. Even when Odysseus finally returns in disguise, his identity is tied to his ability to navigate these social codes. His reunion with Penelope hinges on her testing his knowledge of their shared past, proving that homecoming isn’t just physical—it’s about being recognized for who you truly are. Let’s look at two key moments that show this connection.",
+
+  "evidence": [
+    {
+      "quote": "‘Stranger, my looks, my face, my carriage, were soon lost / or altered, when the Achaeans took ship for Troy. / If anyone else had brought me news of you, / I’d never believe it—count it all a lie.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 105-108",
+      "speaker_or_narrator": "Penelope",
+      "use_in_answer": "This quote supports how identity and homecoming intersect—Penelope’s skepticism shows that Odysseus’s return requires proof beyond physical presence, tying his recognition to shared memory and trust."
+    },
+    {
+      "quote": "‘Cyclops, / you ask my honorable name? Remember / the gift you promised me, and I shall tell you. / My name is Nohbdy: mother, father, and friends, / everyone calls me Nohbdy.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 364-368",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This moment illustrates how Odysseus’s cunning use of identity (or its absence) exposes the Cyclops’s violation of hospitality, reinforcing how broken *xenia* endangers his journey home."
+    }
+  ],
+
+  "limits": "Quotations are from Robert Fagles’s translation (1996); line numbers may vary slightly in other editions."
+}

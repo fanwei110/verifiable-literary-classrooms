@@ -1,0 +1,22 @@
+{
+  "answer": "Class, let’s zoom in on how Milton weaves temptation, free will, and rebellion right from the poem’s opening. The epic begins not with Eden but with a statement of its tragic theme: humanity’s choice. In that choice, temptation and rebellion collide. The narrator invokes the “Heav’nly Muse” to sing of “Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe.” That forbidden fruit is the outward temptation, but the real catalyst is the inward free will to disobey. Milton frames the Fall as a deliberate act, not an accident. Then, to show us the internal architecture of rebellion, he gives us Satan. Fresh from his own catastrophic choice, Satan declares, “Better to reign in Hell, then serve in Heav’n.” This isn’t mere defiance; it is a ringing, deliberate exercise of free will. Satan weighs servitude against sovereignty and actively chooses damnation on his own terms. So the poem argues that temptation only works because of free will, and rebellion is exactly what happens when that will chooses self over God. Both Adam’s fruit and Satan’s throne are symptoms of the same spiritual disease: the resolve to put personal desire above divine order.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes the poem’s central theme that human temptation and the resulting rebellion (disobedience) come from a free act of will, not external compulsion."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates how free will enables rebellion: Satan consciously chooses autonomy in suffering over submission in joy, making rebellion a perverse triumph of the mind."
+    }
+  ],
+  "limits": "Quotations are drawn from the provided source windows and reflect standard line numbering for the 1667 ten-book edition."
+}

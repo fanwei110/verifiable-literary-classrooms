@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a powerful moment from *Macbeth* that vividly illustrates both unchecked ambition and the psychological toll it takes—specifically through hallucination. Macbeth’s soliloquy reveals how his ambition has warped his perception, making him see a dagger that isn’t there, a manifestation of his guilt and fevered mind as he prepares to murder Duncan. This passage is key to understanding how ambition can distort reality and drive one toward self-destruction.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly demonstrates Macbeth’s hallucination—a dagger he cannot grasp—symbolizing his ambition’s grip on his psyche and the psychological fragmentation caused by his violent intentions."
+    }
+  ],
+  "limits": "The quoted lines are from the First Folio (1623) edition of *Macbeth*; minor variations may exist in modern editions, but the core imagery and meaning remain consistent."
+}

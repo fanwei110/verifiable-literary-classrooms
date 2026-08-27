@@ -1,0 +1,14 @@
+{
+  "answer": "One of the clearest illustrations of the marriage-market irony in Pride and Prejudice is the novel’s famous opening sentence. The narrator pretends to state a universal truth, but the statement is dripping with irony: it is not wealthy bachelors who are actively seeking wives, but rather the neighbourhood families who view these men as the rightful property of their daughters. The sentence satirises how economic necessity and social pressure reduce marriage to a calculated market exchange, where single men are commodified before they even arrive.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly supports the irony of the marriage market by presenting a self-serving social assumption as if it were a natural law, thereby mocking the community's commodification of wealthy bachelors."
+    }
+  ],
+  "limits": "Text based on standard editions; chapter divisions are stable across all authoritative versions."
+}

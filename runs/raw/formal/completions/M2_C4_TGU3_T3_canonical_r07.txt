@@ -1,0 +1,22 @@
+{
+  "answer": "Today we explore how Jane Austen intertwines first impressions, class, and marriage in *Pride and Prejudice*. The novel’s iconic opening—'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife'—is an ironic jab at a society that views marriage as a financial transaction, reducing a man to his income and a woman to a commodity. Mrs. Bennet’s eagerness to snag Mr. Bingley illustrates this class-based calculus. Yet Austen warns against such surface judgments. After reading Darcy’s letter, Elizabeth cries, 'How despicably have I acted! … Till this moment, I never knew myself.' Her initial prejudice against Darcy and trust in Wickham were built on pride and hasty first impressions. This moment of humiliating self-recognition is the novel’s turning point: true marriage requires overcoming class pride and seeing beyond first impressions. Austen argues that love must be grounded in mutual understanding and moral growth, not mere fortune or charm.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator (ironic)",
+      "use_in_answer": "Shows the mercenary, class-based approach to marriage that fuels the plot and creates mistaken first impressions."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "after reading Mr. Darcy's letter (Vol. II, Ch. XIII)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Demonstrates how first impressions can be catastrophically wrong and how self-awareness is essential for authentic marriage."
+    }
+  ],
+  "limits": "The second quotation is drawn from an excerpt without an explicit chapter heading in the source window; the locator is inferred from narrative context."
+}

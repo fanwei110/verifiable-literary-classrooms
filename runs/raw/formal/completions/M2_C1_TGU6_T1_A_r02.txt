@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey itself frames Odysseus's wanderings as the central story. The very first lines announce that the epic will sing of the man who roamed far and wide, saw many cities, and endured many hardships. This shows how the act of wandering is inseparable from the act of telling the tale: the story is born from the journey, and the poet’s task is to make that wandering into song.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns / driven time and again off course, once he had plundered / the hallowed heights of Troy. / Many cities of men he saw and learned their minds, / many pains he suffered, heartsick on the open sea, / fighting to save his life and bring his comrades home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "Narrator (the poet invoking the Muse)",
+      "use_in_answer": "This opening invocation explicitly links the hero's prolonged wandering with the story the poet is about to tell, showing that the narrative's purpose is to recount his travels and trials."
+    }
+  ],
+  "limits": "Translation by Robert Fagles (1996). Exact wording and line numbering may vary in other translations."
+}

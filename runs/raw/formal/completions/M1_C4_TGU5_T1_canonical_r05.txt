@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton directly links humanity’s fall to an act of disobedience. Here’s a key quotation that captures this idea: the poem opens by describing 'Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe.' This passage establishes disobedience as the root cause of the Fall, showing how Adam and Eve’s choice to eat the forbidden fruit introduced suffering and separation from Eden.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This quote explicitly identifies disobedience as the cause of the Fall and its consequences, such as death and suffering."
+    }
+  ],
+  "limits": "The provided excerpt only includes the opening lines of *Paradise Lost*; further context about the Fall itself (e.g., Eve’s temptation or Adam’s choice) appears in later books."
+}

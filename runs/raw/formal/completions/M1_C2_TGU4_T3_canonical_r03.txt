@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as both a necessary force for change and a destructive cycle of violence. Sacrifice is depicted through characters like Sydney Carton, whose selfless act of taking Charles Darnay’s place at the guillotine embodies redemption and love. Doubling, a recurring motif, highlights the duality of human nature and society—London and Paris, Carton and Darnay, and the aristocracy and the revolutionaries reflect opposing yet interconnected forces. These themes intertwine to show how personal and political upheaval shape history and individual lives.\n\nDickens uses vivid imagery to underscore the brutality of revolution. For example, the narrator describes the revolutionaries as \"the sea of black and threatening waters, and of destructive upheaving of wave against wave\" (Book 2, Chapter 21), illustrating the uncontrollable and violent nature of the uprising. Similarly, Carton’s sacrifice is framed as a moment of profound transformation: \"It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known\" (Book 3, Chapter 15). This quote underscores the redemptive power of sacrifice, elevating Carton’s death from mere tragedy to a transcendent act of love and purpose. Together, these themes invite readers to reflect on the cost of change and the moral choices that define humanity.",
+
+  "evidence": [
+    {
+      "quote": "the sea of black and threatening waters, and of destructive upheaving of wave against wave",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 2, Chapter 21",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea of revolution as a violent, uncontrollable force that engulfs society."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote highlights the theme of sacrifice as a redemptive and transformative act."
+    }
+  ],
+
+  "limits": "Quotations are from standard editions of *A Tale of Two Cities*; chapter numbering may vary slightly by edition."
+}

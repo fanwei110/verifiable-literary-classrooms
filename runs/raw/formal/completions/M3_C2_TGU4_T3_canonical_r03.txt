@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, themes of revolution, sacrifice, and duality are central to the novel’s critique of extremism and celebration of personal redemption. The revolution in France is portrayed not just as a political upheaval but as a force of cyclical violence, where the oppressed become the oppressors. Sydney Carton’s ultimate act of sacrifice embodies the novel’s moral core, illustrating how individual love and selflessness can transcend chaos. His noble death reflects both personal transformation and the redemptive power of sacrifice. The novel also emphasizes doubling—characters like Charles Darnay and Sydney Carton mirror each other, highlighting contrasts in character and fate. Similarly, the two cities, London and Paris, serve as parallel centers of order and disorder. As the narrative unfolds, Dickens shows that while revolution may be born of justice, it risks devolving into tyranny without compassion. Carton’s final sacrifice redeems not only himself but also offers hope amid despair. The intertwined lives of characters across cities and classes demonstrate how personal choices reverberate through history. In the end, the novel suggests that sacrifice, not violence, is the true catalyst for change.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and revolution by framing the contradictory nature of the era, highlighting simultaneous hope and despair."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narr interviewer": "Sydney Carton",
+      "use_in_answer": "This quote illustrates Carton’s ultimate sacrifice, emphasizing personal redemption and the transformative power of self-giving love."
+    }
+  ],
+  "limits": "Quotes and references are based on standard Penguin Classics edition of the novel."
+}

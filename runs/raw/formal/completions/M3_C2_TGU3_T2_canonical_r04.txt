@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"I dearly love a laugh\" is spoken by the character Feste, the clown, in William Shakespeare's play *Twelfth Night*. It reflects his playful and witty nature as he engages in banter with other characters.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh",
+      "author": "William Shakespeare",
+      "work": "Twelfth Night",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Feste",
+      "use_in_answer": "This quote supports that Feste says he enjoys laughter, highlighting his role as a humorous and clever character in the play."
+    }
+  ],
+  "limits": "The line appears in most standard editions of *Twelfth Night*, but exact wording may vary slightly in early quartos or translations."
+}

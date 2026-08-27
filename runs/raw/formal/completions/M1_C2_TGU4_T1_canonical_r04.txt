@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous lines from *A Tale of Two Cities* captures the historical contradiction of the French Revolution—how an era that promised liberty and justice was also marked by extreme violence and oppression. This tension between hope and brutality is central to Dickens's portrayal of revolutionary France.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the stark historical contradictions of the revolutionary period, where progress and regression coexisted."
+    }
+  ],
+  "limits": "The locator refers to the opening chapter of the novel, which is consistent across most editions, though exact line numbers may vary slightly."
+}

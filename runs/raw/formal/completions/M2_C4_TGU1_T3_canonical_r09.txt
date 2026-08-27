@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation and mortality intertwine with performance to reveal inner paralysis. Hamlet’s famous soliloquy freezes him between endurance and action, as the dread of an afterlife makes suicide a “consummation / Devoutly to be wish’d” yet terrifyingly uncertain. His pause comes not from a fear of death itself, but from what dreams may come in “that sleep of death”—a metaphysical hesitation that turns mortality into a cognitive trap. Performance amplifies this hesitation: the court constantly acts. Polonius admits that even sincere-seeming piety is only a mask when he says, “with devotion’s visage / And pious action we do sugar o’er / The devil himself.” If all the world’s a stage, then Hamlet’s inability to act is partly a refusal to perform one more hollow role. He cannot unknow the truth that identities are performed, so even revenge feels like another costume. Mortality, for Hamlet, ceases to be a simple exit and becomes a script he cannot trust, leaving him endlessly rehearsing without ever stepping into the part.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This speech shows how the uncertainty of consciousness after death (“what dreams may come”) causes Hamlet to hesitate and transforms mortality into a deferred decision."
+    },
+    {
+      "quote": "with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This line reveals that performance is a pervasive, hollowing force, even masking evil with religious display, which deepens Hamlet’s distrust of outward action."
+    }
+  ],
+  "limits": "Both quotations come directly from the provided excerpt of Hamlet, Act 3, Scene 1. The ghost scene in Source window 2 is not used, as the lesson focuses on the soliloquy and performance lines."
+}

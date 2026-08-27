@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined, revealing the prince's inner turmoil. Hamlet’s contemplation of death and uncertainty drives his delay in avenging his father. This paralysis stems from his philosophical nature and fear of the afterlife, as seen when he soliloquizes, 'To be, or not to be: that is the question' (3.1.56). Here, Hamlet weighs existence against non-being, exposing how awareness of mortality paralyzes action. His hesitation is not mere cowardice, but a profound crisis of meaning in a corrupt world. At the same time, performance becomes both a personal and political strategy. Hamlet adopts an 'antic disposition' to mask his intentions, blurring reality and role. He stages The Murder of Gonzago to 'catch the conscience of the king'—a play within the play that forces Claudius to confront his guilt. As Hamlet declares, 'The play’s the thing / Wherein I’ll catch the conscience of the king' (2.2.607–608), he reveals how performance can expose truth. Thus, Hamlet's hesitation reflects moral and existential complexity, while performance serves as both evasion and revelation. These themes converge to underscore the human struggle to act with certainty in the face of death and deception.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's deep philosophical hesitation rooted in the fear of death and the unknown afterlife."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.607–608",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a tool to reveal truth and prompt action amid his hesitation."
+    }
+  ],
+  "limits": "Line numbers and quotations are based on the Folger Shakespeare Library edition of Hamlet."
+}

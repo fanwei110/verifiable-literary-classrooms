@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s longing to return to Ithaca reflects the value placed on home and identity in the ancient Greek world. When he lands in Phaeacia, he is a stranger in distress, yet he immediately appeals to the kindness of Nausicaa, emphasizing the importance of mutual respect and hospitality. He says, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house,' highlighting how domestic harmony symbolizes a successful homecoming. This moment also reveals Odysseus’s own yearning for reunion with Penelope. In response, Nausicaa offers aid, stating, 'Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for,' demonstrating the sacred duty of hospitality. Her actions protect Odysseus’s dignity and mark the beginning of his restored identity as a guest, not a beggar. These interactions show how hospitality paves the way for Odysseus’s journey back to his true self and home.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that domestic harmony and homecoming are central to personal identity and happiness in The Odyssey."
+    },
+    {
+      "quote": "Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the Phaeacian commitment to hospitality, showing how it restores dignity to strangers and enables their journey toward home."
+    }
+  ],
+  "limits": "The provided source excerpts do not include full context for book numbers, but the quotes are traditionally attributed to Book VI of The Odyssey."
+}

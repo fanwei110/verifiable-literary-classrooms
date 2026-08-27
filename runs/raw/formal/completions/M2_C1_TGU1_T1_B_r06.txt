@@ -1,0 +1,14 @@
+{
+  "answer": "Great question—look at Hamlet's famous soliloquy in Act 3, Scene 1. Hamlet hesitates precisely because the fear of what comes after death, 'the undiscovered country,' makes us all pause rather than take action, even when we're suffering.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscovered country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 78-82",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly shows how the fear of the unknown after death causes hesitation and prevents decisive action, supporting the link between mortality and Hamlet's delay."
+    }
+  ],
+  "limits": "Quoted from the Second Quarto (1604) spelling modernized; line numbering follows the Arden Shakespeare (Third Series). Exact line numbers can vary slightly across editions."
+}

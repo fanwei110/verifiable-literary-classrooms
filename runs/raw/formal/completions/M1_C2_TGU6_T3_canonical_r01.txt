@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are central themes that shape Odysseus’s journey and the world of the epic. Homecoming (*nostos*) is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father. His disguise as a beggar in Ithaca tests his patience and cunning, revealing that true homecoming requires more than arrival; it demands recognition and reintegration. Identity is fluid in the poem, as characters like Odysseus and Telemachus must prove themselves through trials. Hospitality (*xenia*), a sacred Greek custom, serves as both a moral test and a narrative device. Guests and hosts are bound by mutual respect, and violations—like the suitors’ abuse of Penelope’s home—highlight the breakdown of order. These themes intertwine: hospitality ensures safe passage for travelers, identity is affirmed through recognition, and homecoming restores balance to a fractured world. The epic suggests that true belonging requires both external validation and inner resilience.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll be honest: my mother says I am his son, but I don’t know. No one really knows his own father.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 215-216",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote underscores the fragility of identity, as Telemachus questions his own lineage, reflecting the broader theme of self-discovery in the epic."
+    },
+    {
+      "quote": "But now the gods have changed their minds about Odysseus while he was on his journey. They pity him, all except Poseidon, who still nurses his grudge against the hero until he reaches his own land.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 19-22",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This passage highlights the divine obstacles to Odysseus’s homecoming, emphasizing that his return is both a personal and cosmic struggle."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

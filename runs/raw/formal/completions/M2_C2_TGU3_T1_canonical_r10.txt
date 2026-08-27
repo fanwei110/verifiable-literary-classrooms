@@ -1,0 +1,14 @@
+{
+  "answer": "In the marriage market of Regency England, the famous opening line of Pride and Prejudice lays bare the irony: the supposedly universal desire of wealthy men to marry is actually a projection of the community's need to secure husbands for its daughters. The statement is delivered with an arch tone that reverses the real economic pressure, which falls on women.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote exposes the ironic reversal at the heart of the marriage market: the assumption that wealthy bachelors are actively seeking wives, when in fact it is the surrounding families who are desperately seeking rich husbands for their daughters."
+    }
+  ],
+  "limits": "Quotation from the first edition (1813); some modern editions may lack the comma after 'acknowledged'."
+}

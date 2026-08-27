@@ -1,0 +1,14 @@
+{
+  "answer": "Let's turn to Hamlet's famous soliloquy in Act 3, Scene 1. When Prince Hamlet weighs existence against oblivion, he voices both the allure of ending life's pain and the paralyzing fear of what follows. He says: \"To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.\" Here, mortality is imagined as a sleep that ends all suffering, a 'consummation devoutly to be wish'd.' Yet the hesitation sets in precisely because that sleep might bring unknown dreams. The dread of an afterlife—the 'rub'—makes us pause and cling to the known miseries of life rather than rush into a mysterious death. It is a perfect crystallization of how the fear of mortality leads to irresolution.",
+  "evidence": [
+    {
+      "quote": "To die—to sleep,\nNo more; and by a sleep to say we end\nThe heart-ache, and the thousand natural shocks\nThat flesh is heir to: ’tis a consummation\nDevoutly to be wish’d. To die, to sleep.\nTo sleep, perchance to dream—ay, there’s the rub,\nFor in that sleep of death what dreams may come,\nWhen we have shuffled off this mortal coil,\nMust give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage directly explains mortality (death as a peaceful sleep ending all earthly suffering) and hesitation (the fear that unknown dreams in death’s sleep make one pause, choosing to endure life rather than risk the undiscovered country)."
+    }
+  ],
+  "limits": "The provided excerpt cuts off shortly after 'To grunt and sweat' and does not include the full soliloquy (e.g., 'Thus conscience does make cowards of us all'). The quotation is taken verbatim from the frozen source window."
+}

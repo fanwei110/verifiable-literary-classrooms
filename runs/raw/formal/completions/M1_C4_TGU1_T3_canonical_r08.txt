@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, the weight of mortality, and the tension between thought and action. Hamlet’s infamous soliloquy, 'To be, or not to be,' reveals his existential dread—his fear of the unknown after death ('For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause') halts his resolve to act. This hesitation isn’t mere cowardice; it’s a profound meditation on the human condition, where the fear of what lies beyond life (‘the undiscover’d country’) makes suffering in life seem preferable to the uncertainty of death. Later, when the Ghost beckons him, Hamlet’s impulsive cry—'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve'—shows his desperate attempt to overcome hesitation through sheer will. Yet even here, his performance of boldness is undercut by Horatio’s observation that he ‘waxes desperate with imagination,’ suggesting his actions are driven more by emotional turmoil than decisive purpose. Together, these moments illustrate how Hamlet’s intellectual depth becomes his tragic flaw, trapping him between contemplation and action in a world where mortality looms large.",
+
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s hesitation rooted in the fear of the unknown after death, which paralyzes his ability to act."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s performative boldness in following the Ghost, masking his underlying hesitation with a show of determination."
+    }
+  ],
+
+  "limits": "The excerpts provided do not include Hamlet’s full soliloquy or later moments of hesitation (e.g., the play-within-a-play scene), limiting the analysis to the given passages."
+}
+```

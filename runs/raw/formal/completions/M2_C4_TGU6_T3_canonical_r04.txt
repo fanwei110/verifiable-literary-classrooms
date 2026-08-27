@@ -1,0 +1,18 @@
+{
+  "answer": "In The Odyssey, homecoming (nostos) is never merely geographic—it is a restoration of identity. From the opening lines, Homer frames Odysseus’s deepest longing: “he, though he was longing to return to his wife and country, was detained by the goddess Calypso.” To be kept from Ithaca is to be severed from the self; his identity is understood only in relation to his household and marriage. The poem then explores how hospitality (xenia) can heal that rupture. Shipwrecked and stripped of all markers of status, Odysseus meets the Phaeacian princess Nausicaa and, in begging for kindness, utters a blessing that reveals the true prize of homecoming: “for there is nothing better in this world than that man and wife should be of one mind in a house.” In that moment, the weary stranger defines the harmonious home as life’s greatest good—the very bond he struggles to reclaim. The Phaeacians’ generous welcome clothes him, gives him safe passage, and makes his return thinkable. Thus The Odyssey suggests that identity is forged through longing for one’s place and loved ones, and that hospitality is a sacred act that guides the wanderer back to a unified, peaceful household where he can finally be known.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes homecoming as the hero’s defining desire, showing that his identity is inseparable from his wife and homeland."
+    },
+    {
+      "quote": "for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This blessing articulates the ideal of a shared, harmonious home as the ultimate human good, linking the themes of hospitality and domestic identity

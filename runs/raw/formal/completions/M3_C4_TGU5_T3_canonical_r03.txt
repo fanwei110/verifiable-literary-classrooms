@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant choices. After being cast out of Heaven, Satan embodies rebellion, refusing submission to God’s authority. His determination to remain self-determined underscores the misuse of free will. He declares, 'The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven,' showing his belief that inner resolve overrides external reality. This mindset fuels his resolve to oppose God, not out of necessity, but by choice. Later, he affirms this rebellion with the infamous line, 'Better to reign in Hell, then serve in Heav’n,' prioritizing autonomy over obedience, even at the cost of eternal suffering. These quotations highlight how Milton portrays temptation not as an external force alone, but as a product of willful defiance. Satan’s choices reflect a tragic distortion of free will—choosing pride over humility, self over submission. Thus, Milton frames the fall as a consequence of deliberate rebellion, setting the stage for humanity’s own test in Eden.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan believes his will is independent of external circumstances, reflecting his distorted view of free will."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s rebellious pride and his preference for domination in damnation over obedient service in heaven."
+    }
+  ],
+  "limits": ""
+}

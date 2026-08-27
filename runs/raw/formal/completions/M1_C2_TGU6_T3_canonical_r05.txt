@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are central themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father after years of wandering. His disguise as a beggar upon returning to Ithaca tests the loyalty of his household and forces him to prove his worth, revealing that identity is both performative and earned. Hospitality, meanwhile, is a sacred duty in Greek culture, as gods often test mortals in disguise. The suitors’ abuse of *xenia* by overstaying their welcome and plundering Odysseus’s home justifies their violent downfall, while figures like Eumaeus the swineherd demonstrate proper hospitality by aiding the disguised hero. These themes intertwine: true homecoming requires recognizing and honoring one’s identity, and hospitality ensures the social order that makes such returns possible. The poem suggests that both are essential to justice and human flourishing.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I have no right to deny the stranger, not even if one came to me who was meaner than you. All strangers and beggars come from Zeus, and a gift, though small, is welcome from such as we.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, lines 56-59",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote illustrates the ideal of *xenia* (hospitality), showing how even the poorest hosts must honor strangers as sacred guests, reinforcing the moral order Odysseus seeks to restore."
+    },
+    {
+      "quote": "No one of the Achaians labored as much as Odysseus labored and achieved, and for him the end was grief for him, and for me a sorrow that is never forgotten for his sake, how he is gone so long, and we knew nothing of whether he is alive or dead.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 55-59",
+      "speaker_or_narrator": "Athena (disguised as Mentes)",
+      "use_in_answer": "This quote underscores the emotional and social stakes of Odysseus’s homecoming, framing his absence as a crisis of identity and memory that disrupts Ithaca’s stability."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In Book I of *Paradise Lost*, John Milton introduces the central themes of the poem—man's disobedience and the consequences of the Fall—by stating his purpose to 'justify the ways of God to men' through the story of Adam and Eve's expulsion from Eden.",
+  "evidence": [
+    {
+      "quote": "Of Man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful seat, / Say first, for Heaven hides nothing from thy view / Nor the deep tract of Hell, say first what cause / Prompted our first Parent in that fatal tree / Whose mortal taste brought death into the world, and all our woe...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–11",
+      "speaker_or_narrator": "The Narrator (Milton's epic voice)",
+      "use_in_answer": "This opening passage establishes the foundational theme of the poem: the fall of man through disobedience, the resulting loss of Eden, and the introduction of sin and death into human experience."
+    }
+  ],
+  "limits": "Quotation follows the 1674 edition of Paradise Lost, which is the most commonly cited version in modern scholarship."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are deeply interconnected themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father, often by proving his worth through cunning and endurance. Hospitality, a sacred duty in Greek culture, tests both the host and the guest: those who violate *xenia*, like the suitors or Polyphemus, face divine retribution, while those who honor it, like the Phaeacians, are rewarded. Odysseus’s disguise as a beggar further explores identity, forcing others to recognize his true self beyond appearances. His homecoming hinges on these themes, as he must navigate deception and trust to reclaim his place. The poem suggests that true identity is affirmed through both personal resilience and the ethical treatment of others, reinforcing the idea that home is where one is known and welcomed.",
+  "evidence": [
+    {
+      "quote": "‘Stranger, I’ll treat you fairly, as I would a guest, / but first tell me your name and your people.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 123-124",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote illustrates the importance of *xenia* as Telemachus, despite his youth, upholds the duty of hospitality by addressing a stranger with respect, setting the standard for ethical behavior in the poem."
+    },
+    {
+      "quote": "‘I am Laertes’ son, Odysseus. Men hold me / formidable for guile in peace and war: / this fame has gone abroad to the sky’s rim.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-21",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This declaration underscores Odysseus’s identity as a hero defined by intelligence and reputation, linking his self-assertion to his eventual homecoming, where his name and deeds must be recognized."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

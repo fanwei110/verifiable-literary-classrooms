@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Macbeth, unchecked ambition can distort reality, leading to hallucinations that reveal a troubled conscience. A key example occurs when Macbeth sees a dagger in the air just before he murders King Duncan—a vision that symbolizes his inner conflict and the dangerous lure of power.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth's ambition triggers a hallucination, blurring the line between reality and imagination as he contemplates regicide."
+    }
+  ],
+  "limits": "Quotation is from the Folger Shakespeare Library edition of Macbeth; slight wording variations may exist in other editions."
+}

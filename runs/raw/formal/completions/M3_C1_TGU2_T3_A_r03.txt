@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the tragic downfall of the protagonist. Macbeth begins as a loyal soldier, but his encounter with the witches' prophecy ignites a dangerous ambition to become king. This desire overrides his moral compass, leading him to murder King Duncan. However, once he attains power, guilt consumes him, revealing the psychological cost of unchecked ambition. The prophecy sets events in motion, but it is Macbeth’s choice to act on it violently that seals his fate. His initial hesitation shows he is aware of the moral stakes, yet ambition pushes him forward. After the murder, Macbeth is haunted by visions and tormented by fear, illustrating how guilt erodes his sanity. Lady Macbeth, too, succumbs to guilt, sleepwalking and trying to wash imagined blood from her hands. The play ultimately warns that ambition, when fueled by supernatural suggestion and divorced from ethics, leads to self-destruction. Prophecy may hint at destiny, but Macbeth’s actions—and their emotional consequences—reveal the human capacity for both evil and remorse.",
+  "evidence": [
+    {
+      "quote": "I have no spur to prick the sides of my intent, but only vaulting ambition, which o'erleaps itself and falls on the other—",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s recognition that his motive for killing Duncan is ambition alone, showing his awareness of its dangerous, self-destructive nature."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s immediate and overwhelming guilt after murdering Duncan, emphasizing the psychological toll of his ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight variations may exist in other editions."
+}

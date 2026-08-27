@@ -1,0 +1,14 @@
+{
+  "answer": "The opening line of the novel delivers its central marriage-market irony in one perfect, endlessly quoted sentence: \"It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.\" On the surface it sounds like a reasonable observation, but Austen immediately exposes its absurdityâthe 'truth' isn't about men's desires at all; it's a projection of the surrounding families who see wealthy bachelors as their daughters' rightful property. The irony lies in the gap between what is proclaimed as universal law and the self-serving social calculation that actually drives the statement.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the marriage-market irony by revealing how the community redefines a rich bachelor's supposed 'want' as a strategic opportunity, transforming courtship into a marketplace where the man is the commodity and the families are the eager buyers."
+    }
+  ],
+  "limits": "The frozen source excerpt includes the complete opening sentence, directly confirming the quotation and its chapter context."
+}

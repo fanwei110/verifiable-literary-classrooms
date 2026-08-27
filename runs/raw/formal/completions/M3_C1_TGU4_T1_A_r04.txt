@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful example of historical contradiction in *A Tale of Two Cities* emerges when the narrator reflects on the inescapable dualities of the revolutionary era: 'It was the best of times, it was the worst of times.' This opening line captures the paradox at the heart of history—where progress and suffering coexist, and where the promise of liberty emerges through violence and chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times,",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea that historical periods, especially revolutionary ones, are defined by contradictory forces occurring simultaneously."
+    }
+  ],
+  "limits": "The exact wording may vary slightly depending on the edition, but the phrase is consistent across standard published versions."
+}

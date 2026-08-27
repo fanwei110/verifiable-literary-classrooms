@@ -1,0 +1,14 @@
+{
+  "answer": "This famous line—'The play’s the thing / Wherein I’ll catch the conscience of the King'—comes from William Shakespeare’s tragedy *Hamlet*. It is spoken by Prince Hamlet in Act II, Scene 2, as he devises a plan to confirm his uncle Claudius’s guilt in the murder of Hamlet’s father. Hamlet decides to stage a play reenacting the murder to observe Claudius’s reaction, hoping his uncle’s guilty conscience will betray him.",
+  "evidence": [
+    {
+      "quote": "I’ll have these players / Play something like the murder of my father / Before mine uncle. I’ll observe his looks; / I’ll tent him to the quick. If he but blench, / I know my course. [...] The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2, lines 623–634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly includes the line in question and shows Hamlet’s reasoning for using the play to expose Claudius’s guilt."
+    }
+  ],
+  "limits": "The line is sometimes quoted with slight variations in punctuation or line breaks depending on the edition of *Hamlet*, but the meaning remains consistent."
+}

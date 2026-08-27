@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"Better to reign in Hell, then serve in Heav'n\" comes from John Milton's epic poem *Paradise Lost*. It is spoken by Satan shortly after he and the other rebel angels are cast out of Heaven and awaken in Hell. In this speech, Satan attempts to make the best of their defeat, arguing that it is far preferable to rule in Hell than to be subservient in Heaven, and declaring that the mind itself can transform any place.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote provides the exact line and confirms it is spoken by Satan in Hell."
+    }
+  ],
+  "limits": "The excerpt spells 'then' as in the 1667 original; modernized texts often print 'than'."
+}

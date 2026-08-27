@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening lines of The Odyssey, the narrator calls on the Muse to sing of a man whose defining experience is wandering. This immediately links the act of storytelling with the hero's far-ranging journeys, showing that the story is created by the very wanderings it recounts.",
+  "evidence": [
+    {
+      "quote": "Tell me, Muse, of the man of many ways, who was driven far journeys, after he had sacked Troy's sacred citadel.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-3",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This opening invocation establishes that the epic's subject is a wanderer, illustrating the intrinsic connection between wandering and the story that unfolds."
+    }
+  ],
+  "limits": "Translation by Richmond Lattimore; wording may vary in other translations."
+}

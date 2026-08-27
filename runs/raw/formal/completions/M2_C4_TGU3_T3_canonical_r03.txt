@@ -1,0 +1,22 @@
+{
+  "answer": "In Pride and Prejudice, Jane Austen intertwines first impressions, class, and marriage to satirize and reform Regency values. The novel’s iconic opening line immediately frames marriage as an economic transaction: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” This irony exposes a world where wealth, not character, renders a man desirable, and where families like the Bennets scramble to secure their daughters’ futures. First impressions are thus shaped by class interest. Yet Austen complicates this with Elizabeth Bennet’s painful growth. After misreading Darcy’s pride and Wickham’s charm, she confronts her own folly: “How despicably have I acted! … Till this moment, I never knew myself.” Her prejudice, rooted in class resentment and wounded vanity, demonstrates how initial judgments can distort reality. Ultimately, Elizabeth and Darcy’s marriage transcends superficial impressions and class barriers, grounded instead in self-knowledge and mutual respect. Austen argues that true partnership requires seeing beyond rank and first encounters, valuing integrity over income. The novel endures as a lesson in humility: lasting love demands that we overcome the blindness of pride and the unfairness of prejudice.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic opening establishes the novel's central concern with class and marriage, showing how wealth instantly makes a man a matrimonial target regardless of his character."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth's anguished self-recognition after reading Darcy's letter reveals how her first impressions, shaped by class prejudice and wounded vanity, blinded her to both Darcy's and Wickham's true natures."
+    }
+  ],
+  "limits": "The second quotation is drawn from Elizabeth’s reflection after reading Darcy’s letter in Chapter 36, though the provided excerpt window does not explicitly label the chapter number."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—fallibility. Satan’s defiance is not merely an act of pride but a deliberate rejection of divine authority, framed as a perverse assertion of autonomy. He declares, 'Better to reign in Hell, then serve in Heav’n,' illustrating how rebellion masquerades as freedom, even when it leads to self-destruction. This choice underscores the paradox of free will: the capacity to choose is both a gift and a curse, as it enables both obedience and defiance. Meanwhile, the poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—link Satan’s rebellion to humanity’s fall, suggesting that temptation is a universal test of loyalty. Both Satan and Adam/Eve face the same question: Will they submit to God’s order or assert their own will? Milton’s text forces us to ask whether rebellion is an act of courage or folly, and whether true freedom lies in submission or defiance.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263-264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s twisted logic of rebellion, where he frames submission to God as servitude and defiance as liberation, even in damnation."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-4",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This opening establishes the poem’s focus on disobedience as the root of human suffering, linking Satan’s rebellion to Adam and Eve’s fall and framing temptation as a test of free will."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost* (10-book version). Line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the tension between hesitation and action is central to the play’s exploration of mortality and performance. Hamlet’s famous soliloquy reveals his deep contemplation of death, as he questions whether it is nobler to endure suffering or to end it through action: 'To be, or not to be, that is the question— / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them' (Act 3, Scene 1). This moment underscores his paralysis, rooted in fear of the afterlife and uncertainty about the moral consequences of revenge. Hamlet delays not from weakness, but from philosophical depth—his hesitation transforms him into a performer of madness, blurring authenticity and role-playing. His obsession with staging 'The Mousetrap' further illustrates how performance becomes a tool for truth-seeking: 'The play’s the thing / Wherein I’ll catch the conscience of the King' (Act 2, Scene 2). Here, Hamlet asserts control through art, using theater to mirror mortality and expose guilt. Ultimately, Hamlet's hesitation reflects the human condition—haunted by death, navigating meaning through performance. His inaction becomes action in thought, revealing Shakespeare's profound commentary on the limits of agency in a mortal world.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question— Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet's hesitation stems from deep existential contemplation about life, death, and the moral implications of action."
+    },
+    {
+      "quote": "The play’s the thing Wherein I’ll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a strategic tool to confront mortality and truth, bridging hesitation with decisive intellectual action."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Hamlet; line breaks adjusted for readability."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—agency. Satan’s defiance of God isn’t just an act of pride; it’s a deliberate choice to reject divine authority, illustrating how rebellion corrupts even the most exalted beings. His temptation of Eve, meanwhile, preys on her curiosity and desire for knowledge, framing free will as both a gift and a vulnerability. Eve’s fall demonstrates how temptation exploits human nature, turning autonomy into a liability when misused. Yet Milton also suggests that free will is essential to true obedience—without the capacity to choose wrongly, virtue would be meaningless. These moments reveal the poem’s tension: rebellion is both a tragic flaw and a necessary condition of moral existence. Let’s look at two key passages to see how Milton develops these ideas.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote underscores Satan’s embrace of rebellion as a conscious rejection of divine hierarchy, framing his defiance as a perverse assertion of free will."
+    },
+    {
+      "quote": "Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 958–959",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This line highlights Adam’s choice to follow Eve in sin, illustrating how free will operates within relationships and how temptation can distort love into complicity."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other versions."
+}

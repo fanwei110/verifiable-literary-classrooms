@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a passage from The Odyssey that beautifully captures the connection between wandering and the power of story. Odysseus himself reflects on how his long journey and suffering have become the stuff of legend, shaping his identity and ensuring his fame endures. This moment underscores how storytelling preserves the meaning of wanderings—both for the teller and those who listen.",
+  "evidence": [
+    {
+      "quote": "‘Tell me, why do you bewail thus your coming to Ithaca? Look at the many ways the gods have brought men here, all the men who have wandered over the great sea, suffering much in their hearts as they sailed, seeking a way home for themselves and their comrades. So it was with me, and I could not save my comrades, though I wanted to... But now I have come to this land of yours, and I will tell you all the truth.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 224–230 (approximate; varies by translation)",
+      "speaker_or_narrator": "Odysseus (narrating to the Phaeacians)",
+      "use_in_answer": "This quote illustrates how Odysseus frames his wanderings as a story worth telling, linking his physical journey to the act of narration and the legacy of his trials."
+    }
+  ],
+  "limits": "The exact line numbers may vary slightly depending on the translation (e.g., Lattimore, Fagles, or Lombardo). The core idea—wandering as a prelude to storytelling—remains consistent across versions."
+}

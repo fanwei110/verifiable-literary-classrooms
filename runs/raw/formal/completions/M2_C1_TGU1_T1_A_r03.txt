@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet’s contemplation of mortality and hesitation centers on the fear of what lies beyond death, which disrupts his impulse for action. The logic is simple: we would rather endure the miseries we know than rush to unknown ones, and thus ‘conscience does make cowards of us all.’ The dread of an undiscovered country after death extinguishes resolve, substituting instinctive action with overthinking paralysis.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscovered country, from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience does make cowards of us all; / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought, / And enterprises of great pitch and moment / With this regard their currents turn awry / And lose the name of action.",
+      "author": "William Shakespeare",
+      "work": "The Tragedy of Hamlet, Prince of Denmark",
+      "locator": "Act 3, Scene 1, lines 78–88 (often printed as 3.1.78–88)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This excerpt supports the claim that fear of an unknown afterlife is what transforms mortality into a source of hesitation, turning decisive action into paralyzed thought."
+    }
+  ],
+  "limits": "Modern editions based on the Second Quarto and First Folio may show minor punctuation or spelling variants; the line breaks are maintained here as a continuous passage from the 'To be, or not to be' soliloquy."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are central themes that shape Odysseus’s journey and the world of the epic. Homecoming (*nostos*) is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father. His disguise as a beggar in Ithaca tests his patience and cunning, revealing that true homecoming requires more than arrival; it demands recognition and reintegration. Identity is fluid in the poem, as characters like Odysseus and Telemachus must prove themselves through trials. Hospitality (*xenia*), a sacred Greek custom, structures interactions between hosts and guests, often revealing moral character. The suitors’ abuse of hospitality in Odysseus’s home underscores their corruption, while figures like Eumaeus the swineherd embody its ideals. These themes intertwine: hospitality can either aid or obstruct homecoming, and identity is often confirmed through how one is received—or rejected—by others. Together, they explore what it means to belong and to be known.",
+
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll be honest: my mother says I’m his son, but I don’t know. No one really knows his own father.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 215-216",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote highlights the crisis of identity Telemachus faces, as he questions his lineage and struggles to assert himself in his father’s absence."
+    },
+    {
+      "quote": "Here is a poor man come, a wanderer, driven by want to beg his bread, and everyone in hall gave bits, to cram his bag—only Antinous threw a stool, and banged his shoulder!",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 17, lines 483-486",
+      "speaker_or_narrator": "Narrator (Eumaeus recounting to Penelope)",
+      "use_in_answer": "This passage illustrates the suitors’ violation of hospitality, contrasting their cruelty with the ideal of *xenia* and foreshadowing their downfall."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

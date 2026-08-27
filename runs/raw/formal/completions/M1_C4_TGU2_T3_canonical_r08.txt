@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Though he initially claims, 'I think not of them,' his obsession with the witches’ words reveals how prophecy fuels his unchecked desire for power. This ambition quickly spirals into guilt, as seen in Macbeth’s hallucination of a dagger—'Is this a dagger which I see before me, / The handle toward my hand?'—a vision that symbolizes his moral torment and the bloody path he is about to take. The prophecy gives him a false sense of destiny, while his ambition blinds him to the consequences of his actions, leading to overwhelming guilt that haunts him throughout the play. Together, these forces create a cycle of corruption, showing how unchecked ambition, fueled by prophecy, can destroy even the noblest of characters.",
+  "evidence": [
+    {
+      "quote": "I think not of them:",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote highlights Macbeth’s denial of his obsession with the witches’ prophecy, revealing how deeply it influences his ambition despite his attempts to dismiss it."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s guilt and psychological unraveling, as the hallucination of the dagger foreshadows his violent actions and the moral consequences he will face."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct textual evidence of Lady Macbeth’s role in ambition or explicit references to guilt following Duncan’s murder, limiting the discussion of her influence and the full arc of Macbeth’s remorse."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Macbeth's ambition drives him to see a hallucination of a dagger before he murders Duncan. In Act 2, Scene 1, he questions his senses as the dagger leads him toward the deed, showing how his overwhelming desire for power distorts his perception of reality.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly links Macbeth's ambition-fueled hallucination to his impending murder of Duncan, showing how his inner drive manifests as a visual deception."
+    }
+  ],
+  "limits": "Using the Folger Shakespeare edition; line numbers may vary slightly in other editions."
+}

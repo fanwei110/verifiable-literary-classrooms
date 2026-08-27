@@ -1,0 +1,14 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the theme of the fall and disobedience is introduced right at the beginning of the poem, where the narrator invokes the Muse to sing of 'Man's First Disobedience' and its profound consequences for humanity.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought Death into the World, and all our woe,\nWith loss of _Eden_, till one greater Man\nRestore us, and regain the blissful Seat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "BOOK I, lines 1-5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly introduces the central theme of Adam and Eve's disobedience, the eating of the forbidden fruit, and the resulting fall from Eden, which brought death and suffering into the world."
+    }
+  ],
+  "limits": ""
+}

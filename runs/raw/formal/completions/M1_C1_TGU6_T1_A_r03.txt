@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the deep connection between wandering and storytelling when Odysseus himself reflects on the power of his own journey. His words remind us that the act of wandering—whether physical or metaphorical—becomes the raw material for story, and story, in turn, gives meaning to the wanderer’s trials. This interplay suggests that to wander is to gather tales, and to tell tales is to make sense of the wandering.",
+  "evidence": [
+    {
+      "quote": "Of all creatures that breathe and move upon the earth, nothing is bred that is weaker than man. For he thinks that he will never suffer misfortune in future days, while the gods grant him courage and his knees are quick. But when the blessed gods bring sad days upon him, against his will he must suffer it with enduring spirit. For the mind of men upon the earth is even such as the day which the father of gods and men brings upon them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 18, lines 130–137",
+      "speaker_or_narrator": "Odysseus (disguised as a beggar, reflecting broadly on human suffering)",
+      "use_in_answer": "This passage underscores the inevitability of hardship in wandering, framing suffering as the foundation of story—Odysseus’s own trials become the substance of his epic tale."
+    },
+    {
+      "quote": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–5",
+      "speaker_or_narrator": "Narrator (invocation of the Muse)",
+      "use_in_answer": "The opening lines explicitly link Odysseus’s wandering to the story itself, presenting his journey as the narrative’s driving force and defining the epic as a tale born from movement and experience."
+    }
+  ],
+  "limits": "Translations vary; the quoted passages follow the 1919 public-domain version by Samuel Butler. The first passage is often interpreted as Odysseus’s indirect commentary on his own wanderings, though he speaks in disguise. The second is the canonical invocation, universally attributed to Homer."
+}

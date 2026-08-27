@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, mortality, and the weight of performance on human action. Hamlet’s infamous delay in avenging his father’s murder stems from his profound existential dread—he questions not only the morality of revenge but also the very meaning of life and death. His hesitation is not mere cowardice but a crisis of conscience, amplified by his awareness of mortality. The famous 'To be, or not to be' soliloquy reveals his torment: he contemplates suicide as an escape from life’s suffering but fears the unknown of death, illustrating how mortality paralyzes action. Additionally, Hamlet’s obsession with performance—both theatrical and personal—further complicates his resolve. He stages the 'Mousetrap' play to 'catch the conscience of the king,' yet his own performance as the 'antic disposition' blurs the line between truth and pretense, delaying his revenge. These themes intertwine, showing how overthinking and the fear of consequences can render even the most determined individuals inert. Shakespeare forces us to ask: Is hesitation a flaw, or a necessary reckoning with the human condition?",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation, as he weighs the pain of life against the uncertainty of death, revealing how mortality stifles action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, Lines 600-601",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s reliance on performance to confirm Claudius’s guilt, showing how his theatricality delays direct revenge."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare Third Series edition of *Hamlet*; line numbers may vary slightly in other editions."
+}

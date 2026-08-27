@@ -1,0 +1,14 @@
+{
+  "answer": "In Book 1 of The Odyssey, the narrator reflects on Odysseus' long journey home, emphasizing how wandering is central to the story: 'Much did he endure, / Wandering, struggling on the open sea.' This captures both the physical ordeal and the narrative structure of the epic, where movement and struggle shape the meaning of homecoming.",
+  "evidence": [
+    {
+      "quote": "Much did he endure, / Wandering, struggling on the open sea.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 4–5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that wandering is both a physical and narrative core of The Odyssey, framing Odysseus’ experience as one defined by struggle and journey."
+    }
+  ],
+  "limits": "The exact wording may vary by translation; this version follows the Richard Lattimore translation (University of Chicago Press)."
+}

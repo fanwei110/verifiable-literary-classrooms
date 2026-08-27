@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are deeply intertwined themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not merely a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father, often by proving his cunning and resilience. His disguise as a beggar in Ithaca tests his ability to navigate deception while asserting his true self, revealing how identity is both fluid and essential to his survival. Hospitality, meanwhile, serves as a cultural cornerstone, reflecting the Greeks’ belief in divine justice. Guests and hosts are bound by sacred obligations, and violations—like the suitors’ abuse of Penelope’s home—highlight the consequences of moral decay. These themes converge when Odysseus, disguised, is welcomed by Eumaeus, whose kindness contrasts with the suitors’ greed. Through these trials, Homer suggests that true homecoming requires not just physical return but the reaffirmation of one’s identity and the restoration of ethical order in the household and community.",
+
+  "evidence": [
+    {
+      "quote": "‘Stranger, my looks, my face, my carriage, were soon lost / When the Achaeans crossed the sea to Troy, / Odysseus my lord among the rest. / If he returned, if he were here to care for me, / I might be happily renowned!’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 358-362",
+      "speaker_or_narrator": "Penelope",
+      "use_in_answer": "This quote underscores the link between homecoming and identity, as Penelope laments Odysseus’s absence and the erosion of her own status, illustrating how his return is tied to the restoration of their shared identity and household."
+    },
+    {
+      "quote": "‘Here is a poor man come, a wanderer, / Driven by want to beg his bread, and everyone / In hall gave bits, to cram his bag—only / Antinous threw a stool, and banged his shoulder!’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 17, lines 483-486",
+      "speaker_or_narrator": "Narrator (Eumaeus recounting to Penelope)",
+      "use_in_answer": "This passage highlights the suitors’ violation of *xenia*, contrasting their cruelty with the proper hospitality Odysseus receives elsewhere, and demonstrates how hospitality tests moral character and foreshadows divine retribution."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

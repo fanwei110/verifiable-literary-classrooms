@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition can lead to powerful hallucinations that blur reality and illusion, as seen when Macbeth sees a dagger guiding him toward murder—a manifestation of his inner turmoil and vaulting ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that intense ambition can produce hallucinations, as Macbeth envisions a dagger that symbolizes his moral conflict and growing resolve to commit regicide."
+    }
+  ],
+  "limits": "The exact wording may vary slightly depending on the edition; this quote is from the Folger Shakespeare Library edition of Macbeth."
+}

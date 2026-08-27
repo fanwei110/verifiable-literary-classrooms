@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by the character Sydney Carton near the end of Charles Dickens's novel 'A Tale of Two Cities', as he prepares to sacrifice his life for another.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote captures the exact line the student asked about and confirms the speaker, work, and context of final sacrifice."
+    }
+  ],
+  "limits": "The exact wording sometimes appears with a semicolon or period after 'I do' depending on the edition."
+}

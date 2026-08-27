@@ -1,0 +1,10 @@
+{
+  "answer": "When we press Hamlet for proof of its central concerns—hesitation, mortality, performance—Act 3, Scene 1 offers immediate evidence. Hamlet’s ‘To be, or not to be’ soliloquy distills hesitation into a metaphysical question: ‘Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them.’ Here, the prince weighs endurance against action, and his contemplation of suicide turns mortality into a paralyzing thought experiment—death is not an end but a leap into a dream from which ‘what dreams may come’ forces human beings to pause. Moments before, Claudius’s aside gives the play’s sharpest statement on performance. Stung by Polonius’s line about piety disguising the devil, the king confesses: ‘The harlot’s cheek, beautied with plastering art, / Is not more ugly to the thing that helps it / Than is my deed to my most painted word.’ Claudius unmasking himself links painted words to painted faces, revealing that all courtly performance is a cosmetic lie that will rot under death’s final gaze—the same dread that holds Hamlet still.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer

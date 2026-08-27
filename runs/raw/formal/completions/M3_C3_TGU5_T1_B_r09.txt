@@ -1,0 +1,14 @@
+{
+  "answer": "In response to your request for textual proof, one of the most direct explanations of the fall and disobedience in *Paradise Lost* comes right at the beginning of the poem, in the very first lines. Milton states his central theme clearly: he will 'Sing' of 'Man's First Disobedience,' which resulted in humanity's loss of Eden and introduction of death and suffering. This sets the foundation for the entire epic.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought Death into the World, and all our woe,\nWith loss of _Eden_, till one greater Man\nRestore us, and regain the blissful Seat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–5",
+      "speaker_or_narrator": "The Narrator (Milton's poetic voice invoking the Muse)",
+      "use_in_answer": "This quote establishes the core theme of the poem: the disobedience of Adam and Eve, the consequences of their sin, and the resulting fall from grace."
+    }
+  ],
+  "limits": "The text provided is from the original ten-book version of Paradise Lost; line numbers and formatting may vary slightly in different editions."
+}

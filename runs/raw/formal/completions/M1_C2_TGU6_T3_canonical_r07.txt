@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are central themes that shape Odysseus’s journey and the moral fabric of the epic. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father after years of wandering. His disguise as a beggar upon returning to Ithaca tests the loyalty of his household and forces him to prove his worth, revealing that identity is both performative and earned. Hospitality, meanwhile, is a sacred duty in ancient Greek culture, governing interactions between hosts and guests. The suitors’ abuse of *xenia* by overstaying their welcome and plundering Odysseus’s home underscores their moral corruption, while figures like Eumaeus the swineherd demonstrate true hospitality by aiding the disguised hero. These themes intertwine: Odysseus’s homecoming depends on recognizing and being recognized, and proper hospitality ensures his survival and eventual triumph. The epic suggests that identity is affirmed through community, and home is where one is both known and welcomed.",
+  "evidence": [
+    {
+      "quote": "Stranger, I’ll be the first to question you— / who are you, where do you come from, of what nation and parents were you born?",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 170-171",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote illustrates the importance of identity and hospitality, as Telemachus, following *xenia*, first asks the stranger’s lineage before offering aid, reflecting the cultural expectation to honor guests while also seeking to understand their true nature."
+    },
+    {
+      "quote": "No finer, greater gift in the world than that... / when a man and woman possess their home, two minds, / two hearts that work as one.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 182-184",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "This quote underscores the ideal of homecoming as a restoration of unity and identity, where Odysseus’s longing for his household symbolizes the deeper human desire for belonging and mutual recognition."
+    }
+  ],
+  "limits": "Quotations are from Robert Fagles' translation (1996). Locators refer to line numbers in this edition."
+}

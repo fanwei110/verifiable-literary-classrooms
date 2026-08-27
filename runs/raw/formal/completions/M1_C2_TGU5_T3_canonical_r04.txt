@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s temptation of Eve in Book IX reveals how external influences exploit human curiosity and desire, framing disobedience as an act of empowerment. Satan cunningly appeals to Eve’s pride, suggesting that eating the forbidden fruit will grant her godlike knowledge: 'Ye shall be as Gods, / Knowing both good and evil as they know.' This deception underscores the seductive nature of temptation, which preys on the human longing for autonomy. Yet Milton also emphasizes free will as a divine gift, one that allows Adam and Eve to choose obedience or rebellion. When Eve eats the fruit, she exercises her agency, but her decision is tainted by Satan’s manipulation, raising questions about the boundaries of free will under duress. Similarly, Adam’s subsequent choice to join her in rebellion highlights the weight of human responsibility—his act is not merely passive but a deliberate rejection of divine authority. Through these moments, Milton argues that rebellion stems from a misguided pursuit of self-determination, ultimately leading to the Fall. The poem thus frames temptation as a test of moral integrity, where free will becomes both the means of salvation and the instrument of downfall.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing both good and evil as they know.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative appeal to Eve’s pride, framing disobedience as a path to divine knowledge and autonomy."
+    },
+    {
+      "quote": "Not deceived, / But fondly overcome with female charm.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 998-999",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This line highlights Adam’s conscious choice to rebel, showing that his fall is an act of free will rather than deception, emphasizing the gravity of human responsibility."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

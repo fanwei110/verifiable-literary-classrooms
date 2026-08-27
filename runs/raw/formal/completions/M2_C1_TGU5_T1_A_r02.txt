@@ -1,0 +1,14 @@
+{
+  "answer": "In Paradise Lost, John Milton opens the epic by directly invoking the theme of 'Man's first disobedience'—the original sin of eating the forbidden fruit—which brought death, woe, and the loss of Eden into the world. This disobedience is the central fall that the poem seeks to explain and ultimately to remedy through the redemptive sacrifice of Christ (the 'greater Man').",
+  "evidence": [
+    {
+      "quote": "Of Man's first disobedience, and the fruit / Of that forbidden tree whose mortal taste / Brought death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful seat, / Sing, Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "Narrator (the epic poet)",
+      "use_in_answer": "This quote introduces the poem's subject—disobedience and the Fall—and establishes that the loss of Eden and human suffering stem directly from eating the forbidden fruit, framing the entire narrative of fall and redemption."
+    }
+  ],
+  "limits": "Quotation from the 1674 second edition as commonly modernized; original spelling may differ. The ellipsis indicates the sentence continues."
+}

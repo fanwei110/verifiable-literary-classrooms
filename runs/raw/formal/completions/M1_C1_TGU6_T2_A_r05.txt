@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Homer’s *Odyssey*. Odysseus says it to the Cyclops Polyphemus as a clever trick to conceal his identity after blinding the monster.",
+  "evidence": [
+    {
+      "quote": "My name is Noman (Οὖτις): my mother, my father, and all my friends call me Noman.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the attribution of the line to Odysseus in the *Odyssey* as part of his deception of Polyphemus."
+    }
+  ],
+  "limits": "The exact phrasing varies slightly across translations; the Greek word Οὖτις (Outis) means 'no one' or 'noman.'"
+}

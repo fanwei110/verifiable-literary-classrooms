@@ -1,0 +1,14 @@
+{
+  "answer": "As the narrator famously opens A Tale of Two Cities, the period is defined by stark opposites: \"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.\" This cascade of paired contradictions directly explains how a single historical moment can contain irreconcilable truths—the very essence of historical contradiction.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This famous opening vividly juxtaposes contradictory states to characterize the historical period, directly illustrating the idea of historical contradiction."
+    }
+  ],
+  "limits": "The quotation is taken verbatim from the provided frozen excerpt of the novel's opening paragraph."
+}

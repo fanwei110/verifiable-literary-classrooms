@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, temptation, free will, and rebellion are central to the fall of Adam and Eve. Satan, after rebelling against God, seeks revenge by corrupting God’s newest creation. He tempts Eve by questioning divine command, exploiting her curiosity and desire for knowledge. Crucially, Milton emphasizes that Adam and Eve had free will—they were warned and could have resisted. Their choice to disobey reflects not fate, but moral agency. This freedom makes their fall tragic, not inevitable. Satan’s rhetoric reveals his manipulative nature, as he reframes sin as enlightenment. His declaration, 'Better to reign in Hell than serve in Heav'n' (Book 1), justifies his rebellion but also reveals pride as his core motivation. Later, when Satan enters Eden, he admits, 'Evil, be thou my good' (Book 4), showing his complete moral inversion. These quotations underscore how rebellion warps reason and will. Milton does not blame God for the fall; instead, he illustrates that genuine love and obedience must be voluntary. Thus, temptation becomes the crucible where free will is tested, and moral responsibility affirmed. The poem ultimately explores how personal choices, influenced by pride and deceit, lead to spiritual downfall when free will is misused.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion, showing Satan's prideful rejection of divine authority."
+    },
+    {
+      "quote": "Evil, be thou my good",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 4, line 110",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan's moral inversion and commitment to evil, reinforcing how temptation distorts reason."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of Paradise Lost; line numbers may vary slightly by edition."
+}

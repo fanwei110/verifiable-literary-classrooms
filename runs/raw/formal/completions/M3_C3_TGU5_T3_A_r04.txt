@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through Satan’s defiant choices and his influence on Adam and Eve. After being cast out of Heaven, Satan embraces rebellion, asserting his autonomy despite divine authority. His famous declaration, 'Here we may reign secure, and in my choyce / To reign is worth ambition though in Hell: / Better to reign in Hell, then serve in Heav’n' (Book I), reveals his prideful rejection of obedience, framing rebellion as a form of empowerment. This moment underscores the poem’s examination of free will—Satan freely chooses defiance over submission, illustrating moral agency even in fallen nature. Later, temptation emerges as Satan cunningly targets Eve, exploiting her desires and curiosity. Milton shows that temptation does not rely solely on force but on persuasion and internal vulnerability. Eve’s eventual fall stems not from coercion but from her own exercised will, mirroring Satan’s earlier choice. Thus, *Paradise Lost* presents temptation as a test of reason and obedience, rebellion as an assertion of will, and free will as the foundation of moral responsibility. The tragedy lies not in fate, but in choices freely made.",
+  "evidence": [
+    {
+      "quote": "Here we may reign secure, and in my choyce / To reign is worth ambition though in Hell: / Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 258-263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan values autonomy and rebellion over submission, framing his defiance as a conscious exercise of free will."
+    }
+  ],
+  "limits": "Only one full quotation was clearly extractable from the provided frozen sources; the second requested quote could not be confirmed due to incomplete text in the source windows."
+}

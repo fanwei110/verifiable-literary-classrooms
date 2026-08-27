@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, ambition, prophecy, and guilt form a tightly wound tragic chain. The Weird Sisters’ prophecy that Macbeth will be king first pricks his dormant ambition. Even before Lady Macbeth’s urgings, he lets slip his “black and deep desires,” imploring the stars to hide their light so his murderous intent remains invisible. Here, the supernatural suggestion acts as a catalyst: ambition needs only a whisper of fate to rush toward violence. Once the murder of Duncan is committed, guilt instantly replaces ambition’s heat. Macbeth stares at his hands and asks whether all of Neptune’s ocean can wash away the blood, recognizing that the stain is ineradicable. The hand that seized the crown now becomes a permanent emblem of psychological torment. Shakespeare thus charts a devastating loop—prophecy awakens ambition, ambition fuels murder, and murder births a guilt so corrosive that it unravels the protagonist from within. The play warns that embracing prophecy without moral restraint transforms a promising destiny into a nightmare from which no cleansing is possible.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; Let not light see my black and deep desires.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "1.4.50-51",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote reveals how the prophecy sparks Macbeth's hidden ambition and his immediate impulse to conceal his murderous thoughts."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.2.60-61",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote captures the sudden, overwhelming guilt Macbeth experiences after Duncan’s murder, as he realizes the deed has stained him irreversibly."
+    }
+  ],
+  "limits": "Quotations follow typical modern editions; line numbers may vary slightly across different editions."
+}

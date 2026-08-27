@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined. Elizabeth Bennet and Mr. Darcy’s evolving relationship reveals how initial judgments based on social class can obscure true character. When Darcy first dismisses Elizabeth as 'not handsome enough to tempt me,' his pride in his high social standing blinds him to her worth (Ch. 3). This moment illustrates how class prejudice distorts first impressions. Similarly, Charlotte Lucas’s pragmatic marriage to Mr. Collins reflects the economic realities faced by women: 'I am not romantic, you know... I ask only a comfortable home' (Ch. 6). Here, Charlotte prioritizes financial security over love, underscoring how marriage in Regency England was often a transaction influenced by class. These examples challenge readers to question surface appearances and societal expectations. Austen critiques a world where reputation and rank overshadow personal merit, urging a reevaluation of what truly matters in relationships. Ultimately, Elizabeth and Darcy’s union succeeds only after they overcome their pride, prejudice, and assumptions about class, proving that lasting marriage requires self-awareness and mutual respect.",
+  "evidence": [
+    {
+      "quote": "not handsome enough to tempt me",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports how Darcy's initial class-based prejudice shapes his poor first impression of Elizabeth."
+    },
+    {
+      "quote": "I am not romantic, you know... I ask only a comfortable home",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 6",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote supports the idea that marriage for many women was a pragmatic choice shaped by class and economic necessity."
+    }
+  ],
+  "limits": "Quotations are based on standard editions of the novel; slight variations may exist across versions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, wandering is not just physical travel but a path through storytelling and memory. One key moment that reveals this comes when Odysseus, as a guest in the palace of King Alcinous, begins to recount his long journey. He says, 'I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens.' This line introduces his tale not just as a report of events, but as a crafted narrative central to his identity—linking wandering with the act of telling stories.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known before all men for the study of crafty designs, and my fame goes up to the heavens.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that Odysseus's wandering is deeply tied to his identity and storytelling, framing his journey as both physical and narrative."
+    }
+  ],
+  "limits": "The exact wording may vary by translation; this quotation follows the Richard Lattimore 1965 translation."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "A close look at two passages illuminates how homecoming, identity, and hospitality intertwine. The epic’s opening crystallizes Odysseus’s core identity: “though he was longing to return to his wife and country, he was detained by the goddess Calypso” (Book I). His entire being is defined by the drive to reach Ithaca; separation from home is a suspension of self. Later, shipwrecked and naked before Nausicaa, Odysseus does not simply beg for aid—he articulates the ideal that sustains him: “May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house” (Book VI). His blessing reveals that the peaceful, unified home is the highest good, the object of every wanderer’s longing. In this moment, the suppliant both affirms the value of the home to which he strives and invokes the sacred duty of hospitality. Nausicaa responds by granting clothes and guidance, demonstrating how hospitality mediates between a stranger’s displacement and his hoped-for homecoming. Thus, The Odyssey presents identity as rooted in home, and hospitality as the bridge that honors that bond even in the wilderness.",
+  "evidence": [
+    {
+      "quote": "though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey, trans. Samuel Butler",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote establishes that Odysseus’s identity is inseparable from his yearning for home and wife, making homecoming the central drive of the epic."
+    },
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey, trans. Samuel Butler",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Odysseus’s blessing to Nausicaa defines the ideal home as the ultimate good and implicitly invokes hospitality as a means to preserve or reach such a home."
+    }
+  ],
+  "limits": "Quotations follow the Butler translation as it appears in the provided windows; no standard line numbers are available."
+}

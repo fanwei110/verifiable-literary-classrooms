@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation is not simple delay but a philosophical crisis rooted in mortality. Hamlet’s famous “To be, or not to be” soliloquy frames every choice as a negotiation with death: to suffer or to act. Yet the fear of an unknown afterlife—“the undiscovered country” foreshadowed by the line “To sleep, perchance to dream—ay, there’s the rub”—makes even resolute action falter. Mortality turns decision-making into paralysis because what follows death, “must give us pause.” This internal hesitation is set against the court’s external performance of virtue. Polonius cynically observes that “with devotion’s visage / And pious action we do sugar o’er / The devil himself.” Where Hamlet wrestles authentically with his conscience, the courtiers use religious posture to mask corruption. Thus, performance becomes a deceptive spectacle while Hamlet’s genuine encounter with mortality breeds the very hesitation that makes him the play’s most human figure. The juxtaposition reveals that hesitation, born of mortal awareness, can be more truthful than the smooth, rehearsed performances that surround it.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there’s the rub, / … Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Source window 1 (Hamlet's soliloquy)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation shows how the fear of what dreams may come in death creates hesitation, directly linking mortality to the paralysis of action."
+    },
+    {
+      "quote": "with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Source window 1 (Polonius instructing Ophelia)",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This quotation illustrates the theme of performance, revealing how characters use religious appearance to conceal inner corruption, contrasting with Hamlet’s authentic hesitation."
+    }
+  ],
+  "limits": "The excerpts support the claims; all quotations are drawn directly from the provided frozen source windows."
+}

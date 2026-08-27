@@ -1,0 +1,22 @@
+{
+  "answer": "Letâs look at how Austen intertwines first impressions, class, and marriage. The novelâs famous opening line immediately links marriage to economics: a wealthy man is presumed to need a wife, launching a plot driven by financial and social calculations. First impressions are shaped almost entirely by classâDarcyâs initial disdain at the Meryton assembly stems from the Bennetsâ lower rank and lack of connections. Yet Austen complicates this. When Lady Catherine attempts to forbid Elizabethâs engagement, Elizabeth asserts a radical equality grounded not in birth but in gentility. Darcyâs own journey from proud snob to humbled lover shows that first impressions can be dismantled by self-awareness. Marriage, then, is not just a business transaction; it can be a meeting of true minds, but only when class prejudice is examined and overcome.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1, opening sentence",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic sentence establishes from the start that marriage in this society is a financial arrangement, not a matter of love, and sets up the central role of class in forming first impressions and marital plots."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman's daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabethâs rebuttal to Lady Catherine de Bourgh demonstrates her refusal to equate class rank with personal worth, challenging the social rigidity that underpins first impressions and the marriage market."
+    }
+  ],
+  "limits": "Chapter numbers follow the standard 61-chapter edition. Quotations are from the 1813 first edition text."
+}

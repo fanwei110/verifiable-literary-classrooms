@@ -1,0 +1,14 @@
+{
+  "answer": "In response to your request for textual proof, this passage from John Milton's *Paradise Lost* directly addresses the themes of human fall and disobedience. Milton states that his poem will explore 'Man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe.' This clearly establishes the poem's central concern with the origins of human sin and its consequences.",
+  "evidence": [
+    {
+      "quote": "Of Man's First disobedience, and the Fruit / Of that Forbidden Tree, which to the bringing / Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat, / Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "The Narrator (Milton's poetic voice invoking the Muse)",
+      "use_in_answer": "This opening lines establish the thematic foundation of the poem: the fall of man through disobedience, resulting in expulsion from Eden and the introduction of death and suffering."
+    }
+  ],
+  "limits": "The lines cited are from the 1674 edition of *Paradise Lost*, which is the most widely accepted version; slight variations may exist in earlier editions."
+}

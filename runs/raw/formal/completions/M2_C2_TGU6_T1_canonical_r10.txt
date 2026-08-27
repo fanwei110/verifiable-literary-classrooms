@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens with an invocation that binds wandering and story together: the poet calls on the Muse to sing of a man whose very identity is defined by being driven far off course. This frame reminds us that without the detours and suffering of the journey there would be no song to sing.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns / driven time and again off course, once he had plundered / the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–3",
+      "speaker_or_narrator": "Narrator (the poet invoking the Muse)",
+      "use_in_answer": "This quotation directly equates the act of storytelling with the hero's endless wandering, making the wanderer’s detours the necessary material of the epic song."
+    }
+  ],
+  "limits": "Quotation from the Robert Fagles translation (1996); line breaks reflect the printed verse."
+}

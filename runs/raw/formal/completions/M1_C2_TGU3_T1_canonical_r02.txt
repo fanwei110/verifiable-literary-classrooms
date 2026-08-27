@@ -1,0 +1,14 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen sharply critiques the transactional nature of the marriage market through her characters' observations. Here’s a key quotation that highlights the irony of marriages based on convenience rather than genuine affection:",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening line satirizes societal assumptions about marriage as an economic arrangement, exposing the irony of prioritizing wealth over mutual respect or love."
+    }
+  ],
+  "limits": "The quotation is from the 1813 first edition; chapter numbering may vary slightly in later editions."
+}

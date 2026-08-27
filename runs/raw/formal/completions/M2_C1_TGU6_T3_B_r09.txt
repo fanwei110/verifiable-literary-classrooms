@@ -1,0 +1,22 @@
+{
+  "answer": "In the Odyssey, homecoming, identity, and hospitality are woven together. Greek custom demanded xenia—generous welcome of strangers. When Telemachus greets the disguised Athena, he models this ideal: “Greetings, stranger! Here in our house you’ll find a royal welcome. Have supper first, then tell us what you need” (1.123-124). That open-armed hospitality contrasts with the suitors who devour Odysseus’s stores, betraying xenia and delaying his nostos. Meanwhile, Odysseus’s identity is repeatedly concealed and tested. True homecoming is not just returning to Ithaca; it requires being recognized as the rightful king, husband, and father. The climax comes when Penelope tests him with the secret of their bed. Odysseus’s explosive response—“There is our pact and pledge, our secret sign, built into that bed—my work and mine alone…” (23.206-208)—proves his identity through intimate knowledge. The bed, rooted in the earth, symbolizes a stable home and a marriage that has endured. Thus, the epic insists that real homecoming demands both the restoration of proper hospitality and the unquestionable revelation of the self to those who matter most.",
+  "evidence": [
+    {
+      "quote": "Greetings, stranger! Here in our house you’ll find a royal welcome. Have supper first, then tell us what you need.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 123-124",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote demonstrates the proper custom of xenia, extended even to a stranger, which the suitors’ abuse later subverts."
+    },
+    {
+      "quote": "There is our pact and pledge, our secret sign, built into that bed—my work and mine alone…",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 206-208",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This secret of the immovable bed proves Odysseus’s identity beyond doubt, symbolizing that his homecoming is complete only when his true self is recognized by his wife."
+    }
+  ],
+  "limits": "Quotations follow Robert Fagles’s 1996 translation; line numbers may differ slightly in other editions."
+}

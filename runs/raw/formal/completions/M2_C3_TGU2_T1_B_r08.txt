@@ -1,0 +1,14 @@
+{
+  "answer": "Certainly. In Act 2, Scene 1, Macbeth’s dagger soliloquy directly links his ambition to hallucination. He sees a floating dagger leading him toward Duncan’s chamber and questions whether it’s real: “Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?” Moments later, he dismisses the vision, saying, “There’s no such thing. / It is the bloody business which informs / Thus to mine eyes.” The “bloody business” is his ambition-driven plan to murder Duncan. Thus, his ruthless ambition generates a hallucinatory dagger that both tempts and torments him.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me,\nThe handle toward my hand? Come, let me clutch thee:—\nI have thee not, and yet I see thee still.\nArt thou not, fatal vision, sensible\nTo feeling as to sight? or art thou but\nA dagger of the mind, a false creation,\nProceeding from the heat-oppressed brain?\nI see thee yet, in form as palpable\nAs this which now I draw.\nThou marshall’st me the way that I was going;\nAnd such an instrument I was to use.\nMine eyes are made the fools o’ the other senses,\nOr else worth all the rest: I see thee still;\nAnd on thy blade and dudgeon, gouts of blood,\nWhich was not so before.—There’s no such thing.\nIt is the bloody business which informs\nThus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This soliloquy demonstrates that Macbeth’s murderous ambition (“the bloody business”) causes him to hallucinate a dagger that leads him to kill Duncan."
+    }
+  ],
+  "limits": "Quotation taken from the provided source excerpt; original text may vary slightly across editions. Act and scene numbers follow standard editorial practice."
+}

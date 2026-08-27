@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea of murder, but his ambition—fueled by the witches’ words—overpowers his moral hesitation. For example, after Banquo mentions the 'three Weird Sisters,' Macbeth dismisses them with 'I think not of them,' yet his obsession is evident when he later hallucinates a dagger, crying, 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his guilt-ridden mind, already corrupted by the 'bloody business' he is about to commit. The prophecy acts as both a catalyst and a curse, as Macbeth’s actions to fulfill it lead to paranoia and violence. Meanwhile, guilt manifests in his psychological unraveling, from sleeplessness to hallucinations, showing how ambition and prophecy breed self-destruction. Shakespeare warns that unchecked ambition, even when spurred by fate, corrupts the soul and invites ruin.",
+  "evidence": [
+    {
+      "quote": "I think not of them: / Yet, when we can entreat an hour to serve, / We would spend it in some words upon that business, / If you would grant the time.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote reveals Macbeth’s denial of his obsession with the witches’ prophecy, highlighting his internal conflict and the power of ambition over his conscience."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination demonstrates Macbeth’s guilt and psychological torment, showing how ambition and the prophecy have warped his mind before he even commits the murder."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other versions."
+}
+```

@@ -1,0 +1,14 @@
+{
+  "answer": "Austen’s famous opening line wittily declares that a wealthy single man must be looking for a wife—when in fact it is the neighbourhood families who are eagerly hunting him as a match for their daughters. This reversal exposes the marriage market’s irony: the supposed subject of desire is actually the object of pursuit.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the explanation of marriage market irony by highlighting the humorous gap between the stated universal truth and the real social dynamics of matchmaking."
+    }
+  ],
+  "limits": "Text from widely available editions; no significant variation."
+}

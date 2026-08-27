@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus to the Cyclops Polyphemus in Homer’s Odyssey, Book 9. After getting the Cyclops drunk, Odysseus gives a false name, which later helps him escape because when Polyphemus calls for help, he says “Noman is killing me,” so the other Cyclopes think it’s a divine affliction.",
+  "evidence": [
+    {
+      "quote": "my name is Noman",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366-367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote is the exact line from Odysseus to Polyphemus, providing the false name that is central to the trick."
+    }
+  ],
+  "limits": "Translation variations may use 'Nobody' instead of 'Noman'. The exact line numbering can differ between translations."
+}

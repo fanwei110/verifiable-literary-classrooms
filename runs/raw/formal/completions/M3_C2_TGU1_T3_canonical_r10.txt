@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the tension between action and inaction is central to the protagonist’s struggle with hesitation, mortality, and performance. Hamlet's contemplation of death and the afterlife paralyzes his ability to act, as seen when he soliloquizes, 'To be, or not to be, that is the question' (3.1.56). This hesitation stems from existential doubt—whether enduring life’s sufferings is nobler than risking the unknown of death. His introspection turns performance into a mask for inaction; he uses feigned madness and theatricality to probe truth without committing to decisive action. This performative strategy underscores his internal conflict: he must act to fulfill his role as avenger, yet continually delays. His observation to Rosencrantz and Guildenstern—'I know not “seems”' (1.2.76)—reveals his disdain for false appearances, yet he himself becomes a performer, caught in a role he cannot fully inhabit. Thus, Hamlet’s hesitation is not mere cowardice but a profound response to human mortality. His awareness of death’s inevitability forces him to question the meaning and consequences of action, making his performance both a shield and a symptom of his existential crisis.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's existential hesitation and internal conflict about life, death, and action."
+    },
+    {
+      "quote": "I know not “seems”",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "1.2.76",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote highlights Hamlet's critique of false performance while ironically positioning himself as a performer."
+    }
+  ],
+  "limits": "Line numbers based on the Folger Shakespeare Library edition of Hamlet."
+}

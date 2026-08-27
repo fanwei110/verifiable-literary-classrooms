@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet’s “To be, or not to be” soliloquy directly connects the terror of death with the paralysis of decision. When he asks whether it is nobler to endure life’s sufferings or to end them, he confronts mortality head-on. But what freezes him—and, he claims, all of us—is the fear of what comes after death, the “undiscover’d country.” That dread “puzzles the will” and turns us away from decisive action. So mortality isn’t just an end; it’s the unknown that makes hesitation feel like survival.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscover’d country from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 78–82",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly ties the fear of an unknown afterlife to the hesitation that prevents us from acting, even when action might end suffering."
+    }
+  ],
+  "limits": "Line numbering follows the widely adopted Arden/Riverside convention; early texts (Q2, F) show slight variations in punctuation."
+}

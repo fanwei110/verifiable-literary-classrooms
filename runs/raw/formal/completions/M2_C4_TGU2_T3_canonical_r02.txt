@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition, prophecy, and guilt intertwine into a self-destructive engine. The Weird Sistersâ cryptic prophecyââFair is foul, and foul is fairââcorrodes moral boundaries, blurring good and evil precisely as Macbethâs ambition begins to stir. That riddling promise of kingship warps his desire into compulsion. But ambition, once unleashed, breeds immediate psychological torment. Before murdering Duncan, Macbeth hallucinates: âIs this a dagger which I see before me, / The handle toward my hand?â The dagger, dripping with imagined blood, is guilt made visibleâa projection of his horrified conscience even before the deed is done. Prophecy ignites the ambition; guilt instantly follows, demonstrating that the cost of transgression is inscribed in the mind. Shakespeare suggests that the very instruments of temptation become the instruments of self-destruction.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "All three Witches",
+      "use_in_answer": "This opening incantation establishes the moral inversion that makes the prophecyâs deceptive allure fuel Macbethâs ambition."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucinated dagger embodies the guilt that immediately emerges from ambition, showing how the mind torments itself when chasing prophecy."
+    }
+  ],
+  "limits": "Excerpts lack line numbers; locators are standard act-scene references derived from the scene content in the provided source windows."
+}

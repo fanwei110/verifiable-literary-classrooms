@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'Out, damned spot! out, I say!' is spoken by Lady Macbeth in William Shakespeare's play *Macbeth*. It appears in Act 5, Scene 1, during a sleepwalking scene where she is consumed by guilt over the murder of King Duncan, which she and her husband orchestrated. The 'spot' refers to the imagined blood on her hands, symbolizing her overwhelming sense of guilt.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say! One; two. Why, then ’tis time to do’t. Hell is murky! Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account? Yet who would have thought the old man to have had so much blood in him?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote directly supports that Lady Macbeth speaks the line while sleepwalking, revealing her torment over Duncan’s murder."
+    }
+  ],
+  "limits": "The text is from the First Folio of Shakespeare's works; minor variations may exist in different editions, but the line and its attribution remain consistent."
+}

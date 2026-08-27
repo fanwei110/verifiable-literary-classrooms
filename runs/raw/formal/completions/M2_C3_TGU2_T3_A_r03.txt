@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, ambition, prophecy, and guilt intertwine to drive the tragic action. The witches’ prophecy plants the seed of ambition: Banquo notes, “I dreamt last night of the three Weird Sisters: / To you they have show'd some truth.” This half-truth sparks Macbeth’s murderous desire for the crown, yet ambition itself, not the prophecy, compels him. As he moves to kill Duncan, guilt manifests as hallucination: “Is this a dagger which I see before me, / The handle toward my hand?” The dagger, a “false creation / Proceeding from the heat-oppressed brain,” symbolizes how ambition perverts moral vision, turning imagined instruments of murder into a goad. Prophecy gives warrant, ambition provides the push, and guilt exacts its psychological toll, pushing Macbeth toward madness. Shakespeare thus shows that succumbing to supernatural half-truths without moral restraint unravels the self.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: / To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This quote illustrates how the witches’ prophecy plants the seed of Macbeth’s ambition by offering a tempting half-truth."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination reveals the guilt and psychological torment that arise from his ambitious murder plot."
+    }
+  ],
+  "limits": "Quotations use the line breaks as they appear in the provided source window; no further textual variants were consulted."
+}

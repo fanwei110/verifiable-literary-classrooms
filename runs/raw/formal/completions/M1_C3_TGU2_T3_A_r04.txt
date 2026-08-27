@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea of murder, but his ambition—fueled by the witches’ words—overwhelms his moral restraint. As he admits, ‘I have no spur / To prick the sides of my intent, but only / Vaulting ambition’ (1.7.25-27), revealing how his desire for power eclipses reason. Yet, the prophecy also torments him, as seen when he hallucinates a dagger before Duncan’s murder: ‘Is this a dagger which I see before me, / The handle toward my hand?’ (2.1.33-34). This vision symbolizes his guilt and the psychological unraveling caused by his crimes. The witches’ prophecies, while seemingly empowering, trap Macbeth in a cycle of violence and paranoia, proving that ambition without conscience leads only to ruin. Through these elements, Shakespeare warns of the destructive potential of unchecked ambition and the haunting weight of guilt.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-27",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s acknowledgment of his ambition as the sole driving force behind his murderous intent, despite his moral hesitation."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s guilt and psychological torment, as the hallucinated dagger foreshadows his impending crime and the mental toll it will take."
+    }
+  ],
+  "limits": "The second quoted passage is slightly truncated in the provided source window but is widely cited in full in most editions of *Macbeth*."
+}
+```

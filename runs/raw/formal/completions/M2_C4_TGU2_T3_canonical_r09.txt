@@ -1,0 +1,18 @@
+{
+  "answer": "In Macbeth, ambition is ignited by prophecy and inevitably shrouded in guilt. The witchesâ cryptic chant, âFair is foul, and foul is fairâ (Act I, Scene i), does more than establish an atmosphere of moral confusion; it seeds the idea that boundaries between right and wrong can dissolve, tempting Macbeth to seize the crown through foul means that appear fair to him. This prophetic riddle becomes the engine of his ambition. Once the murder is within reach, guilt materialises as hallucination. Alone, Macbeth sees a floating dagger leading him to Duncanâs chamber: âThou marshallâst me the way that I was goingâ (Act II, Scene i). The vision reveals a mind already stained by the crime it contemplatesâhis ambition pulls him forward, but guilt projects the instrument of death as a mirage born of âheat-oppressed brain.â The daggerâs phantom blood prefigures the real blood that will never wash off. Thus, prophecy plants the seed, ambition drives the act, and guilt begins to torment the imagination even before the deed is done, showing how tyranny is built on a fragile, hallucinating self.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene i",
+      "speaker_or_narrator": "All witches",
+      "use_in_answer": "This quotation illustrates how the prophecies blur moral boundaries, setting the stage for ambition to mutate into tyrannical desire."
+    },
+    {
+      "quote": "Thou marshall'st me the way that I was going",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene i",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line demonstrates that

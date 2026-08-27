@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is from Homer's epic poem the Odyssey, spoken by the hero Odysseus to the Cyclops Polyphemus. Odysseus tells the Cyclops that his name is Noman as a trick so that when he later blinds the monster, Polyphemus will cry out that \"Noman\" is hurting him, causing the other Cyclopes to think no one is attacking him. This deception enables Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus, in his narration to the Phaeacians",
+      "use_in_answer": "This quotation shows the exact line spoken by Odysseus and provides the immediate context of him telling the Cyclops his false name."
+    }
+  ],
+  "limits": "The frozen source excerpt does not include a book or line number; the locator is based on common knowledge of the episode. The translation used renders the name as 'Noman' rather than 'Nobody'."
+}

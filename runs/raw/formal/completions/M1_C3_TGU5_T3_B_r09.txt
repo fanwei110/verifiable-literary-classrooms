@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—fallibility. Satan’s defiance is not merely an act of pride but a deliberate rejection of divine authority, framed as a perverse assertion of autonomy. He declares, 'Better to reign in Hell, then serve in Heav’n,' illustrating how rebellion masquerades as freedom, even when it leads to self-destruction. This choice underscores the paradox of free will: the ability to choose against God’s design is both a gift and a curse, as it introduces suffering into creation. Similarly, Adam and Eve’s fall in Book IX stems from their susceptibility to temptation, where Satan exploits their desire for knowledge and equality with God. The poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—establish disobedience as the catalyst for humanity’s expulsion from Eden, linking rebellion to the loss of innocence. Milton’s portrayal suggests that true freedom lies not in defiance but in harmonious submission to divine will, a tension that invites us to question the nature of autonomy and its consequences.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s twisted justification for rebellion, framing his defiance as a false liberation that prioritizes power over obedience."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–3",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This passage introduces the poem’s central conflict—human disobedience—and its catastrophic consequences, linking rebellion to the Fall and its enduring impact."
+    }
+  ],
+  "limits": "Quotations are based on the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other versions."
+}

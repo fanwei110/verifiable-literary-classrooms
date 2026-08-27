@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Hamlet at the end of Act II, scene ii of William Shakespeare’s *Hamlet*. He has just decided to use a troupe of traveling players to stage a murder resembling his father’s killing, hoping to observe King Claudius’s guilty reaction and so confirm the Ghost’s story.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, scene ii",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation is the closing couplet of Hamlet’s soliloquy, in which he resolves to trap Claudius through dramatic performance."
+    }
+  ],
+  "limits": "No uncertainty; the line is firmly attributed to Hamlet in all standard texts of the play."
+}

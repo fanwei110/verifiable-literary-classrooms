@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton presents temptation, free will, and rebellion as intertwined forces that precipitate the Fall. The poem's opening announces the tragic outcome of Adam and Eve's seduction by the forbidden fruit: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden,” (Book I, lines 1-4). Here, “First Disobedience” signals that the act was a deliberate choice, not a predestined event; free will made temptation fatal. Later, Satan's defiant cry in Hell crystallizes rebellion's ethos: “Better to reign in Hell, then serve in Heav'n” (Book I, line 263). This declaration is the ultimate misuse of free will—preferring isolated dominion over reconciled service, even if it means eternal suffering. Satan's earlier assertion that “The mind is its own place” shows how rebellion reshapes perception, but the choice to reign in Hell locks him into irreversible opposition. Together, these moments reveal Milton's argument: true freedom means choosing obedience to divine order; when free will succumbs to temptation and hardens into rebellion, the result is spiritual death and woe.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Introduces the poem's theme that yielding to temptation through free will (disobedience) brings death and woe."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates rebellion's essence: the deliberate, prideful choice of hellish autonomy over heavenly submission."
+    }
+  ],
+  "limits": "The frozen excerpts provide the invocation of Book I and Satan's defiant speech in Hell; they do not include the temptation of Eve in Book IX. The quoted lines therefore support the themes of free will, rebellion, and the consequence of disobedience but not the act of temptation itself."
+}

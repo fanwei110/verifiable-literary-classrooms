@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'my name is Noman' is spoken by the character Odysseus in Homer's epic poem *The Odyssey*, during his encounter with the Cyclops Polyphemus. To protect his identity, Odysseus tells the Cyclops that his name is 'Noman'—so when Polyphemus later cries for help after being blinded, saying 'Noman has tricked me!', his fellow Cyclopes assume no one is responsible.",
+  "evidence": [
+    {
+      "quote": "My name is Noman: my mother and father call me Noman, and all the others as well.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports that Odysseus himself speaks the line, adopting 'Noman' as a cunning disguise to deceive Polyphemus."
+    }
+  ],
+  "limits": "Exact line numbers may vary by translation; the quote is based on the Robert Fagles translation (1996)."
+}

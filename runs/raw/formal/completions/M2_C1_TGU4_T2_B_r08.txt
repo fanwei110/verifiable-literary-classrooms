@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton in Charles Dickens's novel *A Tale of Two Cities*. It appears in Chapter 15 of Book the Third, as Carton reflects on his sacrificial act, envisioning a better future for those he loves.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 (The Footsteps Die Out Forever)",
+      "speaker_or_narrator": "Sydney Carton (narrated in his point of view)",
+      "use_in_answer": "This quote confirms the line's speaker, work, and context as Carton's final, redemptive reflection."
+    }
+  ],
+  "limits": "There is no uncertainty; the attribution is well-established."
+}

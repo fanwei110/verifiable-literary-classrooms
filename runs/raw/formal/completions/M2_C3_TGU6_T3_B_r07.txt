@@ -1,0 +1,22 @@
+{
+  "answer": "To understand homecoming, identity, and hospitality in The Odyssey, consider two moments. First, the poem’s opening establishes Odysseus’s core identity: 'he was longing to return to his wife and country.' Despite war and wandering, his self is defined by the absence of home. Yet home isn’t just a place; as Odysseus later explains to Nausicaa, 'there is nothing better in this world than that man and wife should be of one mind in a house.' Here, homecoming means a harmonious marital union—a home that protects against enemies and gladdens friends. When the shipwrecked, naked stranger utters this, he relies utterly on the hospitality of strangers. Nausicaa grants him clothes and guidance, modeling the xenia that the suitors violate in Ithaca. Thus, identity is revealed through longing for home, true homecoming is a shared, peaceful household, and hospitality is the test that separates the civilized from the monstrous. Odysseus’s journey to reclaim his identity is also a journey to restore proper hospitality.",
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I (opening paragraph)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Shows Odysseus's fundamental identity as a man defined by his yearning for home, establishing the central desire of the epic."
+    },
+    {
+      "quote": "for there is nothing better in this world than that man and wife should be of one mind in a house. It discomfits their enemies, makes the hearts of their friends glad, and they themselves know more about it than any one.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI (Odysseus's supplication to Nausicaa)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Defines the ideal of homecoming as marital harmony within a shared household, spoken while Odysseus depends on hospitality, thus linking home, identity, and xenia."
+    }
+  ],
+  "limits": "Quotations are from the public domain translation by Samuel Butler (1900). The source excerpts do not include line numbers; locators given as book and context."
+}

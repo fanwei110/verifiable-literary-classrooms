@@ -1,0 +1,22 @@
+{
+  "answer": "Class, when we examine ambition, prophecy, and guilt in Macbeth, the witches' prophecy ignites Macbeth's latent ambition. In Act 1, Scene 4, after hearing he is Thane of Cawdor, Macbeth reveals his dark desires in an aside: \"Stars, hide your fires; Let not light see my black and deep desires.\" Here, the prophecy has planted a treacherous hunger for the crown, yet he still feels shame. Ambition overpowers morality once he acts. But the murder does not bring peace; it brings overwhelming guilt. In Act 2, Scene 2, right after killing Duncan, Macbeth looks at his bloody hands and cries, \"Will all great Neptune’s ocean wash this blood Clean from my hand? No.\" This metaphor shows guilt so vast that not even an entire ocean could cleanse him; instead, his guilt would stain the seas red. Thus, prophecy fuels ambition, ambition leads to regicide, and guilt becomes an inescapable torment—already haunting him. Shakespeare reveals that unchecked ambition, once set in motion by a tantalizing prophecy, leaves a permanent stain on the conscience.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; Let not light see my black and deep desires.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This aside shows how the prophecy awakens Macbeth’s hidden ambition and his wish to conceal it from the heavens."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood Clean from my hand? No.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Macbeth’s hyperbolic image reveals that his guilt is so immense that no natural force could purify him."
+    }
+  ],
+  "limits": "Quotations from the Folger Shakespeare Library edition (modernized spelling)."
+}

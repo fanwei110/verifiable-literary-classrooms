@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the intertwined themes of revolution, sacrifice, and doubling as forces that shape personal and societal transformation. The French Revolution serves as a backdrop to examine how upheaval can both destroy and renew. Sacrifice becomes a redemptive act, most powerfully embodied by Sydney Carton, whose death gives meaning to the chaos. Carton's final words reveal his selfless acceptance: 'It is a far, far better thing that I do, than I have ever done.' This act of ultimate sacrifice contrasts with the destructive violence of the revolution, suggesting that true change often requires personal cost. The novel is also structured around doubling—mirrored characters, parallel lives, and opposing cities (London and Paris)—which underscores moral and social contrasts. These dualities emphasize that identity and justice exist on a spectrum. As the narrator observes, 'It was the best of times, it was the worst of times,' highlighting how opposite truths can coexist. This famous opening establishes the novel's central tension: amid revolutionary fervor, humanity must choose between vengeance and virtue. Through sacrifice and duality, Dickens argues that redemption is possible even in the darkest times.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling and the coexistence of opposing forces during revolutionary periods."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice as Carton finds redemption through his final act."
+    }
+  ],
+  "limits": "The quotations and chapter references are based on the standard Norton Critical Edition of the novel; slight variations may exist in other editions."
+}

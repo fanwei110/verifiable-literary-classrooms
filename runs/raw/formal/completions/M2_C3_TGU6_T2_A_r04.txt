@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Odysseus (Ulysses) to the Cyclops Polyphemus in Homer’s *Odyssey*, Book 9. To escape the giant’s cave, Odysseus gives a false name — “Noman” (Nobody) — so that when he and his men blind the Cyclops, Polyphemus will shout that “Noman” is attacking him, and the other Cyclopes will think no one is hurting him.",
+  "evidence": [
+    {
+      "quote": "Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus (Ulysses)",
+      "use_in_answer": "This quote directly shows the moment Odysseus tells the Cyclops his deceptive name, supporting the attribution and context."
+    }
+  ],
+  "limits": "Translations vary: the name is often rendered as 'Nobody' or 'No man' instead of 'Noman'."
+}

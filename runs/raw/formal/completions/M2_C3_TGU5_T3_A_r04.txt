@@ -1,0 +1,22 @@
+{
+  "answer": "In Milton's Paradise Lost, temptation, free will, and rebellion are intertwined from the opening lines. The poem announces its theme as \"Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe.\" Here, the forbidden fruit embodies temptation, and Adam and Eve’s free choice to eat it results in the Fall. Milton underscores that they were not compelled; their \"disobedience\" was willful. This sets the stage for the epic's exploration of volition. In contrast, Satan’s rebellion in Hell represents the abuse of free will. He defiantly declares, \"Better to reign in Hell, then serve in Heav'n.\" Rather than repent, he chooses to cling to his prideful autonomy, perverting the gift of free will into an assertion of self over God. The lesson reveals that true freedom lies not in the capacity to choose evil, but in aligning one’s will with divine order. Temptation presents a test; yielding to it, as both Adam and Satan do, brings about spiritual and literal death. Milton thus portrays free will as the source of both human dignity and tragic responsibility.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1-3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening announcement identifies temptation (the forbidden fruit) and free will (disobedience) as the causes of humanity's fallen condition, framing the entire epic."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Satan's boast shows how free will can be twisted into rebellious pride, choosing self-rule over divine obedience even at the cost of damnation."
+    }
+  ],
+  "limits": "Line numbers follow the 1667 ten-book edition; in the later twelve-book edition, the second quote appears at Book 1, line 263, with the same numbering."
+}

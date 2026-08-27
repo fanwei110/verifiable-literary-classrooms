@@ -1,0 +1,22 @@
+{
+  "answer": "Ambition in Macbeth is set alight by prophecy, and its pursuit breeds a guilt so profound that reality itself seems to warp. The Weird Sisters’ words spark a desire for power, but Shakespeare shows that the real poison is within Macbeth. Banquo subtly warns of this when he remarks, “I dreamt last night of the three Weird Sisters: To you they have show’d some truth.” The prophecy is partially fulfilled, and that kernel of truth feeds Macbeth’s ambition. Yet even as he resolves to seize the crown, guilt begins to fracture his mind. Before the murder, he hallucinates a dagger leading him to Duncan’s chamber, crying, “Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.” The vision is a projection of his own criminal intent and the guilt already staining his conscience. Thus ambition, awakened by prophecy, is inseparable from guilt: the very instrument that promises power becomes a phantom that accuses. Shakespeare reveals that the tyrannical mind is its own punishment, haunted by the bloody path it has chosen.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "Demonstrates how the prophecy’s partial truth plants the seed of ambition, as Banquo acknowledges its influence on Macbeth."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Illustrates the guilt already haunting Macbeth as his ambition conjures a hallucinatory dagger, merging his desire and his horror."
+    }
+  ],
+  "limits": "Only two evidence records used as required; quotations are from the frozen source excerpts provided (Act 2, Scene 1). Locator given as act-scene because line numbers are not present in the source windows."
+}

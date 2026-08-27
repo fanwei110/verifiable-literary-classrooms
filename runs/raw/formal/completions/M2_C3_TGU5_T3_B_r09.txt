@@ -1,0 +1,22 @@
+{
+  "answer": "Alright, let’s look directly at how Milton weaves temptation, free will, and rebellion into the poem’s opening. The epic’s very first lines identify the core problem—not Satan’s revolt, but human choice: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden.” That fruit is temptation made physical. The tragedy isn’t that Adam and Eve were forced; they had free will, and that free choice to disobey is what brings death and woe. Now flip to Satan. He’s already fallen, yet he defiantly reclaims agency: “Better to reign in Hell, then serve in Heav’n.” This isn't passive suffering—it's an active, rebellious choice to embrace damnation rather than submit. Satan’s mind perverts the very gift of free will, turning Hell into a kingdom. So temptation isn’t just an external lure; it’s a test of the will’s orientation. Eve and Adam will face their fruit, Satan already chose his crown. Both moments prove that in Milton’s universe, rebellion is always a self-inflicted wound of the will.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation establishes that the consequences of temptation—death and woe—stem from human free choice, not external compulsion."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Satan’s declaration distils rebellion into a perverse exercise of free will, actively choosing self-rule in Hell over submission."
+    }
+  ],
+  "limits": "Excerpts are from the 1667 ten-book edition; line numbers adhere to that version."
+}

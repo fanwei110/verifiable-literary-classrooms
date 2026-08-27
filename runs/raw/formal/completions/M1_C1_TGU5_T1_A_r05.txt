@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation of Eve, framing disobedience as a willful rejection of divine command. The quotation I’ll share captures the pivotal act of defiance that ruptures the harmony of Eden, illustrating how pride and desire lead to the loss of innocence. This passage helps us examine the consequences of disobedience—not just as a personal failing, but as a cosmic turning point with lasting repercussions for all of creation.",
+  "evidence": [
+    {
+      "quote": "She pluck’d, she eat: / Earth felt the wound, and Nature from her seat / Sighing through all her Works gave signs of woe, / That all was lost.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 781–784",
+      "speaker_or_narrator": "Narrator (Milton)",
+      "use_in_answer": "This quote underscores the immediate and universal consequences of Eve’s disobedience, showing how her act of eating the forbidden fruit reverberates through nature itself, symbolizing the fall of humanity and the brokenness of the created order."
+    }
+  ],
+  "limits": "The quoted lines reflect the 1674 edition of *Paradise Lost*; minor variations may exist in earlier versions or modernized texts."
+}

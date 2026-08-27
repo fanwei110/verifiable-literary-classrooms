@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus to the Cyclops Polyphemus in Homer’s *Odyssey*, Book 9. After getting Polyphemus drunk on wine, Odysseus cunningly gives a false name so that when the Cyclops later cries for help, he will say “Noman is hurting me,” enabling Odysseus and his crew to escape.",
+  "evidence": [
+    {
+      "quote": "Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus (as narrator of his own adventures)",
+      "use_in_answer": "This quote provides the exact moment Odysseus tricks Polyphemus by giving the false name 'Noman,' which is central to his escape plan."
+    }
+  ],
+  "limits": "Translation used is not specified; the name may appear as 'Nobody' in other translations."
+}

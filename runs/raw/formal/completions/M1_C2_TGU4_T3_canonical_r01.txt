@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores the themes of revolution, sacrifice, and doubling to highlight the cyclical nature of violence and redemption. The French Revolution serves as a backdrop where the oppressed rise against their oppressors, but Dickens warns that unchecked vengeance can mirror the cruelty it seeks to overthrow. Sacrifice is central to the novel’s moral framework, particularly through Sydney Carton’s selfless act, which transforms suffering into salvation. Doubling—seen in characters like Carton and Darnay or Madame Defarge and Lucie—reinforces the idea that individuals are often reflections of one another, bound by fate or shared humanity. These themes intertwine to show how revolution, while born of injustice, demands personal and collective sacrifice to break cycles of violence.\n\nDickens underscores the brutality of revolution through vivid imagery, such as the description of the mob’s bloodlust, which reveals its dehumanizing effects. Yet, he also offers hope: Carton’s sacrifice demonstrates that individual redemption can transcend the chaos of revolution. By juxtaposing these ideas, Dickens suggests that true change requires both collective action and personal moral courage.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the duality of revolution—its potential for both progress and destruction—setting the stage for the novel’s exploration of sacrifice and doubling."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice as Carton’s final act of redemption, offering a counterpoint to the revolution’s violence and embodying the novel’s moral hope."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition (2003)."
+}

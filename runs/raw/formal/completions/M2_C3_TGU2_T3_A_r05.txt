@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, ambition, prophecy, and guilt form a destructive triangle. The Weird Sisters’ prophecy sets this in motion by perverting moral clarity: \"Fair is foul, and foul is fair: / Hover through the fog and filthy air\" (1.1). This chanted paradox suggests a world where evil cloaks itself in fair appearance, tempting Macbeth with a throne that seems a \"fair\" reward but is morally \"foul.\" Ambition, once ignited, propels him toward regicide. Yet before the murder, guilt already manifests as psychological horror. Macbeth’s hallucinated dagger, a \"false creation / Proceeding from the heat-oppressed brain,\" culminates when he sees it stained with imaginary gore: \"It is the bloody business which informs / Thus to mine eyes\" (2.1). Here, the \"bloody business\" refers to Duncan’s murder, and \"informs\" means both \"gives shape to\" the vision and \"accuses\" his conscience. Thus, prophecy awakens ambition, but guilt immediately haunts the mind, proving that the crown comes with an inescapable stain. Shakespeare shows that even before the deed is done, the soul is already condemned.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair: / Hover through the fog and filthy air",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "All Witches",
+      "use_in_answer": "This paradoxical prophecy introduces moral inversion, planting the seed of Macbeth’s illicit ambition."
+    },
+    {
+      "quote": "It is the bloody business which informs / Thus to mine eyes",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line reveals guilt already projecting the imagined murder, showing conscience at war with ambition before the crime occurs."
+    }
+  ],
+  "limits": "Using only excerpts provided in the source windows."
+}

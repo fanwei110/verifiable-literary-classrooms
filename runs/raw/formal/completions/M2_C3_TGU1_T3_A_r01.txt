@@ -1,0 +1,22 @@
+{
+  "answer": "Mini-Lesson: In Hamlet, hesitation, mortality, and performance intertwine. Hamlet's famous soliloquy reveals how fear of the unknown afterlife paralyzes action: the dread of “what dreams may come” after death “must give us pause.” This reflective anxiety turns vengeance into an existential dilemma, creating the delay that defines the play. Yet Hamlet also performs decisive vitality. When the Ghost beckons, he bursts from his friends, claiming, “My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.” Here, he invokes a destiny-driven performance of courage, as if playing the role of avenger. That moment of performative nerve contrasts sharply with the frozen deliberation of “To be, or not to be,” where thinking too precisely on the event produces inaction. The juxtaposition shows Hamlet trapped between morbid rumination and the theatrical assertion of identity. Mortality breeds hesitation, but the need for action compels a performance that may be as hollow as “devotion’s visage” elsewhere in the court. Thus, Shakespeare suggests that human agency wavers between thought and show, with death as the ultimate question mark.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Illustrates how the fear of an unknown afterlife causes Hamlet to hesitate, transforming revenge into an existential pause."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Shows Hamlet adopting a performed, fate-driven resolve that contrasts with his earlier hesitation, highlighting the tension between deliberation and theatrical action."
+    }
+  ],
+  "limits": "None"
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, the themes of revolution, sacrifice, and doubling are central to Charles Dickens’s portrayal of personal and political transformation. The French Revolution serves as a violent backdrop where societal upheaval mirrors the inner conflicts of the characters. Revolution is not merely political but moral, as seen in Sydney Carton’s ultimate decision to give his life for Charles Darnay, a man who is his physical double. This act encapsulates the novel’s exploration of redemption through sacrifice. Carton, initially disillusioned and self-loathing, finds purpose in replacing Darnay on the guillotine, declaring, 'It is a far, far better thing that I do, than I have ever done.' His death underscores the power of individual sacrifice amidst collective chaos. Doubling—seen in the parallel lives of Carton and Darnay, Lucie and Madame Defarge—highlights contrasts between love and vengeance, mercy and justice. As the revolution consumes Paris, Dickens uses these dualities to question whether rebirth can emerge from bloodshed. Ultimately, Carton’s sacrifice transcends personal failure, reinforcing the novel’s hope that even in darkness, 'It is a far, far better rest that I go to.'",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton (narrator's rendering of his thoughts)",
+      "use_in_answer": "This quote supports Carton's redemptive sacrifice, showing his transformation through selfless action."
+    },
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the theme of doubling and the coexistence of opposites during the revolutionary era."
+    }
+  ],
+  "limits": "The quoted passages are from standard editions of the novel; variations in phrasing may exist across translations or editions."
+}

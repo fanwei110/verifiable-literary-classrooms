@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, first impressions, class, and marriage are closely linked, shaping characters' choices and relationships. The novel critiques snap judgments, showing how Elizabeth Bennet and Mr. Darcy overcome initial prejudice and pride. Social class heavily influences perceptions—wealth and family status determine eligibility for marriage. The Bennet sisters’ lower status makes them less desirable to certain characters. Yet Austen challenges class rigidity through Elizabeth’s intelligence and integrity, which ultimately win Darcy’s respect. Marriage is portrayed not just as a romantic union but as a social and economic arrangement. Charlotte Lucas's pragmatic marriage to Mr. Collins highlights this reality. Through irony and character growth, Austen shows that lasting marriage requires mutual understanding, not just status or first impressions. Elizabeth and Darcy’s union succeeds because they revise their initial views and value character over class.",
+  "evidence": [
+    {
+      "quote": "‘I could easily forgive his pride, if he had not mortified mine.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 5",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports how first impressions—especially wounded pride—affect Elizabeth’s judgment of Darcy."
+    },
+    {
+      "quote": "‘It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This famous opening line underscores the novel’s focus on marriage as a social and economic institution tied to class."
+    }
+  ],
+  "limits": "Quotations are from the public domain Project Gutenberg edition; chapter numbers may vary slightly by edition."
+}

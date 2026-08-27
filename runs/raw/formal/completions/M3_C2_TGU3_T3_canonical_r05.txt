@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are tightly intertwined. Initial judgments often reflect social biases, as seen when Elizabeth Bennet forms a negative opinion of Mr. Darcy based on his aloof behavior at a ball. Though intelligent and independent, Elizabeth is influenced by class assumptions, mistaking pride for arrogance. Darcy, too, admits his initial reluctance to court Elizabeth due to her family's 'inferior' connections, revealing how class dictates personal choices. Marriage, in this world, is not only a romantic union but a social negotiation. Charlotte Lucas's pragmatic acceptance of Mr. Collins underscores this, as she prioritizes financial security over affection. Ultimately, Elizabeth and Darcy overcome their pride and prejudice by reevaluating first impressions and acknowledging each other’s true character. Their union suggests that while class and initial judgment may obstruct love, mutual respect and understanding can prevail. As the narrator observes, 'Pride relates more to our opinion of ourselves, prejudice to the opinion others form of us,' highlighting the internal and social forces at play. Darcy later confesses, 'You taught me a lesson, the effect of which I have felt every day since,' showing growth through self-awareness. These moments illustrate how Austen critiques rigid class structures while championing emotional honesty in marriage.",
+  "evidence": [
+    {
+      "quote": "Pride relates more to our opinion of ourselves, prejudice to the opinion others form of us",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 12",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the novel's thematic distinction between pride and prejudice, clarifying how self-perception and societal judgment shape first impressions."
+    },
+    {
+      "quote": "You taught me a lesson, the effect of which I have felt every day since",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports Darcy's personal growth and acknowledgment of Elizabeth's influence, marking a turning point in overcoming initial class-based prejudice."
+    }
+  ],
+  "limits": "Quotations are from standard editions of the novel; slight variation in wording may exist across editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when intertwined with class assumptions and ideals of marriage. The novel opens with the famous irony: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife,” highlighting how marriage is often viewed as a transaction tied to wealth and social standing. This mindset leads characters to judge quickly based on status rather than character. Elizabeth Bennet, though intelligent, is not immune—her initial prejudice against Mr. Darcy stems from his proud demeanor at the Meryton ball, a class-based misjudgment. However, as she reflects, 'How despicably have I acted! ... I, who have prided myself on my discernment!', she recognizes her vanity and flawed perception. This moment marks her growth, as she revises her first impression of Darcy and acknowledges the influence of class bias. Ultimately, Austen critiques snap judgments shaped by social hierarchy, advocating for deeper understanding in both personal relationships and marriage. True compatibility, she suggests, arises not from status or first appearances, but from moral insight and self-awareness.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the societal pressure linking marriage to financial security, setting up the novel's critique of class-based expectations."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote demonstrates Elizabeth’s self-realization about her flawed first impressions, highlighting the novel’s theme of personal growth beyond prejudice."
+    }
+  ],
+  "limits": "The chapter numbers and quotations are based on standard editions of 'Pride and Prejudice'; minor variations may exist across editions."
+}

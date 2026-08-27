@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea of murder, but his ambition—fueled by the witches’ words—overpowers his moral hesitation. For example, after Banquo mentions the Weird Sisters, Macbeth claims, 'I think not of them,' yet immediately shifts the conversation to their 'business,' revealing his obsession. This moment underscores how prophecy manipulates ambition, making Macbeth prioritize power over loyalty. Later, guilt consumes him, manifesting in hallucinations like the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his psychological unraveling, as his crimes weigh on his conscience. The dagger, a 'false creation' of his 'heat-oppressed brain,' illustrates how guilt distorts reality, showing that ambition and prophecy lead not to fulfillment but to madness. Together, these forces create a cycle of desire, action, and remorse that defines Macbeth’s tragedy.",
+  "evidence": [
+    {
+      "quote": "I think not of them: / Yet, when we can entreat an hour to serve, / We would spend it in some words upon that business, / If you would grant the time.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s denial of his obsession with the witches’ prophecy, even as he immediately steers the conversation toward it, revealing his ambition’s grip on his thoughts."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination illustrates Macbeth’s guilt and psychological torment, showing how his ambition and the prophecy’s influence have led him to a breaking point."
+    }
+  ],
+  "limits": "Quotations are taken from the provided source excerpts; line numbers may vary slightly by edition."
+}
+```

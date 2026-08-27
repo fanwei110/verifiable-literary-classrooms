@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage intersect to shape social dynamics. The novel critiques the superficial judgments that characters make about one another, often based on wealth or status rather than true character. For example, Elizabeth Bennet initially dismisses Mr. Darcy as proud and arrogant, while he views her family as socially inferior. These snap judgments reflect the rigid class hierarchies of Regency England, where marriage was often a transactional means of securing financial stability rather than a union of love. Austen challenges these norms by showing how genuine understanding and mutual respect—rather than first impressions or class considerations—lead to fulfilling relationships. The novel ultimately suggests that true happiness in marriage comes from overcoming prejudice and valuing personal integrity over societal expectations.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote highlights the societal obsession with marriage as a financial arrangement, setting the stage for the novel’s exploration of class and matrimony."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This line underscores Elizabeth’s rejection of class-based prejudice, asserting that personal worth, not social rank, should determine equality in relationships."
+    }
+  ],
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

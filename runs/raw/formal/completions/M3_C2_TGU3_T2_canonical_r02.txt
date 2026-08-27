@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'I dearly love a laugh' is spoken by the character Beatrice in William Shakespeare's play *Much Ado About Nothing*. She says this to express her sharp wit and enjoyment of humor, particularly in the context of playful banter with Benedick.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh",
+      "author": "William Shakespeare",
+      "work": "Much Ado About Nothing",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "Beatrice",
+      "use_in_answer": "This quote supports that Beatrice values humor and sets her witty, lively personality in the play."
+    }
+  ],
+  "limits": "The exact wording may vary slightly depending on the edition or translation, but this is the standard wording in most modern editions of the play."
+}

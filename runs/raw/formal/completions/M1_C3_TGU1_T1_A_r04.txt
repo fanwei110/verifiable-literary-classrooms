@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful passage that captures both mortality and hesitation is Hamlet’s famous soliloquy, where he grapples with the fear of the unknown after death and the burdens of life. This moment highlights how uncertainty about what comes next can paralyze even the most decisive minds, making hesitation a natural response to existential questions.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly explores the tension between enduring life’s suffering and the fear of death’s unknown consequences, illustrating how hesitation arises from existential uncertainty."
+    }
+  ],
+  "limits": "The quoted text is from the First Folio (1623) edition of *Hamlet*; minor variations may exist in other editions, but the core meaning remains consistent."
+}

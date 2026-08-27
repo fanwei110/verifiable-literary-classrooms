@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Odysseus in Homer’s *Odyssey*. When trapped in the cave of the Cyclops Polyphemus, Odysseus tells the giant that his name is “Noman” (sometimes translated as “No‑man”). Later, after Odysseus and his crew blind Polyphemus, the Cyclops calls for help but says that “Noman” is attacking him, so the other Cyclopes think nothing is wrong—a crucial wordplay that lets them escape.",
+  "evidence": [
+    {
+      "quote": "‘Cyclops, you asked my noble name, and I will tell it; but do you give the stranger’s gift, just as you promised. My name is Noman. Noman I am called by mother, father, and by all my comrades.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 364–367 (approximate, varies by translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This is the direct source of the student’s quotation, showing how Odysseus introduces the fake name that becomes the pun allowing his escape from Polyphemus."
+    }
+  ],
+  "limits": "Translations differ: some render the name as ‘No‑man’, ‘Nobody’, or ‘Outis’ (the original Greek). The student’s wording ‘Noman’ appears in older English translations such as Samuel Butler’s."
+}

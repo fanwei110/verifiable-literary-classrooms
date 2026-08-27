@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are deeply intertwined themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father after years of disguise and struggle. His identity is repeatedly tested, as seen when he strings his bow in Book 21, proving himself to the suitors: 'But the man skilled in all ways of contending, / satisfied by the great bow’s look and heft, / like a musician, like a harper... / drew between his thumb and forefinger / a sweet new string upon a peg' (21.404-409). This moment underscores how his mastery of the bow reaffirms his true self, separating him from the impostors. Hospitality, meanwhile, is a sacred duty in Greek culture, but it is often violated, as when the Cyclops Polyphemus devours Odysseus’s men: 'We Cyclopes care not a whistle for your thundering Zeus / or all the gods in bliss; we have more force by far' (9.275-276). This rejection of *xenia* highlights the consequences of barbarism and the importance of mutual respect in civilized society. Together, these themes reveal how homecoming, identity, and hospitality define both personal and cultural integrity in *The Odyssey*.",
+
+  "evidence": [
+    {
+      "quote": "But the man skilled in all ways of contending, / satisfied by the great bow’s look and heft, / like a musician, like a harper... / drew between his thumb and forefinger / a sweet new string upon a peg",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 21, lines 404-409",
+      "speaker_or_narrator": "Narrator (third-person omniscient)",
+      "use_in_answer": "This quote demonstrates Odysseus’s reclaiming of his identity through his mastery of the bow, a skill that proves his true self to the suitors and his household."
+    },
+    {
+      "quote": "We Cyclopes care not a whistle for your thundering Zeus / or all the gods in bliss; we have more force by far",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 275-276",
+      "speaker_or_narrator": "Polyphemus (the Cyclops)",
+      "use_in_answer": "This quote illustrates the Cyclops’s violation of *xenia*, emphasizing the cultural importance of hospitality and the dangers of its rejection."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

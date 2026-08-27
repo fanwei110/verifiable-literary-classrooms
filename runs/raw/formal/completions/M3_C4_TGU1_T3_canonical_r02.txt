@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy grapples with the pain of existence and the mystery of death, reflecting his profound hesitation about action. He contemplates suicide, asking, 'To be, or not to be,' but halts at the unknown 'dreams' that may come 'in that sleep of death,' revealing how fear of the afterlife paralyzes decision-making. This hesitation is not mere cowardice but a philosophical response to mortality. At the same time, the play critiques performance—both theatrical and political. Claudius, for example, masks guilt with 'pious action,' like those who 'do sugar o’er / The devil himself' with false piety. Hamlet himself enacts roles, using 'antic disposition' to obscure his intentions. These performances blur truth and illusion, complicating moral action. Thus, Hamlet’s inward struggle and the court’s dissembling illustrate how mortality’s weight and the necessity of performance create paralyzing uncertainty.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's hesitation and contemplation of mortality, showing how fear of the afterlife paralyzes action."
+    },
+    {
+      "quote": "We are oft to blame in this, ’Tis too much prov’d, that with devotion’s visage And pious action we do sugar o’er The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This quote illustrates the theme of performance and deception, showing how outward piety can mask inner corruption."
+    }
+  ],
+  "limits": "The provided excerpts do not include later soliloquies or scenes that further develop Hamlet’s hesitation, such as 'O what a rogue and peasant slave am I,' limiting full dramatic arc analysis."
+}

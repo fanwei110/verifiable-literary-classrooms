@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful example of how unchecked ambition can distort perception comes from Macbeth’s own words after he commits regicide. His hallucination of the dagger—visible yet intangible—reveals the psychological toll of his vaulting ambition, showing how guilt and desire intertwine to warp reality.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s hallucination of the dagger, directly linking his ambition to murder with the psychological breakdown that follows."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly depending on the edition of Macbeth; the Folio and modern editions sometimes differ by a line or two."
+}

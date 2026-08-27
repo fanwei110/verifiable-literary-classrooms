@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from William Shakespeare's tragedy *Hamlet*. It is spoken by Prince Hamlet himself at the very end of Act 2, Scene 2. He has just decided to use a troupe of traveling actors to stage a play that will re-enact his father's murder in front of King Claudius. Hamlet hopes that if Claudius is guilty, seeing his crime performed will make him flinch or show a visible reaction, thus revealing his conscience and confirming the Ghost's accusation.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633–634 (approx.; often the final couplet of the scene)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly identifies Hamlet's plan to use a play-within-the-play (often called 'The Mousetrap') as a means of testing Claudius's guilt."
+    }
+  ],
+  "limits": "Line numbering varies by edition, but the couplet is universally present at the close of Act 2, Scene 2. Some texts read 'the king' with a lowercase 'k', but the sense is the same."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a foundational passage from *A Tale of Two Cities* that directly captures the historical contradiction you’re exploring—the simultaneous existence of opposing social realities in revolutionary France. Dickens frames the era as one of extreme contrasts, where hope and despair, progress and oppression, and enlightenment and brutality coexisted. This duality mirrors the contradictions inherent in revolutionary change itself, where ideals of liberty clashed with the violence of their implementation. The quote also underscores how such contradictions are not unique to the past but resonate across time, including our own.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator (third-person omniscient)",
+      "use_in_answer": "This opening passage illustrates the paradoxical nature of the pre-revolutionary and revolutionary period, where historical forces created starkly opposing conditions, reflecting the contradictions of social upheaval and ideological conflict."
+    }
+  ],
+  "limits": "The quote is from the 1859 first edition; minor variations may exist in later editions or adaptations. The passage is narrative exposition, not dialogue, and its interpretation hinges on Dickens’s broader critique of revolution and class struggle in the novel."
+}

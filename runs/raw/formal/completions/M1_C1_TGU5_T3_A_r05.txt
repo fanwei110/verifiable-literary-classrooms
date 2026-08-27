@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX reveals how temptation preys on desire and curiosity, as he frames the forbidden fruit as a path to divine knowledge: 'Ye shall be as gods, knowing good and evil.' This deception underscores the seductive power of rebellion, which promises empowerment but delivers ruin. Yet Milton insists that free will remains intact—Adam and Eve’s fall is not predestined but a choice, as Eve reflects, 'Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.' Here, her decision to share the fruit with Adam highlights how rebellion fractures unity, both with God and within humanity. Milton’s portrayal suggests that while temptation is inevitable, the capacity to resist—or succumb—defines moral responsibility. The poem thus frames rebellion not as an external force but as a failure of will, inviting readers to reflect on their own vulnerabilities to temptation and the weight of their choices.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as gods, knowing good and evil.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative rhetoric, which twists the promise of knowledge into a justification for rebellion, illustrating how temptation exploits human ambition."
+    },
+    {
+      "quote": "Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 958-959",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This line reveals Eve’s internal conflict and her choice to involve Adam in the fall, emphasizing how rebellion disrupts unity and underscores the role of free will in their downfall."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, social class, and marriage are deeply intertwined. The novel opens with the famous ironic statement: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife” (Chapter I). This sets the tone for a society where marriage is often a transaction shaped by class and economic status rather than love. Characters like Mrs. Bennet prioritize securing wealthy husbands for her daughters, reflecting how marriage functions as a means of social advancement. Yet, Austen critiques these assumptions through Elizabeth Bennet, who initially misjudges Darcy due to pride and prejudice. After reading Darcy’s letter, Elizabeth reflects, “How despicably have I acted!… I, who have prided myself on my discernment!” This moment marks her realization that her first impressions were flawed, clouded by vanity and class bias. Her growth shows that meaningful marriage requires self-awareness and mutual respect, not just financial or social compatibility. Austen ultimately suggests that while class and first impressions influence relationships, true connection transcends them.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote introduces the societal expectation that wealthy men are destined for marriage, highlighting how class and marriage are linked in the novel."
+    },
+    {
+      "quote": "“How despicably have I acted!” she cried. “I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization that her first impressions were misguided by pride and class bias, marking her personal growth."
+    }
+  ],
+  "limits": "The second quote's locator is inferred from context; the source window does not specify the exact chapter, but the content matches Chapter XXXVI in most editions."
+}

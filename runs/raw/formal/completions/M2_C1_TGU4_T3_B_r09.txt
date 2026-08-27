@@ -1,0 +1,22 @@
+{
+  "answer": "Dickens weaves revolution, sacrifice, and doubling into the novel’s very structure. The famous opening immediately pairs opposites—light and dark, hope and despair—to mirror a world split by revolution: “It was the best of times, it was the worst of times…” This line isn’t just atmosphere; it’s the first of many doubles (London/Paris, Darnay/Carton) that show how personal and political upheaval are two sides of the same coin. The revolution’s fury consumes the innocent, yet the deepest act of revolution against that fury is sacrifice. Sydney Carton, who once saw himself as a wasted double of Charles Darnay, transforms his life’s meaning in a final, quiet gesture. His prophetic words, “It is a far, far better thing that I do, than I have ever done…” turn an execution into a redemptive echo of resurrection. Through these paired quotes, we see that Dickens’s revolution isn’t merely mob violence; it’s the inner revolution of a man who gives his life so that love can survive. The doubling of characters, cities, and fates reveals that true change demands a sacrifice that rises above the chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times…",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening sentence establishes the novel’s doubling structure and chaotic revolutionary context, showing how extreme oppositions define the era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done…",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "Carton’s final inner monologue ties personal sacrifice to resurrection, revealing how his doubled identity with Darnay is redeemed through selfless action."
+    }
+  ],
+  "limits": "Quotes are drawn from standard public-domain text; ellipsis added to opening quote as per common excerpt usage."
+}

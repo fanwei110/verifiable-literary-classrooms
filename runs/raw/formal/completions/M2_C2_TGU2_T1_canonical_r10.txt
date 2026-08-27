@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 2, Scene 1, Macbeth sees a floating dagger leading him toward Duncan’s chamber. He says, “Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee.” This hallucination reflects his overwhelming ambition to become king, blurring the line between reality and his murderous intent.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucinatory dagger embodies Macbeth's ambition to seize the throne by murder, revealing how his inner desire manifests as a false vision."
+    }
+  ],
+  "limits": "Line numbers may vary in different editions; this quotation follows a standard modernised text."
+}

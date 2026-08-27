@@ -1,0 +1,22 @@
+{
+  "answer": "In this mini-lesson, we explore how hesitation, mortality, and performance intertwine in Hamlet’s central soliloquy. Hamlet’s famous delay is not just procrastination; it is a philosophical paralysis rooted in the terror of what comes after death. He weighs action against inaction, life against an endless sleep, and the “undiscover’d country” from which no traveler returns. This fear of the unknown makes even the most resolute person pause, turning thought into a performance of internal debate rather than outward deed. Hamlet’s introspection becomes a theater of the mind, where the fear of mortality scripts his hesitation. The soliloquy itself enacts performance: Hamlet, alone onstage, performs his own uncertainty for the audience, turning private fear into public spectacle. Ultimately, the play suggests that our awareness of death does not propel us toward action but freezes us in a role we cannot escape. This lesson reveals how Shakespeare fuses psychological depth with metatheatrical commentary, making the act of thinking itself the most tragic performance.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line introduces the theme of hesitation as a fundamental existential dilemma, framing the entire soliloquy as a performance of indecision between life and death."
+    },
+    {
+      "quote": "Thus conscience does make cowards of us all",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.83",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line shows how the fear of mortality—the dread of an unknown afterlife—transforms resolution into inaction, turning even a prince into a performer of his own cowardice."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; variations may exist in other editions."
+}

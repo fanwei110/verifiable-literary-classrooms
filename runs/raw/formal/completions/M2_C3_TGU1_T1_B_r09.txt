@@ -1,0 +1,14 @@
+{
+  "answer": "The famous 'To be, or not to be' soliloquy directly tackles mortality and the hesitation that arises from contemplating it. Hamlet frames death as a sleep that might bring dreams, and that unknown 'what dreams may come' is exactly what makes us pause and endure life’s pains rather than rush toward death.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep. / To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "These lines capture the core link between mortality (death as a sleep after shuffling off the mortal coil) and hesitation (the fear that the afterlife might bring unknown torments gives us pause)."
+    }
+  ],
+  "limits": "The text is taken directly from the provided source excerpt of Hamlet's soliloquy."
+}

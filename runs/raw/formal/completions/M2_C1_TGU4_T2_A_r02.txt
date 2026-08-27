@@ -1,0 +1,14 @@
+{
+  "answer": "This line is the final thought of Sydney Carton, the dissolute lawyer who finds redemption by sacrificing his life for another, at the end of Charles Dickens's novel *A Tale of Two Cities*.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 ('The Footsteps Die Out For Ever')",
+      "speaker_or_narrator": "Sydney Carton (narrated interior monologue)",
+      "use_in_answer": "This full sentence shows Carton's final words before his execution, expressing that his self-sacrifice is the noblest act of his life."
+    }
+  ],
+  "limits": "The student's quotation is a truncated version of the opening clause. The complete sentence continues with 'than I have ever done...'"
+}

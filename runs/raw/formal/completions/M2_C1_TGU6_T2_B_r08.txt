@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Odysseus in Homerâs *Odyssey*, Book 9. After the Cyclops Polyphemus asks his name, Odysseus says âNomanâ (or âNobodyâ) as part of the famous escape trick.",
+  "evidence": [
+    {
+      "quote": "âMy name is Noman,â said I, âfor Noman is the name my father and mother and all my friends call me.â",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9 (approximately lines 364â367 in Samuel Butlerâs translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This verbatim quote directly shows Odysseus giving the false name âNomanâ to the Cyclops, confirming the lineâs speaker and context."
+    }
+  ],
+  "limits": "Many modern translations render the name as âNobodyâ rather than âNomanâ. The studentâs wording âmy name is Nomanâ matches older prose translations like Butlerâs."
+}

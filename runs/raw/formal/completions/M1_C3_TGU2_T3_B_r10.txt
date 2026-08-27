@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Yet, this ambition is not merely external—it becomes a consuming force, warping his judgment and morality. For instance, Macbeth admits his will is enslaved to his own flaws when he says, 'Our will became the servant to defect, / Which else should free have wrought.' This line reveals how his ambition corrupts his agency, turning his desires into a destructive master rather than a liberating force. Later, guilt manifests physically and psychologically, as seen in Macbeth’s hallucination of the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his moral unraveling, as his guilt over the impending murder of Duncan distorts reality. The prophecy fuels his ambition, but guilt becomes the inescapable consequence, illustrating how unchecked ambition leads to self-destruction. These moments show how Shakespeare uses internal conflict to expose the fragility of human morality when faced with power and fate.",
+  "evidence": [
+    {
+      "quote": "Our will became the servant to defect, / Which else should free have wrought.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how Macbeth’s ambition corrupts his free will, reducing him to a servant of his own flaws."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line illustrates Macbeth’s psychological torment and guilt, as his mind conjures a hallucination of the murder weapon before the crime."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition; line numbers may vary slightly in other editions."
+}
+```

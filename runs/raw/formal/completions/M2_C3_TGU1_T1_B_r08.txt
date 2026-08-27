@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 3, Scene 1 of Hamlet, the prince’s soliloquy directly confronts mortality and hesitation. He yearns for the peace of death—“a consummation / Devoutly to be wish’d”—but immediately recoils: the fear that “dreams may come” in the afterlife “must give us pause.” This hesitation, rooted in the unknown beyond the “mortal coil,” explains why we endure life’s pains rather than end them with a bare bodkin.",
+  "evidence": [
+    {
+      "quote": "To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "The quotation shows how the uncertainty of death’s dreams makes Hamlet pause, directly tying the contemplation of mortality to his hesitation to act."
+    }
+  ],
+  "limits": "Line numbers vary by edition; this passage begins shortly after Hamlet’s entrance in Act 3, Scene 1."
+}

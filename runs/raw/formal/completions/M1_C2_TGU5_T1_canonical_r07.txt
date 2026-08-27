@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation of Eve. Here’s a key passage that captures the essence of disobedience and its consequences: the idea that defiance against divine command leads to a loss of innocence and harmony. This quote helps us understand how the fall is framed as a willful act of rebellion, with profound implications for human nature and morality.",
+  "evidence": [
+    {
+      "quote": "Not then mistrust, but tender love enjoins, / That I should mind thee oft, and mind thou me. / Firm we subsist, yet possible to swerve, / Since reason not impossibly may meet / Some specious object by the foe suborn’d, / And fall into deception unaware, / Not keeping strictest watch, as she was warn’d.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 359–365",
+      "speaker_or_narrator": "Adam (narrating to Eve)",
+      "use_in_answer": "This passage underscores the vulnerability to temptation and the potential for disobedience, even in a state of innocence, by highlighting the possibility of being deceived and failing to heed divine warnings."
+    }
+  ],
+  "limits": "The quoted lines reflect the 1674 edition of *Paradise Lost*; minor variations may exist in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most striking examples of historical contradiction in literature comes from the opening paragraph of Charles Dickens's *A Tale of Two Cities*, where opposing forces coexist in the same era. This captures the paradox of progress and regression present in revolutionary periods: 'It was the best of times, it was the worst of times.' This quote illustrates how historical moments—especially those leading to revolution—can simultaneously contain extremes of hope and despair, enlightenment and oppression, which contradict yet coexist.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea that historical periods, especially those preceding revolutions, are defined by profound contradictions where opposing realities exist side by side."
+    }
+  ],
+  "limits": "The quotation is from the standard 1859 edition of the novel; slight variations may exist in early printings, but this version is widely accepted in modern scholarly texts."
+}

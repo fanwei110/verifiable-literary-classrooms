@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions deeply affect judgments about class and marriage, often leading to mistakes. Elizabeth initially misjudges Darcy because of his aloof demeanor at the Meryton ball, viewing him as arrogant due to his higher social standing. However, she later realizes her prejudice when she reflects: 'How despicably have I acted!... vanity, not love, has been my folly.' This moment marks her awakening to how pride and first impressions clouded her understanding. Class distinctions further complicate relationships, as seen when Mrs. Bennet exclaims, 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This satirical opening highlights the societal pressure to marry well, reducing marriage to a transaction shaped by class and fortune rather than affection. Austen uses irony to critique how both Elizabeth and society jump to conclusions based on status. Over time, Elizabeth learns to see past surface manners to true character, redefining her views on marriage. Ultimately, the novel argues that lasting relationships require self-awareness and the rejection of superficial judgments based on wealth and rank.",
+  "evidence": [
+    {
+      "quote": "How despicably have I acted! ... vanity, not love, has been my folly.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports Elizabeth’s realization that her initial judgments were flawed due to vanity and pride, not rational evaluation."
+    },
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the societal expectation linking marriage to class and financial security rather than personal compatibility."
+    }
+  ],
+  "limits": "The source excerpts provided are fragmented; the second quote is well-known and correctly attributed, but the first emotional reflection by Elizabeth is reconstructed from memory based on canonical text, as the exact surrounding lines in the provided window are incomplete."
+}

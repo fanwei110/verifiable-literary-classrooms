@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are closely tied to class and marriage, often leading to misjudgments that must be overcome for true understanding. Elizabeth Bennet and Mr. Darcy initially judge each other based on social behavior and status, revealing how class shapes perception. Elizabeth assumes Darcy is arrogant because of his reserved manner at a ball, while Darcy dismisses Elizabeth due to her family's lower social standing and 'inferiority of her connections.' However, as the novel progresses, both characters reflect on their biases and grow emotionally. Austen critiques a society where marriage is influenced more by class than character. Ultimately, Elizabeth and Darcy’s union represents a marriage based on mutual respect and personal development, not mere social convenience. Their journey shows that overcoming first impressions requires self-awareness and a willingness to look beyond class distinctions. Austen suggests that lasting relationships are built not on wealth or status, but on honesty and moral integrity. True compatibility in marriage, she argues, emerges only after prejudice is set aside and individuals see each other clearly.",
+  "evidence": [
+    {
+      "quote": "‘In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 34",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote shows Darcy confessing his love despite class differences, revealing emotional growth beyond first impressions."
+    },
+    {
+      "quote": "‘I could easily forgive his pride, if he had not mortified mine.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 5",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates how Elizabeth’s initial judgment of Darcy is shaped by pride and class-based insult."
+    }
+  ],
+  "limits": "Quotations are from the standard 1813 edition; chapter numbers may vary slightly by publication."
+}

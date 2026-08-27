@@ -1,0 +1,14 @@
+{
+  "answer": "In Book I of *Paradise Lost*, John Milton introduces the central themes of fall and disobedience right at the beginning, setting the stage for the entire epic. As the narrator states: 'Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden.' This line directly identifies Adam and Eve’s act of disobedience as the origin of humanity’s fall from grace, highlighting the severe consequences that follow from defying divine law.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–4",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote establishes the theme of the fall through human disobedience and its consequences, framing the entire narrative of Paradise Lost."
+    }
+  ],
+  "limits": "The quote is from the 1674 edition of Paradise Lost, which is the final authorized version by Milton."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s existential crisis is most evident in his 'To be, or not to be' soliloquy, where he contemplates the nature of existence and the fear of the afterlife. His hesitation to act—both in avenging his father and in ending his life—stems from this uncertainty, highlighting how the mind's paralysis in the face of mortality disrupts decisive action. This internal struggle is further complicated by the theme of performance. Characters constantly assume roles: Claudius plays the noble king while harboring guilt, Polonius uses Ophelia as a pawn in a scheme of surveillance, and Hamlet himself adopts an 'antic disposition' to mask his true intentions. These performances blur truth and illusion, reinforcing Hamlet’s inability to trust or act with certainty. The play thus presents action not as a straightforward response to injustice, but as a complex negotiation between inner turmoil, fear of death, and the masks people wear. As Hamlet reflects, the prospect of death is terrifying precisely because 'in that sleep of death what dreams may come'—an unknown that halts resolution. Performance becomes both a survival tactic and a barrier to authenticity, making hesitation not a flaw but a condition of mortal existence in a corrupt world.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's deep hesitation and philosophical struggle with mortality, illustrating how contemplation of death paralyzes action."
+    },
+    {
+      "quote": "The very place puts toys of desperation, Without more motive, into every brain That looks so many fathoms to the sea And hears it roar beneath.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4, Lines 75–78",
+      "speaker_or_narrator": "Horatio",
+      "use_in_answer": "This quote underscores the psychological pressure of performance and environment, showing how setting and expectation can provoke madness, further complicating authentic action."
+    }
+  ],
+  "limits": "The second quote is slightly paraphrased in context; the exact wording in some editions may vary by a word or two. Additionally, speaker attribution is based on standard Folger and Arden editions."
+}

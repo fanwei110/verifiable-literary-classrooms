@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into eating the forbidden fruit: 'Ye shall be as Gods, / Knowing good and evil.' This deception appeals to Eve’s ambition, revealing how temptation exploits free will by distorting truth. Meanwhile, Adam’s choice to join Eve in rebellion underscores the weight of human agency—he knowingly defies God out of love, not ignorance, declaring, 'If death / Consort with thee, death is to me as life.' Here, Milton suggests that rebellion stems not from external forces alone but from the deliberate exercise of free will, even when it leads to ruin. Both moments highlight the poem’s central tension: the gift of choice carries the burden of responsibility, and temptation tests the boundaries of human autonomy.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote illustrates Satan’s manipulative temptation, appealing to Eve’s desire for divine knowledge and autonomy."
+    },
+    {
+      "quote": "If death / Consort with thee, death is to me as life",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 953-954",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This line demonstrates Adam’s conscious choice to rebel alongside Eve, emphasizing the role of free will in their fall."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

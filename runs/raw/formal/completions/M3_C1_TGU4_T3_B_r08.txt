@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens explores the complex interplay of revolution, sacrifice, and doubling as forces that shape both history and individual identity. The French Revolution serves as the novel’s volatile backdrop, exposing the extremes of human behavior in times of upheaval. Characters are repeatedly doubled—Charles Darnay and Sydney Carton, Lucie Manette and Madame Defarge—suggesting the duality of human nature and the fine line between salvation and destruction. Sacrifice becomes the ultimate expression of love and redemption, particularly through Carton’s final act. His selflessness transcends personal failure and mirrors Christ-like redemption, transforming the personal into the political. The revolution, while born of legitimate suffering, devolves into indiscriminate violence, showing how idealism can be corrupted. Doubling reinforces this tension—Carton and Darnay share a likeness, but only Carton chooses sacrifice, underscoring that identity is defined not by appearance but by action. As the novel insists, 'It is a far, far better thing that I do, than I have ever done,' suggesting redemption through sacrifice. Meanwhile, the opening paradox sets the stage: 'It was the best of times, it was the worst of times,' capturing the dual nature of the era and the characters within it. Revolution, then, is both destructive and redemptive—much like the lives it touches.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times,",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling and the paradoxical nature of the revolutionary era."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done,",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice as a redemptive and transformative act."
+    }
+  ],
+  "limits": "Quotations are from standard Norton Critical Edition of A Tale of Two Cities; slight variations may exist in other editions."
+}

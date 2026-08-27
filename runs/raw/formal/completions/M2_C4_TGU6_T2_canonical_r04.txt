@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Homer's *Odyssey*, Book 9. It is spoken by Odysseus to the Cyclops Polyphemus as part of the famous trick where he gives a false name meaning \"nobody\" so that when the Cyclops is blinded, his calls for help will be ignored.",
+  "evidence": [
+    {
+      "quote": "my name is Noman",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9",
+      "speaker_or_narrator": "Odysseus (as narrator of his adventures)",
+      "use_in_answer": "This is the exact phrase Odysseus tells the Cyclops, and it supports the attribution and context of the trick."
+    }
+  ],
+  "limits": "The provided excerpt does not contain precise line numbers; the locator is limited to the book level."
+}

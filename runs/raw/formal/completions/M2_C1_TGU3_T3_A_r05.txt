@@ -1,0 +1,22 @@
+{
+  "answer": "Today weâll explore how Jane Austenâs Pride and Prejudice intertwines first impressions, class, and marriage. Originally titled First Impressions, the novel warns against hasty judgments based on social standing. The famous opening line satirizes the mercenary marriage market of Regency England: âIt is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.â This ironic proclamation reduces marriage to an economic transaction, driven by class and wealth. Against this backdrop, Darcyâs snobbish dismissal of Elizabeth at the Meryton assemblyââShe is tolerable, but not handsome enough to tempt meââcrystallizes the dangers of class-based first impressions. Darcyâs pride wounds Elizabethâs pride, fueling her prejudice and nearly destroying their chance for happiness. Through their rocky courtship, Austen shows how initial perceptions founded on status and vanity must be shattered for genuine love to emerge. The marriage plot becomes a vehicle for moral education: both protagonists must overcome their distorted first impressions to achieve a union that balances affection and respect, rather than mere financial security.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the satirical link between class, wealth, and the marriage market that drives the plot."
+    },
+    {
+      "quote": "She is tolerable, but not handsome enough to tempt me.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Fitzwilliam Darcy",
+      "use_in_answer": "This quote exemplifies the harmful first impressions rooted in class snobbery that create the central conflict between Darcy and Elizabeth."
+    }
+  ],
+  "limits": "None."
+}

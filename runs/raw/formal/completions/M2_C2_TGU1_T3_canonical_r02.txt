@@ -1,0 +1,22 @@
+{
+  "answer": "Shakespeare's Hamlet is a profound exploration of how hesitation, mortality, and performance intertwine. Hamlet's famous paralysis stems not from a lack of courage but from an overwhelming consciousness of death's mystery. His delay in avenging his father's murder is fueled by existential dread—the fear that action might lead to an unknown afterlife worse than present suffering. This philosophical hesitation becomes a kind of performance in itself, as Hamlet adopts an 'antic disposition' to mask his intentions. Yet it is through literal performance that he seeks to resolve his uncertainty. By staging the play-within-a-play, he transforms theater into a trap for truth, hoping to bypass his own crippling introspection by forcing a visible reaction from Claudius. Performance thus becomes both a weapon and a mirror: it exposes the king's guilt while reflecting Hamlet's own struggle between thought and deed. Ultimately, Hamlet's journey suggests that mortality's shadow makes all life a stage, where hesitation is the soliloquy we perform before the final act.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line encapsulates Hamlet's existential hesitation and his meditation on life and death."
+    },
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.600-601",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "Here, Hamlet turns to performance, staging murder to provoke a confession and break his own cycle of hesitation."
+    }
+  ],
+  "limits": "Line numbers correspond to the Folger Shakespeare Library edition; variations may occur in other editions."
+}

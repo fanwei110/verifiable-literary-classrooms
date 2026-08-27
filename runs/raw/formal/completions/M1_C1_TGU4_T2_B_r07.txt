@@ -1,0 +1,14 @@
+{
+  "answer": "That line is the famous closing sentence of Charles Dickens’s *A Tale of Two Cities*. It’s spoken by Sydney Carton just before his execution during the French Revolution, as he sacrifices himself to save another man’s life.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 (The Footsteps Die Out for Ever)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This exact quotation confirms the line’s origin and identifies the speaker as Sydney Carton at the moment of his self-sacrifice."
+    }
+  ],
+  "limits": "The wording is consistent across all standard editions, but some abridged or adapted versions may paraphrase the line."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Hamlet in William Shakespeare’s tragedy *Hamlet*. It comes at the end of Act 2, Scene 2, after he watches a traveling actor deliver a passionate speech about Hecuba. Struck by how an actor can summon deep emotion for a fiction, Hamlet resolves to stage a play that reenacts his father’s murder, hoping to observe King Claudius’s guilty reaction and confirm the Ghost’s accusation.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633–634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly shows Hamlet’s plan to use the theatrical performance as a trap to test Claudius’s guilt."
+    }
+  ],
+  "limits": "Line numbering may vary by edition; this citation follows the Folger Shakespeare Library edition."
+}

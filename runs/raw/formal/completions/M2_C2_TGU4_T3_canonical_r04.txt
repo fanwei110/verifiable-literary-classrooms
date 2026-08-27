@@ -1,0 +1,22 @@
+{
+  "answer": "Dickens's *A Tale of Two Cities* weaves revolution, sacrifice, and doubling into a single fabric. The novel opens by establishing a world of extreme paradoxes, directly mirroring the volatile revolutionary climate where every virtue has a violent twin. This atmosphere of mirrored extremes makes personal doubling inevitable: Charles Darnay and Sydney Carton look alike but live opposite lives—one the privileged émigré, the other a dissipated lawyer. Revolution devours such distinctions, demanding sacrifice. Carton’s final act seizes that chaotic double, transforming his wasted life into a purposeful exchange for Darnay’s, the man his beloved Lucie marries. He walks to the guillotine reciting the scriptural “I am the Resurrection and the Life,” his death becoming a redemptive double for Darnay’s. In this single gesture, Dickens fuses the public frenzy of revolution with the most intimate sacrifice, proving that in a world of doubles, one man’s ending can become another’s beginning.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity…",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening series of paired opposites establishes the novel’s central theme of doubling and frames the period as inherently revolutionary, where every extreme contains its antithesis."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (imagined final thoughts, rendered by the narrator)",
+      "use_in_answer": "Carton’s closing reflection turns his substitutionary sacrifice into the ultimate moral double, exchanging his meaningless life for a meaningful death amid the revolution’s consuming violence."
+    }
+  ],
+  "limits": "Quotations are from the standard public domain text. The final line is commonly attributed to Carton's unspoken meditation, voiced by the narrator in the conditional tense."
+}

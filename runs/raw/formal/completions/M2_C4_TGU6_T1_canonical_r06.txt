@@ -1,0 +1,14 @@
+{
+  "answer": "As the opening lines of the Odyssey show, the epic was designed to intertwine wandering and story from the very first word. The narrator calls upon the Muse to tell the tale of a man who “travelled far and wide,” visited many cities, and learned the minds of many peoples — all while the audience is reminded that the telling itself is an act of shaping those wanderings into a story. The quotation is: “Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home … Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.” (Homer, The Odyssey, Book I, opening invocation).",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines (trans. Samuel Butler)",
+      "speaker_or_narrator": "The Narrator (invoking the Muse)",
+      "use_in_answer": "This quotation directly captures the twin themes of wandering (the hero’s far travels and sufferings) and story (the plea to the Muse to recount them), showing how the epic frames its narrative as a retelling of a wanderer’s odyssey."
+    }
+  ],
+  "limits": "This is from Samuel Butler’s prose translation (1900). The excerpt provided does not contain line numbers, so the locator is given descriptively. The opening words are spoken by the external narrator, not by a character within the story."
+}

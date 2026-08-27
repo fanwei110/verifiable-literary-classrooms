@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey home to Ithaca is not just a physical return but a reclamation of identity and rightful place. When he finally arrives in Ithaca disguised as a beggar, Athena tests his restraint, reinforcing the need for patience and cunning. The principle of hospitality, or xenia, governs social interactions and reflects moral order. True hospitality welcomes strangers without knowing their identity, as their worth may be divine. When Odysseus reveals himself to his son Telemachus, he says, 'I am your father,' restoring familial bonds broken by years of absence. This moment underscores that identity is confirmed through recognition and loyalty. Later, when Odysseus confronts the suitors who have abused hospitality in his home, he declares, 'You dogs, you thought I’d never come back.' Their violation of xenia—consuming his wealth and courting his wife—justifies his vengeance. The suitors’ failure to honor a host’s duties reveals their moral corruption. Thus, homecoming in The Odyssey is not merely about return, but about reclaiming identity through truth and restoring order by upholding hospitality.",
+  "evidence": [
+    {
+      "quote": "I am your father",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the restoration of familial identity and the emotional core of homecoming."
+    },
+    {
+      "quote": "You dogs, you thought I’d never come back",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 22",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates Odysseus’s reassertion of identity and condemnation of the suitors’ violation of hospitality."
+    }
+  ],
+  "limits": "Translations may vary slightly; quotes are based on common English versions (e.g., Robert Fagles)."
+}

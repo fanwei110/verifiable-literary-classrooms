@@ -1,0 +1,14 @@
+{
+  "answer": "In today’s discussion of marriage-market irony, consider this moment from Pride and Prejudice: the narrator reveals how economic necessity shapes romantic expectations, exposing the gap between idealized love and practical matchmaking. This quotation will help us see how Austen critiques the transactional nature of courtship in Regency society.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening line satirizes the assumption that wealthy bachelors are automatically desirable marriage prospects, highlighting the irony of societal expectations driving the marriage market."
+    }
+  ],
+  "limits": "The quotation is from the 1813 first edition; chapter numbering follows standard modern editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply connected. After years away, Odysseus’s return to Ithaca is not just a physical journey but a reclamation of his identity as king and husband. His careful self-presentation—often disguised—shows how identity must be proven, not assumed. Meanwhile, hospitality, or 'xenia,' functions as a moral litmus test. The suitors violate this sacred tradition by consuming Odysseus’s wealth and disrespecting his household, while characters like Eumaeus the swineherd uphold it with generosity despite Odysseus’s lowly disguise. One pivotal moment occurs when Telemachus affirms, 'Stranger, you resemble my own father,' showing how appearance and memory blur in the quest for identity (Book 16). Later, when Odysseus reveals himself to his loyal servants, he says, 'I am he who was once master of this house,' confirming that identity is tied to rightful place and recognition (Book 22). Ultimately, hospitality proves who belongs and who is an outsider, while homecoming requires both reunion and restoration of order. Odysseus’s trials highlight that returning home is not only about reaching a place, but about being recognized as who you truly are.",
+  "evidence": [
+    {
+      "quote": "Stranger, you resemble my own father",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 16, lines 180-185",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote supports the theme that identity is recognized through resemblance and memory, even before full revelation."
+    },
+    {
+      "quote": "I am he who was once master of this house",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 22, lines 480-485",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This declaration supports the idea that Odysseus reclaims both his identity and rightful place through direct assertion upon returning home."
+    }
+  ],
+  "limits": "Quotations are based on standard translations; exact wording may vary by edition."
+}

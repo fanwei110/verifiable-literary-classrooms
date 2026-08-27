@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a pivotal moment from *Paradise Lost* that directly illustrates the fall and the nature of disobedience. Satan’s temptation of Eve in Book IX captures the seductive reasoning that leads to humanity’s transgression. The passage shows how pride and the desire for forbidden knowledge override obedience to divine command, framing the fall as both a moral failure and a tragic choice.",
+  "evidence": [
+    {
+      "quote": "Look on mee, / Mee who have touch’d and tasted, yet both live, / And life more perfect have attaind then Fate / Meant mee, by ventring higher then my Lot. / Shall that be shut to Man, which to the Beast / Is open? or will God incense his ire / For such a petty Trespass, and not praise / Rather your dauntless vertue, whom the pain / Of Death denounc’t, whatever thing Death be, / Deterrd not from achieving what might leade / To happier life, knowledge of Good and Evil; / Of good, how just? of evil, if what is evil / Be real, why not known, since easier shunnd?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 687–699",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative argument to Eve, equating disobedience with empowerment and framing God’s prohibition as arbitrary, which directly precipitates the fall."
+    }
+  ],
+  "limits": "The quoted passage reflects the 1674 second edition of *Paradise Lost*, which divides the poem into twelve books; some earlier editions or modern versions may present slight variations in line numbering or punctuation."
+}

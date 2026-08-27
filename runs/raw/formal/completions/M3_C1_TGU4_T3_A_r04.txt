@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores revolution as both a force for justice and a source of chaos, emphasizing the personal cost of societal change through themes of sacrifice and doubling. The novel contrasts the turbulent streets of Paris with the relative calm of London, mirroring the duality in characters like Charles Darnay and Sydney Carton, who are physical doubles yet morally distinct. Carton’s ultimate act of sacrifice—taking Darnay’s place at the guillotine—epitomizes the redemptive power of selflessness amid revolutionary violence. His decision is not born of despair but of love and purpose, as he envisions a better future made possible by his death. This personal sacrifice stands in stark contrast to the mass violence of the Revolution, which often sacrifices justice for revenge. Dickens uses doubling to highlight both the possibility of transformation and the danger of mirrored destruction. Revolution, then, is portrayed as a dual-edged sword: capable of overthrowing tyranny but also consuming the innocent. As the narrative suggests, true change often begins not with collective fury but with singular, sacrificial acts of courage.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (Sydney Carton's thoughts)",
+      "use_in_answer": "This quote supports Carton's redemptive sacrifice, showing how personal sacrifice brings him peace and purpose."
+    },
+    {
+      "quote": "It was the best of times, it was the worst of times...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote introduces the theme of doubling and the contradictory nature of the revolutionary era."
+    }
+  ],
+  "limits": "Page numbers vary by edition; citations based on standard chapter divisions in public domain versions."
+}

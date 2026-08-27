@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton frames temptation, free will, and rebellion as interlocking forces that drive humanity’s fall. Free will is a divine gift that makes obedience meaningful: as God explains, he created Adam and Eve “Sufficient to have stood, though free to fall” (3.99). This capacity for genuine choice means that rebellion does not arise from fate but from the creature’s own decision. Satan’s revolt in Heaven exemplifies such willful rebellion; his famous boast—“Better to reign in Hell, than serve in Heaven” (1.263)—epitomizes a soul that freely chooses pride over submission, corrupting its own liberty. Temptation works upon this freedom, not by compelling sin, but by luring reason and desire into self-destruction. Satan’s rhetoric to Eve in Eden mirrors his own interior collapse, transforming an external suggestion into an internal act. Thus, Milton shows that the tragedy of the Fall is not inevitable: each figure, angel or human, actively consents to rebellion. The poem invites readers to recognise that the real battlefield is the will, where the choice to serve or to reign is remade in every moment of temptation.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This quote anchors the lesson’s central principle: God grants genuine free will such that obedience is a meaningful choice, not a mechanical compulsion."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This line encapsulates the rebellious misuse of free will, illustrating temptation’s power to turn a capacity for freedom into an assertion of self-destructive pride."
+    }
+  ],
+  "limits": "Quotations follow standard modern-spelling editions; no textual variants are considered."
+}

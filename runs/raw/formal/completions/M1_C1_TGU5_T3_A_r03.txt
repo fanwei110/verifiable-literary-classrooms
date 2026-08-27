@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her with the promise of godlike knowledge: 'Ye shall be as Gods, / Knowing good and evil.' This deception exploits Eve’s free will, framing her choice as an act of empowerment rather than submission. Yet Milton underscores that rebellion is not inevitable; Adam and Eve’s fall results from their deliberate rejection of divine command, illustrating the weight of human autonomy. Satan’s own rebellion earlier in the poem—'Better to reign in Hell, than serve in Heav’n'—reveals the prideful roots of defiance, where free will becomes a tool for self-destruction. Through these moments, Milton argues that true freedom lies in obedience to God, while rebellion, though a choice, leads only to suffering and separation from divine grace. The poem thus serves as a cautionary tale about the fragility of human virtue when faced with temptation and the enduring consequences of misused free will.",
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote supports the idea that Satan tempts Eve by appealing to her desire for knowledge and equality with God, framing her choice as an act of empowerment."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heav’n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates the prideful defiance that drives Satan’s rebellion, highlighting how free will can be misused to justify self-destructive choices."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

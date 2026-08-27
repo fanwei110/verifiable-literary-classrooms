@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the upheaval of revolution, the weight of sacrifice, and the theme of doubling through parallel characters and historical turmoil. The French Revolution serves as a backdrop where injustice sparks violent change, embodying both hope and horror. Sydney Carton’s ultimate sacrifice—dying in Charles Darnay’s place—illustrates redemptive love and personal transformation. This act is made more powerful by the doubling between Carton and Darnay, mirror images in appearance but contrasted in spirit, until Carton’s noble end gives meaning to his previously wasted life. The chaos of revolution is mirrored in personal destinies, as Dickens shows how societal collapse can amplify both cruelty and compassion. As the narrative unfolds, sacrifice becomes a path to moral victory amid the storm of revolution. One defining moment comes when the narrator describes the revolutionary atmosphere: 'It was the best of times, it was the worst of times,' capturing the duality central to the era and the characters. Carton’s promise reveals his inner change: 'For you, and for any dear to you, I would do anything,' showing the depth of his devotion and the power of selfless love.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the theme of doubling and the dual nature of the revolutionary period, reflecting both promise and peril."
+    },
+    {
+      "quote": "For you, and for any dear to you, I would do anything",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Second--the Golden Thread, CHAPTER XIII",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, illustrating Carton's deep commitment and willingness to give his life for others."
+    }
+  ],
+  "limits": "The source windows provided do not include the full context of Carton’s final act, but the quoted line is present in the referenced chapter."
+}

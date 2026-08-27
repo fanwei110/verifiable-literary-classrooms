@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening lines of Paradise Lost, Milton announces his grand theme: \"Of man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe\" (Book 1, lines 1–3). This passage encapsulates the poem's central concern with the Fall, framing it as an act of disobedience that introduced mortality and suffering. The narrator's invocation immediately establishes the theological and moral stakes, linking the simple act of eating the fruit to cosmic catastrophe.",
+  "evidence": [
+    {
+      "quote": "Of man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of the fall and disobedience by directly stating the subject of the epic: mankind's first act of disobedience and its consequences."
+    }
+  ],
+  "limits": "Text modernized from the original spelling."
+}

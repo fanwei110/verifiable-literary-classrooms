@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—agency. Satan’s defiance isn’t just an act of pride; it’s a deliberate choice to reject divine authority, framing rebellion as a perversion of free will. He tempts Eve not with brute force but by appealing to her desire for knowledge and autonomy, as he argues, 'Ye shall be as Gods, / Knowing good and evil' (Book 9, lines 708–709). This moment underscores how temptation exploits free will, offering the illusion of empowerment while leading to ruin. Meanwhile, Adam and Eve’s fall isn’t inevitable; it’s a consequence of their choices, illustrating Milton’s belief that true freedom includes the capacity to err. Even God acknowledges this, declaring, 'I formed them free, and free they must remain' (Book 3, line 124). Here, rebellion isn’t just a sin but a misuse of the very gift that makes humanity—and angels—moral beings. Milton forces us to ask: Is freedom worth the risk of failure? The poem suggests yes, because without the possibility of rebellion, obedience would be meaningless.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 708–709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates how Satan manipulates Eve’s free will by framing temptation as a path to divine-like knowledge and autonomy."
+    },
+    {
+      "quote": "I formed them free, and free they must remain",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 124",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This line reinforces Milton’s argument that free will is inherent to humanity’s moral nature, even if it allows for rebellion."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

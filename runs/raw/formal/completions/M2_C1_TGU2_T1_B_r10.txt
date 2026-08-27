@@ -1,0 +1,14 @@
+{
+  "answer": "Absolutely, let's look at the dagger scene. When Macbeth sees a floating dagger pointing him toward Duncan’s chamber, he reveals how his ambition for the throne is already distorting his perception, turning his guilt and desire into a hallucination.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly fuses ambition and hallucination, as Macbeth's longing for power conjures a vision of the murder weapon that he cannot grasp but cannot escape."
+    }
+  ],
+  "limits": "Line numbers vary across editions; these correspond to the commonly cited 2.1.33-35 window."
+}

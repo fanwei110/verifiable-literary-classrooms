@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "Here’s a foundational passage from *The Odyssey* that directly ties wandering to the power of story. The opening lines of the epic frame Odysseus’s journey not just as a physical voyage but as a tale worth telling—a narrative that survives precisely because of its trials, detours, and the knowledge gained along the way. This quotation helps explain why wandering and storytelling are inseparable: the journey’s meaning is preserved and transmitted through the act of narration itself.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home... Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-10",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This invocation establishes wandering as the core of Odysseus’s identity and the epic’s subject, linking his physical displacement to the necessity of storytelling—his experiences must be recounted to endure, transforming aimless movement into a purposeful narrative."
+    }
+  ],
+  "limits": "The quoted lines are from the 1921 translation by Samuel Butler, as referenced in the source window. While the Greek text is authoritative, translations may vary slightly in phrasing; this version emphasizes the connection between travel, suffering, and the act of telling."
+}
+```

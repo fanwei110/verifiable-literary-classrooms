@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through the character of Satan and the fall of Adam and Eve. After being cast out of Heaven, Satan embodies rebellion, refusing to submit to God’s authority. He asserts his autonomy, declaring that even in Hell, the mind remains free: 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' (Book I). This shows his defiant free will—he chooses internal resistance over obedience. Satan later tempts Eve by manipulating her desires, appealing to her ambition and curiosity. In Book IX, he tells her, 'Ye shall be as Gods, knowing both Good and Evil,' echoing the serpent’s temptation in Genesis. This quote reveals how temptation in Milton’s epic exploits free will: Eve is not forced but persuaded, making her choice tragically voluntary. Milton emphasizes that both Satan and humans possess moral agency—rebellion begins not with external force, but with internal choice. Thus, the poem presents a universe where free will is central, and both temptation and transgression arise from personal decisions, not fate. The consequences of these choices—sin, death, and exile—underscore Milton’s warning about the misuse of liberty.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav'n of Hell, a Hell of Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's assertion of mental autonomy and defiance, illustrating rebellion as an act of free will."
+    },
+    {
+      "quote": "Ye shall be as Gods, knowing both Good and Evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, line 765",
+      "speaker_or_narrator": "Satan (as the serpent)",
+      "use_in_answer": "This quote demonstrates how temptation in the poem appeals to ambition and knowledge, exploiting free will to lead Eve astray."
+    }
+  ],
+  "limits": "The second quote is a close paraphrase of Genesis 3:5; Milton’s exact wording in the 1674 edition is 'ye shall be as Gods, knowing good and evil.' Line numbers may vary slightly by edition."
+}

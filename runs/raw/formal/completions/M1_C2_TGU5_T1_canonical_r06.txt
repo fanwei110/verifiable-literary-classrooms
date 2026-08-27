@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation of Eve. Here’s a key passage that captures the essence of disobedience and its consequences: the idea that defiance against divine command leads to a loss of innocence and harmony. This quote helps us understand how the fall is framed as both a moral failure and a tragic turning point in human history.",
+  "evidence": [
+    {
+      "quote": "Not equal, as their sex not equal seem’d; / For contemplation he and valour form’d, / For softness she and sweet attractive grace, / He for God only, she for God in him: / His fair large front and eye sublime declar’d / Absolute rule; and hyacinthine locks / Round from his parted forelock manly hung / Clust’ring, but not beneath his shoulders broad: / She as a veil down to the slender waist / Her unadorned golden tresses wore / Dishevell’d, but in wanton ringlets wav’d / As the vine curls her tendrils, which impli’d / Subjection, but requir’d with gentle sway, / And by her yielded, by him best receiv’d, / Yielded with coy submission, modest pride, / And sweet reluctant amorous delay.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IV, lines 296–311",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage illustrates the hierarchical relationship between Adam and Eve before the fall, emphasizing how disobedience disrupts the divinely ordained order, setting the stage for their transgression."
+    }
+  ],
+  "limits": "The quoted lines reflect the 1674 edition of *Paradise Lost*; minor variations may exist in other editions."
+}

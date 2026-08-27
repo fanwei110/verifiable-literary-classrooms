@@ -1,0 +1,14 @@
+{
+  "answer": "The opening lines of Paradise Lost explicitly frame the entire poem around the concept of disobedience, linking the consumption of the forbidden fruit directly to the Fall of humanity and the introduction of death and suffering.",
+  "evidence": [
+    {
+      "quote": "Of Man's first disobedience, and the fruit / Of that forbidden tree, whose mortal taste / Brought death into the world, and all our woe,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1-3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote directly states the poem’s subject—the first act of human disobedience—and its catastrophic consequences, establishing the Fall as the central event."
+    }
+  ],
+  "limits": "Quoted from the 1674 second edition; line numbering may differ slightly in modern editions."
+}

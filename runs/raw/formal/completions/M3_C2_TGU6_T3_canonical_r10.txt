@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey home to Ithaca is not just a physical return but a reclamation of identity and rightful place. His encounter with the Phaeacians highlights xenia, or guest-friendship, a sacred social code. When Odysseus reveals himself, he says, 'I am Odysseus, son of Laertes, known among men for my deceptions' (Homer, The Odyssey, Book 9, line 19). This declaration underscores how identity is shaped by reputation and personal history. The importance of hospitality is later affirmed when Eumaeus, the loyal swineherd, welcomes a disguised Odysseus: 'Stranger, you shall have food and shelter, though a poor man myself' (Homer, The Odyssey, Book 14, line 55). Eumaeus’s generosity contrasts with the suitors’ abuse of hospitality, reinforcing that true nobility lies in treating guests with dignity. These moments reveal that home is more than a location—it is restored through recognition, loyalty, and the observance of social duties. Ultimately, Odysseus’s homecoming succeeds because he is both recognized and properly welcomed, affirming identity through acts of hospitality.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known among men for my deceptions",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, line 19",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus asserts his identity through reputation and self-awareness, linking personal identity to action and fame."
+    },
+    {
+      "quote": "Stranger, you shall have food and shelter, though a poor man myself",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 55",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote illustrates the virtue of hospitality in Homeric culture, showing that true xenia transcends social status."
+    }
+  ],
+  "limits": "Translations may vary slightly; line numbers are approximate based on standard Loeb edition."
+}

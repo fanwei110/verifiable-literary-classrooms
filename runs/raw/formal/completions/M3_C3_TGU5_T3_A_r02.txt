@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion through the characters of Satan and Adam and Eve. Satan’s rebellion against God stems from pride and a desire for autonomy, establishing his belief that self-determination justifies defiance. He declares, 'Better to reign in Hell, then serve in Heav’n,' embracing eternal separation from God rather than submitting to divine authority. This quote captures the essence of rebellion driven by ambition and distorted free will. Later, temptation unfolds in Eden when Satan, in serpent form, entices Eve by questioning God’s command and suggesting that eating the forbidden fruit will elevate her to godlike knowledge. He tells her, 'Ye shall not die: how should ye? by the fruit / Be men, nigh to the Gods.' This manipulation preys on curiosity and pride, mirroring his own fall. Milton illustrates that free will, while noble, becomes destructive when guided by arrogance and deception. Both Satan and Eve exercise choice, but their decisions—rooted in distrust of God’s goodness—lead to downfall. Thus, Milton presents temptation as a distortion of truth, rebellion as a rejection of rightful order, and free will as a powerful gift that requires moral wisdom to use rightly.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion, illustrating Satan's defiant pride and rejection of divine authority in favor of self-rule."
+    },
+    {
+      "quote": "Ye shall not die: how should ye? by the fruit / Be men, nigh to the Gods.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 703–704",
+      "speaker_or_narrator": "Satan (as the serpent)",
+      "use_in_answer": "This quote demonstrates how temptation works through deception, twisting truth to exploit desire for knowledge and autonomy."
+    }
+  ],
+  "limits": "The exact line numbers may vary slightly depending on the edition, but the quotations and their thematic relevance remain consistent across standard versions of Paradise Lost."
+}

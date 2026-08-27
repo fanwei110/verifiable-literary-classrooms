@@ -1,0 +1,14 @@
+{
+  "answer": "The novel's famous opening line is ironic: it's not the rich single man who must be in want of a wife, but rather the surrounding families who desperately want him as a husband for their daughters.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the irony that the marriage market is driven by economic necessity for women, not men, as the novel subverts the stated 'truth'."
+    }
+  ],
+  "limits": "First line of the novel, widely recognized; no textual variants."
+}

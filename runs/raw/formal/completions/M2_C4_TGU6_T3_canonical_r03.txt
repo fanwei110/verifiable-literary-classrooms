@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality form a tightly braided theme. Odysseus’s very identity as a hero is inseparable from his longing for home. The epic opens by defining him not through his cunning or victories, but through his unfulfilled desire: even after the war, he “was longing to return to his wife and country, was detained by the goddess Calypso” (Book I). Home is not simply a place but the goal that gives his wandering meaning. Without that pull, he risks losing himself. Along the way, the code of hospitality becomes the fragile thread that keeps his return possible. Stranded on Phaeacia, he throws himself upon Nausicaa’s mercy, and her response models the ideal welcome owed to a stranger. She promises, “you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for” (Book VI). The Phaeacians’ generous hosting directly enables Odysseus’s final voyage home. Yet hospitality here is also a mirror of homecoming’s ultimate treasure: Nausicaa’s kindness rests on her own vision of a peaceful household. The epic insists that recognition—of oneself and by others—happens through the threshold of home, and that hospitality is the sacred rite that guides the wanderer back to that threshold.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Shows that Odysseus’s core identity is defined by his desire for homecoming, making home the central quest."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "Illustrates the ideal of hospitality that sustains Odysseus on his journey and mirrors the security of home he seeks."
+    }
+  ],
+  "limits": "Quotations are from Samuel Butler's translation (as presented in the provided excerpts). Book divisions follow the excerpt labels; the second quote is from Odysseus's encounter with Nausicaa, traditionally Book VI."
+}

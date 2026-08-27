@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion as interconnected forces that define humanity's fall. Satan, the archetypal rebel, embodies defiance against divine authority, declaring 'Better to reign in Hell than serve in Heaven'—a statement revealing his prideful rejection of submission (Book 1, lines 263–264). This rebellion originates not from coercion but from a deliberate exercise of free will, emphasizing that moral choice carries eternal consequences. Temptation, then, is not merely external but flourishes through internal desire. Eve, though created with reason, succumbs when pride and curiosity override divine command. She justifies eating the forbidden fruit by claiming, 'The more I see, the more / I wonder how so slight a cause can hold / From happiness' (Book 9, lines 1023–1025), revealing how temptation distorts judgment. Milton portrays free will not as a guarantee of righteousness but as a perilous gift requiring vigilance. Both Satan and Eve choose autonomy over obedience, initiating their downfall. Thus, the poem warns that rebellion, when rooted in personal ambition and nurtured by deceptive temptation, leads not to freedom but to bondage. Ultimately, Milton underscores that while God permits free will, it demands responsibility—making the tragedy of the Fall not fate, but choice.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan’s rebellion stems from pride and a desire for autonomy, rejecting divine hierarchy."
+    },
+    {
+      "quote": "The more I see, the more / I wonder how so slight a cause can hold / From happiness",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 1023–1025",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote illustrates how Eve’s perception is distorted by temptation, leading her to question God’s command and justify disobedience."
+    }
+  ],
+  "limits": "Quotations are based on standard Oxford or Norton editions of Paradise Lost; minor line variations may occur across editions."
+}

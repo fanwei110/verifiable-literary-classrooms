@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet’s famous soliloquy, he asks, “To be, or not to be: that is the question.” This line directly confronts mortality, weighing the pain of life against the unknown of death. The hesitation springs from the fear of what dreams may come after death, the “undiscovered country” that makes us pause. This moment encapsulates the play’s meditation on mortality and the paralysis of indecision.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act III, Scene 1, line 56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the explanation of mortality and hesitation by directly articulating Hamlet's existential dilemma about existence and his reluctance to act on suicidal thoughts because of the fear of the afterlife."
+    }
+  ],
+  "limits": "Text based on the First Folio (1623) and standard modern editions; punctuation may vary slightly."
+}

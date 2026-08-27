@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—fallibility. Satan’s defiance is not merely an act of pride but a deliberate exercise of free will, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rejection of divine hierarchy, framing rebellion as a perverse assertion of autonomy. Yet Milton also highlights the seductive power of temptation through Satan’s rationalizations, where he twists logic to justify his defiance: 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.' Here, Satan’s words reveal how rebellion distorts perception, making evil appear as a form of liberation. For Adam and Eve, this same dynamic plays out when they choose disobedience, believing they gain knowledge and freedom—only to lose Eden. Milton’s portrayal suggests that true freedom lies not in defiance but in alignment with divine will, while rebellion is a self-destructive illusion born of pride and temptation.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263-264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s rejection of divine authority as an act of free will, framing rebellion as a choice for autonomy over submission."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates how temptation and rebellion distort perception, allowing Satan to rationalize evil as a form of self-created freedom."
+    }
+  ],
+
+  "limits": "The quoted lines are from the 1674 edition of *Paradise Lost*; minor spelling variations (e.g., 'then' for 'than') reflect early modern orthography."
+}
+```

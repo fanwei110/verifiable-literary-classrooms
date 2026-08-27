@@ -1,0 +1,14 @@
+{
+  "answer": "A key quotation exposing historical contradiction is the novel’s celebrated opening: “It was the best of times, it was the worst of times … it was the spring of hope, it was the winter of despair.” This string of antitheses captures how any era—especially the revolutionary period Dickens describes—is defined by coexisting opposites, making it impossible to settle on a single judgment.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way\u2014in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "the unnamed third-person narrator",
+      "use_in_answer": "This passage reinforces how a single historical moment can embody stark contradictions, blending light and darkness, hope and despair, which makes the period impossible to reduce to a simple label."
+    }
+  ],
+  "limits": "The quotation is taken directly from the provided excerpt of \u2018Book the First\u2014Recalled to Life, Chapter I. The Period.\u2019"
+}

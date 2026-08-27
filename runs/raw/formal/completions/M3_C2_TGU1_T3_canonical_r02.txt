@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, hesitation and mortality are deeply intertwined, especially within the context of performance. Prince Hamlet's contemplative nature causes him to delay decisive action, most notably in avenging his father’s murder. This hesitation is not mere cowardice but a reflection of his philosophical engagement with death and authenticity. He confronts the tension between appearance and reality in courtly performance, questioning how mourning and vengeance should be performed. His famous soliloquy incorporates existential doubt: 'To be, or not to be, that is the question' (Act 3, Scene 1) encapsulates his internal paralysis, where the fear of the afterlife stalls action. The play-within-a-play, meanwhile, becomes a moral and performative test: 'The play’s the thing / Wherein I’ll catch the conscience of the King' (Act 2, Scene 2). Here, Hamlet tries to align external performance with internal truth, using drama to reveal hidden guilt. Yet even this plan unfolds slowly, reflecting his hesitation. Ultimately, the play positions performance not as escape from mortality, but as a means to confront it. Hamlet’s delay underscores a human struggle—how to act meaningfully in a world where death renders actions fragile and ambiguous.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation and his deep contemplation of life, death, and action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a tool to confront moral truth and overcome uncertainty."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Hamlet. 'To be, or not to be' is paraphrased slightly for accuracy in punctuation but captures the original line."
+}

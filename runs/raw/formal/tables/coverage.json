@@ -1,0 +1,43 @@
+{
+  "records": 2160,
+  "unique_run_ids": 2160,
+  "duplicate_run_ids": [],
+  "by_model": {
+    "M1": 720,
+    "M3": 720,
+    "M2": 720
+  },
+  "by_condition": {
+    "C1": 540,
+    "C2": 540,
+    "C3": 540,
+    "C4": 540
+  },
+  "by_task": {
+    "TGU1_T1": 120,
+    "TGU1_T2": 120,
+    "TGU1_T3": 120,
+    "TGU2_T1": 120,
+    "TGU2_T2": 120,
+    "TGU2_T3": 120,
+    "TGU3_T1": 120,
+    "TGU3_T2": 120,
+    "TGU3_T3": 120,
+    "TGU4_T1": 120,
+    "TGU4_T2": 120,
+    "TGU4_T3": 120,
+    "TGU5_T1": 120,
+    "TGU5_T2": 120,
+    "TGU5_T3": 120,
+    "TGU6_T1": 120,
+    "TGU6_T2": 120,
+    "TGU6_T3": 120
+  },
+  "buckets": {
+    "wrong": 1217,
+    "strict_correct": 812,
+    "format_failure": 102,
+    "defensible_correct": 29
+  },
+  "bad_buckets": []
+}

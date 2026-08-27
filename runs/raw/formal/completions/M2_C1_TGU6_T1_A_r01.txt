@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey begins by asking the Muse to sing of a man who wandered far and suffered much. This opening identity of the hero as a wanderer whose story is worth telling links the physical journey to the narrative act itself.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-2",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This opening invocation frames the entire epic as a story about wandering, making the wanderer’s tale the central subject."
+    }
+  ],
+  "limits": "Translation by Robert Fagles (1996). Exact phrasing differs across translations."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Today we focus on how Paradise Lost intertwines temptation, free will, and rebellion. Milton insists that true obedience must be chosen, not coerced. The rebellion of Satan and his angels is the poem’s first catastrophic exercise of free will, a self-damning act God foresees but does not prevent, because “freely they stood who stood, and fell who fell.” Temptation therefore becomes the arena where loyalty is tested. In the Edenic scene, Satan’s serpent does not physically force Eve; he weaponizes language to make transgression feel like aspiration. The narrator’s critique captures the paradoxical nature of her choice—she is drawn toward a sin she simultaneously suspects is wrong. Her rebellion is not a single bite but the internal surrender to the possibility that God’s command is a barrier to wisdom. This moment reveals that temptation works by reframing restriction as tyranny and disobedience as self-fulfillment. Milton thus presents the fall as a chain of volition: Satan chooses defiance, Eve chooses belief in a lie, and Adam chooses solidarity with Eve. Each step underlines the poem’s core argument that hell and paradise are not merely places, but states of will.",
+  "evidence": [
+    {
+      "quote": "freely they stood who stood, and fell who fell",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 102",
+      "speaker_or_narrator": "God the Father (narrated speech)",
+      "use_in_answer": "This quote is used to demonstrate the foundational principle of unforced free will that makes rebellion morally significant."
+    },
+    {
+      "quote": "a fair experienced eye / Treads the mysterious maze of fate and God, / High Heaven, and wonders at the ways of God / To men, found just and right; and all His ways / Are just and right—and yet, O God, to know / The knowledge of good and evil, and to gain / A paradise, were this a sin?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 752–758",
+      "speaker_or_narrator": "Narrator (describing Eve’s internal reasoning)",
+      "use_in_answer": "This passage supports the analysis of temptation as an internal rationalization where Eve’s reasoning reframes sin as a quest for enlightenment."
+    }
+  ],
+  "limits": "Quotations are modernized. The second quotation compresses Eve's reasoning as rendered by the narrator's report of her thoughts."
+}

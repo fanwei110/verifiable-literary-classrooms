@@ -1,0 +1,14 @@
+{
+  "answer": "The poem opens by stating its subject: 'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden.' These lines directly link the fall of humanity to the act of disobedience—eating the forbidden fruit—and its consequences: death, suffering, and the loss of paradise.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1–5",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes that man's first disobedience and the forbidden fruit caused death, woe, and the loss of Eden, directly explaining the fall."
+    }
+  ],
+  "limits": "Quoted from the 1667 ten-book edition as shown in the provided source window."
+}

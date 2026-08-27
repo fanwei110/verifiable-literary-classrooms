@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores revolution as a powerful force born from deep social injustice. The French Revolution serves as the turbulent backdrop where sacrifice becomes inevitable for change. Characters are caught in the rising 'sea' of revolutionary fervor, where personal loyalties clash with political ideals. Sydney Carton’s ultimate act of sacrifice—taking Charles Darnay’s place at the guillotine—epitomizes the theme of doubling, as the two men, though morally and physically similar, lead opposing lives. Carton’s death gives meaning to his previously wasted life, fulfilling a promise of redemption. Dickens uses doubling not just in appearance but in fate, contrasting personal virtue with societal corruption. The revolution, while justified in its origins, descends into chaos, as seen in the relentless knitting of Madame Defarge, symbolizing the inescapable reach of vengeance. Yet, through Carton’s sacrifice, hope emerges: 'It was the best of times, it was the worst of times,' the novel begins, capturing the duality of an age where destruction and rebirth occur simultaneously. In the end, sacrifice transforms personal loss into a greater good, echoing the revolutionary ideal—even when the revolution consumes its own.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the duality of the revolutionary era, illustrating how opposing forces coexist and set the stage for both upheaval and sacrifice."
+    },
+    {
+      "quote": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Title Page",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This title highlights the theme of doubling between London and Paris, twin cities mirrored in their contrasts and fates during the revolution."
+    }
+  ],
+  "limits": "The second quote is minimal and structural (a title), so its interpretive use is limited compared to a full textual passage."
+}

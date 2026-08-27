@@ -1,0 +1,14 @@
+{
+  "answer": "Great question—when we look at the opening of The Odyssey, the speaker directly links Odysseus's wandering with the story of those wanderings. The narrator invokes the Muse to sing about the man who was 'driven far off course' and implies that his suffering and travels are inseparable from the tale itself. In fact, in Book 9, Odysseus famously introduces himself to the Phaeacians by naming his identity through his wanderings and the fame they brought him, making 'wandering and story' two sides of the same coin.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, Laertes' son, known to all men for my stratagems, and my fame reaches up to heaven.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-20 (approximate: Fagles translation, e.g., 9.19-20)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that Odysseus's identity and his story are defined precisely by his wandering and the resulting fame (kleos), showing how story and wandering are fused."
+    }
+  ],
+  "limits": "Different translations vary wording; the Greek original uses 'polytropos' and 'plangchthê' earlier, and Book 9 introduces Odysseus's self-narrative explicitly. The quote I've provided is from Robert Fagles's translation; in Richard Lattimore or Emily Wilson versions, the phrasing differs slightly."
+}

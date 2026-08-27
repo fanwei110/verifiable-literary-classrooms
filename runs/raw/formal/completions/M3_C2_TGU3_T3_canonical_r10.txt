@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen’s Pride and Prejudice, first impressions, class, and marriage are tightly intertwined. Elizabeth Bennet and Mr. Darcy’s evolving relationship illustrates how snap judgments can obscure deeper truths about character and social worth. Initially, Darcy dismisses Elizabeth due to her family’s lower status, while she misjudges him as arrogant. However, both overcome these assumptions through self-awareness and personal growth. Austen critiques rigid class structures by showing that moral integrity matters more than birth or fortune. This is evident when Elizabeth asserts her equality despite societal pressures: 'from the very beginning— from the first moment I may almost say— of my acquaintance with you, your manners impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others' (Ch. 34). Here, she challenges Darcy’s class-based aloofness. Later, Austen underscores marriage as both personal and economic through Charlotte Lucas, who marries Mr. Collins for security: 'I am not romantic, you know; I never was. I only want a comfortable home' (Ch. 27). Ultimately, Austen argues that lasting marriage balances affection, respect, and practicality, while urging readers to look beyond first impressions shaped by class.",
+  "evidence": [
+    {
+      "quote": "from the very beginning— from the first moment I may almost say— of my acquaintance with you, your manners impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 34",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports how Elizabeth’s initial impression of Darcy is shaped by his class-based behavior, which she interprets as arrogance."
+    },
+    {
+      "quote": "I am not romantic, you know; I never was. I only want a comfortable home",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Ch. 27",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is often a practical arrangement influenced by class and economic necessity rather than emotion."
+    }
+  ],
+  "limits": "Quotations are from the 1813 edition of Pride and Prejudice; chapter numbers may vary slightly in different editions."
+}

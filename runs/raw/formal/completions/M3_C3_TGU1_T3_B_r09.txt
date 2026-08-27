@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, hesitation, mortality, and performance are deeply intertwined. Hamlet's famous soliloquy reveals his paralyzing contemplation of death: 'To be, or not to be'—he questions whether enduring life's suffering is nobler than ending it through action. Yet the fear of the unknown after death, 'the dread of something after death,' halts him. This hesitation stems from his acute awareness of mortality, where even revenge feels uncertain in a world full of deceit and performance. Indeed, performance masks truth, as when Claudius admits his 'deed to my most painted word' is like a prostitute’s painted cheek—'more ugly' for its false beauty. This moment shows how performance corrupts sincerity, making Hamlet wary of action without certainty. His delay reflects not weakness, but a mind burdened by moral weight and existential doubt. Thus, Hamlet’s inaction is a response to a world where death is mysterious, truth is veiled, and every action risks spiritual consequence. His performance of madness, then, becomes both shield and tool for probing the corrupt performances around him.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's hesitation, showing his internal struggle with action versus endurance in the face of suffering and mortality."
+    },
+    {
+      "quote": "The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 46–48",
+      "speaker_or_narr eig": "King Claudius",
+      "use_in_answer": "This quote illustrates the theme of performance, revealing how appearance masks moral corruption and deepens Hamlet’s hesitation in a deceptive world."
+    }
+  ],
+  "limits": "The second quote's speaker is sometimes misattributed due to the aside; it is Claudius speaking, not a narrator. Textual line numbers may vary slightly by edition."
+}

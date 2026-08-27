@@ -1,0 +1,9 @@
+{
+  "answer": "In *Hamlet*, mortality provokes both paralyzing hesitation and highly theatrical performance. Hamlet's famed soliloquy opens with the existential dilemma that stalls action: \"To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?\" Here, the dread of an unknown afterlife—the \"dreams\" that may come after shuffling off \"this mortal coil\"—gives pause, turning the decision to act into a performance of philosophical indecision. Yet this hesitant posture contrasts sharply with an earlier encounter, when the Ghost beckons Hamlet toward mortal peril. Hamlet throws off restraint, crying that his \"fate cries out,\" and Horatio remarks, \"He waxes desperate with imagination.\" This utterance reveals Hamlet's recklessness as a performed desperation, a theatrical embrace of death that bypasses the very hesitation the soliloquy later dissects. The play thus stages a spectrum of responses to mortality: the mind's inward, halting debate, and the outward, impulsive performance of courage—or madness—that imagination and fear of death can drive. Both reveal that in Elsinore, even the most private meditations on dying are framed as a kind of show.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Hamlet

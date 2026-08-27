@@ -1,0 +1,14 @@
+{
+  "answer": "That line is from Shakespeare’s *Hamlet*. It’s spoken by Prince Hamlet himself in Act 2, Scene 2, as he hatches his plan to confirm Claudius’s guilt by staging a play that mirrors the murder of Hamlet’s father.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 633–634",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly identifies the source and speaker while showing Hamlet’s strategy to expose Claudius’s crime."
+    }
+  ],
+  "limits": "The line numbering can vary slightly across editions, but the act-scene reference remains consistent."
+}

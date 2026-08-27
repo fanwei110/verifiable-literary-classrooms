@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens by blending wandering and storytelling in its invocation to the Muse. The narrator asks the Muse to sing of Odysseus, a man who \"travelled far and wide\" and \"suffered much by sea\" while trying to return home. This immediate call for a story about a wanderer frames the entire epic as a tale born from travel.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, invocation to the Muse",
+      "speaker_or_narrator": "The narrator (the poet)",
+      "use_in_answer": "This opening invocation directly links wandering (travels, suffering at sea) to the act of storytelling (asking the Muse to tell the tale), making it a foundational quotation for the themes of wandering and story."
+    }
+  ],
+  "limits": "Translation by Samuel Butler (1921). Exact line numbers not provided in the source excerpt."
+}

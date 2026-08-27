@@ -1,0 +1,14 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the theme of fall and disobedience is powerfully introduced in the opening lines, where the narrator declares the purpose of the poem: to 'justify the ways of God to men.' Humanity's fall begins with Adam and Eve's disobedience to God's command, but the poem first presents Satan's rebellion as the archetypal act of defiance. This establishes disobedience not just as a human failing but as a cosmic act of pride and self-exaltation, originating with Satan's refusal to accept divine authority. Their fall, therefore, becomes a tragic but instructive consequence of free will misused, central to Milton’s exploration of moral responsibility and divine justice.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit of that Forbidden Tree, whose mortal taste Brought Death into the World, and all our woe, With loss of Eden, till one greater Man restore us, and regain the blissful Seat, Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "The narrator / poet",
+      "use_in_answer": "This quote establishes the central themes of the poem—humanity's fall through disobedience and its consequences—framing the entire narrative."
+    }
+  ],
+  "limits": "The quotation is from the 1674 version of Paradise Lost, the final authorized edition. Variants exist in the 1667 edition, but the 1674 text is the most commonly used in modern classrooms."
+}

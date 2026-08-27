@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s go straight to two passages that show how ambition, prophecy, and guilt work together in Macbeth. First, look at Macbeth’s moment of “fatal vision”: “Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.” The dagger is not real—it’s a “false creation, / Proceeding from the heat-oppressed brain”—but it is born directly from his ambition. The witches’ prophecy has seeded a desire that now marshals him toward murder, and his guilt begins to deform his perception before a single drop of blood is shed. Second, consider Banquo’s careful reply after Macbeth hints at a future alliance: “So I lose none / In seeking to augment it, but still keep / My bosom franchis’d, and allegiance clear, / I shall be counsell’d.” Banquo also has ambition—he dreams of the Weird Sisters and their “truth”—but he refuses to let prophecy compromise his honor. Where Macbeth lets ambition feed guilt that hallucinates a dagger and widens into terror, Banquo draws a bright line: ambition is acceptable only if his conscience stays free. Shakespeare gives us ambition as a fire that prophecy ignites; guilt is the smoke that signals whether that fire will warm or destroy.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1 (source window 1)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows how ambition, fired by prophecy, immediately produces guilt that manifests as hallucination."
+    },
+    {
+      "quote": "So I lose none / In seeking to augment it, but still keep / My bosom franchis’d, and allegiance clear, / I shall be counsell’d.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1 (source window 1)",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "Demonstrates Banquo’s contrasting response to the same prophecy: ambition held in check by an insistence on a guiltless conscience."
+    }
+  ],
+  "limits": "Excerpts are from source window 1 only; Act and scene divisions follow standard editorial tradition but are not explicitly marked in the frozen excerpts. Locators given as Act, Scene inference from content."
+}

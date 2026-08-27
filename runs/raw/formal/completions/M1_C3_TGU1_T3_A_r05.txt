@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, the weight of mortality, and the pressures of performance—both onstage and in life. Hamlet’s infamous soliloquy, 'To be, or not to be,' reveals his existential dread: he contemplates suicide as an escape from suffering but hesitates, fearing the unknown of death ('For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause'). This 'pause' encapsulates his broader indecision, as he grapples with the moral and practical consequences of revenge. Later, when the Ghost beckons him, Hamlet’s urgency contrasts sharply with his earlier hesitation: 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.' Here, his performance of resolve—fueled by supernatural command—masks his underlying fear of failure and the fragility of human action. Both moments highlight how mortality and the expectation to act (as avenger, prince, or son) trap Hamlet in a cycle of doubt and forced decisiveness, exposing the tension between thought and action that defines his tragedy.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and fear of the unknown after death, which paralyzes him from taking action, including suicide or revenge."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s performative resolve when confronted with the Ghost, contrasting his earlier hesitation and emphasizing the pressure to act despite his internal conflict."
+    }
+  ],
+  "limits": "Quotations are from the Folio/Quarto hybrid text; line numbers may vary slightly across editions."
+}
+```

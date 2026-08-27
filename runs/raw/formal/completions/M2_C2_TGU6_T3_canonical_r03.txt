@@ -1,0 +1,22 @@
+{
+  "answer": "The Odyssey intertwines homecoming, identity, and hospitality to define a hero’s worth. Odysseus’s return to Ithaca is not simply geographical; it hinges on the recognition of his true self, tested through the sacred code of xenia. In a world where strangers could be gods, hospitality serves as the moral litmus test, revealing the character of both host and guest. The suitors’ violation of this code—consuming Odysseus’s wealth and disrespecting his household—marks them as villains and justifies their slaughter. Conversely, when disguised Odysseus is treated cruelly, the act underscores identity’s fragility: being stripped of home means being stripped of recognition. Only when proper hospitality is finally restored can his homecoming be complete, as seen in the reunion with his wife.",
+  "evidence": [
+    {
+      "quote": "There is no more respect for the gods in you than there was before. Now there’s a scandal: you murdered the best men in all of Ithaca. ... You came home to find your house turned upside down, your wife claimed, and you killed them all—ruthless. For that, your payment will be misery, wandering the seas.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 24, lines 426-437",
+      "speaker_or_narrator": "Eupeithes",
+      "use_in_answer": "This speech by the suitor Antinous’s father after the slaughter frames Odysseus’s homecoming not as heroism but as a scandalous violation of the community, highlighting the bloody cost of reclaiming identity and the host’s ultimate authority."
+    },
+    {
+      "quote": "Stranger, may I tell you what is on my mind? The gods have ordained this: there is nothing more admirable than when two people keep house together, sharing one heart and mind—a great sorrow to their enemies, a great joy to their friends.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 180-185",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Disguised as a shipwrecked beggar, Odysseus blesses Nausicaa with a vision of ideal marriage, a poignant articulation of his deepest longing for a homecoming defined by shared identity and true partnership with Penelope."
+    }
+  ],
+  "limits": "Translations by Robert Fagles (Penguin Classics) approximated for line windows; specific phrasing may vary slightly depending on the modern edition consulted."
+}

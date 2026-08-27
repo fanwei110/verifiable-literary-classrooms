@@ -1,0 +1,22 @@
+{
+  "answer": "John Milton’s Paradise Lost explores how temptation, free will, and rebellion intertwine to cause humanity’s fall. The poem opens by announcing its theme: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe” (1.1–3). This frames free will as the condition enabling disobedience; Adam and Eve choose to eat the fruit, despite knowing God’s command. Rebellion, however, is dramatized most vividly through Satan. Rejecting heavenly servitude, he defiantly declares: “The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n” (1.254–255). Satan insists that inner attitude can transform external reality, a perversion of free will that rationalizes his revolt. Temptation, for Milton, operates by appealing to this rebellious self-assertion—Eve is tempted not just by the fruit but by the promise of godlike knowledge. Both Satan’s rebellion and the human fall hinge on the same misuse of free will, showing that true freedom lies in obedience to divine order, not in defiant choice.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes that free will makes disobedience possible and links it to death and woe."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254-255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates Satan’s rebellious perversion of free will, claiming inner attitude outweighs external reality."
+    }
+  ],
+  "limits": "Line numbering approximated from standard editions; quotations taken from the provided source windows."
+}

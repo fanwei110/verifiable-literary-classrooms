@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, illustrating how these forces drive both Satan’s fall and humanity’s original sin. Satan’s defiance is rooted in his assertion of autonomy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a deliberate choice—one that prioritizes pride and self-determination over obedience. His reasoning reveals how free will, when misdirected, becomes a tool of defiance rather than virtue. Similarly, the poem’s opening frames Adam and Eve’s fall as a consequence of their own free will, tempted by the 'Forbidden Tree, whose mortal tast / Brought Death into the World.' Here, temptation is not merely an external force but a test of human agency, where the choice to disobey stems from a desire for knowledge and autonomy, mirroring Satan’s earlier rebellion. Milton suggests that true freedom lies in aligning one’s will with divine order, while rebellion—whether Satan’s or humanity’s—leads only to ruin. Both quotations highlight how free will, when exercised in defiance, becomes the catalyst for downfall, emphasizing the poem’s central tension between obedience and autonomy.",
+
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s rebellious choice to prioritize pride and self-rule over submission, illustrating the corrupting potential of free will."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-4",
+      "speaker_or_narrator": "Narrator (invocation)",
+      "use_in_answer": "This passage introduces the theme of temptation and free will, framing humanity’s fall as a consequence of choosing to disobey divine command."
+    }
+  ],
+
+  "limits": "The provided excerpts do not include direct dialogue or narration from Books IX or X, where Adam and Eve’s temptation and fall are most explicitly depicted. The analysis of their rebellion is thus inferred from the poem’s broader themes and the opening invocation."
+}
+```

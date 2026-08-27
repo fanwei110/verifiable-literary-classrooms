@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes. Odysseus’s long journey to Ithaca is not just a physical return but a reclamation of identity and rightful place. Throughout the epic, hospitality—or xenia—serves as a moral benchmark: those who honor it align with divine order, while violators face consequences. When Odysseus finally returns in disguise, he tests the loyalty of his household and confronts the suitors, who have abused hospitality by consuming his resources and courting his wife. The contrast between respectful guests and abusive suitors highlights the cultural weight of hospitality. Identity is gradually revealed through recognition scenes, culminating in Penelope’s test of the bed—an intimate symbol only the true Odysseus would know. This moment reinforces that identity is rooted not only in name but in shared history and place. The reunion of Odysseus and Penelope restores order, affirming that true homecoming requires the reconciliation of identity, loyalty, and proper hospitality.",
+  "evidence": [
+    {
+      "quote": "Stranger, you are very like one who is dead—Odysseus, whom we shall never see again.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, lines 277–278",
+      "speaker_or_narrator": "Eurycleia",
+      "use_in_answer": "This quote illustrates the uncertainty surrounding Odysseus’s identity upon his return, emphasizing the theme of identity recognition in homecoming."
+    },
+    {
+      "quote": "This bed no man has ever moved—it would be impossible; there is a great symbol here.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 187–188",
+      "speaker_or_narrator": "Penelope",
+      "use_in_answer": "This quote supports how the unmovable bed symbolizes the enduring bond of marriage and proves Odysseus’s true identity, reinforcing the connection between identity and homecoming."
+    }
+  ],
+  "limits": "Quotation wording may vary by translation; references based on standard Greek text and common English versions like Robert Fagles or Richmond Lattimore."
+}

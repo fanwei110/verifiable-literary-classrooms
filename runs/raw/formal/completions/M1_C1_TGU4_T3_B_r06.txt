@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s explore how *A Tale of Two Cities* uses revolution, sacrifice, and doubling to mirror chaos and redemption. The novel’s opening—'It was the best of times, it was the worst of times'—captures the duality of the French Revolution: hope and horror coexist. This doubling isn’t just thematic; it’s structural. Characters like Sydney Carton and Charles Darnay embody this tension. Carton’s sacrifice at the guillotine, where he declares, 'It is a far, far better thing that I do, than I have ever done,' transforms his wasted life into purpose, showing how revolution demands personal sacrifice for collective change. The novel forces us to ask: Can violence ever justify redemption? Dickens doesn’t offer easy answers, but through doubling—London and Paris, Carton and Darnay—he shows how revolution fractures and heals, often simultaneously. Notice how these contrasts push us to question the cost of justice and the weight of individual choices in systemic upheaval.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of doubling and the duality of the revolution’s impact—simultaneous progress and destruction."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice, showing how Carton’s death redeems his life and underscores the personal cost of revolutionary change."
+    }
+  ],
+  "limits": "Quotations are from the 1859 first edition; chapter numbering may vary slightly in other editions."
+}

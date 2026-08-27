@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply connected themes. Odysseus’s long journey home is not just a physical return to Ithaca, but a quest to reclaim his identity as king and husband. Throughout his wanderings, the way characters offer or deny hospitality reveals much about their morality and the values of ancient Greek culture. A key moment occurs when Odysseus finally returns to Ithaca disguised as a beggar. Athena tests Odysseus’s resolve and wisdom, preparing him to confront the suitors who have disrespected both hospitality and his household. True hospitality—called xenia—demands respect regardless of appearance, and the failure of the suitors to honor this principle marks them as unjust. This is central to the epic’s moral framework. Identity is not assumed but proven through recognition and memory, often mediated through physical tokens or shared knowledge. Odysseus’s relationship with his father Laertes climaxes this theme, affirming both lineage and loyalty. The reunion validates not only personal identity but also rightful place in the community. These themes teach that home is more than a place—it is tied to who one is, how one is recognized, and the hospitality that sustains social bonds.",
+  "evidence": [
+    {
+      "quote": "Welcome, stranger. You shall be entertained, though you are a newcomer. Eat and drink, then tell us what you need.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 148–150",
+      "speaker_or_narrator": "Telemachus",
+      "use_in_answer": "This quote supports how hospitality (xenia) is a sacred duty in Greek culture, establishing moral character and societal order."
+    },
+    {
+      "quote": "Now at last the day of return has come—I reach my native land again.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, line 268",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates the emotional and identity-restoring significance of homecoming after prolonged separation and suffering."
+    }
+  ],
+  "limits": "Quotations are based on standard translations (e.g., Robert Fagles); line numbers may vary slightly by edition."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Milton opens Paradise Lost by stating his theme plainly: \"Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree.\" This directly identifies disobedience as the root of the Fall, the tasting of the forbidden fruit that brought death into the world.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-2",
+      "speaker_or_narrator": "the epic narrator",
+      "use_in_answer": "This opening declaration identifies disobedience as the central theme, linking the forbidden fruit to the Fall and all its consequences."
+    }
+  ],
+  "limits": "Line break indicated with a slash; quotation from the 1674 edition."
+}

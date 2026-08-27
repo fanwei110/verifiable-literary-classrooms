@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human—and angelic—agency. Satan’s defiance isn’t just an act of pride; it’s a deliberate choice to reject divine authority, illustrating how free will can lead to ruin. His temptation of Eve, for example, preys on her desire for knowledge and autonomy, framing rebellion as both alluring and destructive. Milton shows that true freedom isn’t the absence of rules but the ability to choose rightly within them. Yet, Satan’s famous declaration, ‘Better to reign in Hell, than serve in Heav’n,’ reveals his twisted logic: he equates rebellion with liberation, even as it dooms him to eternal suffering. Similarly, Eve’s fall demonstrates how temptation exploits curiosity and ambition, as she rationalizes disobedience as a path to godlike wisdom. Both moments underscore Milton’s argument that rebellion stems from misused free will, where characters confuse defiance with empowerment. The poem ultimately asks: Is freedom the right to choose evil, or the wisdom to resist it?",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan’s rebellion is rooted in pride and a distorted view of freedom, where he values power over obedience."
+    },
+    {
+      "quote": "Not equal, as their sex not equal seem’d; / For contemplation hee and valour form’d, / For softness shee and sweet attractive Grace, / Hee for God only, shee for God in him.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 4, lines 296-299",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage highlights Eve’s perceived inferiority, which Satan exploits to tempt her into rebellion by appealing to her desire for equality and knowledge."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other versions."
+}

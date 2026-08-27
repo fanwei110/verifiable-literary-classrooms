@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Prince Hamlet in William Shakespeare's play *Hamlet*. It appears at the end of Act II, Scene 2, as part of a soliloquy in which Hamlet resolves to stage a play mirroring his father's murder in order to observe King Claudius's reaction and confirm his guilt.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2 (final lines, before Act III)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote confirms the prince as the speaker and reveals his plan to use the 'Mousetrap' play to test Claudius's conscience."
+    }
+  ],
+  "limits": "No uncertainty; the attribution is secure."
+}

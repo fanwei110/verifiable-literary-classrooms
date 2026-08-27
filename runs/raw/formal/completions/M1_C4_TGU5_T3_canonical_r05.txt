@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance stems from his refusal to accept divine hierarchy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rebellion as a deliberate choice—one rooted in pride and the illusion of autonomy. His argument that 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' reveals his belief in free will as an absolute power, even in damnation. Yet this freedom is illusory, for Satan’s rebellion leads only to suffering, illustrating how unchecked defiance distorts reason. Similarly, Adam and Eve’s fall in Book IX mirrors Satan’s logic: their temptation to eat the forbidden fruit is an act of free will, but one corrupted by the desire to transcend their created limits. Milton suggests that true freedom lies not in rebellion but in obedience to divine order, as the consequences of their choices—death and exile—demonstrate the fragility of human agency when divorced from wisdom. Through these narratives, Milton invites readers to reflect on the boundaries of free will and the dangers of prideful defiance.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s rebellious defiance and his prioritization of power over submission, framing his choice as an exercise of free will."
+    },
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This line supports Satan’s belief in the absolute power of free will, even in damnation, highlighting his rationalization of rebellion as a form of self-determination."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct textual evidence from Book IX (Adam and Eve’s fall), so their temptation and rebellion are discussed thematically rather than through quoted support."
+}

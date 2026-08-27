@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Sydney Carton in the closing paragraphs of Charles Dickens's novel *A Tale of Two Cities*. He reflects on his sacrificial act of taking another man's place at the guillotine, seeing it as a redemptive, noble deed.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15 (the final chapter)",
+      "speaker_or_narrator": "Sydney Carton (the character's internal reflection, rendered by the narrator)",
+      "use_in_answer": "This quote confirms the exact wording, the speaker, and the climactic context of self-sacrifice."
+    }
+  ],
+  "limits": "The line is the novel's very last sentence; the full passage is often quoted as shown."
+}

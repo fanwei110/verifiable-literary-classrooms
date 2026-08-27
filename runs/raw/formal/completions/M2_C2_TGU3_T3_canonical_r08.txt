@@ -1,0 +1,22 @@
+{
+  "answer": "Today we explore how Jane Austen’s Pride and Prejudice intertwines first impressions, class, and marriage. The novel’s original title, First Impressions, signals that snap judgments rooted in social standing will drive the plot. Austen immediately satirizes the economic foundation of courtship with the novel’s famous opening line, revealing that in this world, a wealthy man’s arrival is a community resource to be captured through marriage. That irony deepens at the Meryton assembly, where Darcy’s proud dismissal of Elizabeth as “tolerable; but not handsome enough to tempt me” crystallizes how class prejudice distorts perception. His insult wounds Elizabeth’s vanity and cements her own prejudicial reading of his character, locking them both in a cycle of misjudgment. The ensuing narrative demands that each protagonist unlearn that first impression: Darcy must overcome his contempt for the Bennets’ lower connections, and Elizabeth must see past his aristocratic hauteur to the integrity beneath. Austen thus demonstrates that genuine unions are impossible when class-consciousness and hasty judgments remain unchallenged, and that love requires the humility to revise what we thought we knew.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic opening establishes the novel's central satire on how class and wealth drive the marriage market."
+    },
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "Darcy's dismissive first impression of Elizabeth illustrates how pride and class prejudice cloud initial judgments, shaping the story's conflict."
+    }
+  ],
+  "limits": "Quotations are from the standard public-domain text; chapter divisions may vary slightly across editions."
+}

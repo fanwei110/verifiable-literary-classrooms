@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea, claiming, 'I think not of them,' yet his obsession with the witches’ words reveals how quickly ambition takes root. The prophecy acts as both a catalyst and a justification for his actions, blurring the line between fate and free will. However, guilt soon consumes Macbeth, manifesting in hallucinations like the dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his moral unraveling, as his ambition leads to paranoia and violence. Lady Macbeth, too, is haunted by guilt, her sleepwalking scene later in the play revealing the psychological toll of their crimes. Together, these themes illustrate how unchecked ambition, fueled by prophecy, spirals into self-destruction, leaving only guilt in its wake.",
+
+  "evidence": [
+    {
+      "quote": "I think not of them:",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote highlights Macbeth’s initial denial of his obsession with the witches’ prophecy, underscoring how ambition subtly takes hold despite his protests."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination demonstrates Macbeth’s guilt and psychological torment, showing how his ambition has warped his perception and led to moral decay."
+    }
+  ],
+
+  "limits": "The quotes are sourced from the provided excerpts, but line numbers may vary slightly depending on the edition of *Macbeth*."
+}
+```

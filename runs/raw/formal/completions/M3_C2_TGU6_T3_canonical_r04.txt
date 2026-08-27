@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey home to Ithaca is not just a physical return but a reclamation of identity and rightful place. His encounter with the Phaeacians highlights xenia, or guest-friendship, a sacred social code. When Odysseus reveals himself, he says, 'I am Odysseus, son of Laertes, known among men for my cunning, and my fame reaches the heavens' (Homer, The Odyssey, Book 9, line 19-20). This declaration establishes his identity not through strength alone, but through reputation and intelligence, key aspects of selfhood in Homeric culture. Later, upon returning to Ithaca disguised as a beggar, Odysseus tests the loyalty of those around him, including his wife Penelope. Penelope herself embodies discerning hospitality when she tells the disguised Odysseus, 'Many Achae chiefs come to my hall, but none like you in form and speech' (Homer, The Odyssey, Book 19, line 335-336). Her words reflect not only hospitality but also intuitive recognition, blurring the lines between stranger and kin. Through these moments, Homer illustrates how true homecoming requires the affirmation of identity by loved ones and the proper observance of hospitality, transforming reunion into a restoration of order and self.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known among men for my cunning, and my fame reaches the heavens",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, line 19-20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus reclaims his identity through reputation and intellect upon entering a foreign court."
+    },
+    {
+      "quote": "Many Achae chiefs come to my hall, but none like you in form and speech",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 19, line 335-336",
+      "speaker_or_narrator": "Penelope",
+      "use_in_answer": "This quote illustrates Penelope’s discerning hospitality and subtle recognition of Odysseus, linking identity with emotional connection."
+    }
+  ],
+  "limits": "Translations may vary slightly by edition; quotes reflect common renderings from the Robert Fagles and Emily Wilson translations."
+}

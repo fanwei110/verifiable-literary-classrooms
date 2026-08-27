@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, exploiting free will to justify rebellion. He flatters her, suggesting that God’s prohibition is a test of her potential: 'Ye shall be as Gods, / Knowing good and evil.' This appeal to pride and ambition distorts her perception of obedience, framing it as a limitation rather than a divine boundary. Similarly, Adam’s fall highlights the tension between reason and passion. Though he recognizes the gravity of Eve’s transgression, his love for her overrides his judgment, leading him to choose solidarity over obedience. As Milton’s narrator reflects, 'Not then mistrust, but tender love enjoins, / That I should mind thee oft.' This moment underscores how free will, when clouded by emotion or deception, can lead to rebellion against divine order. Together, these episodes reveal Milton’s view that true freedom lies in choosing virtue, while rebellion—though seductive—ultimately enslaves.",
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s deceptive appeal to Eve’s pride, framing God’s command as a barrier to her potential and justifying rebellion."
+    },
+    {
+      "quote": "Not then mistrust, but tender love enjoins, / That I should mind thee oft",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 907-908",
+      "speaker_or_narrator": "Narrator (describing Adam’s thoughts)",
+      "use_in_answer": "This line explains Adam’s internal conflict, showing how love and emotion can override reason, leading to his choice to rebel alongside Eve."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a passage from A Tale of Two Cities that vividly captures the historical contradiction of the French Revolution—where the oppressed become the oppressors. Dickens shows how the violence of the revolutionaries mirrors the cruelty of the aristocracy they overthrew, illustrating the cyclical nature of tyranny and retribution.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1 (The Period)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening passage underscores the paradoxical nature of the era, where revolutionary ideals of liberty and justice coexisted with extreme violence and oppression, reflecting the contradictions of historical change."
+    }
+  ],
+  "limits": "The quote is from the 1859 first edition; minor variations may exist in later editions."
+}

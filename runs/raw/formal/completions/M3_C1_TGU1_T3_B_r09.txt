@@ -1,0 +1,22 @@
+{
+  "answer": "In Hamlet, hesitation, mortality, and performance are deeply intertwined. Hamlet’s famous soliloquy reveals his inner struggle with action and the fear of death: 'To be, or not to be'—he questions whether enduring life's suffering is worth the uncertainty of what comes after. This hesitation stems not from weakness but from deep philosophical contemplation. He is caught between revenge and moral consequence, action and inaction. Yet, performance becomes his tool for truth-seeking. By staging 'The Mousetrap,' Hamlet uses theater to 'catch the conscience of the King,' blurring reality and illusion. His feigned madness is both a shield and a lens, exposing how roles can reveal authenticity. Thus, Hamlet’s delay isn't mere indecision—it’s a response to the weight of mortality and the complexity of truth. As he says, 'The play’s the thing,' underscoring art’s power to reveal reality. In performing, he confronts existential doubt without committing irreversible acts too soon.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56–88",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's hesitation and existential struggle with mortality."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I'll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 607–608",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s use of theatrical performance to uncover truth and delay decisive action."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Hamlet; slight variations may exist across editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the tumultuous era of the French Revolution, where sacrifice and duality shape the narrative. The revolution emerges from extreme social inequality, depicted in the novel’s famous opening: 'It was the best of times, it was the worst of times,' highlighting the stark contrasts that fuel societal upheaval. This doubling—between hope and despair, light and darkness—mirrors the personal and political conflicts characters face. Revolution is not just a public event but a private transformation, as seen in Sydney Carton’s ultimate act of sacrifice. Carton, a disillusioned lawyer, replaces Charles Darnay at the guillotine, declaring, 'It is a far, far better thing that I do, than I have ever done.' His death exemplifies personal redemption through self-sacrifice, offering hope amid chaos. Carton’s act contrasts with the revolution’s violence, suggesting that individual moral choices can rise above collective frenzy. Dickens portrays revolution as both destructive and redemptive, shaped by the sacrifices of individuals caught in the storm of history. Through doubling and sacrifice, the novel underscores the human capacity for change and grace, even in the darkest times.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and the contrasting conditions that fuel the revolution."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third--the Track of a Storm, CHAPTER XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates Carton's redemptive sacrifice, emphasizing personal transformation amid revolutionary chaos."
+    }
+  ],
+  "limits": "The source excerpts are limited to chapter titles and partial text, but the two key quotations are fully present and attributable."
+}

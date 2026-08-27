@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how Shakespeare intertwines ambition, prophecy, and guilt in *Macbeth*. The play suggests that unchecked ambition—fueled by supernatural prophecy—leads to moral corruption and psychological torment. Macbeth’s initial hesitation gives way to ruthless action after the witches’ predictions ignite his desire for power. Yet, his ambition doesn’t bring fulfillment; instead, it breeds guilt, as seen when he hallucinates Banquo’s ghost, a manifestation of his remorse. The prophecies themselves are ambiguous, tempting Macbeth into a false sense of security while ensuring his downfall. Even Lady Macbeth, who dismisses guilt early on, is consumed by it, famously crying, ‘Out, damned spot!’ as she sleepwalks. These moments reveal how ambition, when divorced from morality, becomes self-destructive. Shakespeare warns that prophecy may spark ambition, but guilt is the inevitable consequence of its pursuit.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on th'other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s recognition of his own ambition as the sole driving force behind his planned regicide, highlighting its dangerous, self-destructive nature."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination demonstrates how guilt and ambition intertwine, as Macbeth’s conscience begins to fracture under the weight of his impending crime."
+    }
+  ],
+  "limits": "Quotations are from the First Folio (1623); line numbers may vary slightly by edition."
+}

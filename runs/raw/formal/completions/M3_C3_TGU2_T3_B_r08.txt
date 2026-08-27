@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt form a destructive cycle that drives Macbeth’s downfall. Encouraged by the witches’ prophecy that he will become king, Macbeth’s ambition overrides his morality, leading him to murder Duncan. Yet, the moment he acts on his ambition, guilt immediately takes hold. His hallucination of a dagger before the murder reveals his inner turmoil—his mind is so overwhelmed by dread and desire that it conjures a weapon 'of the mind, a false creation.' This shows how ambition, sparked by prophecy, fractures his psyche. After the deed, guilt haunts him relentlessly. He laments, 'Will all great Neptune’s ocean wash this blood clean from my hand?' (Act II, Scene II), expressing horror at his irreversible act. This line underscores how guilt consumes him, transforming him from a 'valiant' soldier into a tormented tyrant. The interplay of prophecy igniting ambition, and ambition breeding guilt, demonstrates Shakespeare’s exploration of the corrupting power of unchecked desire. Ultimately, Macbeth is not destroyed by fate but by his own choices in pursuit of power, making his tragedy profoundly human.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the psychological impact of ambition and guilt, showing Macbeth’s mind unraveling before committing murder."
+    },
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene II",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s overwhelming guilt after murdering Duncan, emphasizing the irreversible consequences of his ambition."
+    }
+  ],
+  "limits": "The source windows provided are partial; quotations are standard in most editions but exact line numbers may vary slightly by edition."
+}

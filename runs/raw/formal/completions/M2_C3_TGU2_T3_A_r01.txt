@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition, prophecy, and guilt entwine to drive the tragedy. The play opens with the witchesâ cryptic chant, âFair is foul, and foul is fair,â a prophecy that dissolves moral boundaries. This equivocal promise plants the seed of ambition in Macbeth: if foul deeds can seem fair, then regicide might appear a path to glory. The prophecy leads him to contemplate murder, but his conscience immediately pushes back, generating a hallucinatory dagger. Macbethâs visionââIs this a dagger which I see before me, / The handle toward my hand?ââembodies the collision of vaulting ambition and burgeoning guilt. The dagger, âa false creation,â points toward Duncanâs chamber, showing that ambition has already marshalled his will, yet its increasingly bloody blade signals the guilt that will follow. Thus, prophecy spurs ambition, ambition breeds action, and guilt manifests psychologically before the crime is even committed, foreshadowing the sleepless torment that later consumes both Macbeth and Lady Macbeth.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I, lines 11-12 (approx.)",
+      "speaker_or_narrator": "All Witches",
+      "use_in_answer": "This quotation reveals how the witchesâ equivocal prophecy blurs moral lines, igniting Macbethâs ambition by making foul actions appear fair."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:â / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I, lines 33-35 (approx.)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination concretises Macbethâs guilt and ambition; the dagger of the mind leads him toward murder, showing how his ambition has overpowered reason while guilt pre-emptively stains the blade with blood."
+    }
+  ],
+  "limits": "Line numbers are approximate; the provided source excerpts lack line numbering, so locators refer to standard editions."
+}

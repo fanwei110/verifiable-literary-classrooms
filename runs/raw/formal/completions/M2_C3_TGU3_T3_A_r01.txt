@@ -1,0 +1,22 @@
+{
+  "answer": "In this mini-lesson, we explore how Austen uses first impressions, class, and marriage to critique Regency society. The novel’s famous opening line immediately satirizes the era’s mercenary marriage market, reducing wealthy bachelors to objects of pursuit. This sets the stage for a world where first impressions are shaped by economic status, and characters like Mrs. Bennet view marriage solely through a financial lens. Elizabeth’s journey, however, teaches that genuine understanding requires overcoming initial prejudices. After reading Darcy’s letter, she experiences a painful epiphany: \"How despicably have I acted! … Till this moment, I never knew myself.\" Her self-reproach reveals how her own vanity—wounded by Darcy’s slight at a ball—led her to misjudge both him and the charming Wickham. Austen thus shows that first impressions, entangled with class pride, can blind even the most intelligent. True marriage, the novel argues, demands not just love but self-awareness and the courage to revise one’s prejudices. The Bennets’ own mismatched union serves as a cautionary tale, underscoring that marriage without mutual respect is a folly. Ultimately, Elizabeth and Darcy’s hard-won understanding proves that lasting partnership requires looking beyond surface charm and social standing.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic statement introduces the theme of marriage as an economic transaction, showing how class and financial status dominate first impressions and romantic pursuits."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s moment of self-reckoning reveals how first impressions rooted in vanity and class prejudice can distort judgment, and marks her moral growth toward a more honest understanding of herself and others."
+    }
+  ],
+  "limits": "Quotations are taken from the provided source excerpts, which correspond to the novel's first chapter and Elizabeth's reflection in Chapter 36. The second excerpt is abridged in the source window."
+}

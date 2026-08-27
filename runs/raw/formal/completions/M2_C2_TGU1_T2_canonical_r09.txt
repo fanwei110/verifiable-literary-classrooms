@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Prince Hamlet in William Shakespeareâs play *Hamlet*, at the end of Act 2, Scene 2. After arranging for a troupe of actors to perform a play that reenacts his fatherâs murder, Hamlet declares his plan to observe King Claudiusâs reaction and thus confirm his guilt.",
+  "evidence": [
+    {
+      "quote": "The playâs the thing Wherein Iâll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 617â618",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the attribution that Hamlet says the line in Hamlet as part of his plan to test the Kingâs guilt."
+    }
+  ],
+  "limits": "None."
+}

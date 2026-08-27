@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are central to understanding humanity's fall. Satan, embodying rebellion, tempts Eve by exploiting her free will, positioning disobedience as a path to godlike knowledge. Milton presents free will not as a flaw but as a necessary condition for genuine virtue—obedience must be chosen, not forced. Temptation arises when Satan twists God’s command, making divine restraint seem like oppression. Eve’s choice to eat the forbidden fruit illustrates how rational beings can be deceived by pride and curiosity, even when warned. Similarly, Adam’s subsequent decision underscores the complexity of love and loyalty when misaligned with divine will. Both actions stem from free will, yet result in tragic consequences. The poem does not absolve them of responsibility; instead, it emphasizes moral accountability. As Satan declares, 'Better to reign in Hell, than serve in Heav'n,' his defiant rejection of obedience exemplifies rebellion rooted in pride. Later, Eve observes, 'The eye sees not itself / But by reflection,' revealing her growing self-awareness post-fall. Together, these moments show how temptation targets human vulnerability, yet affirms that choices—no matter the influence—remain personal.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's rebellious nature and his prideful justification for defying God."
+    },
+    {
+      "quote": "The eye sees not itself / But by reflection, by some other things",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 4, lines 248–249",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote illustrates Eve's developing self-awareness and the reflective nature of identity, highlighting her internal struggle before succumbing to temptation."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of Paradise Lost; line numbers may vary slightly in other editions."
+}

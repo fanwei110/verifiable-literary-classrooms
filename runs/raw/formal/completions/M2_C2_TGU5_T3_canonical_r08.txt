@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton weaves temptation, free will, and rebellion into a single moral fabric. Temptation is not an external force that overwhelms; it is a test that requires the exercise of free will. God explains that humanity was created “Sufficient to have stood, though free to fall,” establishing that obedience is meaningful only if disobedience is a genuine possibility. The Fall, then, results from a voluntary act of the will, not from a flaw in creation. Satan’s own rebellion models this dynamic. His famous declaration, “Better to reign in Hell, than serve in Heav’n,” is not the cry of a victim but the deliberate choice of a creature who has already fallen through pride. He redefines freedom as self-assertion rather than loving submission. The poem thus links temptation to an interior drama: the serpent’s words succeed because Eve’s will, though unfallen, can incline toward a lesser good. Rebellion is the outward shape of an inner capitulation. By making temptation the arena of free choice, Milton insists that the loss of paradise is not a cosmic accident but a human act, one that echoes Satan’s original revolt while leaving open the possibility of restoration through grace.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This declaration of Satan illustrates the prideful misuse of free will that defines rebellion, choosing self-sovereignty over divine order even at the cost of damnation."
+    },
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, lines 98–99",
+      "speaker_or_narrator": "God the Father",
+      "use_in_answer": "This statement frames temptation as a test of genuinely free will, showing that Adam and Eve were equipped to resist but could choose otherwise."
+    }
+  ],
+  "limits": "Quotations follow the 1674 edition lineation. The locator reflects the continuous book-and-line format."
+}

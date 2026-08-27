@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's \"To be, or not to be\" soliloquy (Act 3, Scene 1), he confronts mortality and hesitation directly. He speaks: \"To die, to sleep. / To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.\" The phrase \"shuffled off this mortal coil\" evokes our mortal existence, and the unknown \"dreams\" after death are the very thing that \"must give us pause\"—the hesitation that keeps us from acting.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep. / To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage directly links mortality (the sleep of death, mortal coil) with hesitation (the unknown dreams give us pause), explaining why we endure suffering rather than end it."
+    }
+  ],
+  "limits": "The provided excerpt cuts off after \"To grunt and sweat\" in the soliloquy; only the visible lines are usable."
+}

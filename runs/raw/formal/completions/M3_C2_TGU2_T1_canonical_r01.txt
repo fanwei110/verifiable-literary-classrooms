@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition drives the protagonist to hallucinate, as seen when Macbeth sees a dagger before killing King Duncan. He questions his senses, saying, 'Is this a dagger which I see before me, / The handle toward my hand?' This moment reveals how intense ambition can blur reality and fuel visions that lead to tragic actions.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–34",
+      indicators: "Macbeth",
+      "use_in_answer": "This quote supports the idea that overwhelming ambition can trigger hallucinations, as Macbeth sees a dagger that isn't there, foreshadowing his violent action."
+    }
+  ],
+  "limits": "The quotation is from the First Folio edition; minor variations may exist in other editions."
+}

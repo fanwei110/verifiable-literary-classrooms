@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton’s *Paradise Lost*, temptation, free will, and rebellion are central themes that define the moral framework of the poem. Satan’s fall begins with rebellion against God, not due to coercion but through the exercise of free will. Milton emphasizes that obedience to divine order is a choice, not fate. Temptation enters through deception, as seen when Satan entices Eve by twisting truth and appealing to her desire for knowledge and autonomy. Eve, like Adam, possesses the rational capacity to choose, making her fall tragic but not inevitable. Free will is essential: Milton insists that true virtue requires the possibility of error. As Satan declares, 'Better to reign in Hell than serve in Heaven' (*Book I, lines 263–264*), revealing his prideful rebellion rooted in the misuse of freedom. Later, Satan tempts Eve by saying, 'Ye shall be as Gods, knowing both good and evil' (*Book IX, line 684*), echoing the serpent’s deceit in Genesis and underscoring how temptation exploits the allure of godlike autonomy. Together, these moments illustrate Milton’s argument: moral dignity lies in the ability to choose rightly, even when rebellion and deception abound.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion as a defiant assertion of pride and autonomy over obedience."
+    },
+    {
+      "quote": "Ye shall be as Gods, knowing both good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, line 684",
+      "speaker_or_narrator": "Satan (in serpent form)",
+      "use_in_answer": "This quote illustrates how temptation manipulates the desire for knowledge and equality with God."
+    }
+  ],
+  "limits": "Line numbers may vary slightly by edition; quotations are from the 1674 version of Paradise Lost."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion, framing these themes as central to humanity’s fall. Satan’s defiance is rooted in his assertion of autonomy, as he declares, 'Better to reign in Hell, then serve in Heav’n.' This line underscores his rejection of divine hierarchy, portraying rebellion as a deliberate choice—one that prioritizes self-determination over obedience. His prideful reasoning reveals how temptation operates: it appeals to the desire for power and independence, even at the cost of truth. Meanwhile, the poem’s opening lines—'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree'—link Adam and Eve’s fall directly to their exercise of free will. Their act of eating the forbidden fruit is not merely a lapse in judgment but a conscious rebellion against God’s command, mirroring Satan’s own defiance. Milton suggests that free will is both a gift and a vulnerability, as it enables moral choice but also exposes humanity to the allure of temptation. Through these moments, the poem questions whether rebellion is an inevitable consequence of autonomy or a tragic misuse of it.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s embrace of rebellion as a deliberate rejection of divine authority, framing his defiance as a choice rooted in pride and autonomy."
+    },
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-2",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening phrase connects human disobedience to the act of eating the forbidden fruit, emphasizing the role of free will in Adam and Eve’s rebellion."
+    }
+  ],
+  "limits": "The provided excerpts do not include direct dialogue or narration from Adam and Eve’s temptation scene, limiting evidence to Satan’s perspective and the poem’s prologue."
+}

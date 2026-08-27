@@ -1,0 +1,14 @@
+{
+  "answer": "The opening invocation of The Odyssey frames the entire poem as a story about wandering. The poet asks the Muse to sing of a man who was driven far off course, emphasizing that this journey is the subject of the tale. Wandering and storytelling are thus intertwined from the very first lines.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-3",
+      "speaker_or_narrator": "The narrator (the poet invoking the Muse)",
+      "use_in_answer": "This quote demonstrates that the epicâs central subject is a wandering hero whose story is explicitly requested of the Muse, linking wandering and narrative."
+    }
+  ],
+  "limits": "Translation by Robert Fagles (1996). Line numbers approximate; some versions have slight variations in wording."
+}

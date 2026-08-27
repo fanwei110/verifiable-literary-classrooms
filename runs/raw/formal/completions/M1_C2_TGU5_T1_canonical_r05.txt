@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, Milton dramatizes the moment of humanity’s fall through Satan’s temptation of Eve. Here’s a key passage that captures the essence of disobedience and its consequences: the idea that defiance of divine command leads to ruin, yet also reveals the flawed nature of free will. This quotation helps us discuss how Milton frames the fall as both a tragic choice and an inevitable consequence of pride.",
+  "evidence": [
+    {
+      "quote": "Not equal, as their sex not equal seem’d;\nFor contemplation hee and valour form’d,\nFor softness shee and sweet attractive Grace,\nHee for God only, shee for God in him:\nHis fair large Front and Eye sublime declar’d\nAbsolute rule; and Hyacinthine Locks\nRound from his parted forelock manly hung\nClust’ring, but not beneath his shoulders broad:\nShee as a veil down to the slender waist\nHer unadorned golden tresses wore\nDishevell’d, but in wanton ringlets wav’d\nAs the Vine curls her tendrils, which impli’d\nSubjection, but requir’d with gentle sway,\nAnd by her yielded, by him best receiv’d,\nYielded with coy submission, modest pride,\nAnd sweet reluctant amorous delay.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IV, lines 296–311",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage illustrates the hierarchical relationship between Adam and Eve before the fall, emphasizing Eve’s subordination and the inherent vulnerability that makes her susceptible to Satan’s manipulation, thus setting the stage for disobedience."
+    }
+  ],
+  "limits": "The quoted lines reflect the 1674 edition of *Paradise Lost*; line numbering may vary slightly in other editions."
+}

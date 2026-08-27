@@ -1,0 +1,20 @@
+{
+  "answer": "In Paradise Lost, Milton intertwines temptation, free will, and rebellion as forces that shape humanity's fate. The epic begins by naming the primal act of disobedience: 'Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe.' The forbidden fruit embodies temptation, while the word 'Disobedience' emphasizes free will exercised against God. This choice brings death and woe, yet the poem also gestures toward redemption. Elsewhere, Satan’s rebellion is a more defiant display of free will. Cast into Hell, he declares, 'Better to reign in Hell, then serve in Heav'n.' This statement captures the essence of rebellious temptation: the will chooses autonomy over submission, even at the cost of eternal suffering. Satan’s free choice transforms damnation into a kingdom, illustrating how temptation can twist perception. Thus, Milton shows that free will is humanity’s greatest gift and its most dangerous burden, as yielding to temptation leads to loss that only a 'greater Man' can restore.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, opening lines (source window 1)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Introduces the forbidden fruit as temptation and human disobedience as an act of free will that causes universal woe."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines from the hell council scene (source window 2)",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Illustrates Satan’s rebellious free will and the temptation of power over submission, redefining hell as a kingdom of choice."
+    }
+ 

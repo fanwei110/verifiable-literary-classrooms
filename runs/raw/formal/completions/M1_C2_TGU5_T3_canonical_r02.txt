@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into eating the forbidden fruit: 'Ye shall be as Gods, / Knowing good and evil.' This deception appeals to her ambition, framing disobedience as empowerment. Yet Milton underscores that free will remains intact—Adam and Eve’s fall is not inevitable but a choice. Later, Adam’s lament, 'I against God and thee rebel,' reveals the tragic irony of rebellion: what begins as a quest for autonomy leads to subjugation under sin. Both moments highlight Milton’s argument that true freedom lies in obedience to divine order, while rebellion, though seductive, results in spiritual ruin. These themes invite us to reflect on the nature of choice and the boundaries of human ambition.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote illustrates Satan’s temptation of Eve, framing disobedience as a path to divine-like knowledge and power."
+    },
+    {
+      "quote": "I against God and thee rebel",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, line 959",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This line underscores Adam’s conscious choice to rebel, emphasizing the tragic consequences of defying divine authority."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition drives the tragic hero to murder King Duncan, fulfilling a prophecy that ultimately leads to overwhelming guilt. Macbeth is initially spurred by the witches’ prediction, which ignites his desire for power. However, once he commits regicide, ambition turns into psychological torment. His belief in the prophecy—that he will become king—makes him feel entitled, yet his guilt soon overtakes him. After the murder, Macbeth laments, \"I am afraid to think what I have done,\" revealing immediate regret and inner collapse. The contrast between his soaring ambition and crushing remorse defines his downfall. Similarly, Lady Macbeth, who initially urges violent action, later succumbs to guilt in her sleepwalking scene, unable to cleanse her conscience. Shakespeare uses prophecy not as a fixed destiny but as a catalyst for destructive choices fueled by ambition. As Macbeth rises in power, his morality deteriorates, showing how unchecked ambition corrupts. In the end, the prophecy comes true through Macbeth’s own actions, not fate alone, emphasizing human agency. The play warns that pursuing power without ethics leads to inevitable guilt and ruin.",
+  "evidence": [
+    {
+      "quote": "I am afraid to think what I have done",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth's immediate guilt and psychological breakdown after murdering King Duncan."
+    },
+    {
+      "quote": "Stars, hide your fires; Let not light see my black and deep desires",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's growing ambition and his conscious desire to hide his dark intentions to achieve power."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of Macbeth."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'Out, damned spot! out, I say' is spoken by Lady Macbeth in William Shakespeare's play *Macbeth*. It appears in Act 5, Scene 1, during her sleepwalking scene, where she desperately tries to wash imaginary bloodstains from her hands, reflecting her overwhelming guilt over the murder of King Duncan.",
+  "evidence": [
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote supports the portrayal of Lady Macbeth's descent into madness and her psychological torment over the murder she helped orchestrate."
+    }
+  ],
+  "limits": "The quotation is from the First Folio text of *Macbeth*; minor variations may exist in other editions, but this is the standard accepted version."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, class. Today’s mini-lesson examines how Austen intertwines the dangers of flawed first impressions with the mercenary view of marriage in *Pride and Prejudice*. The novel opens by satirizing a societal truth that reduces complex human connection to a transaction. As the narrator states, “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” This ironic declaration reveals that initial judgments in the neighborhood are not about character but about economic entitlement, instantly casting Mr. Bingley as property. This foundational error in perception reaches its emotional climax when Elizabeth Bennet confronts her own distorted judgment. After reading Darcy’s letter, she cries, “How despicably have I acted! … I have courted prepossession and ignorance, and driven reason away where either were concerned.” Here, Austen shows that a true, enduring marriage becomes possible only when Elizabeth dismantles her prideful first impression and learns to see beyond surface charm or social slight, recognizing the person beneath the fortune or the proud exterior.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation establishes the novel’s satirical premise that first impressions in the marriage market reduce a man to his financial worth and a woman’s family to scheming proprietors."
+    },
+    {
+      "quote": "How despicably have I acted! … I have courted prepossession and ignorance, and driven reason away where either were concerned.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI, after reading Darcy’s letter (source window 2)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quotation demonstrates the painful self-awareness required to overcome initial prejudice, marking the moment Elizabeth realizes her flawed judgment was the real obstacle to a marriage based on understanding."
+    }
+  ],
+  "limits": "The provided source window 2 text corresponds to Chapter 36 in most standard editions, where Elizabeth reads Darcy's letter, though the request framing nearby headings references later chapters. The quotes and narrative context are accurately drawn from the provided excerpts."
+}

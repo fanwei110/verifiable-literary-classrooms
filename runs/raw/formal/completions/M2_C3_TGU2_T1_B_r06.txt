@@ -1,0 +1,14 @@
+{
+  "answer": "To illustrate the connection between ambition and hallucination, look at Macbeth's vision of the floating dagger. Right before he murders Duncan, his 'heat-oppressed brain' conjures a weapon that leads him toward the deed. He sees it but cannot grasp it, calling it a 'false creation'—an hallucination born directly from his murderous ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly shows Macbeth's ambition (the dagger leads him to murder) and his hallucination (a vision he cannot touch, a 'dagger of the mind')."
+    }
+  ],
+  "limits": "Exact line numbers vary by edition; the passage comes from the dagger soliloquy in Act 2, Scene 1, as preserved in the provided text."
+}

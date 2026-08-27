@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, the interplay of ambition, prophecy, and guilt drives the tragic arc of the protagonist. The witches' prophecy acts as a catalyst, igniting Macbeth’s latent ambition to seize the throne. Upon hearing he will be king, Macbeth begins to entertain murderous thoughts, revealing how ambition can corrupt moral judgment. His internal struggle intensifies after murdering King Duncan to fulfill the prophecy. Immediate guilt overwhelms him, as he laments, 'I have done the deed' (2.2.14), signaling the irreversible act and his dawning horror. The weight of his conscience torments him, symbolized by persistent hallucinations and paranoia. Lady Macbeth, initially more resolute, later succumbs to psychological collapse, sleepwalking and attempting to wash imaginary blood from her hands. Prophecy sets the course, but unchecked ambition propels Macbeth into tyranny, and guilt becomes the emotional consequence that unravels both him and his wife. Shakespeare thus presents a cautionary tale: when ambition overrides integrity, even fulfilled prophecy brings not triumph, but despair and ruin.",
+  "evidence": [
+    {
+      "quote": "I have done the deed",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.2.14",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth's immediate expression of guilt after murdering Duncan."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "1.1.10",
+      "speaker_or_narrator": "The Witches",
+      "use_in_answer": "This quote introduces the theme of moral inversion set in motion by prophecy, which foreshadows Macbeth's corrupt ambition."
+    }
+  ],
+  "limits": "Quotations are from the Arden Shakespeare third series edition; slight variations may exist in other versions."
+}

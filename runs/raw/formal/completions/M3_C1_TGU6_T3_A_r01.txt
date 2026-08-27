@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, the themes of homecoming, identity, and hospitality are deeply intertwined, shaping both the journey and moral framework of the epic. Odysseus’s long return to Ithaca is not merely a physical voyage but a quest to reclaim his identity and household. A key moment occurs when Athena tells Telemachus, 'You should not go on clinging to your childhood. You are no longer of an age to do that' (Book 1, line 296). This advice underscores the importance of recognizing one's role and identity within the family and community, a prerequisite for proper homecoming. Hospitality, or xenia, is a sacred social code that reflects moral integrity. When Odysseus finally returns disguised as a beggar, he is tested by those in his own home. Eumaeus, the loyal swineherd, says, 'Stranger, you would be pleased to feast among people who treat you well' (Book 14, line 59). This quote exemplifies true hospitality—offering kindness without knowing the guest’s identity. Such moments reveal that homecoming is not just about returning to a place, but about reaffirming identity through recognition and receiving hospitality rooted in virtue rather than status. In The Odyssey, home is where identity is honored and hospitality freely given.",
+  "evidence": [
+    {
+      "quote": "You should not go on clinging to your childhood. You are no longer of an age to do that",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, line 296",
+      "speaker_or_narrator": "Athena",
+      "use_in_answer": "This quote supports the idea that maturation and recognition of identity are essential to the journey of homecoming."
+    },
+    {
+      "quote": "Stranger, you would be pleased to feast among people who treat you well",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 59",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote supports the theme of genuine hospitality, which in the epic is a moral imperative regardless of the guest's known identity."
+    }
+  ],
+  "limits": "Translations may vary slightly by edition; quotes are based on the Robert Fagles translation."
+}

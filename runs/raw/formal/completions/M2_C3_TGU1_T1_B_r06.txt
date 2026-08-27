@@ -1,0 +1,14 @@
+{
+  "answer": "In the 'To be, or not to be' soliloquy, Hamlet directly confronts the relationship between mortality and hesitation. He asks whether it is better to suffer life's miseries or to end them, but then admits that the fear of what happens after death—'the dread of something after death'—is what 'puzzles the will' and stops us from acting. That fear, that 'conscience,' makes us hesitate and endure known pains rather than risk unknown ones.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question:\nWhether ’tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die—to sleep,\nNo more; and by a sleep to say we end\nThe heart-ache, and the thousand natural shocks\nThat flesh is heir to: ’tis a consummation\nDevoutly to be wish’d. To die, to sleep.\nTo sleep, perchance to dream—ay, there’s the rub,\nFor in that sleep of death what dreams may come,\nWhen we have shuffled off this mortal coil,\nMust give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, scene 1 (from the 'To be, or not to be' soliloquy in the provided source)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation shows Hamlet linking mortality (death as a sleep) to hesitation: the uncertainty of the afterlife is 'the rub' that forces us to pause and endure suffering rather than act."
+    }
+  ],
+  "limits": "The source text is cut off after 'To grunt and sweat,' but the quoted passage is complete up to 'Must give us pause.' The play's full soliloquy continues with 'There's the respect...', but the included lines fully illustrate the theme."
+}

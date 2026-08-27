@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens' A Tale of Two Cities, revolution and sacrifice are deeply tied to the theme of doubling. The French Revolution serves as a violent counterpart to personal transformation, where characters mirror each other in fate and moral choice. Sydney Carton and Charles Darnay are doubles—alike in appearance and virtue but differing in purpose—until Carton’s ultimate sacrifice mirrors Christ-like redemption. Carton’s death underscores how personal sacrifice can redeem both the self and society. This idea is crystallized when Carton foresees his legacy: 'I see a beautiful city and a brilliant people rising from this abyss, and I see the lives for which I lay down my life, peaceful, useful, prosperous and happy.' His act not only saves Darnay but symbolically contributes to a better future born from revolutionary turmoil. The duality extends to nations and individuals, as the novel opens: 'It was the best of times, it was the worst of times,' establishing a world of contrasts where suffering and hope, destruction and rebirth, are two sides of the same coin. Through doubling, Dickens suggests that sacrifice within revolution is not just loss, but a necessary step toward renewal.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by presenting opposing realities existing simultaneously, framing the novel’s exploration of revolution and contrast."
+    },
+    {
+      "quote": "I see the lives for which I lay down my life, peaceful, useful, prosperous and happy",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates Carton’s sacrificial act as redemptive, linking personal sacrifice to hope amid revolution."
+    }
+  ],
+  "limits": "Quotations are based on the standard Dover edition of the novel; slight variations may exist in other versions."
+}

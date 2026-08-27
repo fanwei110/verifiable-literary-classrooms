@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful example of historical contradiction in A Tale of Two Cities is captured in the novel's famous opening lines, which present opposing truths existing simultaneously. This reflects how periods of great progress and hope are often intertwined with oppression and despair, especially evident during turbulent times like the French Revolution. Dickens uses this paradox to show that history is not linear or simple, but filled with coexisting extremes.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, Chapter I. The Period",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by illustrating how opposing forces—progress and regression, hope and despair—can define the same era, underscoring the complexity of historical periods like the one preceding the French Revolution."
+    }
+  ],
+  "limits": "The excerpt provided is from a standard public domain version of the text; minor variations in punctuation or formatting may exist across editions, but the quoted passage remains consistent in meaning and structure."
+}

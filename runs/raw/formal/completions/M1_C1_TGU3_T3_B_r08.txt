@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how *Pride and Prejudice* uses first impressions to explore class and marriage. Austen immediately signals that appearances deceive: Elizabeth Bennet’s sharp wit and Mr. Darcy’s pride create mutual misunderstandings that drive the plot. Class shapes these impressions—Darcy’s initial disdain for Elizabeth stems from her ‘inferior’ connections, while her prejudice against him blinds her to his virtues. Marriage, too, is entangled with class: Charlotte Lucas’s pragmatic union with Mr. Collins reveals how economic necessity often outweighs affection, especially for women with limited prospects. Yet Austen complicates this. Elizabeth’s refusal of two proposals—first Collins’s, then Darcy’s—shows her prioritizing respect over security, challenging the era’s expectations. The novel suggests that true compatibility requires seeing beyond first impressions and class biases. As we’ll see, Darcy’s letter forces Elizabeth to reconsider her judgments, proving that growth comes from confronting our own prejudices. These themes invite us to question how societal pressures shape our perceptions of others—and ourselves.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line satirizes the societal obsession with marrying for class and wealth, setting up the novel’s critique of mercenary marriages."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s defiant claim underscores the novel’s tension between personal dignity and class hierarchy, rejecting Darcy’s earlier assumption of her inferiority."
+    }
+  ],
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in modern editions."
+}

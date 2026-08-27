@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the moral and political landscape of the novel. The French Revolution serves as a violent backdrop where oppression fuels uprising, but also consumes the innocent. Sacrifice emerges as a redemptive act amid chaos, most powerfully through Sydney Carton’s self-giving. Doubling—seen in characters like Charles Darnay and Carton, who mirror each other—highlights personal transformation and fate. Early in the novel, Dickens frames the era’s contradictions: 'It was the best of times, it was the worst of times,' revealing a world polarized by inequality and on the brink of upheaval. This duality fuels the revolution’s rise, showing how extreme conditions breed extreme responses. Carton’s ultimate sacrifice—taking Darnay’s place at the guillotine—transforms him from a disillusioned 'jackal' into a Christ-like figure. He declares, 'It is a far, far better thing that I do, than I have ever done,' affirming that personal redemption can emerge from societal collapse. His death, while tragic, brings peace to Lucie’s family and fulfills a spiritual doubling between himself and Darnay. Through revolution’s turmoil, Dickens shows that sacrifice can restore meaning, and that identity, like history, often moves in parallels.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling and the contradictory nature of the revolutionary era, setting the stage for the social tensions that drive the plot."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, illustrating Carton’s redemptive transformation and the moral clarity found in self-giving amid revolution’s chaos."
+    }
+  ],
+  "limits": "The source excerpts provided do not include the full text of Book the Third, Chapter XV, but the quoted line is widely attested in standard editions of the novel."
+}

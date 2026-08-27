@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the tension between hesitation, mortality, and performance defines the protagonist’s tragic arc. Hamlet’s inability to act swiftly against Claudius reflects a deep philosophical struggle with the finality of death and the moral weight of revenge. His famous soliloquy captures this internal paralysis when he asks, 'To be, or not to be: that is the question' (3.1.56), framing existence as a contest between enduring suffering and confronting the unknown of death. This hesitation is not mere cowardice but a profound meditation on human mortality. At the same time, performance becomes a tool for truth-seeking; Hamlet stages 'The Murder of Gonzago' to 'catch the conscience of the king' (2.2.607). The play-within-a-play blurs reality and artifice, showing how performance can provoke genuine moral reckoning. Yet, even as Hamlet uses theater to delay and investigate, the reality of death closes in—from Yorick’s skull to the final bloodbath. Ultimately, Hamlet’s hesitation underscores the human condition: paralyzed by thought, haunted by death, and performing roles to mask inner turmoil. Action arrives too late, affirming that mortality demands performance, yet neither can ultimately evade the grave.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that Hamlet’s hesitation stems from deep existential contemplation about life and death."
+    },
+    {
+      "quote": "The play's the thing wherein I'll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a means to uncover truth and delay decisive action."
+    }
+  ],
+  "limits": "Line numbers based on the Folger Shakespeare Library edition of Hamlet."
+}

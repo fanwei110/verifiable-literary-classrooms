@@ -1,0 +1,14 @@
+{
+  "answer": "To explain how ambition and hallucination intersect in Macbeth, consider the moment when Macbeth, driven by his desire for power, sees a floating dagger. His vision—\"Is this a dagger which I see before me, / The handle toward my hand?\"—shows how his guilty ambition creates a hallucination that guides him toward Duncan's chamber. This blurring of reality reveals the psychological turmoil of unchecked ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "2.1.33-34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth's ambition manifests as a hallucination of a dagger leading him to commit regicide."
+    }
+  ],
+  "limits": "Quote from the First Folio; \"toward\" may appear as \"towards\" in some modern editions."
+}

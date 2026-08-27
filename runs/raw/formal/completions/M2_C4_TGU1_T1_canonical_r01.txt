@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet’s famous soliloquy, he directly links mortality to hesitation when he considers that death might not be a simple sleep but could bring disturbing dreams. The fear of the unknown after death is what \"give[s] us pause\" and makes us endure suffering rather than take action to end it. The lines are: \"To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.\" (Hamlet, Act 3, Scene 1).",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage shows that the contemplation of mortality—specifically the uncertainty of what comes after death—causes hesitation, the 'rub' that prevents us from ending our own suffering."
+    }
+  ],
+  "limits": "The source excerpt ends at 'To grunt and sweat'. The more explicit commentary on how conscience turns resolution awry ('Thus conscience does make cowards of us all...') is not included, so this quotation was selected from the available portion."
+}

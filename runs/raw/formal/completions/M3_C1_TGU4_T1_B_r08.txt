@@ -1,0 +1,14 @@
+{
+  "answer": "A key historical contradiction in A Tale of Two Cities is how revolutionary ideals of liberty and equality give way to violence and tyranny. This reflects the paradox that the fight for justice can become unjust itself. Dickens captures this through the novel’s famous opening, which sets the stage for such contradictions by showing how opposing forces coexist in any era, especially during times of upheaval.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote establishes the central historical contradiction by illustrating how revolutionary periods contain simultaneous extremes of progress and regression, hope and horror."
+    }
+  ],
+  "limits": "The quote is from the 1859 first edition; modern editions may vary slightly in punctuation but preserve the full text."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "Ambition in Macbeth pushes him toward murder, and his guilt and desire manifest as a hallucination—the famous dagger he sees before killing Duncan. The vision is not real, yet it directs him, showing how his “heat-oppressed brain” conjures a false creation that makes his ambition tangible.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation directly illustrates how Macbeth’s overwhelming ambition to become king triggers a hallucination of a dagger that he cannot grasp, showing the psychological torment and self-deception that accompany his moral descent."
+    }
+  ],
+  "limits": "Quotation follows the text as it appears in the provided excerpt; editorial punctuation and capitalization may vary across editions. Line numbers are not preserved in the source window, so the locator uses the act and scene only."
+}

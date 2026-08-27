@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is spoken by Odysseus to the Cyclops Polyphemus in Homer's *Odyssey*, Book 9. Odysseus uses the false name \"Noman\" (a pun on \"no man\") so that when he later blinds the Cyclops, Polyphemus's cries that \"Noman is killing me\" are misunderstood by the other Cyclopes, allowing Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "My name is Noman.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, line 366 (Fitzgerald translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote is the exact line the student asked about, confirming it is spoken by Odysseus in the Cyclops episode."
+    }
+  ],
+  "limits": "Translations vary: some render the false name as 'Nobody' instead of 'Noman'. The Greek is οὔτις (outis), meaning 'no one' or 'nobody'."
+}

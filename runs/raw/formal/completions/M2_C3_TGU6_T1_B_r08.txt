@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s the opening of the Odyssey, where the poet calls on the Muse to sing of the hero who ‘wandered far and wide’—a moment that directly yokes the experience of wandering to the telling of a story.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening invocation (Butler translation)",
+      "speaker_or_narrator": "the narrator (the poet invoking the Muse)",
+      "use_in_answer": "This invocation explicitly frames the epic as the story of a wandering hero, connecting Odysseus's travels with the narrative the Muse is asked to tell."
+    }
+  ],
+  "limits": "Translation by Samuel Butler; corresponds to the original Greek lines 1–10 of Book I."
+}

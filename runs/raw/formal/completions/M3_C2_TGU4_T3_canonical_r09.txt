@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, revolution and sacrifice are intertwined themes, underscored by the idea of doubling between characters and nations. The French Revolution serves as a violent backdrop where personal and political upheavals mirror one another. As the revolution unfolds, the novel illustrates how sacrifice becomes necessary for renewal. Sydney Carton, one of the novel’s doublings with Charles Darnay, embodies this ideal through his ultimate self-sacrifice, giving his life so that Lucie and her family may have a future. His act aligns with the revolutionary cost—giving life for a greater good. The chaotic force of revolution is captured when the narrator observes, 'It was the season of Light, it was the season of Darkness' (Dickens, *A Tale of Two Cities*, Book the First, Chapter I). This juxtaposition reflects the dual nature of revolution—both destructive and transformative. Similarly, Carton’s final declaration affirms sacrifice as redemptive: 'It is a far, far better thing that I do, than I have ever done' (Dickens, *A Tale of Two Cities*, Book the Third, Chapter XV). Through doubling in characters and revolutionary turmoil, Dickens shows that profound change often demands personal loss.",
+  "evidence": [
+    {
+      "quote": "It was the season of Light, it was the season of Darkness",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "third-person narrator",
+      "use_in_answer": "This quote supports the dual nature of revolution—its capacity for both destruction and renewal."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates Carton’s redemptive sacrifice, highlighting how personal sacrifice can bring meaning amid revolutionary chaos."
+    }
+  ],
+  "limits": "Quotations are based on standard public domain editions of the novel; exact line numbers may vary by version."
+}

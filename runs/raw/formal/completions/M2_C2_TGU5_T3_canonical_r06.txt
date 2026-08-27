@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, Milton frames temptation, free will, and rebellion as interconnected. Free will is a divine gift; rational creatures can obey or disobey. God declares that Adam was created capable of standing, yet free: “Sufficient to have stood, though free to fall.” This principle governs the entire epic. Satan’s rebellion erupts from his proud misuse of that freedom. Cast into Hell, he defiantly chooses eternal revolt: “Better to reign in Hell, than serve in Heaven.” His unrepentant will transforms loss into a perverse kingdom. Temptation weaponizes this same free will. Satan, in the serpent, never forces Eve to eat the fruit; he appeals to her reason, ambition, and desire for godlike knowledge. Her fall, like Satan’s earlier, is a willed act—no external compulsion overrides her choice. Milton thus insists that evil originates not in God’s decree but in the creature’s self-determined turning from divine order. Rebellion begins in the heart, temptation simply draws out what free will already makes possible, and the tragedy is that both angel and human possessed everything necessary to stand.",
+  "evidence": [
+    {
+      "quote": "I made him just and right, / Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "3.98-99",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This quote establishes that free will is the foundation of moral choice, making genuine obedience and the possibility of rebellion both real."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "1.263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This declaration crystallizes Satan’s rebellious refusal to submit, turning free will into proud self-assertion rather than grateful service."
+    }
+  ],
+  "limits": "Quotations follow the 1674 second edition; line numbering may differ across modern editions."
+}

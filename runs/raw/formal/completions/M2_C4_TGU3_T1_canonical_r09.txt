@@ -1,0 +1,14 @@
+{
+  "answer": "The famous opening line, âIt is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife,â uses ironic reversal: the soâcalled truth is actually what the marriageâminded families believe, not the manâs own desire. The sentence that follows confirms the irony by stating that the neighbourhood families consider him âthe rightful property of some one or other of their daughters.â Thus, the man becomes a commodity in the marriage market, while the supposed universal truth is merely a selfâserving social fiction.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic opening sentence satirises the marriage market by presenting as universal a belief that actually belongs to the mercenary families eager to secure a wealthy husband for their daughters."
+    }
+  ],
+  "limits": "The frozen excerpt contains only the opening paragraphs. The second sentence further clarifies the irony, but the first sentence alone is the most iconic encapsulation of marriage-market irony."
+}

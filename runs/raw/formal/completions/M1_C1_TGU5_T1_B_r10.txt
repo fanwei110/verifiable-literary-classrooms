@@ -1,0 +1,14 @@
+{
+  "answer": "Here’s a pivotal moment from Paradise Lost that directly illustrates the fall and the nature of disobedience: Satan’s temptation of Eve in Book IX, where he frames the act of eating the forbidden fruit as a path to divine knowledge and equality with God. This passage captures the allure of transgression and the rationalization that precedes the fall.",
+  "evidence": [
+    {
+      "quote": "Ye shall not die:\nHow should ye? by the Fruit? it gives you life\nTo knowledge: by the Threatener? look on mee,\nMee who have touch’d and tasted, yet both live,\nAnd life more perfect have attain’d than Fate\nMeant mee, by vent’ring higher than my Lot.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 685–690",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote demonstrates Satan’s deception, portraying disobedience as a means to transcend human limitations and gain godlike wisdom, which is central to understanding the fall."
+    }
+  ],
+  "limits": "The quoted lines follow the 1674 second edition of Paradise Lost; minor variations may exist in other editions, but the core meaning remains consistent."
+}

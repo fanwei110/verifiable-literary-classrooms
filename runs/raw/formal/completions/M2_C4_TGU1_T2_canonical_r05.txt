@@ -1,0 +1,14 @@
+{
+  "answer": "The line is from William Shakespeare’s *Hamlet*, spoken by Prince Hamlet at the end of Act II, Scene 2. He has just devised a plan to stage a play mimicking his father’s murder in order to observe his uncle Claudius’s reaction and confirm his guilt.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly attributes the line to Hamlet and shows he intends to use the play to test the king’s guilt."
+    }
+  ],
+  "limits": "None"
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Austen critiques how first impressions, class, and marriage intersect to shape societal expectations and personal judgments. The novel opens with a satirical observation about marriage as an economic transaction: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line exposes the mercenary assumptions of the Bennet family and their neighbors, who immediately view Mr. Bingley as a potential husband for their daughters—not because of his character, but because of his wealth. First impressions are further complicated by class prejudice, as seen when Elizabeth reflects on her own misjudgments: 'How despicably have I acted! ... I, who have prided myself on my discernment!' Here, she acknowledges how her initial biases—rooted in vanity and social snobbery—blinded her to the true natures of Darcy and Wickham. Austen uses these moments to show how class and first impressions distort relationships, ultimately arguing that marriage should be based on mutual respect rather than superficial assumptions or financial convenience.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is often treated as a transaction driven by class and wealth, not love or compatibility."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI (Elizabeth’s reflection after reading Darcy’s letter)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates how Elizabeth’s first impressions—shaped by class prejudice and vanity—led her to misjudge others, highlighting the novel’s critique of superficial judgments."
+    }
+  ],
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The provided source windows did not include the full passage, so the chapter reference is based on standard editions of *Pride and Prejudice*."
+}
+```

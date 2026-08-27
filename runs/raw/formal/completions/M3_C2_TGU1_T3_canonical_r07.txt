@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the themes of hesitation, mortality, and performance are deeply intertwined, revealing the prince's internal struggle with action and identity. Hamlet's contemplation of death and duty leads to paralyzing hesitation, most famously captured when he ponders, 'To be, or not to be: that is the question' (Act 3, Scene 1). This soliloquy reflects his existential crisis, weighing the nobility of enduring suffering against the fear of the unknown after death. His uncertainty undermines decisive action, framing hesitation not as weakness but as philosophical depth. Performance, too, becomes a tool for probing truth. Hamlet declares, 'The play’s the thing / Wherein I’ll catch the conscience of the king' (Act 2, Scene 2), orchestrating a theatrical reenactment to expose Claudius’s guilt. Here, performance transcends entertainment, serving as a moral and investigative instrument. Yet, even this act of staging truth reveals Hamlet’s reliance on indirect methods, further stalling direct confrontation. Thus, Hamlet’s hesitation stems not from indecisiveness alone but from a profound awareness of mortality and the performative nature of human behavior. Through introspection and theatricality, Shakespeare portrays a mind burdened by the weight of existence and the difficulty of knowing truth in a corrupt world.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's deep existential hesitation and meditation on mortality."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the king",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a strategy to uncover truth and delay direct action."
+    }
+  ],
+  "limits": "Quotations are from the First Folio edition via standard Arden Shakespeare references; minor line variations may exist across editions."
+}

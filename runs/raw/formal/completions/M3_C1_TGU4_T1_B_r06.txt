@@ -1,0 +1,14 @@
+{
+  "answer": "A key moment in A Tale of Two Cities that illustrates historical contradiction is when Dickens describes the revolutionary fervor in Paris—how the same people who suffer under tyranny eventually become tyrants themselves. This captures the paradox of liberation movements that descend into violence and injustice, mirroring the oppression they sought to abolish.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by juxtaposing opposing realities—progress and collapse, hope and despair—existing simultaneously during revolutionary upheaval."
+    }
+  ],
+  "limits": "The quotation is from the standard 1859 edition; minor variations may exist across printings, but the passage is consistent in most authoritative versions."
+}

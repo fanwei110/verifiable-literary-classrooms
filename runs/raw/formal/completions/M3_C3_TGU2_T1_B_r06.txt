@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition and hallucination are powerfully linked when Macbeth sees a vision of a dagger just before he murders King Duncan. He questions whether the dagger is real or a product of his mind, consumed by ambition: 'Is this a dagger which I see before me, / The handle toward my hand?' This moment reveals how his inner turmoil and vaulting ambition distort reality, making him susceptible to hallucinations that push him toward violence.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–39",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth's ambition triggers a hallucination, blurring the line between reality and imagination as he contemplates murder."
+    }
+  ],
+  "limits": "The quotation is from the First Folio text of *Macbeth*; minor variations may exist in different editions, but the lines are consistent in standard classroom versions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Odysseus in Homer's epic poem *The Odyssey* (Book 9). To deceive the Cyclops Polyphemus, Odysseus gives the false name 'Noman' (a translation of the Greek *Outis*, meaning 'Nobody'), so that when the Cyclops is later blinded, his calls for help are dismissed because he says that 'Noman' is harming him.",
+  "evidence": [
+    {
+      "quote": "My name is Noman.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, line 410 (Fitzgerald translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms the exact wording of Odysseus's deceptive self-identification to Polyphemus in Robert Fitzgerald's translation of the Odyssey."
+    }
+  ],
+  "limits": "The original Greek name is *Outis* ('Nobody'), translated as 'Noman' in Fitzgerald's version; other translations use 'Nobody' or 'No man'."
+}

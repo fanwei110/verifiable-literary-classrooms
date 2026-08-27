@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, ambition ignited by prophecy spirals into overwhelming guilt, a progression traced through dialogue and soliloquy. The witchesâ prophecy plants a seed that Banquo acknowledges: âI dreamt last night of the three Weird Sisters: To you they have show'd some truthâ (2.1). His comment reveals how the supernatural promise clings to both menâs thoughts. Macbeth pretends indifference, but ambition is already turning the prediction into an internal command. As he prepares to murder Duncan, guilt rushes to the surface in the dagger hallucination. Though he calls it âa dagger of the mind, a false creation,â Macbeth confesses, âIt is the bloody business which informs / Thus to mine eyes.â Here ambition and guilt intersect: the âbloody businessâ of regicide projects his inner turmoil onto a floating weapon, showing a conscience stained before the act. Shakespeare thus demonstrates that ambition, awakened by prophecy, inflicts immediate psychological punishment, blurring the line between external fate and self-willed crime.",
+  "evidence": [
+    {
+      "quote": "I dreamt last night of the three Weird Sisters: To you they have show'd some truth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Banquo",
+      "use_in_answer": "This acknowledgment reveals how the prophecy lingers in both menâs minds, stoking Macbethâs concealed ambition even as he claims disinterest."
+    },
+    {
+      "quote": "It is the bloody business which informs / Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line shows guilt materializing as hallucination, proving that ambition has already corrupted Macbethâs conscience before the murder is committed."
+    }
+  ],
+  "limits": "The frozen excerpts contain Act 1, Scenes 1â2 and Act 2, Scene 1. Both quotations are drawn from the BanquoâMacbeth exchange and the dagger soliloquy in Act 2, Scene 1."
+}

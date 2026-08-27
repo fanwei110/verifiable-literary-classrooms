@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea of murder, but his ambition—fueled by the witches’ words—overpowers his moral hesitation. The prophecy acts as both a catalyst and a justification, making Macbeth believe his rise to power is fate rather than choice. However, guilt quickly follows his actions. After Duncan’s murder, Macbeth is haunted by hallucinations, such as the infamous dagger: *'Is this a dagger which I see before me, / The handle toward my hand?'* This vision symbolizes his psychological unraveling, as guilt distorts his perception of reality. Similarly, Lady Macbeth’s sleepwalking scene later in the play reveals how guilt manifests physically, eroding her sanity. Together, ambition and prophecy push Macbeth toward violence, while guilt ensures his torment, illustrating Shakespeare’s warning about the corrupting nature of unchecked desire and the inescapable weight of moral consequences.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s guilt-induced hallucination, showing how his conscience torments him after Duncan’s murder."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair: / Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "The Three Witches",
+      "use_in_answer": "This line introduces the witches’ morally ambiguous prophecy, which fuels Macbeth’s ambition by blurring the lines between destiny and corruption."
+    }
+  ],
+  "limits": "The lesson focuses on the interplay of ambition, prophecy, and guilt, using only the two provided quotes. Additional textual evidence (e.g., Lady Macbeth’s sleepwalking) is referenced generally but not quoted."
+}
+```

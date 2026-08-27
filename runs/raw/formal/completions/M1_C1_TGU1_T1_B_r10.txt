@@ -1,0 +1,14 @@
+{
+  "answer": "A powerful moment that captures both mortality and hesitation comes when Hamlet reflects on the fear of the unknown after death, which paralyzes action. This soliloquy directly ties the dread of what follows death to his inability to act decisively in the present.",
+  "evidence": [
+    {
+      "quote": "Thus conscience does make cowards of us all,\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 83-88",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage illustrates how Hamlet’s overthinking about mortality and the afterlife leads to hesitation and inaction."
+    }
+  ],
+  "limits": "Quotation follows the First Folio text; line numbers may vary slightly in other editions."
+}

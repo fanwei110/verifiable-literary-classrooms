@@ -1,0 +1,22 @@
+{
+  "answer": "Let's explore how ambition, prophecy, and guilt intertwine in *Macbeth*. The witches' cryptic prophecy ignites Macbeth's latent ambition, blurring moral boundaries. Their chant, \"Fair is foul, and foul is fair\" (Act I, Scene I), establishes the play's inverted moral universe, where ambition can recast murder as a route to kingship and prophecy becomes a temptation. Macbeth internalizes this twisted logic. By Act II, ambition has overpowered loyalty, but guilt immediately revolts. Alone, he hallucinates a dagger: \"Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:â / I have thee not, and yet I see thee still\" (Act II, Scene I). This vision is a psychological punishmentâthe \"fatal vision\" is a projection of his own murderous intent, yet its elusiveness mirrors his inability to grasp the crown without damning consequences. The prophecy sparked ambition; the dagger embodies guilt, proving that the mind cannot so easily divorce foul from fair.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair:",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I (Source window 2)",
+      "speaker_or_narrator": "The three Witches",
+      "use_in_answer": "This quotation establishes the play's central moral confusion, showing how prophecy seeds ambition by dissolving the distinction between good and evil."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:â / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I (Source window 1)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This hallucination reveals the immediate onset of guilt as Macbeth's ambition drives him toward murder, showing how his psyche punishes him before the act is even committed."
+    }
+  ],
+  "limits": "Quotations are drawn solely from the provided excerpts: the witches' scene (Source window 2) and Macbeth's dagger soliloquy (Source window 1). The lesson is based on these excerpts without the full play context."
+}

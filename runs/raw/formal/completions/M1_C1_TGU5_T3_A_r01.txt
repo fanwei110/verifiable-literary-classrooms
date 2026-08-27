@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into eating the forbidden fruit: 'Ye shall be as Gods, / Knowing both good and evil as they know.' This deception appeals to Eve’s ambition, framing disobedience as empowerment. Yet Milton underscores that free will is central to human dignity—Adam and Eve’s fall is not inevitable but a choice, as God declares, 'I formed them free, and free they must remain.' Their rebellion, then, is an act of self-determination, albeit one with tragic consequences. Through these moments, Milton argues that true virtue requires the freedom to err, making the fall a necessary step toward redemption. The poem thus frames temptation as a test of moral integrity, rebellion as an assertion of autonomy, and free will as both a gift and a burden.",
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing both good and evil as they know.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote supports the idea of temptation as a manipulative appeal to human ambition, framing disobedience as a path to divine knowledge."
+    },
+    {
+      "quote": "I formed them free, and free they must remain.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book III, line 124",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This quote underscores Milton’s argument that free will is essential to human nature, making rebellion a conscious choice rather than a predetermined fate."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

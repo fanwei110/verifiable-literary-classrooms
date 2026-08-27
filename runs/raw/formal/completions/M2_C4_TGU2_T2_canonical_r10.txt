@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Lady Macbeth in William Shakespeare's play *Macbeth*, during the famous sleepwalking scene (Act 5, Scene 1). In this moment, she is guilt-ridden and obsessively trying to wash an imaginary bloodstain from her hands, exclaiming 'Out, damned spot! out, I say!'",
+  "evidence": [
+    {
+      "quote": "LADY MACBETH. Out, damned spot! out, I say! One; two. Why, then âtis time to doât. Hell is murky! Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account? Yet who would have thought the old man to have had so much blood in him?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quotation directly shows Lady Macbeth uttering the requested line and provides surrounding dialogue that confirms her sleepwalking obsession with imagined bloodstains."
+    }
+  ],
+  "limits": "The provided excerpt does not include the act and scene numbers; those were supplied from standard knowledge of the play."
+}

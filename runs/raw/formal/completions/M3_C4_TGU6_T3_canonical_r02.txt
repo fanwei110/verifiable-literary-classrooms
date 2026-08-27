@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are closely linked. Odysseus’s long journey home highlights the importance of returning to one’s identity and place in society. When he lands in Phaeacia, he is a stranger in distress, yet he immediately appeals for hospitality, recognizing it as a sacred custom. His respectful plea emphasizes the value of unity and kindness in a household, stating that 'there is nothing better in this world than that man and wife should be of one mind in a house.' This reflects the ideal of identity grounded in family and social harmony. In response, Princess Nausicaa exemplifies proper hospitality by offering aid and guidance, declaring, 'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.' Her words illustrate the duty of hosts in the ancient world to protect and assist strangers, reinforcing the cultural norms that uphold identity and community. Hospitality becomes a bridge between alienation and belonging, crucial to Odysseus’s eventual homecoming. These moments show how identity is restored not in isolation, but through recognition and generosity within a welcoming society.",
+  "evidence": [
+    {
+      "quote": "there is nothing better in this world than that man and wife should be of one mind in a house",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that harmonious domestic life is central to personal identity and social stability in The Odyssey."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote demonstrates the Phaeacian commitment to hospitality, showing how it restores dignity and aids the stranger’s journey toward home."
+    }
+  ],
+  "limits": "The source excerpts are from an older translation and may not reflect the line numbers or phrasing of modern editions; 'Book I' locator is approximate based on context."
+}

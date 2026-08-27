@@ -1,0 +1,14 @@
+{
+  "answer": "In teaching historical contradiction, one powerful moment in A Tale of Two Cities occurs when the narrator reflects on the dual nature of revolutionary times—both destructive and hopeful. This captures the paradox at the heart of historical change: great progress often emerges from great violence. A key passage illustrates this tension clearly.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by juxtaposing opposing conditions as simultaneously true, reflecting how revolutionary periods contain both promise and peril."
+    }
+  ],
+  "limits": "The quotation is from the standard 1859 edition of the novel; minor variations may exist in early printings, but this version is widely accepted in modern scholarly editions."
+}

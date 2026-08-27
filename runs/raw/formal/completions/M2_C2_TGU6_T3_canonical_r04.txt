@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, students. Today we explore how The Odyssey intertwines homecoming (nostos), identity, and hospitality (xenia). For Odysseus, homecoming is not merely a physical journey; it is the restoration of his identity as king, husband, and father. When Calypso offers him immortality on her island, Odysseus poignantly refuses, stating, “Nevertheless I long—I pine, all my days—/ to travel home and see the dawn of my return” (Book 5, lines 219-220). This reveals that his very selfhood is bound to Ithaca—without homecoming, his identity remains incomplete. The epic also treats hospitality as a sacred code that tests both hosts and strangers. Nausicaa exemplifies proper xenia when she aids the shipwrecked Odysseus, reminding her servants, “All strangers and beggars come from Zeus, / and a gift, though small, is precious” (Book 6, lines 207-208). Here, the goddess-like princess recognizes the divine mandate to welcome the unknown. Through these encounters, Homer shows that true homecoming requires the affirmation of one’s identity through reciprocal hospitality—both given and received—and that the path home is a series of tests of character. Thus, nostos, identity, and xenia are woven together into the poem’s moral fabric.",
+  "evidence": [
+    {
+      "quote": "Nevertheless I long—I pine, all my days—/ to travel home and see the dawn of my return.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 5, lines 219-220",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote demonstrates that Odysseus’s identity is inseparable from his homecoming, as he rejects immortality to reclaim his mortal life and family."
+    },
+    {
+      "quote": "All strangers and beggars come from Zeus, / and a gift, though small, is precious.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 207-208",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "Nausicaa’s words show the divine imperative of hospitality (xenia), a crucial test of identity for both host and guest in the epic."
+    }
+  ],
+  "limits": "Translations are from Robert Fagles' 1996 edition; line numbers may vary slightly in other editions."
+}

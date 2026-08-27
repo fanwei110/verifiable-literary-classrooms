@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Charles Dickens's novel *A Christmas Carol*. It is spoken by the character Ebenezer Scrooge during his transformation, showing his newfound joy and appreciation for life and humor.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "A Christmas Carol",
+      "locator": "Stave 5 (The End of It)",
+      "speaker_or_narrator": "Ebenezer Scrooge",
+      "use_in_answer": "This quote demonstrates Scrooge's change of heart and his embrace of happiness and laughter after his supernatural experiences."
+    }
+  ],
+  "limits": "The line is sometimes misattributed to other works or authors, but it originates from *A Christmas Carol*."
+}

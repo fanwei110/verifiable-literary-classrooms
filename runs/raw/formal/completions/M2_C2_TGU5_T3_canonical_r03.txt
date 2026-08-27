@@ -1,0 +1,22 @@
+{
+  "answer": "Class, today we explore how Paradise Lost frames temptation not as an external force but as a test of free will. God explains that he made Adam and Eve 'Sufficient to have stood, though free to fall' (Book 3). This profound line clarifies that moral choice requires the genuine capacity to disobey; otherwise, obedience would be robotic. Temptation, then, is the catalyst that reveals the will’s orientation. Satan’s own rebellion prefigures this test. Expelled from Heaven, he defiantly proclaims, 'Better to reign in Hell, than serve in Heaven' (Book 1). His declaration is not merely pride; it is a conscious misuse of free will, preferring self-rule over divine order. The poem thus intertwines temptation, free will, and rebellion: temptation externalizes the internal choice, and rebellion is the will’s tragic answer. Both Adam and Eve echo Satan’s fatal logic when they choose the fruit, proving that the true fall happens inwardly before any act.",
+  "evidence": [
+    {
+      "quote": "Sufficient to have stood, though free to fall.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 3, line 99",
+      "speaker_or_narrator": "God",
+      "use_in_answer": "This quote establishes that free will is the divine gift that makes obedience meaningful and rebellion possible."
+    },
+    {
+      "quote": "Better to reign in Hell, than serve in Heaven.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This declaration crystallizes the rebellious will that actively chooses defiance over submission, illustrating the misuse of free will."
+    }
+  ],
+  "limits": "Line numbers approximate; may vary by edition."
+}

@@ -1,0 +1,30 @@
+{
+  "answer": "In *Paradise Lost*, John Milton vividly captures the moment of humanity’s fall through disobedience. Here’s a key passage that explains the temptation and the consequences of Adam and Eve’s choice: Eve’s internal struggle and justification for eating the forbidden fruit reveal how pride and desire lead to disobedience. This quote helps us understand the moral and theological weight of the Fall as Milton presents it—disobedience as a rupture in the divine order, bringing sin and suffering into the world.",
+  "evidence": [
+    {
+      "quote": "She pluck’d, she eat: / Earth felt the wound, and Nature from her seat / Sighing through all her Works gave signs of woe, / That all was lost.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 781–784",
+      "speaker_or_narrator": "Narrator (Milton)",
+      "use_in_answer": "This quote illustrates the immediate cosmic consequences of Eve’s disobedience, emphasizing how the Fall disrupts the harmony of creation and introduces suffering into the world."
+    },
+    {
+      "quote": "Not equal, as their sex not equal seem’d; / For contemplation he and valour form’d, / For softness she and sweet attractive Grace, / He for God only, she for God in him: / His fair large Front and Eye sublime declar’d / Absolute rule; and Hyacinthine Locks / Round from his parted forelock manly hung / Clust’ring, but not beneath his shoulders broad: / She as a veil down to the slender waist / Her unadorned golden tresses wore / Dishevell’d, but in wanton ringlets wav’d / As the Vine curls her tendrils, which impli’d / Subjection, but requir’d with gentle sway, / And by her yielded, by him best receiv’d, / Yielded with coy submission, modest pride, / And sweet reluctant amorous delay.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IV, lines 296–311",
+      "speaker_or_narrator": "Narrator (Milton)",
+      "use_in_answer": "While not directly about the Fall, this passage establishes the hierarchical relationship between Adam and Eve, which Satan later exploits to tempt Eve into disobedience by appealing to her desire for equality and autonomy."
+    },
+    {
+      "quote": "But of this Tree we may not taste nor touch; / God so commanded, and left that Command / Sole Daughter of his voice; the rest, we live / Law to ourselves, our Reason is our Law.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 651–654",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote highlights Eve’s rationalization of disobedience, showing how she prioritizes her own reasoning over divine command, a key step in the Fall."
+    }
+  ],
+  "limits": "The quoted passages are from the 1674 edition of *Paradise Lost*, which divides the poem into twelve books. Some modern editions may present slight variations in line numbering or punctuation, but the substance remains consistent."
+}

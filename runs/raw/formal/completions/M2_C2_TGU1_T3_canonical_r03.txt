@@ -1,0 +1,13 @@
+{
+  "answer": "In Hamlet, Shakespeare intertwines hesitation, mortality, and performance to explore the paralysis of consciousness. Hamlet's famous \"To be, or not to be\" soliloquy captures his philosophical hesitation in the face of mortality—he weighs the pain of life against the unknown of death, and his deliberation becomes a performance of existential doubt, delaying action. This introspection is not merely private rumination; it's a theatrical self-fashioning that mirrors the play's larger concern with the gap between seeming and being. Later, Hamlet seizes on the Players' performance to break his own hesitation: \"The play's the thing / Wherein I'll catch the conscience of the king.\" Here, he turns performance into a tool to confront mortality, staging a murder to test Claudius's guilt. The metatheatrical gambit highlights how performance can externalize inner turmoil and force a reckoning with death. Thus, Hamlet's hesitation becomes a form of performance that both reflects and deflects the mortal stakes he faces, until the play-within-a-play collapses the boundary between acting and authentic revelation.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line illustrates how Hamlet's hesitation is rooted in a meditation on mortality, turning the question of action into an existential performance."
+    },
+    {
+      "quote": "The

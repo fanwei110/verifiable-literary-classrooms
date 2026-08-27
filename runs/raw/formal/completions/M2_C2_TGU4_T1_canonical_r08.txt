@@ -1,0 +1,14 @@
+{
+  "answer": "Dickens opens with a cascade of antitheses that embody the deep contradictions of an era on the brink of revolution—where extreme wealth and extreme poverty, enlightenment and ignorance, hope and despair exist simultaneously, making historical contradiction the engine of the novel's action.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1 ('The Period')",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening sentence pairs contradictory qualities of the age to demonstrate how historical periods are defined by their extremes, making contradiction the central lens through which the revolution is understood."
+    }
+  ],
+  "limits": "Quotation follows the standard text; minor punctuation differences exist across editions."
+}

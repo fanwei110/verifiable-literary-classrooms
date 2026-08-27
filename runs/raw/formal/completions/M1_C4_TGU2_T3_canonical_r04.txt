@@ -1,0 +1,22 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Yet, his initial hesitation reveals the conflict between desire and morality. As he admits, 'Our will became the servant to defect, / Which else should free have wrought,' showing how his ambition overpowers his better judgment, leaving him unprepared for the moral consequences of his actions (1.3). The supernatural prophecies not only fuel his ambition but also haunt him, blurring the line between fate and free will. Later, guilt manifests physically and psychologically, as seen when Macbeth hallucinates a dagger: 'Is this a dagger which I see before me, / The handle toward my hand?' This vision symbolizes his internal torment, revealing how guilt distorts reality and foreshadows his descent into madness. Together, these forces—ambition, prophecy, and guilt—create a cycle of destruction, illustrating how unchecked desire and moral corruption lead to tragedy.",
+  "evidence": [
+    {
+      "quote": "Our will became the servant to defect, / Which else should free have wrought.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how Macbeth’s ambition overrides his moral restraint, making him a 'servant' to his own flaws."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s psychological unraveling, as guilt manifests in a hallucination that foreshadows his violent actions."
+    }
+  ],
+  "limits": "The frozen excerpts do not include the witches’ initial prophecy to Macbeth (e.g., 'All hail, Macbeth! Hail to thee, Thane of Glamis!'), which would further emphasize the role of prophecy in driving his ambition."
+}

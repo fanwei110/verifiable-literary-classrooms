@@ -1,0 +1,26 @@
+{
+  "answer": "Class, when we look for textual proof of revolution and sacrifice in *A Tale of Two Cities*, we see Dickens using doubling to bind these ideas together. Revolution becomes a terrifying mirror of the oppression it replaces, and sacrifice—the act of one person giving themselves for another—emerges as the only force that breaks the cycle.
+
+Think about the motif of echoing footsteps. The revolutionary mob in Saint Antoine is a terrifying double for the aristocratic tyranny it destroys; the vengeance is a reciprocal, bloody reflection. But Sydney Carton offers a different kind of doubling. His sacrifice is a purposeful echo meant to restore, not destroy. As he faces the guillotine, he envisions a redeemed future: **\"It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.\"** Here, Carton’s personal sacrifice redefines the revolution’s brutal logic, turning meaningless death into existential purpose.
+
+Yet we must remember, Dickens frames this entire historical moment paradoxically from the first line: **\"It was the best of times, it was the worst of times...\"** This foundational doubling warns us that any era of radical change, like the French Revolution, carries simultaneously the seed of hope and the shadow of despair—and it is individual sacrifice, not political fury, that ultimately illuminates the season of Light.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Narrator expressing Sydney Carton's interior vision",
+      "use_in_answer": "Demonstrates the theme of personal sacrifice as a redemptive act of doubling, where Carton willingly substitutes himself for Charles Darnay."
+    },
+    {
+      "quote": "It was the best of times, it was the worst of times...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes the foundational paradox of the novel, doubling light and darkness, which frames the revolution as an era of simultaneous hope and despair."
+    }
+  ],
+  "limits": "Quotations are from public domain text; carton's final vision quote is reconstructed from the most recognized edition phrasing as full text was not provided in source windows."
+}

@@ -1,0 +1,24 @@
+{
+  "answer": "In *Macbeth*, Shakespeare explores how ambition, prophecy, and guilt intertwine to drive the tragic downfall of its protagonist. Macbeth’s ambition is ignited by the witches’ prophecy, which plants the seed of kingship in his mind. Initially, he resists the idea, claiming, 'I think not of them' (Act 1, Scene 3), but this denial is short-lived. The prophecy haunts him, fueling his desire for power and leading him to manipulate Banquo with the promise, 'If you shall cleave to my consent, when ’tis, / It shall make honour for you' (Act 2, Scene 1). This reveals Macbeth’s willingness to corrupt others to achieve his goals. However, guilt soon consumes him. After murdering Duncan, Macbeth hallucinates a dagger—'Is this a dagger which I see before me, / The handle toward my hand?'—symbolizing his fractured psyche. The vision, dripping with 'gouts of blood,' reflects his overwhelming remorse and the irreversible nature of his actions. Together, these elements show how prophecy awakens ambition, which in turn breeds guilt, unraveling Macbeth’s morality and sanity.",
+
+  "evidence": [
+    {
+      "quote": "I think not of them:",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates Macbeth’s initial attempt to dismiss the witches’ prophecy, highlighting his internal conflict between ambition and resistance."
+    },
+    {
+      "quote": "If you shall cleave to my consent, when ’tis, / It shall make honour for you.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This line illustrates Macbeth’s manipulation of Banquo, showing how his ambition corrupts his relationships and moral compass."
+    }
+  ],
+
+  "limits": "The frozen excerpts do not include the dagger soliloquy’s full context or Lady Macbeth’s later guilt-driven sleepwalking, which are also key to the themes of guilt and ambition."
+}

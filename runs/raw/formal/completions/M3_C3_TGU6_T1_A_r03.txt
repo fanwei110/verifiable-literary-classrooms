@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's *Odyssey*, the theme of wandering and the power of story are introduced right from the beginning, as the narrator calls upon the Muse to tell the tale of a man whose journey home is defined by his travels, trials, and the stories they generate. A key quotation that captures this is: 'Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.' This highlights how wandering is not just physical movement, but a means of gaining wisdom and experience—central to the epic's identity as a story about the meaning of journey and memory.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1–3",
+      "speaker_or_narrator": "The narrator invoking the Muse",
+      "use_in_answer": "This quote supports the idea that wandering is foundational to the story of Odysseus, framing his journey as one of extensive travel and cultural encounter, which defines both his character and the narrative structure of the epic."
+    }
+  ],
+  "limits": "The translation used here is based on an early 20th-century prose version, possibly Samuel Butler’s 1900 translation, which may differ slightly in wording from other renditions; however, the quoted passage consistently appears in Book I as the epic’s proem."
+}

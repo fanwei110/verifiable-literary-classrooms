@@ -1,0 +1,14 @@
+{
+  "answer": "In Pride and Prejudice, the marriage market's irony lies in the fact that a system designed to secure financial stability for women actually traps them in an endless performance of eligibility, where intrinsic worth is irrelevant until an income statement validates it. The novel opens by mocking this directly: a man with money is automatically considered the rightful property of his unmarried neighbours, framing marriage not as a romantic union but as a communal hunt for a single asset.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This ironic opening line immediately exposes the projection at the heart of the marriage market: the desperate families seeking wealthy husbands convince themselves that the financial need is mutual, completely reversing the actual dependence of women on men."
+    }
+  ],
+  "limits": "Quotation is from the standard 1813 text and may vary slightly in punctuation across modern editions."
+}

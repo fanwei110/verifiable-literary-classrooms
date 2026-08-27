@@ -1,0 +1,14 @@
+{
+  "answer": "The line 'my name is Noman' comes from Homer's epic poem *The Odyssey*. It is spoken by the hero Odysseus as a clever trick to deceive the Cyclops Polyphemus, avoiding his wrath by disguising his true identity.",
+  "evidence": [
+    {
+      "quote": "My name is Noman",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote demonstrates Odysseus's cunning in outwitting Polyphemus by giving a false name."
+    }
+  ],
+  "limits": "Translations may vary slightly in wording, but the meaning remains consistent across versions."
+}

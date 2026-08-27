@@ -1,0 +1,9 @@
+{
+  "answer": "Alright, let’s look at how Shakespeare intertwines hesitation, mortality, and performance. Hamlet’s infamous delay is rooted in his intense awareness of mortality. In his “To be or not to be” soliloquy, he admits that “the dread of something after death, The undiscover’d country from whose bourn No traveller returns, puzzles the will, And makes us rather bear those ills we have Than fly to others that we know not of” (3.1.78–82). The uncertainty of the afterlife paralyzes action; we hesitate because we cannot know what death holds. This is not cowardice but a profound epistemic crisis. Meanwhile, Hamlet channels that hesitation into performance, crafting a play to confirm Claudius’s guilt. He declares, “The play’s the thing Wherein I’ll catch the conscience of the King” (2.2.566–567). Theatre becomes both a mirror and a trap—exposing inner truths while allowing Hamlet to act indirectly. By staging murder, he turns mortality into a spectacle that forces a confession. Thus, hesitation isn’t mere passivity; it fuels a calculated performance that confronts the ultimate mystery of death.",
+  "evidence": [
+    {
+      "quote": "the dread of something after death, The undiscover’d country from whose bourn No traveller returns, puzzles the will, And makes us rather bear those ills we have Than fly to others that we know not of",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.78–82",
+      "speaker_or_narrator": "

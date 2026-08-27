@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage intersect to shape social dynamics. The novel critiques superficial judgments, as seen when Elizabeth Bennet initially dismisses Mr. Darcy based on his pride, while he misjudges her family’s lower social standing. Class plays a central role in marriage prospects, with characters like Charlotte Lucas marrying Mr. Collins for financial security rather than love, reflecting the limited options for women of modest means. Austen also highlights the tension between personal happiness and societal expectations, as Elizabeth’s eventual union with Darcy challenges class barriers but requires mutual growth. These themes reveal Austen’s commentary on the constraints of Regency-era society, where first impressions and class often dictate one’s future. By examining these elements, students can discuss how Austen uses irony and character development to critique social norms and advocate for marriages based on respect and equality.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the societal pressure on women to marry for financial stability, setting the stage for the novel’s exploration of class and marriage."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This line highlights Elizabeth’s defiance of class-based prejudice, emphasizing her belief in personal worth over social hierarchy."
+    }
+  ],
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

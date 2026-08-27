@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition and hallucination are powerfully intertwined when Macbeth sees a dagger leading him toward murder. This vision reveals how intense ambition can blur reality and illusion, as his guilt and desire drive him toward regicide. The hallucinated dagger symbolizes the internal conflict between his moral sense and his ruthless aspirations.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's hallucination of a dagger, symbolizing how his unchecked ambition produces psychological torment and blurs the line between reality and imagination."
+    }
+  ],
+  "limits": "The quotation is from the standard Folger Shakespeare Library edition of Macbeth. Differences in lineation may occur in other editions, but the content remains consistent."
+}

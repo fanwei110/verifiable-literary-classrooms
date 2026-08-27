@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"I dearly love a laugh\" is spoken by the God Mercury in Christopher Marlowe's play *The Tragical History of Doctor Faustus*. It appears in the comic scenes where Mercury, disguised as a knight, interacts humorously with Faustus and the Emperor.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh",
+      "author": "Christopher Marlowe",
+      "work": "The Tragical History of Doctor Faustus",
+      "locator": "Scene 7 (B text) / Act 4, Scene 3 (modern editions)",
+      "speaker_or_narrator": "Mercury",
+      "use_in_answer": "This quote supports that Mercury, while disguised as a knight, enjoys humor and revels in the comic situation he creates with Faustus and the Emperor."
+    }
+  ],
+  "limits": "The exact wording and line numbering may vary slightly between the 1604 (A-text) and 1616 (B-text) editions of the play."
+}

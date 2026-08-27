@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's 'To be, or not to be' soliloquy, he explicitly connects mortality and hesitation: the dread of what awaits after death 'puzzles the will' and forces us to 'bear those ills we have,' so that conscience—awareness of our mortality—'makes cowards of us all,' leading to inaction.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience does make cowards of us all.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 78-83",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage demonstrates that the fear of death causes hesitation, disrupting resolution and turning decisive action into cowardly delay."
+    }
+  ],
+  "limits": "Quotation from the 'To be, or not to be' soliloquy; line numbering follows the Arden Shakespeare; wording may have minor variations (e.g., 'bourn' vs. 'bourne') across editions."
+}

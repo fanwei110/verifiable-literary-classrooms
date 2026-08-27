@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, class. Today’s mini-lesson explores how Jane Austen’s *Pride and Prejudice* weaves together first impressions, class, and marriage. The novel opens with the iconic, ironic statement that a wealthy bachelor is “the rightful property of some one or other of their daughters.” This line immediately establishes a world where marriage is an economic transaction driven by class anxiety, and first judgments are shaped by fortune and rank. When Elizabeth Bennet later reads Darcy’s letter, she undergoes a painful self-examination, exclaiming, “I, who have prided myself on my discernment! … Till this moment, I never knew myself.” She realizes her initial impressions of Darcy and Wickham were warped by class prejudice and personal vanity. Austen thus shows that the marriage market encourages snap judgments based on wealth and status, but genuine partnership demands the humbling, difficult work of overcoming those first errors. Elizabeth’s journey from prejudice to self-knowledge teaches that lasting marriages require more than social calculation—they require the courage to revise first impressions in the light of deeper understanding.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Illustrates the marriage market’s foundation on wealth and the automatic first impressions that link a man’s fortune to his eligibility, introducing the theme of class-driven judgment."
+    },
+    {
+      "quote": "I, who have prided myself on my discernment! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Demonstrates the painful revision of first impressions as Elizabeth recognizes how class bias and personal vanity distorted her view of Darcy and Wickham, a turning point for her marriage plot."
+    }
+  ],
+  "limits": "The second quotation is condensed (ellipsis in original). Locator based on standard chapter numbering; the second excerpt appears after Elizabeth reads Darcy's letter in Volume II, Chapter XIII (often labeled Chapter 36)."
+}

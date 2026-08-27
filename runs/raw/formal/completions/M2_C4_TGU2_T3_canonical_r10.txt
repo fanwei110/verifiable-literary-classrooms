@@ -1,0 +1,13 @@
+{
+  "answer": "Ambition, prophecy, and guilt form the tragic triangle that destroys Macbeth. The play opens with the Witchesâ cryptic chant, âFair is foul, and foul is fair,â an inversion that signals how prophecy will blur moral boundaries and ignite Macbethâs ambition. The words suggest that appearances will deceive, planting the idea that a fair promiseâthe crownâcan be achieved through foul means. Macbeth internalizes this inversion; his ambition, once latent, is set ablaze by the prophecy of kingship. Yet guilt follows instantly. Before he commits murder, he sees a floating dagger, a âdagger of the mind, a false creation, / Proceeding from the heat-oppressed brain.â This hallucination is a projection of his guilt-ridden, ambition-driven psyche. The dagger marshals him toward the deed but remains intangible, mirroring the elusiveness of a clear conscience. Thus Shakespeare shows that unchecked ambition, fed by equivocal prophecy, engenders a guilt so potent it fractures reality. Macbethâs vision confirms that his ambition is never free of moral consequence; the dagger of the mind is the first wound he inflicts on himself.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "All witches",
+      "use_in_answer": "This quotation illustrates the prophecy's deceptive, morally inverted nature that sparks Macbeth's ambition."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let

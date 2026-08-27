@@ -1,0 +1,14 @@
+{
+  "answer": "In *Macbeth*, Shakespeare vividly illustrates how unchecked ambition can distort reality, leading to hallucinations. Here’s a key passage where Macbeth, consumed by his ambition to seize the throne, sees a dagger that isn’t there—a manifestation of his guilt and fevered mind. This moment captures the psychological toll of ambition and the blurred line between perception and delusion.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how Macbeth’s ambition drives him to hallucinate, revealing the psychological unraveling caused by his ruthless pursuit of power."
+    }
+  ],
+  "limits": "The provided excerpt is limited to Act 2, Scene 1; the full context of Macbeth’s ambition spans earlier and later scenes, but this passage directly ties ambition to hallucination."
+}

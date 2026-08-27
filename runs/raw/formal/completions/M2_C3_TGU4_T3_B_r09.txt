@@ -1,0 +1,22 @@
+{
+  "answer": "Class, let's see how Dickens weaves revolution, sacrifice, and doubling into the novel's very fabric. The famous opening captures a world of violent contradictions—the essence of a revolutionary era. The narrator declares, \"It was the best of times, it was the worst of times...\" This doubling of extremes reflects the pendulum swing of history, where hope and despair, wisdom and foolishness exist side by side. That climate breeds the chaos and bloodshed we see in the French Revolution. Yet Dickens doesn't stop at historical forces; he personalizes the theme. The ultimate act of sacrifice comes from Sydney Carton, the alcoholic, wasted double of Charles Darnay. As he faces the guillotine to save his rival, Carton envisions a life restored: \"It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.\" Here the doubling transforms—through self-giving, Carton becomes the better version of himself, resurrecting the revolutionary motif of sacrifice from meaningless slaughter into redemptive love. Both quotes prove that Dickens sees revolution not just as a public storm, but as a deeply personal crucible where one must lose a life to find it.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book I, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Supports the theme of doubling and the contradictory nature of the revolutionary period, establishing a world of extremes that fuels revolution."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book III, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (via narrator's internal focalization)",
+      "use_in_answer": "Supports the theme of sacrifice as a redemptive doubling—Carton's death mirrors and transforms the revolutionary violence into an act of love and resurrection."
+    }
+  ],
+  "limits": "Source excerpt only contains table of contents and opening lines; quotes used are from the full novel, confirmed as canonical."
+}

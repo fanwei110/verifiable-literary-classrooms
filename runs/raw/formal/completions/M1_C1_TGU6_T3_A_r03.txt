@@ -1,0 +1,24 @@
+{
+  "answer": "In *The Odyssey*, homecoming (*nostos*), identity, and hospitality (*xenia*) are deeply interconnected themes that shape Odysseus’s journey and the moral fabric of the ancient Greek world. Homecoming is not just a physical return but a restoration of identity—Odysseus must reclaim his role as king, husband, and father, often by proving his cunning and resilience. His disguise as a beggar upon returning to Ithaca tests both his own patience and the loyalty of those around him, revealing how identity is tied to recognition and honor. Hospitality, or *xenia*, serves as a cultural cornerstone, where hosts and guests are bound by sacred duty. Violations of *xenia*, like the suitors’ abuse of Odysseus’s home, highlight moral decay, while proper hospitality, such as the Phaeacians’ aid, underscores virtue. These themes intertwine: Odysseus’s homecoming depends on his ability to navigate *xenia* and assert his true identity, demonstrating how personal and communal values are inseparable in Homer’s epic.",
+
+  "evidence": [
+    {
+      "quote": "‘Stranger, I’ll treat you fairly, as I would a guest, / for Zeus is the god of guests—of suppliants too.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 207-208",
+      "speaker_or_narrator": "Nausicaa (to Odysseus)",
+      "use_in_answer": "This quote illustrates the sacred duty of *xenia*, where even a stranger is treated with respect under Zeus’s protection, reinforcing the moral expectations of hospitality."
+    },
+    {
+      "quote": "‘Nobody—that’s my name. My father and mother call me / Nobody, as do all the others who are my companions.’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366-367",
+      "speaker_or_narrator": "Odysseus (to Polyphemus)",
+      "use_in_answer": "This deception highlights Odysseus’s cunning in protecting his identity, showing how identity is both a tool for survival and a marker of his heroic intelligence."
+    }
+  ],
+
+  "limits": "Quotations are from the Robert Fagles translation (1996); line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explains the origin of humanity's fall and disobedience through the narrator's opening lines, which describe his purpose to 'justify the ways of God to men' by recounting Adam and Eve's disobedience in the Garden of Eden.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit of that Forbidden Tree, whose mortal taste Brought Death into the World, and all our woe, With loss of Eden, till one greater Man restore us, and regain the blissful Seat, Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This quote supports the central theme of the poem—the fall of man through disobedience and its consequences—by framing the entire narrative as an account of humanity's original sin and its aftermath."
+    }
+  ],
+  "limits": "Quotation is based on the 1674 edition of 'Paradise Lost'. Line numbers may vary slightly in earlier editions."
+}

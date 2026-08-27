@@ -1,0 +1,14 @@
+{
+  "answer": "The line “I dearly love a laugh” comes from Jane Austen’s novel *Pride and Prejudice* and is spoken by the protagonist, Elizabeth Bennet. In this scene at Netherfield, Elizabeth is playfully sparring with Miss Bingley and Mr. Darcy, defending her enjoyment of humor at the expense of human follies and inconsistencies—while implying that Darcy himself might be without such amusing weaknesses.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote is the exact line the student asked about, showing Elizabeth’s spirited personality and her delight in finding humor in others' foibles."
+    }
+  ],
+  "limits": "No uncertainty; the line is firmly attributed to Elizabeth Bennet in Chapter 11 of Pride and Prejudice."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "This opening invocation from The Odyssey explicitly frames the poem as a story about a man's endless wandering and suffering. It connects the physical journey (wandering) with the act of storytelling (the Muse's song), reminding us that epic tales are born from such journeys.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy. Many cities of men he saw and learned their minds, many pains he suffered, heartsick on the open sea, fighting to save his life and bring his comrades home.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–5",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote demonstrates how The Odyssey links wandering to narrative from the very first lines, establishing the poem itself as a story about a journey."
+    }
+  ],
+  "limits": "Quotation from the Robert Fagles translation; line numbers approximate to the Greek text."
+}

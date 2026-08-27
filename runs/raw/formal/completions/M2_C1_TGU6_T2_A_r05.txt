@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Odysseus to the Cyclops Polyphemus in Homer’s *Odyssey*. In Alexander Pope’s translation, Odysseus says 'My name is Noman' (a rendering of the Greek *Outis*, 'Nobody') to trick the Cyclops, so that when other Cyclopes ask who blinded him, Polyphemus can only answer 'Noman'.",
+  "evidence": [
+    {
+      "quote": "My name is Noman; so my father, mother, and my friends all call me.",
+      "author": "Homer, translated by Alexander Pope",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 364–365 (Pope translation)",
+      "speaker_or_narrator": "Odysseus (Ulysses)",
+      "use_in_answer": "This quote directly shows Odysseus telling the Cyclops his fake name, 'Noman'."
+    }
+  ],
+  "limits": "The original Greek is Οὖτις (Outis), meaning 'Nobody' or 'No one'. Other translations use 'Nobody' or 'No man' instead of 'Noman'."
+}

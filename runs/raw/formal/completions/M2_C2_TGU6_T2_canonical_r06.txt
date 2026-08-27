@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Homer's *Odyssey*, Book 9. It is spoken by Odysseus when he introduces himself to the Cyclops Polyphemus using the cunning false name 'Noman' (a contraction of 'No man'). Later, when Odysseus blinds the Cyclops and Polyphemus cries for help, the other Cyclopes ask who is hurting him; he replies 'Noman,' so they believe no one is attacking him, allowing Odysseus and his men to escape.",
+  "evidence": [
+    {
+      "quote": "My name is Noman; Noman have they called me, my mother and my father and all my companions.",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, line 366 (in Samuel Butler's prose translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms Odysseus tells Polyphemus his name is Noman, setting up the escape trick."
+    }
+  ],
+  "limits": "The exact wording 'Noman' appears in Samuel Butler's 1900 prose translation. Many other translations render it as 'Nobody' or 'No man'. The standard Greek is 'Outis'."
+}

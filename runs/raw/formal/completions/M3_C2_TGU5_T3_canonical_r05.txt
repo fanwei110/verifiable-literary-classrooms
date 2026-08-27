@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are central to the fall of both Satan and humankind. Satan, cast out of Heaven for rebelling against God, resolves to corrupt God’s newest creation: humanity. His soliloquy reveals his internal struggle and defiant choice: \"The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven\" (Book 1, lines 254–255). This quote illustrates Satan’s belief in self-determination, highlighting the power of free will—even when used destructively. Temptation emerges as Satan targets Eve, exploiting her curiosity and desire for knowledge. Disguised as a serpent, he argues that eating the forbidden fruit will elevate her: \"Ye shall be as gods, knowing both good and evil\" (Book 9, line 700). This moment captures the essence of temptation as a distortion of truth, mirroring Satan’s original rebellion—seeking autonomy over obedience. Milton presents free will not as a mere gift but as a profound responsibility; both Satan and Eve choose disobedience despite clear warnings. Their acts of rebellion are not forced but chosen, underscoring Milton’s view that moral virtue requires the possibility of failure. Thus, *Paradise Lost* presents temptation as the lure of self-elevation, free will as the capacity for choice, and rebellion as the tragic consequence of pride.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heaven of Hell, a Hell of Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's assertion of self-determination and internal resilience, illustrating the misuse of free will in rebellion against divine authority."
+    },
+    {
+      "quote": "Ye shall be as gods, knowing both good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, line 700",
+      "speaker_or_narrator": "Satan (as the serpent)",
+      "use_in_answer": "This quote supports how temptation distorts truth, luring Eve with the promise of divine knowledge, mirroring Satan's original prideful rebellion."
+    }
+  ],
+  "limits": "Quotations are from the standard Hughes edition of Paradise Lost; line numbers may vary slightly by version."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the protagonist's hesitation is deeply tied to his contemplation of mortality and the pressure of performing justice. Hamlet’s soliloquy reflects his internal struggle between action and inaction, where the finality of death is both alluring and terrifying. He questions whether it is nobler to endure life’s pain or to end it, recognizing that the unknown afterlife—'the dread of something after death'—causes humans to hesitate at taking action. This philosophical paralysis underscores his delay in avenging his father’s murder. Later, when confronted with the Ghost, Hamlet’s performance shifts: he insists on following it despite warnings, declaring, 'My fate cries out,' suggesting a sudden embrace of heroic duty. Yet this assertiveness is undercut by the very fear he articulated earlier. His performance of resolve is thus unstable, shaped by his profound anxiety about death and the moral weight of vengeance. Thus, Hamlet’s hesitation arises not from cowardice, but from acute awareness of mortality and the immense responsibility placed upon him, making his performance of revenge a fractured, deeply human struggle.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them? To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d. To die, to sleep. To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how Hamlet's hesitation stems from his deep contemplation of death and the uncertainty of the afterlife."
+    },
+    {
+      "quote": "My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet's performative assertion of courage and destiny, contrasting his earlier hesitation."
+    }
+  ],
+  "limits": "The source excerpts do not include the full phrase 'the dread of something after death,' so that idea is inferred from the quoted soliloquy about dreams after death. The second quote's act-scene is inferred from context as Act 1, Scene 4."
+}

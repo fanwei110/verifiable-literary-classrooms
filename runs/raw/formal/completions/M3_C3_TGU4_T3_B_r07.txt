@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the moral and political landscape of the story. The French Revolution serves as a violent backdrop where oppressed masses rise against tyranny, yet descend into their own brutality. This duality is captured in Dickens’s famous opening: 'It was the best of times, it was the worst of times,' illustrating the doubling inherent in the era—hope and horror existing side by side. Revolution, while born from injustice, risks consuming the innocent, as seen in the Reign of Terror. Sacrifice emerges as a redemptive counterpoint, most powerfully through Sydney Carton, who gives his life to save Charles Darnay—a man nearly his double in appearance. His final act transcends personal failure and fulfills a moral purpose. As Carton envisions a future born from his death, sacrifice becomes transformative. Thus, Dickens uses doubling not just in character parallels like Carton and Darnay, but also in the oscillation between chaos and renewal, destruction and resurrection. Revolution brings suffering, but through personal sacrifice, there remains hope for redemption.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by contrasting opposing forces coexisting in the historical period, reflecting both revolutionary potential and societal collapse."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice, showing Carton’s redemptive final act as he gives his life for Darnay and finds peace through self-surrender."
+    }
+  ],
+  "limits": "The source windows provided are fragmented, but the quoted passages are canonical and align with standard editions of the novel."
+}

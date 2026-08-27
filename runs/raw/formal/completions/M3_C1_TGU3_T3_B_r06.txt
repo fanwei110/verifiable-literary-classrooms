@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions often mislead because they're shaped by class assumptions, which deeply influence marriage prospects. When Elizabeth meets Mr. Darcy, his reluctance to dance reveals how social hierarchy distorts perception. Austen writes, 'He was discovered to be proud; to be above his company, and above being pleased' (Chapter 3). This immediate judgment shows how quickly class demeanor can define character in the eyes of others. Elizabeth internalizes this impression, letting pride and prejudice cloud her understanding. Yet Austen critiques this class-based snap judgment by contrasting it with deeper moral insight. Later, Elizabeth reflects, 'Till this moment, I never knew myself' (Chapter 36), after reading Darcy’s letter. This moment marks her awakening to her own prejudice, showing that true self-knowledge requires looking beyond surface differences. Marriage, in this world, is not just about love but also about navigating class boundaries and personal growth. Darcy and Elizabeth’s eventual union works because both overcome initial misjudgments fueled by social status. Their journey suggests that lasting relationships need humility and reflection. So, while first impressions are powerful, Austen insists they must be questioned. The novel teaches us that understanding ourselves and others—across class lines—leads to wiser, more meaningful choices, especially in marriage.",
+  "evidence": [
+    {
+      "quote": "He was discovered to be proud; to be above his company, and above being pleased",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports how Darcy's class-driven behavior leads to a negative first impression."
+    },
+    {
+      "quote": "Till this moment, I never knew myself",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 36",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports Elizabeth's realization that her initial judgments were clouded by prejudice."
+    }
+  ],
+  "limits": "Quotations are based on the 1813 edition; minor wording differences may appear in modern editions."
+}

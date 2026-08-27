@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply interconnected themes. Odysseus’s long journey home underscores the Greek value of oikos, or the household, as his identity is continually reaffirmed through reunions and recognition by loved ones. His return to Ithaca is not just a physical journey but a restoration of his role as king, husband, and father, emphasizing that identity is tied to place and community. Central to this process is xenia, the sacred guest-host bond, which structures much of the poem’s moral landscape. When hospitality is honored, as with the Phaeacians, it aids Odysseus’s homecoming. When it is violated, as by the suitors, it signals social disorder. The suitors’ abuse of hospitality in Odysseus’s hall—eating his wealth and courting his wife—represents a direct threat to identity and home. Ultimately, reclaiming his home requires exposing his true self and punishing those who violated sacred trust. This restoration reaffirms not only Odysseus’s identity but also the proper order of society.",
+  "evidence": [
+    {
+      "quote": "But now that Odysseus has taken his revenge on the suitors, he will be known again among men.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 24, lines 490–491",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote supports the idea that Odysseus’s identity is restored through his homecoming and the reassertion of justice."
+    },
+    {
+      "quote": "He welcomed him with warmth, and showed him kindness, as one should a guest, even if he comes from afar.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 205–206",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote illustrates the proper practice of hospitality (xenia), which is essential to maintaining social and personal identity."
+    }
+  ],
+  "limits": "Quotations are based on Robert Fagles' translation; line numbers may vary slightly by edition."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores temptation, free will, and rebellion as central to humanity’s fall. Satan, the archetypal rebel, embodies pride and defiance against divine authority. His soliloquy in Book IV reveals his inner turmoil and determination: 'The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n' (IV.254–255). This quote illustrates Satan’s assertion of mental autonomy, framing rebellion as an act of will—even when divorced from moral truth. Milton presents free will not as mere choice, but as a moral responsibility granted by God. Adam and Eve’s fall results not from coercion, but from being deceived by Satan’s cunning temptation. After eating the forbidden fruit, Adam acknowledges their shared culpability, saying, 'We know no time when we were not as now; / Know none, for certain, but by faithful Angel / Inform'd, that this our happy state presents' (IX.1034–1036). This reflects Milton’s emphasis on informed free will—knowledge was accessible, yet they chose disobedience. Temptation succeeds not by force, but by distorting reason and desire. Ultimately, Milton portrays rebellion as a tragic misuse of free will, initiated by Satan’s pride and replicated in Eden. The poem challenges readers to recognize the dangers of self-deception and the moral weight of choice.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IV, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's embrace of rebellion and his belief in the power of the will to redefine reality, highlighting the prideful misuse of free will."
+    },
+    {
+      "quote": "We know no time when we were not as now; / Know none, for certain, but by faithful Angel / Inform'd, that this our happy state presents",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 1034–1036",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This quote supports the idea that Adam and Eve had access to truthful knowledge, underscoring that their fall was a choice made despite divine guidance."
+    }
+  ],
+  "limits": "Quotations are from the John Leonard edition of Paradise Lost (Penguin Classics); line numbers may vary slightly by edition."
+}

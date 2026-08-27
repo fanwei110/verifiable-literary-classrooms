@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, Shakespeare explores how unchecked ambition, spurred by prophecy, breeds corrosive guilt. The witches' prophecy plants the seed of kingship, but it is Macbeth's 'vaulting ambition' that drives him to murder Duncan. He admits, 'I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other.' (1.7.25-28). Here, he confesses that ambition is his only motive, yet it's a dangerous force that can overreach and destroy. Once he kills, guilt immediately surfaces. After the murder, Macbeth stares at his bloody hands and despairs: 'Will all great Neptune's ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.' (2.2.60-63). The hyperbole shows his guilt is inescapable, staining the entire world. Thus, the prophecy ignites ambition, which in turn unleashes a guilt so vast that it psychologically damns him. Shakespeare warns that ambition without moral constraint leads not to glory but to inner hell.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-28",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the theme of ambition by revealing Macbeth's acknowledgment that his only motive is overreaching ambition."
+    },
+    {
+      "quote": "Will all great Neptune's ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2, lines 60-63",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the theme of guilt by illustrating Macbeth's immediate and overwhelming remorse, imagining that his bloodstained hands will turn the seas red."
+    }
+  ],
+  "limits": "Quotes are from the First Folio (1623); line numbers may vary slightly across modern editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes. The French Revolution serves as a backdrop to examine how societal upheaval breeds both violence and redemption. As the revolution unfolds, Dickens critiques its extremes, showing how justice can devolve into vengeance. This duality is mirrored in the character doubling between Charles Darnay and Sydney Carton—look-alikes who represent opposing paths. While Darnay renounces his aristocratic lineage, Carton initially squanders his potential, yet ultimately chooses a noble sacrifice. Carton’s transformation culminates in his decision to die for Darnay, embodying redemption through self-sacrifice. This act parallels Christian ideals of resurrection and love. As the narrator observes, 'It is a far, far better thing that I do, than I have ever done'—a statement that captures Carton’s redemptive climax. Similarly, Dickens foreshadows the revolution’s dual nature early on: 'Liberty, equality, fraternity, or death', the grim motto of the revolutionaries, reveals how noble ideals can be corrupted by bloodshed. Through doubling and sacrifice, Dickens suggests that personal and political rebirth often require great cost. The novel ultimately argues that even in the darkest revolutions, individual love and sacrifice can spark hope.",
+  "evidence": [
+    {
+      "quote": "Liberty, equality, fraternity, or death",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Second, Chapter 22",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports how revolutionary ideals in the novel carry a dark duality, blending justice with violence."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "narrator (Carton's final thoughts)",
+      "use_in_answer": "This quote illustrates Sydney Carton's redemptive sacrifice, showing personal transformation through ultimate self-giving."
+    }
+  ],
+  "limits": "Quotations are from the standard 1859 edition; slight variations may exist across printings."
+}

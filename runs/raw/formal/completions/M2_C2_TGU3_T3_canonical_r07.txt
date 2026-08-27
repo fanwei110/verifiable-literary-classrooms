@@ -1,0 +1,22 @@
+{
+  "answer": "In Austen’s Pride and Prejudice, first impressions, class, and marriage are inseparable. The novel’s iconic opening line, “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife,” announces how marriage is a financial transaction governed by class. This societal pressure drives Mrs. Bennet’s schemes and frames the courtship dance. Yet first impressions, often rooted in class prejudice, threaten love. At the Meryton assembly, Darcy’s haughty dismissal, “She is tolerable, but not handsome enough to tempt me,” instantly wounds Elizabeth’s pride and hardens her prejudice. His insult, born of class contempt, poisons her perception of him for half the novel. Austen uses this misstep to show how rigid class assumptions and hasty judgments nearly derail a true partnership. It is only when Elizabeth learns to see past her initial resentment and Darcy overcomes his pride that their marriage becomes a union of mutual respect rather than a mere economic arrangement, redefining what a successful marriage can be.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line establishes the novel’s satirical link between marriage and class-based economic necessity."
+    },
+    {
+      "quote": "She is tolerable, but not handsome enough to tempt me.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "Darcy’s dismissive remark at the assembly ball showcases how class arrogance creates a disastrous first impression that Elizabeth will cling to."
+    }
+  ],
+  "limits": "Quotations follow widely used editions; punctuation may vary slightly between printings."
+}

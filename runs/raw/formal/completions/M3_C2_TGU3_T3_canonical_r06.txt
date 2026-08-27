@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, class, and marriage are deeply intertwined. Characters often judge one another based on social standing, leading to flawed initial perceptions. Elizabeth Bennet and Mr. Darcy’s evolving relationship illustrates how pride and prejudice, rooted in class assumptions, can distort judgment. At the Meryton ball, Darcy’s aloofness—'He was discovered to be proud, to be above his company, and above being pleased'—reveals how behavior linked to class shapes immediate opinion (Ch. 3, Narrator). This first impression hinders meaningful connection, reflecting societal emphasis on rank over character. Similarly, marriage is treated as both emotional union and socioeconomic transaction. Charlotte Lucas’s practical choice to marry Mr. Collins underscores this: 'I am not romantic, you know... I ask only a comfortable home' (Ch. 22, Charlotte Lucas). Her statement highlights how women of lower social standing prioritized security over affection, exposing the constraints of class and gender. Austen critiques these social dynamics by contrasting superficial matches with Elizabeth and Darcy’s eventual union, which overcomes pride and prejudice through mutual understanding. Ultimately, the novel challenges hasty judgments, advocating for deeper evaluation beyond class and first appearances in matters of marriage.",
+  "evidence": [
+    {
+      "quote": "He was discovered to be proud, to be above his company, and above being pleased",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports how Darcy's class-based demeanor shapes negative first impressions among the townspeople."
+    },
+    {
+      "quote": "I am not romantic, you know... I ask only a comfortable home",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote illustrates Charlotte’s pragmatic view of marriage as a means to secure class stability rather than emotional fulfillment."
+    }
+  ],
+  "limits": "Quotations and chapter numbers are based on standard editions; minor variations may exist across translations or publications."
+}

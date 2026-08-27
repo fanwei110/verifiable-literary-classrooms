@@ -1,0 +1,24 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, the weight of mortality, and the pressures of performance through his protagonist’s introspective soliloquies. Hamlet’s delay in avenging his father’s murder stems from his profound existential dread—he questions not only the morality of action but also the very nature of existence. His famous soliloquy, 'To be, or not to be,' reveals his fixation on death as both an escape and a terrifying unknown, illustrating how mortality haunts his every decision. This hesitation is further complicated by the performative demands placed upon him; Hamlet must act the part of a revenger while grappling with his own inaction. His self-awareness as a 'rogue and peasant slave' underscores the tension between his intellectual paralysis and the expectation to perform decisively. Together, these themes expose the fragility of human agency when confronted with doubt and the inevitability of death.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet’s existential hesitation and his preoccupation with mortality as central to his inaction."
+    },
+    {
+      "quote": "O, what a rogue and peasant slave am I!",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.550",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line highlights Hamlet’s self-criticism and the performative pressure he feels to act, despite his hesitation."
+    }
+  ],
+
+  "limits": "Quotations are from the Arden Shakespeare edition (Third Series, 2006). Line numbers may vary slightly in other editions."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Jane Austen's novel *Pride and Prejudice*. It is spoken by the protagonist, Elizabeth Bennet, during an evening gathering at Netherfield Park. In the conversation, Elizabeth responds to Miss Bingley's suggestion that Mr. Darcy is immune to being laughed at, and Elizabeth wittily declares her own enjoyment of genuine humor.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11 (conversation at Netherfield)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote directly answers the student's question by identifying the speaker and the moment in the novel where she expresses her love of laughter."
+    }
+  ],
+  "limits": "The exact chapter number (11) is not stated in the provided excerpt; it is inferred from common knowledge of the novel's structure. The excerpt itself shows only the dialogue without chapter heading."
+}

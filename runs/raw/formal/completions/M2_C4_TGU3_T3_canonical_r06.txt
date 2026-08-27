@@ -1,0 +1,22 @@
+{
+  "answer": "Class, marriage, and first impressions collide from the very first sentence of *Pride and Prejudice*. The novel opens with the wry proclamation that a wealthy bachelor “must be in want of a wife,” immediately framing marriage as a social and economic transaction dictated by class rather than affection. The Bennet family’s frantic pursuit of Mr. Bingley proves how thoroughly neighbourhood families treat a man of fortune as “the rightful property” of their daughters. Yet Austen complicates this mercenary view through Elizabeth Bennet, whose sharp first impressions prove dangerously flawed. After reading Darcy’s letter, she cries, “How despicably have I acted! … I have courted prepossession and ignorance, and driven reason away … Till this moment, I never knew myself.” This humbling self-reckoning reveals that her initial judgments of both Darcy and Wickham were warped by vanity and class prejudice. True companionate marriage, Austen suggests, demands the hard work of correcting those early misreadings. Only when Elizabeth and Darcy overcome their pride and prejudice can their union transcend the shallow mercenariness mocked in the opening line, showing that a good marriage depends on mutual understanding, not just a good fortune.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening line establishes the novel's satirical take on the class-driven marriage market, showing how wealth dictates social expectations."
+    },
+    {
+      "quote": "How despicably have I acted! … I have courted prepossession and ignorance, and driven reason away … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Volume II, Chapter XIII (Chapter 36)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth's anguished self-reproach after reading Darcy's letter demonstrates how flawed first impressions built on vanity and class prejudice must be dismantled for a genuine marriage to become possible."
+    }
+  ],
+  "limits": "The second excerpt appears in the source window without a chapter heading; it is from Elizabeth's private reflection after receiving Darcy's letter, generally identified as Volume II, Chapter XIII (Chapter 36) in modern editions. The exact chapter number is inferred from the novel's structure, not supplied by the frozen source excerpt."
+}

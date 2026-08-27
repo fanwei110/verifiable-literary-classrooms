@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply interconnected themes. Odysseus’s long journey home underscores the Greek value of oikos, or the household, as his identity is continually reaffirmed through reunions and recognition by loved ones. His return to Ithaca is not just a physical journey but a restoration of his role as king, husband, and father, emphasizing that identity is tied to place and community. Central to this process is xenia, the sacred guest-host bond, which structures much of the poem’s moral landscape. When hospitality is honored, as with the Phaeacians, safe passage and mutual respect follow; when it is violated, as with the suitors who exploit Odysseus’s absence, chaos and punishment result. The suitors’ abuse of hospitality in Odysseus’s hall directly threatens his home and identity. Only through reclaiming his household—revealing his identity and restoring order—can true homecoming occur. This culmination shows that home is more than a location; it is the space where identity is recognized and honored through proper human bonds.",
+  "evidence": [
+    {
+      "quote": "Dear friend, you are a stranger, but you will find no lack of shelter under my roof, not even if a god comes—guests are sacred.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, line 206-208",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote supports the importance of hospitality (xenia) as a sacred duty, even toward strangers, illustrating its moral centrality in the epic."
+    },
+    {
+      "quote": "You fool, you thought I’d never come back from Troy—but here I am, the man in my own house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 22, line 35-36",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the climax of Odysseus’s homecoming and the reassertion of his true identity in his household."
+    }
+  ],
+  "limits": "Translations may vary; quotes are based on Robert Fagles' 1996 translation."
+}

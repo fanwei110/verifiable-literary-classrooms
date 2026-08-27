@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s examine homecoming, identity, and hospitality as three threads woven into Odysseus’s return. Homecoming is not just arrival but recognition—being truly seen. Consider the danger of being nameless or misidentified; Odysseus often withholds his name to survive. Hospitality, meanwhile, serves as the sacred test that reveals identity. When the disguised Odysseus arrives, Eumaeus the swineherd offers shelter not to a king, but to a ragged stranger, declaring that “strangers and beggars all come in Zeus’s name” (Book 14). This divine commandment to welcome the unknown becomes the very stage on which Odysseus’s true self will be unveiled. The climactic homecoming in Book 23 occurs only after the marriage bed—rooted in a living olive tree—is described, proving beyond doubt that the scarred, weathered man is truly Odysseus. Penelope’s knees give way as the “proof that she had waited for so long” (Book 23) dissolves her cautious disguise. The poem suggests we find our way home not by landmarks, but by the welcome that recognizes our deepest identity, and that true hospitality creates the space for that revelation. Without xenia, homecoming remains merely geography; with it, identity is restored.",
+  "evidence": [
+    {
+      "quote": "strangers and beggars all come in Zeus’s name",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 64",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "Demonstrates the sacred obligation of hospitality (xenia) that allows the disguised Odysseus to enter his own home and eventually reveal his identity."
+    },
+    {
+      "quote": "proof that she had waited for so long",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, line 219",
+      "speaker_or_narrator": "Narrator, describing Penelope's reaction",
+      "use_in_answer": "Illustrates how homecoming requires irrefutable, intimate knowledge to restore identity, as Penelope’s cautious heart finally accepts her husband."
+    }
+  ],
+  "limits": "Quotations are from standard English translations; wording may vary slightly between versions (e.g., Fitzgerald, Fagles, Wilson). Line numbers are approximate to the cited translation."
+}

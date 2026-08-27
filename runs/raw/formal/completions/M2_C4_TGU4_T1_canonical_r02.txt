@@ -1,0 +1,14 @@
+{
+  "answer": "A classic illustration of historical contradiction appears right at the opening, where the narrator insists that the age was defined by direct opposites coexisting: “It was the best of times, it was the worst of times… it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.” This structure forces us to see the French Revolution era not as simply good or bad, but as a knot of contradictions—wisdom and foolishness, belief and incredulity—all present at once and described in the superlative degree.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation juxtaposes paired opposites to demonstrate how the period itself was defined by historical contradiction, with every positive quality matched by its negative counterpart."
+    }
+  ],
+  "limits": "The provided excerpt begins with the famous opening paragraph; the full sentence continues with the narrator's remark about the period being 'like the present period,' but only the contradictory pairs are quoted here."
+}

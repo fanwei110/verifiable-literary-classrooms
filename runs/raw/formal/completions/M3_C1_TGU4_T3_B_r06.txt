@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens's *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the novel’s moral and political landscape. The French Revolution serves as a powerful backdrop, illustrating how societies fracture and rebuild under extreme oppression. Dickens portrays revolution not just as political upheaval but as a force born of deep inequality, leading individuals to extreme acts. Sacrifice emerges as a redemptive counterpoint to violence, particularly through Sydney Carton, whose ultimate act gives meaning to personal transformation. Carton’s choice echoes the Christian ideal of laying down one’s life for others, offering hope amid chaos. Doubling—seen in the parallel lives of Charles Darnay and Sydney Carton, or in the twin cities of London and Paris—reinforces the novel’s exploration of identity and fate. These linked themes suggest that destruction and renewal, self-destruction and salvation, are two sides of the same coin. As the narrative moves toward its climax, it becomes clear that personal sacrifice can transcend the bloodshed of revolution, offering a quieter but more enduring form of change.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening establishes the theme of doubling and the paradoxical nature of the revolutionary era, setting the stage for tension between destruction and renewal."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "Carton’s final words highlight the theme of sacrifice, showing how personal redemption can emerge through selfless action."
+    }
+  ],
+  "limits": "Quotations are from standard editions of the novel; minor variations may exist across translations or printings."
+}

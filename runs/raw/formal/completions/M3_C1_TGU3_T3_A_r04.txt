@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, social class, and marriage are deeply intertwined. Characters often misjudge others based on initial appearances and class assumptions, which must be overcome for true understanding and happy unions. Elizabeth Bennet prides herself on her discernment, yet her first impressions of Darcy as arrogant and Wickham as charming prove misleading. Social rank heavily influences perceptions: Darcy initially resists marrying Elizabeth because of her lower connections, revealing how class dictates personal choices. However, both Elizabeth and Darcy grow by recognizing their own pride and prejudice. Ultimately, the novel suggests that while class may shape first impressions, personal virtue and mutual respect are more important in marriage. Darcy changes, declaring his love not in spite of her station but with a newfound humility. Their union symbolizes a balance between individual merit and social reality. As the narrative concludes, it affirms that lasting marriage requires overcoming superficial judgments and class biases. True compatibility emerges not from wealth or status, but from self-awareness and emotional honesty.",
+  "evidence": [
+    {
+      "quote": "He was the proudest, most disagreeable man in the world, and everybody hopes that he may never come there again!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mrs. Bennet",
+      "use_in_answer": "This quote supports how first impressions of Darcy are shaped by class-based perceptions of arrogance."
+    },
+    {
+      "quote": "You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. My affections and wishes are unchanged, but one word from you will silence me on this subject forever.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 58",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote shows Darcy's growth and genuine love, demonstrating that true marriage transcends class barriers."
+    }
+  ],
+  "limits": "Quotations are from the standard 1813 edition; chapter numbers may vary slightly by publication."
+}

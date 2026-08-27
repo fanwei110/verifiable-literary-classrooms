@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening of The Odyssey, the narrator frames the entire epic as a tale of wandering that is also the story about to be told. By asking the Muse to sing of a man driven far off course, the poet directly yokes physical journey and narrative art, showing how suffering and displacement become the material of heroic song.",
+  "evidence": [
+    {
+      "quote": "Sing to me of the man, Muse, the man of twists and turns / driven time and again off course, once he had plundered / the hallowed heights of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1â3",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quotation links Odysseusâs physical wandering with the poetic story that recounts it, directly supporting the claim that wandering and story are intertwined from the outset."
+    }
+  ],
+  "limits": "Quotation from the Robert Fagles translation (1996); line numbers follow the Greek text and may vary slightly in other translations."
+}

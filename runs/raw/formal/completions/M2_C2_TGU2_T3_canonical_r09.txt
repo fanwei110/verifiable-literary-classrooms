@@ -1,0 +1,18 @@
+{
+  "answer": "Shakespeareâs Macbeth explores how ambition, fueled by prophecy, breeds a corrosive guilt that destroys the protagonists. The witchesâ prophecy plants a seed of vaulting ambition in Macbeth, but it is his own âblack and deep desiresâ that terrify him. In Act 1, Scene 4, Macbeth reveals the inner conflict between his hunger for power and his moral awareness: he calls on the stars to hide their light so no one, including himself, can witness his dark wish to kill King Duncan. This concealment signals that guilt is present even before the murder. Once the couple seizes the crown, their guilt intensifies, fracturing their minds. Lady Macbeth, who initially taunted her husbandâs hesitations, succumbs to a waking nightmare of blood that cannot be cleansed. Her fragmented cry, âOut, damned spot! out, I say!â in Act 5, Scene 1, shows how ambitionâs bloody aftermath transmutes into psychological torture. The stain she perceives is not real, yet the guilt it represents is overwhelming. Thus, prophecy becomes a self-fulfilling destructive force: ambition answers its call, and guilt punishes that answer relentlessly.",
+  "evidence": [
+    {
+      "quote": "Stars, hide your fires; / Let not light see my black and deep desires",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote reveals Macbeth's covert ambition after hearing the witches' prophecy, and his immediate guilt that forces him to conceal his desires."
+    },
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote illustrates the overwhelming guilt that physically manifests as Lady

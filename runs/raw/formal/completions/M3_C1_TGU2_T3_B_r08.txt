@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition, prophecy, and guilt intertwine to drive the tragic arc. Macbeth begins as a loyal soldier, but the witches' prophecy ignites a dangerous ambition. He is told he will be king, and rather than let fate unfold, he and Lady Macbeth take violent action. Yet, the moment Duncan is murdered, guilt begins to consume them. Macbeth’s psyche unravels, haunted by visions and paranoia. Ambition promised power, but delivers torment. Prophecy acts not as a guarantee but a temptation, pushing Macbeth toward his downfall. His initial hesitation shows moral awareness, but once he 'o'erleaps' loyalty for crown, there’s no return. The tragedy lies in how quickly glory turns to grief. As Macbeth says, 'I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er' (Act 3, Scene 4). This reveals his entrapment in guilt—there’s no redemption, only continuation. Lady Macbeth, once ambitious, cannot escape her conscience either, sleepwalking and scrubbing at invisible blood. The weight of suppressed guilt proves inescapable. Thus, the play warns that unchecked ambition, fueled by prophecy, leads not to greatness but to spiritual ruin.",
+  "evidence": [
+    {
+      "quote": "I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4, lines 168–170",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth’s realization that he is too deep in violence and guilt to turn back, emphasizing the irreversible consequences of his ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight line variations may occur in other editions."
+}

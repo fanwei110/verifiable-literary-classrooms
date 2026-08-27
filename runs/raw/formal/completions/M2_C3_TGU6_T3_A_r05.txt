@@ -1,0 +1,22 @@
+{
+  "answer": "In our mini-lesson on The Odyssey, we explore how homecoming, hospitality, and identity are interwoven. For Odysseus, nostos (homecoming) is not just a geographical return but a restoration of identity. We see this struggle framed immediately, as the epic opens not with the hero, but with his painful absence: “he, though he was longing to return to his wife and country, was detained by the goddess Calypso.” This establishes that his core identity—husband, king, father—is paralyzed when separated from home. True homecoming requires a community to recognize you, which connects directly to the sacred Greek custom of xenia, or hospitality. In a world without hotels, strangers were potential gods, and proper reception affirmed order. When shipwrecked Odysseus pleads to Princess Nausicaa, he exposes the vulnerabilities of a man stripped of all identity markers. His blessing reveals the essence of what it means to be home: “for there is nothing better in this world than that man and wife should be of one mind in a house.” Here, the home is a psychological and social sanctuary where identity is most fully realized. Thus, Odysseus’ journey tests the hospitality of others against his ultimate goal: to reclaim his identity within his own hall.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This early framework sets up the central tension that Odysseus’s identity as a husband is incomplete without a physical homecoming."
+    },
+    {
+      "quote": "for there is nothing better in this world than that man and wife should be of one mind in a house",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that the ultimate goal of the hero’s journey is not just a location, but the restoration of a harmonious domestic identity through shared homophrosyne (like-mindedness)."
+    }
+  ],
+  "limits": "Quotations are sourced from Samuel Butler's prose translation, which renders the text in modern English without original book-line citations. The first excerpt opens the narrative in Book I, and the second captures the beach scene in Book VI. While the excerpt says 'Ulysses,' the Latinized form, the lesson uses the more familiar 'Odysseus.'"
+}

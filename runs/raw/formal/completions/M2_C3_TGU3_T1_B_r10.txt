@@ -1,0 +1,14 @@
+{
+  "answer": "Certainly! A perfect example of marriage-market irony is the novel’s famous opening line. Here, the narrator presents as a universal law what is actually the mercenary mindset of the neighborhood’s families—treating a wealthy bachelor as communal prey rather than a person with his own feelings. The irony lies in the gap between the proclaimed ‘truth’ and the self-serving social reality it masks.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation encapsulates the ironic reversal of cause and effect in the marriage market: it is not the bachelor who naturally desires a wife, but the surrounding families who have already decided he needs one of their daughters."
+    }
+  ],
+  "limits": "The quotation is verbatim from the first chapter of the novel as shown in the provided source excerpt."
+}

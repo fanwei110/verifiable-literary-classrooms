@@ -1,0 +1,14 @@
+{
+  "answer": "In Milton's *Paradise Lost*, the fall of Adam and Eve is framed as an act of disobedience against God's clear command, leading to their expulsion from Eden and introducing sin into the world. The poem explores not only the event itself but also the moral and spiritual consequences of defying divine authority.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat, / Sing Heavenly Muse...",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–6",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This opening invocation explicitly states that the central theme of the poem is humanity's first act of disobedience, which results in the fall and the loss of paradise."
+    }
+  ],
+  "limits": "The quotation is from the 1674 edition of *Paradise Lost*, which is the most widely accepted version. Line numbers may vary slightly in earlier editions."
+}

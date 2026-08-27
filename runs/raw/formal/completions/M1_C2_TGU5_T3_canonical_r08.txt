@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into eating the forbidden fruit by promising godlike knowledge. This moment underscores the fragility of human resolve when faced with deception, as Eve’s choice—though freely made—leads to the Fall. Similarly, Adam’s decision to join her in rebellion highlights the weight of free will: he knowingly defies God out of love for Eve, illustrating how even noble intentions can lead to ruin. Milton frames these acts as deliberate choices, emphasizing that rebellion stems from pride and a misplaced trust in one’s own judgment. Through these characters, he argues that true freedom lies in obedience to divine will, while rebellion brings only suffering and exile from paradise.",
+
+  "evidence": [
+    {
+      "quote": "Fairest resemblance of thy Maker fair, / Thee all things living gaze on, all things thine / By gift, and thy celestial beauty adore / With ravishment beheld",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 538-541",
+      "speaker_or_narrator": "Satan (disguised as a serpent)",
+      "use_in_answer": "This quote supports the idea of temptation as flattery and manipulation, showing how Satan appeals to Eve’s vanity to weaken her resolve."
+    },
+    {
+      "quote": "Not deceived, / But fondly overcome with female charm",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 998-999",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates Adam’s conscious choice to rebel, emphasizing that his fall was not from ignorance but from a deliberate act of free will."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

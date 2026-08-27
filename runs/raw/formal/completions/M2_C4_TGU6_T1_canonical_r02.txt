@@ -1,0 +1,14 @@
+{
+  "answer": "The opening of *The Odyssey* directly links wandering and story: the narrator calls on the Muse to tell the tale of a hero who traveled widely, knew many places and peoples, and suffered on the sea trying to bring his men home.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator (the poet)",
+      "use_in_answer": "This quotation shows how the poem's opening invocation combines the hero's wandering ('travelled far and wide', 'many cities did he visit') with the request to tell his story ('Tell me, O Muse'), making wandering and story inseparable from the outset."
+    }
+  ],
+  "limits": "The quotation is from Samuel Butler's prose translation; line numbers are not given in the source excerpt."
+}

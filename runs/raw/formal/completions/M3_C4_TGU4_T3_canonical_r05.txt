@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores the chaos of revolution, the weight of sacrifice, and the theme of doubling through the contrasting fates of characters and the upheaval of the French Revolution. The revolution is portrayed as a force of inevitable, rising violence: 'It was the best of times, it was the worst of times,' marking the paradox of an age full of promise and peril. This duality mirrors the parallel lives of Charles Darnay and Sydney Carton, whose physical resemblance underscores their moral doubling—Carton, once dismissed as unhonored, ultimately achieves heroism. Sacrifice becomes central when Carton embraces death for Darnay’s life, fulfilling his quiet pledge with profound impact. As the revolution consumes all, innocence and justice blur. Carton’s final act transcends personal failure, echoing the redemptive possibility within personal and political transformation. The narrative insists that even in darkness, sacrifice can illuminate hope. Revolution, then, is not merely political—it is intimate, transformative. Through doubling, Dickens contrasts wasted life with purpose reclaimed.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I. The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the portrayal of revolution as a time of stark contrasts and conflicting forces."
+    },
+    {
+      "quote": "There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I. The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the theme of doubling by drawing parallel structures between England and France, emphasizing mirrored societies on the brink of upheaval."
+    }
+  ],
+  "limits": "The provided source excerpts do not contain direct references to sacrifice or Carton's final act; analysis of sacrifice relies on general knowledge of the novel beyond the frozen text."
+}

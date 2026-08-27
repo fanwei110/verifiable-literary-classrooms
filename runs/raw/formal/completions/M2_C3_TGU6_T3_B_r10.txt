@@ -1,0 +1,22 @@
+{
+  "answer": "Let’s look at two key passages. In the opening, the narrator tells us that Odysseus “was longing to return to his wife and country” (Book I). This simple phrase captures the poem’s central drive: homecoming is not just a geographical journey but a deeply personal need that defines identity. Odysseus’s entire epic struggle is to reclaim his place as husband, father, and king. Later, when shipwrecked and naked before Nausicaa, he praises the ideal of marriage: “there is nothing better in this world than that man and wife should be of one mind in a house” (Book VI). His words reveal that the true reward of homecoming is the intimate harmony of a shared life. Yet notice the context: he speaks this to a stranger who, following the sacred code of hospitality, provides him clothing and safe passage. The Phaeacians’ generous welcome enables his return, showing that hospitality is the bridge between wandering and home. So identity rests on the homely unity Odysseus praises, while hospitality from others makes that homecoming possible.",
+  "evidence": [
+    {
+      "quote": "though he was longing to return to his wife and country",
+      "author": "Homer (trans. Samuel Butler)",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Shows that Odysseus’s identity is rooted in homecoming and his longing for domestic life."
+    },
+    {
+      "quote": "there is nothing better in this world than that man and wife should be of one mind in a house",
+      "author": "Homer (trans. Samuel Butler)",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Highlights the homely ideal that defines Odysseus’s goal and reveals why hospitality from strangers is so vital to his return."
+    }
+  ],
+  "limits": "Quotations are from the Butler translation as provided in the source windows."
+}

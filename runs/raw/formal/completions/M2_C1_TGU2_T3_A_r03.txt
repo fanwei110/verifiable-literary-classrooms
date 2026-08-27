@@ -1,0 +1,22 @@
+{
+  "answer": "In Macbeth, Shakespeare intertwines ambition, prophecy, and guilt to chart the tragic downfall of his protagonist. The witches’ prophecy plants the seed: Macbeth will be king. This supernatural promise awakens a desperate ambition. In a soliloquy, Macbeth confesses he has “no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other” (1.7.25-28). Here, ambition is a horse that overreaches; it has no rational or moral justification, only a reckless leap. That leap leads to regicide, and guilt takes hold. Lady Macbeth, initially ruthless, later sleepwalks, trying to scrub away the psychological stain: “Out, damned spot! out, I say!” (5.1.37). The imaginary blood betrays a soul shattered by guilt. Prophecy, then, is not fate but a catalyst; ambition turns it into action; guilt becomes the inescapable consequence. The Macbeths cannot outrun their own minds.",
+  "evidence": [
+    {
+      "quote": "I have no spur / To prick the sides of my intent, but only / Vaulting ambition, which o'erleaps itself / And falls on the other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7, lines 25-28",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth's ambition is his only motivation, lacking moral restraint, causing him to overreach."
+    },
+    {
+      "quote": "Out, damned spot! out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1, line 37",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote reveals the overwhelming guilt that haunts Lady Macbeth, symbolized by the imaginary bloodstain she cannot remove."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; other editions may vary slightly."
+}

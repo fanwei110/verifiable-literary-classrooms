@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is from Homer's *Odyssey*, spoken by the hero Odysseus to the Cyclops Polyphemus in Book 9. Odysseus uses the false name as a trick so that when the blinded Cyclops calls for help, he says \"Noman is hurting me,\" and the other Cyclopes ignore him.",
+  "evidence": [
+    {
+      "quote": "my name is Noman",
+      "author": "Homer",
+      "work": "Odyssey",
+      "locator": "Book 9, lines 364–366",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This verbatim quote confirms Odysseus's deceptive self-naming when speaking to the Cyclops."
+    }
+  ],
+  "limits": "Translations vary; the exact rendering 'Noman' appears in Samuel Butler's 1900 translation, while others use 'Nobody' or 'No-man'."
+}

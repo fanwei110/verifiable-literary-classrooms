@@ -1,0 +1,14 @@
+{
+  "answer": "This line comes from Charles Dickens's novel *A Christmas Carol*. It is spoken by Ebenezer Scrooge's nephew, Fred, during his cheerful attempt to wish Scrooge a merry Christmas and invite him to dinner. Fred uses the phrase to emphasize his love for laughter and joy, contrasting with Scrooge's miserly demeanor.",
+  "evidence": [
+    {
+      "quote": "I have always thought of Christmas time... as a good time; a kind, forgiving, charitable, pleasant time... And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it has done me good, and will do me good; and I say, God bless it! ... I am sure I have always thought of Christmastime, when it has come round... as a good time; a kind, forgiving, charitable, pleasant time; the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were fellow-passengers to the grave, and not another race of creatures bound on other journeys. And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it has done me good, and will do me good; and I say, God bless it! ... I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "A Christmas Carol",
+      "locator": "Stave One: Marley's Ghost",
+      "speaker_or_narrator": "Fred (Scrooge's nephew)",
+      "use_in_answer": "This quote confirms the origin of the line and shows Fred's optimistic, generous character in contrast to Scrooge."
+    }
+  ],
+  "limits": "The exact phrasing may vary slightly across editions, but the sentiment and attribution to Fred in *A Christmas Carol* are consistent."
+}

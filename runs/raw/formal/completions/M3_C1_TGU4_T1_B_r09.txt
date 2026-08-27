@@ -1,0 +1,14 @@
+{
+  "answer": "A key historical contradiction in the novel is how revolutionary ideals of liberty and justice devolve into violence and tyranny. This is best illustrated when the narrator reflects on the French Revolution's descent into chaos, showing how noble aims are corrupted by vengeance.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote encapsulates the contradiction of the historical moment—simultaneously filled with promise and peril—highlighting the paradoxical nature of revolutionary change."
+    }
+  ],
+  "limits": "The quotation is from the first chapter and may vary slightly depending on the edition, but the content remains consistent across standard printings."
+}

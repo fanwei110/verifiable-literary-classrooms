@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition and hallucination converge when Macbeth sees a dagger leading him toward Duncan's chamber, revealing how his desire for power distorts reality. He says, 'Is this a dagger which I see before me, the handle toward my hand?' This moment shows how intense ambition can trigger a hallucination, blurring the line between thought and action.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, the handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–34",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth’s ambitious desires manifest as a hallucination, symbolizing his internal conflict and the psychological toll of his impending regicide."
+    }
+  ],
+  "limits": "Quotation and line numbers based on the First Folio edition; slight variations may exist in different editions."
+}

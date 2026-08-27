@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous opening lines in English literature captures the irony of the marriage market in Regency England: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.' This statement is deeply ironic because, while it pretends to describe men's desires, it actually reveals the societal pressure on women to secure wealthy husbands—exposing how the marriage market prioritizes financial security over romantic affection.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator (with ironic tone)",
+      "use_in_answer": "This quote supports the idea that the marriage market is driven by economic necessity rather than personal desire, highlighting the societal assumption that wealthy bachelors are automatically potential suitors, regardless of their actual intentions."
+    }
+  ],
+  "limits": "The irony may vary in interpretation depending on translation or edition, but the quotation is consistent across standard English editions of the novel."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In Charles Dickens' *A Tale of Two Cities*, the famous opening lines capture the historical contradiction of the era leading up to the French Revolution—simultaneously marked by progress and regression, hope and despair. These contradictions are embodied in the coexistence of enlightenment ideals and deep social injustice, which ultimately fueled revolutionary upheaval.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First--Recalled to Life, CHAPTER I. The Period",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote illustrates the paradoxical nature of the historical period, highlighting the coexistence of progress and decline, which helps explain the deep societal tensions that led to revolution."
+    }
+  ],
+  "limits": ""
+}

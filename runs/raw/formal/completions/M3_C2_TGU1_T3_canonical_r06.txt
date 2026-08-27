@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, hesitation, mortality, and performance are deeply intertwined, revealing the prince's inner turmoil. Hamlet’s contemplation of death and uncertainty paralyzes decisive action, most strikingly seen in his famous soliloquy. He questions the value of life and fears the unknown after death, declaring, 'To be, or not to be: that is the question' (3.1.56). This hesitation stems from his acute awareness of mortality, which undermines his ability to act swiftly against Claudius. Moreover, Hamlet uses performance as both a shield and a tool—he stages 'The Mousetrap' to 'catch the conscience of the king'—blurring reality and illusion. His obsession with proving guilt through theatrical mimicry reflects a deeper anxiety about authenticity in a corrupt world. Performance becomes a way to delay vengeance while probing moral truths. Ultimately, Hamlet’s hesitation is not mere indecisiveness but a philosophical response to mortality. As he says, 'The undiscovered country from whose bourn / No traveler returns' (3.1.79–80), death is an unknown that shackles human resolve. Through these moments, Shakespeare presents a tragic figure caught between thought and action, performance and truth, life and death.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports Hamlet's philosophical hesitation and his contemplation of mortality as a barrier to action."
+    },
+    {
+      "quote": "The undiscovered country from whose bourn / No traveler returns",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.79–80",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet's fear of the afterlife, which contributes to his paralysis and deepens the theme of mortality."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of Hamlet. Line numbers may vary slightly in other editions."
+}

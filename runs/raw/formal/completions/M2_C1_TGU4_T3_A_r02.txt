@@ -1,0 +1,22 @@
+{
+  "answer": "Charles Dickens's *A Tale of Two Cities* uses the motif of doubling to illuminate the violent duality of revolution and the redemptive power of sacrifice. The novel's famous opening—\"It was the best of times, it was the worst of times...\"—establishes a world of extreme contrasts, mirroring the French Revolution's simultaneous promise of liberty and descent into terror. This pattern of paired opposites (London/Paris, aristocracy/peasantry, tyranny/freedom) persists, suggesting that upheaval creates a fractured reality. Sydney Carton's final act transforms this doubling into selfless sacrifice. As he marches to the guillotine in place of Charles Darnay, his imagined words—\"It is a far, far better thing that I do, than I have ever done...\"—reframe the novel's earlier duality. Carton's death becomes a \"better thing\" than his wasted life, a \"far, far better rest\" than his restless existence. Through Carton, Dickens argues that individual sacrifice can redeem the chaotic, cyclical violence of revolution, turning a narrative of mirrored strife into a story of resurrection and love. The doubled phrasing echoes the opening, binding the novel's structure and theme together.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation illustrates Dickens's use of doubling to characterize the revolutionary era's extreme contradictions."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (rendering Sydney Carton's thoughts)",
+      "use_in_answer": "This quotation demonstrates how sacrifice transforms the motif of doubling into a redemptive act, echoing the novel's opening."
+    }
+  ],
+  "limits": "Quotations are from the standard novel text; chapter divisions follow the original serialized structure. The first quotation is truncated with ellipsis for brevity in the lesson."
+}

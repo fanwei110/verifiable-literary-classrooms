@@ -1,0 +1,14 @@
+{
+  "answer": "A perfect example of marriage market irony in *Pride and Prejudice* comes from the novel’s famous opening lines. The narrator satirically exposes how society assumes wealthy single men must be searching for wives, when in reality, it is the families with daughters who are eagerly pursuing them. This sets up the novel’s critique of economic and social pressures in marriage.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote highlights the ironic societal assumption that drives the marriage market, where families project their own desires onto wealthy bachelors."
+    }
+  ],
+  "limits": "The frozen excerpt only includes Chapter I’s opening lines, so the quotation is exact but limited to this passage."
+}

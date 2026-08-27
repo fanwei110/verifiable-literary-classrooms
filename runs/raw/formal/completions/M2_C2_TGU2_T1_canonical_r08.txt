@@ -1,0 +1,14 @@
+{
+  "answer": "In Macbeth, the dagger soliloquy captures the intersection of ambition and hallucination: Macbeth’s overwhelming desire to seize the throne manifests as a floating dagger that only he can see, revealing how his guilty mind conjures visions that urge him toward murder.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation demonstrates how Macbeth’s ambition fuels a hallucination—a dagger that is both a product of his desire for power and a projection of his inner turmoil."
+    }
+  ],
+  "limits": "Line numbers follow the Folger Shakespeare Library edition; lineation may vary in other editions."
+}

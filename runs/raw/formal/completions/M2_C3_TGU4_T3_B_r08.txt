@@ -1,0 +1,18 @@
+{
+  "answer": "Let’s examine how Dickens intertwines revolution, sacrifice, and doubling right from the novel’s opening. The famous first sentence immediately establishes a world of diametric opposites: “It was the best of times, it was the worst of times.” This doubling is not mere stylistic flourish; it encodes the violent contradictions of an age on the brink of revolution, where every extreme contains its opposite. The repeated pattern of parallel clauses—wisdom/foolishness, hope/despair, Heaven/the other way—mirrors the structural theme of duality that will define characters and events. Just as the era is fractured, so are individuals: Charles Darnay and Sydney Carton double each other physically, yet Carton’s apparent worthlessness hides a capacity for profound sacrifice. The novel’s very first book title, “Recalled to Life,” crystallizes the link between sacrifice and resurrection. The phrase, which will echo through Dr. Manette’s release and Carton’s ultimate choice, reframes sacrifice not as loss but as a passage to redemption. In the storm of revolution, Carton’s final act transforms the grim doubling of the guillotine into a personal victory—dying to give another life. Dickens thus uses doubling to question identity and to show that in a world of irreconcilable opposites, the deepest sacrifice can produce a new life.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Establishes the theme of doubling and the contradictory nature of the revolutionary period."
+    },
+    {
+      "quote": "Recalled to Life",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First title",
+      "speaker_or_narrator": "narrator (title)",
+      "use_in_answer": "Foreshadows the central motif of resurrection through sacrifice, linking personal redemption to the upheaval of

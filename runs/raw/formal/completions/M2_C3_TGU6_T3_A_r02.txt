@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming is not just a physical journey but the restoration of identity. Odysseus is defined by his longing to return, as the opening emphasizes: though all other survivors had reached home, he alone remained trapped, “[for] he, though he was longing to return to his wife and country, was detained by the goddess Calypso” (Book I). This desire for his household and his role as husband and king is the core of his identity; to be held apart from Ithaca is to be incomplete. Yet homecoming also depends on a civilized world that practices hospitality. When Odysseus, naked and shipwrecked, encounters Nausicaa, he does not only ask for clothing and directions—he offers a vision of the ideal home: “for there is nothing better in this world than that man and wife should be of one mind in a house” (Book VI). This statement reveals that true homecoming is more than arriving; it is about renewing a harmonious partnership. Nausicaa’s generous response models the hospitality without which a stranger could never hope to reclaim his identity. Thus the epic weaves together the ache for home, the self that is defined by that home, and the sacred guest-friendship that must bridge the distance.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Shows how Odysseus's identity is rooted in his desperate desire for homecoming, illustrating homecoming as the central drive of the epic."
+    },
+    {
+      "quote": "there is nothing better in this world than that man and wife should be of one mind in a house",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "Reveals the ideal of homecoming as the restoration of marital harmony, spoken during an act of supplication that tests hospitality."
+    }
+  ],
+  "limits": "Quotations are from the Samuel Butler translation. The second quotation is Odysseus speaking to Nausicaa."
+}

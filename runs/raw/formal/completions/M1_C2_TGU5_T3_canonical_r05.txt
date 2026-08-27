@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s manipulation of Eve in Book IX demonstrates how temptation preys on desire and curiosity, as he flatters her into questioning God’s command. Eve’s fall, however, is not merely the result of external influence but a deliberate exercise of free will—she chooses to eat the forbidden fruit despite knowing the consequences. This moment underscores Milton’s belief that true virtue requires the freedom to choose, even if that choice leads to ruin. Similarly, Satan’s rebellion in Heaven is framed as an act of pride, where he rejects divine authority to assert his own autonomy. Yet, his defiance is ultimately self-destructive, revealing the futility of rebellion against an omnipotent God. Through these narratives, Milton argues that free will is both a gift and a burden, shaping human and angelic destiny alike.",
+
+  "evidence": [
+    {
+      "quote": "He for God only, she for God in him: / So spake the enemy of mankind, enclosed / In serpent, inmate bad, and toward Eve / Addressed his way.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 114-117",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates Satan’s cunning manipulation of Eve, framing temptation as a distortion of divine hierarchy to exploit her curiosity and pride."
+    },
+    {
+      "quote": "Forth reaching to the fruit, she plucked, she ate: / Earth felt the wound, and Nature from her seat / Sighing through all her works gave signs of woe, / That all was lost.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 781-784",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This passage highlights Eve’s decisive act of free will, emphasizing the irreversible consequences of her rebellion against God’s command."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

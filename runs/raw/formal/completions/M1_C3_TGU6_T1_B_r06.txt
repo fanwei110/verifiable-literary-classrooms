@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "Here’s a foundational passage from *The Odyssey* that directly ties wandering to the power of story. The opening lines of the epic frame Odysseus’s journey not just as physical displacement but as a narrative that demands telling—his trials, the cities he visits, and the customs he learns all become part of a story the Muse is called upon to recount. This suggests that wandering is inseparable from the act of storytelling itself, as the hero’s movement through the world generates the very material of myth.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home... Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 1-10",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This passage establishes wandering as the catalyst for story: Odysseus’s travels and hardships are the subject of the epic, and the Muse is invoked to recount them, linking physical displacement to narrative creation."
+    }
+  ],
+  "limits": "The quoted lines are from the 1921 translation by Samuel Butler, as referenced in the provided source window. While the core meaning is consistent across translations, minor variations in phrasing may exist in other editions."
+}
+```

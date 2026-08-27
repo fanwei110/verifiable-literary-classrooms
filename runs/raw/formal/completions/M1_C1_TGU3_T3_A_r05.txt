@@ -1,0 +1,24 @@
+{
+  "answer": "In *Pride and Prejudice*, Jane Austen explores how first impressions, class, and marriage intersect to shape social dynamics. The novel critiques the superficial judgments that characters make—like Elizabeth Bennet’s initial disdain for Mr. Darcy—only to reveal deeper complexities. Class plays a pivotal role, as marriage often serves as a tool for social mobility or security, particularly for women like Charlotte Lucas, who prioritizes practicality over love. Austen exposes the tension between personal desire and societal expectations, showing how first impressions can blind characters to true character. For instance, Darcy’s pride and Elizabeth’s prejudice stem from snap judgments, while Lady Catherine’s arrogance underscores the rigid class hierarchies that dictate marital prospects. Through these themes, Austen questions whether love or social advantage should govern marriage, ultimately advocating for integrity over superficiality.",
+
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote highlights the societal obsession with marriage as a means of securing financial stability, setting the stage for the novel’s exploration of class and matrimony."
+    },
+    {
+      "quote": "He is a gentleman; I am a gentleman’s daughter; so far we are equal.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This line underscores Elizabeth’s defiance of class-based assumptions, challenging the idea that social rank alone determines worth or compatibility in marriage."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in other editions."
+}

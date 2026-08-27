@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is not merely indecision but a profound existential crisis, as seen in his famous soliloquy: 'To be, or not to be, that is the question.' Here, he grapples with the fear of the unknown after death—'the undiscover’d country'—which paralyzes him into inaction. Mortality looms large, not just as a personal dilemma but as a force that haunts the play, from the Ghost’s torment ('My hour is almost come, / When I to sulph’rous and tormenting flames / Must render up myself') to Hamlet’s fixation on the finality of death. Performance, too, is a survival strategy; characters like Claudius and Polonius 'sugar o’er / The devil himself' with false piety, while Hamlet feigns madness to navigate a corrupt court. Yet even his performances—whether in soliloquy or staged play—reveal his struggle to reconcile thought with action. These themes intertwine, showing how hesitation stems from mortality’s weight and the masks people wear to evade truth.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation as an existential dilemma, where fear of death and the unknown prevents decisive action."
+    },
+    {
+      "quote": "’Tis too much prov’d, that with devotion’s visage / And pious action we do sugar o’er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "This line highlights the theme of performance, showing how characters mask their true intentions with false virtue, a tactic Hamlet both critiques and adopts."
+    }
+  ],
+  "limits": "The second evidence quote is spoken by Polonius, not Hamlet, but it reflects the play’s broader commentary on performance, which Hamlet engages with directly. The Ghost’s lines about mortality are cut off in the excerpt, so the full context of his torment is not included."
+}

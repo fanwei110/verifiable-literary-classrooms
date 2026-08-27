@@ -1,0 +1,22 @@
+{
+  "answer": "Great request for proof. Let’s look at how Homer intertwines homecoming, identity, and hospitality. Odysseus’s journey home is not just a physical return but a test of who he is and how he is received. Identity becomes a survival strategy. In the cave of the Cyclops, Odysseus cunningly claims, “Nobody — that’s my name. Nobody — so my mother and father call me, all my friends.” By erasing himself, he escapes death and sets up his escape, showing that homecoming requires strategic self-concealment. Yet homecoming also depends on the hospitality of others. When Odysseus, disguised as a wretched beggar, arrives at the swineherd Eumaeus’s hut, Eumaeus welcomes him, declaring, “All strangers and beggars come from Zeus.” This sacred duty of xenia protects the unknown guest and allows the disguised king a foothold back into his own household. Together these moments reveal that nostos (return) is only possible when identity can shift between revelation and concealment, and when strangers honor the divine obligation to welcome the lost. Hospitality provides the bridge that turns a nameless nobody into a recognized king at home.",
+  "evidence": [
+    {
+      "quote": "Nobody — that's my name. Nobody — so my mother and father call me, all my friends.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366-367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote shows Odysseus manipulating identity as a tool for survival, a key challenge during his homecoming journey."
+    },
+    {
+      "quote": "All strangers and beggars come from Zeus.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 66",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote establishes hospitality as a sacred bond that enables the disguised Odysseus to begin reclaiming his home."
+    }
+  ],
+  "limits": "Quotations are from the Robert Fagles translation; line numbers approximate. Original Greek word for 'strangers' is ξεῖνοί (xenoi), linking to xenia."
+}

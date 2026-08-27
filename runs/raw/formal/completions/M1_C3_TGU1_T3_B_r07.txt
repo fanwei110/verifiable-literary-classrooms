@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "Today, let’s explore how *Hamlet* grapples with hesitation, mortality, and performance—three forces that shape Hamlet’s inaction and self-awareness. Hesitation isn’t just delay; it’s a crisis of meaning. In his famous soliloquy, Hamlet asks, 'To be, or not to be, that is the question,' framing existence itself as a choice between enduring suffering or ending it through death. The 'rub'—the fear of what dreams may come in death—paralyzes him, revealing how mortality amplifies hesitation. This isn’t just philosophical; it’s performative. Hamlet’s soliloquies are private rehearsals for action, yet they also expose his self-consciousness about playing a role. Later, when the Ghost beckons, Hamlet’s defiance—'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve'—shows him overcompensating for his earlier hesitation by embracing a performative bravado. Yet even here, his words feel like a scripted role, not genuine resolve. These moments suggest that hesitation and performance are intertwined: Hamlet’s fear of mortality makes him hesitate, and his hesitation forces him to perform certainty he doesn’t feel. The text invites us to ask: Is Hamlet’s inaction cowardice, or is it the only honest response to a world where action feels like a lie?",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? To die—to sleep, / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep— / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation rooted in fear of mortality, as the 'rub'—the uncertainty of death—paralyzes him into inaction."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This line demonstrates Hamlet’s performative bravado, masking his hesitation with exaggerated defiance as he follows the Ghost."
+    }
+  ],
+
+  "limits": "Quotations are from the First Folio (1623) and may vary slightly in modern editions. The analysis focuses on Hamlet’s internal conflict rather than external plot events."
+}
+```

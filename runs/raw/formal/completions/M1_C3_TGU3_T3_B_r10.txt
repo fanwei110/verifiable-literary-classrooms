@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Pride and Prejudice*, Austen critiques how first impressions, class, and marriage intersect to shape societal expectations and personal judgments. The novel opens with a satirical observation about marriage as a transaction: 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.' This line exposes the mercenary assumptions of the Bennet family and their neighbors, who immediately assume Mr. Bingley’s arrival is an opportunity for their daughters. First impressions here are not just personal but systemic—class dictates who is deemed 'worthy' of marriage, and characters like Mrs. Bennet rush to judgment based on wealth rather than character. Later, Elizabeth’s self-reckoning reveals how her own prejudices mirror this societal flaw: 'How despicably have I acted! ... I, who have prided myself on my discernment!' Her admission underscores how first impressions—whether about Darcy’s pride or Wickham’s charm—are often rooted in vanity or class bias. Austen thus links personal growth to the dismantling of these superficial judgments, showing that true compatibility requires seeing beyond initial impressions and societal hierarchies.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates the novel’s critique of marriage as a class-driven transaction, framing the Bennet family’s motivations and the neighborhood’s assumptions about Bingley."
+    },
+    {
+      "quote": "How despicably have I acted! ... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI (Elizabeth’s reflection after reading Darcy’s letter)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote highlights Elizabeth’s realization that her first impressions were clouded by prejudice and vanity, tying her personal growth to the novel’s broader themes of class and judgment."
+    }
+  ],
+  "limits": "The locator for the second quote is approximate, as the exact chapter may vary by edition. The frozen source excerpts provided do not include the full text of Chapter XXXVI, so the chapter reference is based on standard editions of *Pride and Prejudice*."
+}
+```

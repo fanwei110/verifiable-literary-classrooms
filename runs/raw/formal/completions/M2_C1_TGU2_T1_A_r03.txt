@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 2, Scene 1, Macbeth’s ambition to become king triggers a hallucination of a floating dagger that leads him toward Duncan’s chamber. The dagger is not real, yet its vivid appearance shows how his guilt and overwhelming desire blur the line between reality and illusion. This moment captures the dangerous interplay of ambition and hallucination: his mind creates a vision that both reflects and propels his murderous intent.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–35",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation demonstrates how Macbeth’s ambition to seize the throne directly produces a tangible hallucination, as he sees a dagger urging him to murder Duncan even though it cannot be grasped."
+    }
+  ],
+  "limits": "Line numbers may vary slightly depending on the edition; this follows the Folger Shakespeare Library lineation."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Homer’s *Odyssey*, the hero’s journey becomes a profound meditation on homecoming (*nostos*), identity, and the sacred bond of hospitality (*xenia*). From the very opening, the epic defines Odysseus by his desperate longing for home: the narrator tells us that “he was longing to return to his wife and country” (Book I). This desire is not merely geographic; it is the core of his identity. Without Ithaca and Penelope, Odysseus is adrift, his heroic self incomplete. The poem thus frames homecoming as the restoration of self. The theme of hospitality is essential to making that homecoming possible. When the shipwrecked Odysseus begs Nausicaa for aid, she exemplifies the Greek code of welcoming strangers, promising, “you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for” (Book VI). Her generosity grants him safe passage and a return to civilization. In a world without inns, hospitality was the lifeline that allowed travelers to survive. Crucially, Odysseus’s own appeal praises the ideal of a harmonious home, linking the kindness of strangers to the ultimate goal of a peaceful domestic life. Thus, hospitality in *The Odyssey* is not just a custom—it is the very mechanism by which the lost hero reclaims his identity and finally achieves his homecoming.",
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation establishes that Odysseus’s deepest desire is to reunite with his family and homeland, showing how homecoming is central to his identity."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "Nausicaa’s promise illustrates the Phaeacians’ ideal practice of hospitality, which provides the stranded hero with the material and social support necessary to continue his journey home."
+    }
+  ],
+  "limits": "The excerpts are from the Samuel Butler translation, supplied without line numbers. The first quotation is drawn from the invocation of the Muse in the opening scene, and the second from Odysseus’s supplication of Nausicaa among the Phaeacians."
+}

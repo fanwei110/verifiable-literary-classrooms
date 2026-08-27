@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the tragic downfall of the protagonist. Macbeth’s unchecked ambition is ignited by the witches’ prophecy that he will become king, setting him on a path of violence and moral decay. When he learns the prophecy, his desire for power overcomes his conscience, leading him to murder King Duncan in a bid to fulfill fate. Yet, the consequences of his actions quickly surface in the form of crushing guilt. After the murder, Macbeth laments, 'Will all great Neptune’s ocean wash this blood / Clean from my hand?' (Act 2, Scene 2), revealing his deep psychological torment. The image of blood that cannot be washed away symbolizes the permanence of his guilt. Similarly, Lady Macbeth, who initially urges her husband toward ambition, later succumbs to guilt in her sleepwalking scene. While she once commanded, 'Out, damned spot! Out, I say!' (Act 5, Scene 1), her futile attempts to wipe away imaginary blood demonstrate how guilt consumes both characters. Ultimately, ambition spurred by prophecy leads not to fulfillment but to psychological ruin, illustrating the destructive power of moral compromise.",
+  "evidence": [
+    {
+      "quote": "Will all great Neptune’s ocean wash this blood / Clean from my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2, lines 78–79",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth’s guilt manifests immediately after killing Duncan, illustrating the emotional toll of his ambition."
+    },
+    {
+      "quote": "Out, damned spot! Out, I say!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1, line 37",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote demonstrates Lady Macbeth’s psychological breakdown, showing how guilt undermines her earlier ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight variations may exist in other editions."
+}

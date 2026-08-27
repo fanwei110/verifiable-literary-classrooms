@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming is not a single arrival but a slow reclamation of identity, often tested through hospitality. Odysseus returns to Ithaca in disguise, revealing how identity can be hidden or disclosed for survival. When he finally declares to the Phaeacians, “I am Odysseus, son of Laertes, known to the world for every kind of craft,” he reclaims his public self, and his tale of wandering becomes the bridge between his lost past and his longed-for home. Yet the poem insists that true homecoming depends on the welcome one receives. The swineherd Eumaeus, unaware the ragged beggar is his king, offers a model of unconditional hospitality, saying, “It’s wrong, my friend, to send any stranger packing—even one who arrives in worse shape than you.” His kindness honors the guest without knowing his identity, showing that the moral order of Ithaca endures despite the suitors’ abuse. Together, these moments teach that identity is forged in the tension between concealment and revelation, and that home is only realized when hospitable bonds—between stranger and host, king and servant—are renewed.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known to the world for every kind of craft",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote shows Odysseus publicly reclaiming his identity as a crucial step toward his homecoming by linking his name to his reputation and lineage."
+    },
+    {
+      "quote": "It’s wrong, my friend, to send any stranger packing—even one who arrives in worse shape than you.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, lines 56-57",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote illustrates the ideal of unconditional hospitality that sustains Ithaca's moral core and prefigures Odysseus’s restoration to his household."
+    }
+  ],
+  "limits": "Quotations are from Robert Fagles’ translation (1996); slight wording variations exist in other editions."
+}

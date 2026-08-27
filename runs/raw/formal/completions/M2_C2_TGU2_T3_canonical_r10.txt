@@ -1,0 +1,22 @@
+{
+  "answer": "Shakespeareâs *Macbeth* traces a destructive arc where prophecy inflames ambition, which then births an overwhelming guilt. The witchesâ greeting plants a forbidden thought almost instantly: Macbeth is hailed as future king before he has consciously considered regicide. That external prediction doesnât command actionâit exposes a latent hunger. As Macbeth later admits, he possesses no genuine spur to murder except âVaulting ambition, which oâerleaps itself / And falls on thâ other.â Here ambition becomes a horse that jumps too high, collapsing on the far side of the obstacle. It is purely self-generated momentum, set in motion by the prophecy. The play quickly reveals the cost of that leap. After killing Duncan, Macbeth stares at his hands and understands that guilt cannot be washed away: âWill all great Neptuneâs ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.â The stain has moved from skin to soul, turning the entire world into a mirror of his crime. Together, these moments show how a whispered prophecy can spark vaulting ambition, and how that ambition inevitably drowns the self in guilt that no amount of water can cleanse.",
+  "evidence": [
+    {
+      "quote": "Vaulting ambition, which oâerleaps itself / And falls on thâ other.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 7",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Reveals that ambition, not external prophecy, is the sole force driving Macbeth toward murder, characterizing it as self-destructive overreach."
+    },
+    {
+      "quote": "Will all great Neptuneâs ocean wash this blood / Clean from my hand? No, this my hand will rather / The multitudinous seas incarnadine, / Making the green one red.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Demonstrates the immediate psychological guilt that follows his ambition-fueled act, showing that the crime permanently stains his conscience and the world itself."
+    }
+  ],
+  "limits": "Quotations follow the 1623 First Folio; lineation may vary in modern editions."
+}

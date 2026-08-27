@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply connected. When Odysseus lands in Phaeacia, he is a shipwrecked stranger, yet he appeals to Nausicaa for aid by honoring the sacred duty of hospitality, or xenia. He says, 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house' (Book VI). This prayer reflects not just gratitude but also Odysseus’s longing for his own home and identity as a husband and king. His words establish his nobility despite his ragged appearance, showing how identity in Homer’s world is affirmed through speech and virtue. Nausicaa responds with generosity, recognizing the gods’ role in human fate, and says, 'There is no accounting for luck; Jove gives prosperity to rich and poor just as he chooses' (Book VI). Her reply affirms the cultural expectation that guests must be treated with respect, no matter their status. Hospitality thus becomes a bridge between strangers and a way of restoring identity. In a world where home is distant and identity can be lost, both hosts and guests uphold cosmic order through kindness. These exchanges show how homecoming begins not just with geography, but with moral recognition.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports Odysseus’s vision of a stable home as the highest human good, tying identity and homecoming to marital unity and domestic harmony."
+    },
+    {
+      "quote": "There is no accounting for luck; Jove gives prosperity to rich and poor just as he chooses, so you must take what he has seen fit to send you, and make the best of it.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote supports the theme of divine will and hospitality, showing how the Phaeacians view strangers’ suffering as part of a larger cosmic order requiring compassion."
+    }
+  ],
+  "limits": "The quoted passages are based on the public domain Samuel Butler translation of The Odyssey; minor wording variations may exist across editions."
+}

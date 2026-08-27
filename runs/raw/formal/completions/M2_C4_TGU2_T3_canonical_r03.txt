@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's Macbeth, ambition, prophecy, and guilt entwine to destroy the protagonist. The Weird Sisters' cryptic declaration, \"Fair is foul, and foul is fair\" (1.1), establishes a world where moral distinctions collapse; prophecy becomes a destabilizing force that plants ambition in Macbeth's mind. This inversion of values primes him to interpret the witches' predictions as permission for murder. As his lust for power intensifies, guilt manifests as hallucination. Before killing Duncan, Macbeth sees a floating dagger: \"Is this a dagger which I see before me, / The handle toward my hand? ... It is the bloody business which informs / Thus to mine eyes\" (2.1). The vision reveals how ambition has fevered his brain, yet he recognizes that the \"bloody business\" of his planned murder shapes his perception. Here, guilt is not a moral restraint but a psychological consequence of ambition already committed to action. Thus, prophecy ignites ambition, and ambition breeds guilt that haunts Macbeth even before the crime, illustrating the play's tragic cycle where unchecked desire leads to self-destruction.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair: Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "The Three Witches",
+      "use_in_answer": "This quotation establishes the theme that prophecy blurs moral boundaries, creating an ambiguous atmosphere that fuels Macbeth's ambition."
+    },
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? ... It is the bloody business which informs Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation demonstrates how guilt manifests as a hallucinatory dagger, revealing the psychological torment that ambition and impending murder create."
+    }
+  ],
+  "limits": "Quotations are taken from the provided excerpts only; line numbers are not included in the excerpts, so locators refer to act and scene."
+}

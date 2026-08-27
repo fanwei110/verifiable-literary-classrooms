@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s temptation of Eve in Book IX reveals how external influence exploits human curiosity and desire, framing rebellion as a seductive but destructive choice. Satan’s cunning rhetoric—'Ye shall be as gods, / Knowing good and evil' (IX.708-709)—preys on Eve’s ambition, presenting disobedience as a path to empowerment. This moment underscores the tension between free will and manipulation, as Eve’s decision to eat the fruit is both a personal transgression and a response to deception. Later, Adam’s deliberate choice to join her—'If death / Consort with thee, death is to me as life' (IX.953-954)—highlights the gravity of free will: rebellion is not merely an act of defiance but a conscious rejection of divine order. Milton suggests that true freedom lies in obedience to God, while rebellion, though tempting, leads to ruin. Through these episodes, he invites readers to reflect on the boundaries of human agency and the moral weight of choice.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as gods, / Knowing good and evil",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative appeal to Eve’s desire for knowledge and power, framing temptation as a false promise of divinity."
+    },
+    {
+      "quote": "If death / Consort with thee, death is to me as life",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 953-954",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This line illustrates Adam’s conscious exercise of free will, choosing solidarity with Eve over obedience to God, despite knowing the consequences."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

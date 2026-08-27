@@ -1,0 +1,22 @@
+{
+  "answer": "In Charles Dickens’s *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes that shape the moral and political landscape. The French Revolution serves as a backdrop to explore how personal and national transformations demand great cost. Dr. Manette’s release from the Bastille illustrates how revolution uproots lives, while Sydney Carton’s ultimate sacrifice reveals the redemptive power of selflessness. Carton, long seen as a wasted double of Charles Darnay, embraces his role as a mirror to achieve meaning—giving his life so Darnay and Lucie may live. This act transforms Carton from a disillusioned lawyer into a figure of Christ-like sacrifice. The novel’s structure of doubling—London and Paris, Darnay and Carton, freedom and imprisonment—emphasizes that opposing forces are often two sides of the same reality. Carton’s death is not merely an end but a rebirth symbolized by his famous final thoughts: 'It is a far, far better thing that I do, than I have ever done.' His sacrifice brings peace not just to others but to himself. Through these intertwined themes, Dickens warns of revolution’s violence but affirms that even broken individuals can choose grace.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (reporting Carton's thoughts)",
+      "use_in_answer": "This quote supports Carton's redemptive sacrifice, showing his peace and personal transformation through selfless action."
+    },
+    {
+      "quote": "I see the lives for which I lay down my life, peaceful, useful, prosperous and happy.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (Carton's vision)",
+      "use_in_answer": "This quote illustrates Carton’s vision of the future he secures through sacrifice, emphasizing the lasting impact of his act on others."
+    }
+  ],
+  "limits": "Quotations are from the standard Dover edition; slight variations may occur in other editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "Today we’ll explore how *A Tale of Two Cities* ties revolution, sacrifice, and doubling into a single moral vision. The novel presents revolution as a force that mirrors the oppression it seeks to overthrow—violence begets violence, and the cycle threatens to consume everyone. Dickens warns that sacrifice, while noble, can become twisted when driven by vengeance rather than justice. Sydney Carton’s famous final act embodies this tension: his self-sacrifice redeems the past, but the revolutionaries’ sacrifices often fuel further bloodshed. Doubling reinforces these themes. Characters like Carton and Darnay, or Madame Defarge and Lucie, reflect opposing choices—one path leads to destruction, the other to redemption. The novel asks: Can revolution break the cycle, or does it simply invert it? Dickens suggests that true change requires personal sacrifice, not just collective rage. As we’ll see, the novel’s doubles force us to confront whether revolution can ever escape its own shadows.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton (narrated indirectly)",
+      "use_in_answer": "This quote illustrates how sacrifice can transcend personal failure, offering a counterpoint to the revolution’s destructive sacrifices."
+    },
+    {
+      "quote": "Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This line underscores the novel’s warning that revolution risks repeating the cruelty it opposes, reinforcing the theme of cyclical violence."
+    }
+  ],
+  "limits": "Quotations are from the 1859 first edition; chapter numbering may vary slightly in other editions."
+}

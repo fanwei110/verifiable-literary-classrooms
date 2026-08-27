@@ -1,0 +1,14 @@
+{
+  "answer": "A key moment in Charles Dickens' *A Tale of Two Cities* that illustrates historical contradiction is when the narrator describes the paradoxical nature of the era leading up to the French Revolution—simultaneously marked by hope and despair, enlightenment and ignorance. This contradiction captures the dual forces driving historical change, where progress and violence coexist.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by juxtaposing opposing conditions in the same era, illustrating how progress and suffering coexist during transformative periods like the French Revolution."
+    }
+  ],
+  "limits": "The quotation is from the standard public domain text of *A Tale of Two Cities*; variations in punctuation or formatting may exist across editions, but the content remains consistent."
+}

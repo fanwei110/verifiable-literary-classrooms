@@ -1,0 +1,14 @@
+{
+  "answer": "The most famous ironic statement about the marriage market in Pride and Prejudice is the novel’s opening line. It sounds like a grand universal truth, but actually satirizes the reality that it is not wealthy bachelors who are actively seeking wives, but rather the surrounding families who view them as prey for their daughters.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote explicitly states the supposed ‘truth’ that drives the novel’s marriage market, highlighting the irony that the real want is on the side of the families with unmarried daughters."
+    }
+  ],
+  "limits": "Text from the opening sentence of the novel; universally recognized."
+}

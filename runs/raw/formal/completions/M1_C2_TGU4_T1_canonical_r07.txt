@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous lines from *A Tale of Two Cities* captures the deep contradictions of the French Revolution—its promise of liberty alongside its violent excesses. Dickens shows how history itself can be a paradox: noble ideals and brutal realities existing side by side. Here’s the passage that illustrates this tension:",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores the historical contradiction of the Revolution by juxtaposing opposing forces—hope and despair, progress and destruction—within the same moment."
+    }
+  ],
+  "limits": "The locator refers to the opening chapter of the novel, often cited as Chapter 1 in most editions. Some versions may vary slightly in chapter numbering."
+}

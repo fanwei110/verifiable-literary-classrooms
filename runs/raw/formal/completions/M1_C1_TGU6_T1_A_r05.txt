@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the deep connection between wandering and storytelling when Odysseus himself reflects on the power of his own journey. His words remind us that the act of wandering—whether physical or metaphorical—generates the raw material for stories, and those stories, in turn, give meaning to the wanderer’s trials. This idea is central to understanding how epic poetry transforms personal struggle into shared narrative.",
+  "evidence": [
+    {
+      "quote": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-10 (opening invocation)",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This passage establishes the link between Odysseus’s wandering and the story itself, showing how his journey—marked by suffering, curiosity, and loss—becomes the foundation of the epic narrative."
+    }
+  ],
+  "limits": "The translation used here is the 19th-century prose version by Samuel Butler, which may differ slightly in phrasing from other editions. The invocation’s emphasis on the Muse’s role also highlights the collaborative nature of storytelling in ancient Greek tradition."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Hamlet*, Shakespeare explores hesitation, mortality, and performance as central themes that shape the protagonist’s tragic journey. Hamlet’s hesitation is most famously articulated in his 'To be, or not to be' soliloquy, where he grapples with the fear of the unknown after death: 'For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.' Here, Hamlet’s fear of the afterlife paralyzes him, making him question whether enduring life’s suffering is nobler than risking an uncertain death. This hesitation is not merely philosophical but deeply personal, as it delays his revenge and prolongs his torment. Mortality looms large in the play, particularly in Hamlet’s encounter with the Ghost, who reveals the horrors of purgatory: 'I am thy father’s spirit, / Doom’d for a certain term to walk the night, / And for the day confin’d to fast in fires.' The Ghost’s suffering underscores the weight of mortality and the urgency of Hamlet’s mission, yet his hesitation persists, suggesting a conflict between duty and existential dread. Performance, too, plays a role in Hamlet’s inaction. Polonius’s advice to Ophelia—'with devotion’s visage / And pious action we do sugar o’er / The devil himself'—highlights the deceptive facades characters adopt, including Hamlet’s 'antic disposition.' His hesitation is thus intertwined with the performative nature of his world, where truth is obscured by artifice. Together, these themes reveal Hamlet’s tragic flaw: his intellect and introspection, while profound, render him incapable of decisive action, trapping him in a cycle of doubt and delay.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s hesitation and fear of the unknown after death, which paralyzes him from taking action."
+    },
+    {
+      "quote": "I am thy father’s spirit, / Doom’d for a certain term to walk the night, / And for the day confin’d to fast in fires.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Ghost",
+      "use_in_answer": "This quote underscores the theme of mortality and the urgency of Hamlet’s revenge, as the Ghost’s suffering in purgatory highlights the consequences of inaction."
+    }
+  ],
+  "limits": "The second evidence record is truncated in the provided excerpt; the full Ghost speech continues beyond the given text. The first evidence record is complete."
+}

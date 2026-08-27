@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "The line 'I dearly love a laugh' is spoken by Elizabeth Bennet in Jane Austen's *Pride and Prejudice*. This exchange occurs during a lively debate with Miss Bingley and Mr. Darcy about the merits of teasing and laughter, where Elizabeth defends her appreciation for humor while distinguishing it from ridicule of what is wise or good.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11 (Volume I, Chapter 11)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote directly identifies the speaker and the line in question, confirming Elizabeth Bennet's playful yet principled stance on laughter."
+    },
+    {
+      "quote": "Follies and nonsense, whims and inconsistencies, _do_ divert me, I own, and I laugh at them whenever I can. But these, I suppose, are precisely what you are without.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11 (Volume I, Chapter 11)",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This follow-up line provides context for Elizabeth's earlier statement, clarifying her distinction between harmless amusement and mockery of genuine virtue."
+    }
+  ],
+  "limits": "The exact chapter numbering may vary slightly depending on the edition (e.g., some editions split the novel into three volumes, while others use continuous chapter numbers). The context here refers to the standard Volume I, Chapter 11."
+}
+```

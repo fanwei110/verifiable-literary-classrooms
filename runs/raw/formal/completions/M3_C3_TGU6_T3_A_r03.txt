@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s journey home is not only a physical return but also a quest to reclaim his identity after years of displacement. His encounters highlight the cultural imperative of hospitality, or xenia, where hosts honor strangers despite uncertainty. When shipwrecked on Phaeacia, Odysseus appeals to Nausicaa with humility, saying, 'Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in'—a plea that reveals his vulnerability and respect for local customs. This moment underscores how hospitality restores dignity to the displaced. King Alcinous later upholds this ideal, offering aid without demanding identity. But Odysseus also guards his name, revealing it only at strategic moments, showing how identity is both protected and revealed through trust. His eventual return to Ithaca culminates in a homecoming where reclaiming his household requires proving who he truly is—both to others and himself. Through trials and reception, the epic presents home not just as a place, but as a restoration of self through loyal relationships and proper hospitality.",
+  "evidence": [
+    {
+      "quote": "Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports how Odysseus, despite being a king, humbly requests hospitality, showing the importance of xenia in restoring dignity to the displaced."
+    },
+    {
+      "quote": "there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote illustrates the ideal of marital unity and stable household identity that Odysseus seeks to restore upon his homecoming."
+    }
+  ],
+  "limits": "The quoted excerpts are from a prose translation of The Odyssey, which may differ slightly in wording from other versions; speaker attribution and context rely on standard classical scholarship."
+}

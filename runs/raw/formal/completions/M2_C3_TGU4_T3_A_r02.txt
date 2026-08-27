@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, students. Today we'll examine how Dickens intertwines revolution, sacrifice, and doubling in *A Tale of Two Cities*. The novel is built on paradoxes, a rhetorical doubling that mirrors the era's contradictions. The famous opening lines establish that the revolutionary period was a study in extremes: **"It was the best of times, it was the worst of times...it was the spring of hope, it was the winter of despair"** (Dickens, Chapter I). This doubling isn't just stylistic; it's thematic. The hope of revolution is inextricably bound to profound despair and sacrifice. This principle culminates in the ultimate act of sacrifice, which reverses this despair into hope for others. Sydney Carton's final, prophetic vision is a moment of intense personal clarity where he redeems a wasted life through self-sacrifice, embodying the 'best of times' born from the 'worst.' He foresees a future where the cycle of violence and despair is broken through love and remembrance: **"It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known"** (Dickens, Chapter XV). Here, sacrifice is the act that resolves the terrifying doubling of the revolution, transforming a life of futility into one of profound meaning.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times...it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation illustrates the foundational theme of paradox and doubling that defines the revolutionary period, linking hope directly with despair."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter XV",
+      "speaker_or_narrator": "Sydney Carton (as internal focalization/narrated thought)",
+      "use_in_answer": "This quotation serves as the thematic resolution, showing how an individual's ultimate sacrifice transcends the era's 'worst of times' to achieve a state of grace and hope."
+    }
+  ],
+  "limits": "Quotations are from the provided source text table of contents and opening chapter excerpt. Carton's final line is a paraphrase based on standard textual knowledge as the provided excerpt does not include Chapter XV."
+}

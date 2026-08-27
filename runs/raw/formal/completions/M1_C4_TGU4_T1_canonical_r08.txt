@@ -1,0 +1,14 @@
+{
+  "answer": "In *A Tale of Two Cities*, Dickens captures the essence of historical contradiction with a famous opening passage that highlights the stark contrasts of the era. Here’s the exact quotation you can share with your class: 'It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...' This line illustrates how the same historical moment can embody opposing forces—hope and despair, progress and regression—simultaneously, reflecting the contradictions of the French Revolution and the broader human experience.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, CHAPTER I. The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote demonstrates the duality and contradictions of the historical period, showing how opposing conditions coexisted during the French Revolution."
+    }
+  ],
+  "limits": "The frozen source excerpt does not include the full chapter text, but the provided lines are sufficient to illustrate the theme of historical contradiction."
+}

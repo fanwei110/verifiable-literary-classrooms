@@ -1,0 +1,14 @@
+{
+  "answer": "In the opening invocation of The Odyssey, the narrator asks the Muse to sing of a man who “travelled far and wide” and “many cities did he visit.” This direct link between physical wandering and the telling of the tale shows that the hero’s journeys are inseparable from the story itself—the epic is literally the account of his wanderings.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home;",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "the narrator (invoking the Muse)",
+      "use_in_answer": "This quote establishes the poem’s focus on the hero’s extensive wanderings and frames the entire narrative as the telling of those wanderings."
+    }
+  ],
+  "limits": "The quotation is from Samuel Butler's 1921 English prose translation, not the original Greek hexameter."
+}

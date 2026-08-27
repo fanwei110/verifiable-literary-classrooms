@@ -1,0 +1,14 @@
+{
+  "answer": "In class today, one key passage that helps explain both the theme of wandering and the nature of storytelling in The Odyssey comes from the very beginning of the epic. The narrator invokes the Muse to tell the story of a man 'who travelled far and wide after he had sacked the famous town of Troy.' This establishes not only Odysseus’s physical journey but also frames the entire poem as a story passed down through divine inspiration—linking movement across space with the transmission of narrative through time.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, line 1",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This quote introduces Odysseus’s wanderings as central to the story and establishes the epic’s reliance on divine inspiration for storytelling."
+    }
+  ],
+  "limits": "The quotation is from the Samuel Butler translation (1900); wording may vary in other translations, though the content and location remain consistent."
+}

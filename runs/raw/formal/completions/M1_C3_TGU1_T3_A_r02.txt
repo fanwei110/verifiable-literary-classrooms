@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *Hamlet*, Shakespeare explores the themes of hesitation, mortality, and performance through the protagonist’s internal struggles and external actions. Hamlet’s hesitation is not merely indecision but a profound existential crisis, as seen in his famous soliloquy: 'To be, or not to be, that is the question.' Here, Hamlet grapples with the fear of the unknown after death—'the undiscover’d country from whose bourn / No traveller returns'—which paralyzes him into inaction. Mortality looms large, not just as a personal fear but as a force that exposes the fragility of human existence and the weight of revenge. Performance, too, becomes a tool for survival and deception; Hamlet feigns madness to navigate a corrupt court, while others, like Claudius, perform piety to mask guilt. Even the Ghost’s revelation—'The serpent that did sting thy father’s life / Now wears his crown'—forces Hamlet into a role he is reluctant to play: the avenger. His hesitation, then, is a collision of moral doubt, fear of mortality, and the performative demands of duty, making *Hamlet* a meditation on the human condition itself.",
+
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether ’tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates Hamlet’s existential hesitation and his fear of mortality, which prevents him from taking decisive action."
+    },
+    {
+      "quote": "The serpent that did sting thy father’s life / Now wears his crown.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 5",
+      "speaker_or_narrator": "Ghost (Hamlet’s father)",
+      "use_in_answer": "This quote underscores the performative corruption of Claudius and the moral burden placed on Hamlet to avenge his father’s murder, tying hesitation to the play’s themes of duty and deception."
+    }
+  ],
+
+  "limits": "The quotes are from the First Folio and modern editions; line numbers may vary slightly depending on the version used."
+}
+```

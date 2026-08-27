@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming (nostos) is never merely a physical return; it forces Odysseus to test and reclaim his identity through a world governed by the sacred law of hospitality. A powerful lesson emerges when we pair the humble code of the swineherd with the intimate recognition scene in the royal bedchamber. Eumaeus, though unaware he shelters his own king, declares the universal obligation that sustains the hero’s journey. He welcomes the ragged stranger not because of status, but because the stranger’s need activates a divine mandate. This ethic allows Odysseus to survive long enough to step onto Ithaca’s soil. Yet once home, physical arrival means nothing without the personal proof that only he can provide. Standing before Penelope, Odysseus invokes the secret of their marriage bed—a rooted olive trunk that no one could move. The bed becomes the ultimate test of identity, for it was built by his own hands and known only to the two of them. Together, these moments teach that homecoming is earned through the hospitality of others and authenticated by the restoration of a self that no disguise, distance, or time could erase.",
+  "evidence": [
+    {
+      "quote": "Strangers and beggars all come in Zeus's name.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 14, line 58",
+      "speaker_or_narrator": "Eumaeus",
+      "use_in_answer": "This quote supports the lesson by showing that the sacred code of hospitality protects the disguised Odysseus and allows his eventual homecoming."
+    },
+    {
+      "quote": "There is our pact and pledge, our secret sign, built into that bed—my work, no other's.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 205-206",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the lesson by revealing Odysseus’s identity through the intimate knowledge of their marriage bed, symbolizing the true completion of his homecoming."
+    }
+  ],
+  "limits": "Quotations are from Robert Fagles' translation; line numbers may vary slightly across editions."
+}

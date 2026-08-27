@@ -1,0 +1,14 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the poem's opening lines directly address the theme of human fall and disobedience, explaining how Adam and Eve's consumption of the forbidden fruit brought sin and death into the world.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought Death into the World, and all our woe,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3",
+      "speaker_or_narrator": "The Narrator",
+      "use_in_answer": "This quote supports the explanation of humanity's fall through disobedience, as it explicitly names the act of 'First Disobedience' and its consequences: death and suffering."
+    }
+  ],
+  "limits": ""
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion as central themes in humanity’s fall. Satan’s defiance stems from his belief in his own autonomy, as he declares, 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.' This assertion underscores his rejection of divine authority, framing rebellion as an exercise of free will—one that prioritizes personal sovereignty over obedience. Yet, this freedom is illusory, for Satan’s choice to rebel is driven by pride and envy, not true liberation. Similarly, Adam and Eve’s temptation in Eden mirrors this dynamic: their free will is tested when they confront the forbidden fruit, a moment that reveals how rebellion arises from the desire to transcend limits, even at the cost of paradise. Milton suggests that true freedom lies not in defiance but in alignment with divine will, as disobedience leads only to suffering. The poem thus presents rebellion as a paradox—an act of free will that ultimately enslaves its agents to sin and despair.",
+  "evidence": [
+    {
+      "quote": "The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s belief in the power of free will to redefine reality, justifying his rebellion as an act of self-determination."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This line highlights Satan’s preference for rebellion over submission, framing his defiance as a deliberate choice to prioritize ambition over divine order."
+    }
+  ],
+  "limits": "The provided excerpts focus on Satan’s perspective; additional passages from Books IX and X would be needed to fully address Adam and Eve’s temptation and fall."
+}

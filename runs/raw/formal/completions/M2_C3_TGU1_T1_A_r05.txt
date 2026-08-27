@@ -1,0 +1,14 @@
+{
+  "answer": "Hamlet’s meditation on mortality reveals why we hesitate. He compares death to a sleep, but then pauses: the unknown dreams in that sleep make us “pause” and endure suffering rather than act. The very uncertainty of what lies after death is the “rub” that paralyzes us.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep.\nTo sleep, perchance to dream—ay, there’s the rub,\nFor in that sleep of death what dreams may come,\nWhen we have shuffled off this mortal coil,\nMust give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "The lines directly frame mortality as a sleep that ends heartache, yet the fear of unknown dreams after death causes hesitation—the “rub” that stops action."
+    }
+  ],
+  "limits": "Quotation taken from the provided source excerpt; act and scene inferred from standard editions."
+}

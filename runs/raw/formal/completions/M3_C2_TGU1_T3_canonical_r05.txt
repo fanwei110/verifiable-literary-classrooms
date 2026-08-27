@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare’s *Hamlet*, hesitation and mortality are deeply intertwined, shaping the protagonist’s struggle with action and performance. Hamlet’s contemplation of death emerges most powerfully in his soliloquy questioning the value of life and the unknown that follows: 'To be, or not to be: that is the question' (3.1.56). This moment captures his paralyzing uncertainty about existence, revealing how awareness of mortality disrupts decisive action. His philosophical introspection contrasts with the demands of revenge, trapping him in a cycle of delay. Further, Hamlet’s meta-theatrical concern with performance underscores this hesitation. When he devises a play to 'catch the conscience of the King,' he states, 'The play’s the thing / Wherein I’ll catch the monster free’d' (2.2.606–607). Here, performance becomes both a shield and a strategy, enabling Hamlet to defer direct confrontation while testing moral truths. This calculated use of theater reflects his deeper discomfort with the finality of death and irreversible action. Ultimately, Hamlet’s hesitation is not mere indecisiveness but a profound response to human mortality. His performances—on and off stage—serve as attempts to control meaning in a world where death renders all action ambiguous.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports how Hamlet's deep contemplation of mortality leads to hesitation in taking decisive action."
+    },
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the monster free’d",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "2.2.606–607",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how Hamlet uses performance as a means to delay direct action while seeking truth."
+    }
+  ],
+  "limits": "Quotations are based on the Folger Shakespeare Library edition of *Hamlet*."
+}

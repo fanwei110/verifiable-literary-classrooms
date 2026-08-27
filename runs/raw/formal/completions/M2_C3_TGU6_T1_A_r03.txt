@@ -1,0 +1,14 @@
+{
+  "answer": "The opening of the Odyssey immediately weaves together the themes of wandering and story. The narrator asks the Muse to sing about the man who “travelled far and wide,” visiting many cities, learning their customs, and suffering on the sea. The lines are both a summary of Odysseus's long journey and the act of storytelling itself—the Muse is called to tell the tale, framing the hero's physical wandering as the substance of the story that will follow.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer (translated by Samuel Butler)",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines (approx. 1–10)",
+      "speaker_or_narrator": "The narrator, addressing the Muse",
+      "use_in_answer": "This passage directly shows the double theme of wandering (the hero's wide travels, suffering, and delay) and story (the repeated prayer 'Tell me, O Muse' and 'Tell me, too, about all these things'), making explicit that the epic's narrative is the story of that wandering."
+    }
+  ],
+  "limits": "The quotation is from Samuel Butler's prose translation (1900). In the original Greek, these lines are Book I, lines 1–10."
+}

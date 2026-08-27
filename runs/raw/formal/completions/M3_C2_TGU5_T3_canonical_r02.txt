@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, the themes of temptation, free will, and rebellion are central to understanding humanity's fall. Satan, after rebelling against God and being cast into Hell, seeks to corrupt God's newly created beings, Adam and Eve, by exploiting their free will. Temptation is portrayed not as an overwhelming force but as a subtle manipulation of desire and reason. Eve, in particular, is tempted not only by the serpent but by her own ambition and curiosity. Her decision to eat the forbidden fruit exemplifies the exercise of free will, even when misguided. As the narrator observes, 'Nor understood / What so approved, why earnest not to taste?' (Milton 9.751–52), highlighting Eve’s internal struggle and rationalization. This moment underscores human vulnerability to deception and the consequences of independent choice. Similarly, Satan declares, 'Better to reign in Hell than serve in Heaven' (Milton 1.263), revealing his defiant pride and the root of his rebellion. This quote illustrates how free will, when divorced from obedience and humility, leads to ruin. Ultimately, Milton presents free will as a divine gift, but one that carries moral responsibility. The tragedy of Eden shows that while individuals are free to choose, they are not free from the consequences of those choices.",
+  "evection": [
+    {
+      "quote": "Nor understood / What so approved, why earnest not to taste?",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 751–752",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote supports how Eve questions divine command, illustrating her internal temptation and misuse of free will."
+    },
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s rebellious pride and his preference for autonomy over obedience, underscoring the theme of rebellion."
+    }
+  ],
+  "limits": "Page numbers may vary by edition; quotations are from the standard Merritt Y. Hughes edition."
+}

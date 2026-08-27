@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"It is a far, far better thing that I do\" is spoken by Sydney Carton in Charles Dickens's novel *A Tale of Two Cities* as he faces execution, expressing his belief that his sacrifice will bring meaning and redemption.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports that Sydney Carton speaks these words in his final thoughts, just before his execution, highlighting his personal redemption through sacrifice."
+    }
+  ],
+  "limits": "The quote appears in the standard 1859 edition of the novel; minor variations in punctuation may exist across printings."
+}

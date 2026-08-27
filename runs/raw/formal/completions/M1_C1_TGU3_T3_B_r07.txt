@@ -1,0 +1,24 @@
+{
+  "answer": "Today, let’s examine how *Pride and Prejudice* uses first impressions to explore class and marriage. Austen immediately signals that appearances deceive: Elizabeth Bennet’s sharp wit and Mr. Darcy’s pride create mutual misunderstandings, but these surface judgments also reflect deeper social tensions. Class shapes every interaction—Darcy’s initial dismissal of Elizabeth (‘She is tolerable, but not handsome enough to tempt *me*’) isn’t just personal arrogance; it’s a rejection of her lower status, revealing how marriage in Regency England was often a transaction of rank and fortune. Yet Austen complicates this. Charlotte Lucas’s pragmatic acceptance of Mr. Collins (‘I am not romantic, you know; I never was’) exposes the limited options for women without wealth. Both quotes show how first impressions—whether Darcy’s snobbery or Charlotte’s resignation—are tied to economic and social realities. Austen forces us to question: Are these characters’ choices truly free, or are they constrained by the rigid class structures of their world?",
+
+  "evidence": [
+    {
+      "quote": "She is tolerable, but not handsome enough to tempt *me*.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy (to Mr. Bingley)",
+      "use_in_answer": "This quote illustrates Darcy’s class-based prejudice and how first impressions in the novel are often rooted in social hierarchy."
+    },
+    {
+      "quote": "I am not romantic, you know; I never was.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas (to Elizabeth Bennet)",
+      "use_in_answer": "This line underscores the pragmatic, class-driven nature of marriage for women without independent means."
+    }
+  ],
+
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in modern editions."
+}

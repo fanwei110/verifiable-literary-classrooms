@@ -1,0 +1,14 @@
+{
+  "answer": "That tension between wanting to act and being paralyzed by thoughts of what comes after death is essentially the engine of the play. Hamlet’s most famous speech frames mortality as the great unknown that “puzzles the will” and makes us hesitate, leading him to conclude that thinking too precisely about our mortality stops us from doing what we intend.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscovered country from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience does make cowards of us all.",
+      "author": "William Shakespeare",
+      "work": "The Tragedy of Hamlet, Prince of Denmark",
+      "locator": "Act 3, Scene 1, lines 78–83",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly links the fear of what follows death to the hesitation or paralysis of action, explicitly stating that the dread of the afterlife ‘puzzles the will’ and makes us passive."
+    }
+  ],
+  "limits": "Text follows the Second Quarto (1604) and First Folio (1623) editorial tradition; minor modernisations in spelling and punctuation may appear across editions."
+}

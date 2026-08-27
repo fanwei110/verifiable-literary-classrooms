@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Charles Dickens explores revolution, sacrifice, and doubling as central themes during the turmoil of the French Revolution. The novel contrasts the violent chaos of revolution with the redemptive power of personal sacrifice. Doubled characters, such as Charles Darnay and Sydney Carton, mirror each other in appearance but differ in moral conviction—until Carton’s final act unites the themes. Carton, though previously disillusioned, chooses to sacrifice his life for Darnay, embodying a Christ-like redemption. This act transforms personal despair into meaningful heroism. As the narrative underscores the destructive and regenerative aspects of revolution, it also reveals that true change often demands profound personal cost. The theme of doubling extends beyond characters to the two cities—Paris and London—each reflecting different facets of justice and oppression. Ultimately, Dickens suggests that sacrifice, even amidst revolutionary violence, can lead to renewal and hope. As Carton envisions the future, he foresees a better world born from suffering, affirming that love and selflessness can outlive turmoil.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Narrator (Carton's thoughts)",
+      "use_in_answer": "This quote supports Carton’s redemptive sacrifice, showing how his death gives meaning to his previously wasted life."
+    },
+    {
+      "quote": "Liberty, equality, fraternity, or death—the last, much the easiest to bestow, O Guillotine!",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 4",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote highlights the violent extremism of the revolution, where 'death' becomes the simplest revolutionary ideal to fulfill."
+    }
+  ],
+  "limits": "Quotations are based on standard Penguin Classics edition; slight variations may exist across translations or editions."
+}

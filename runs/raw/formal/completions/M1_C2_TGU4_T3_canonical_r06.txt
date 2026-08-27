@@ -1,0 +1,24 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling as central themes that mirror the chaos and moral complexities of the French Revolution. The novel presents revolution as both a necessary force for justice and a destructive cycle of violence. Sacrifice is depicted through characters like Sydney Carton, who gives his life to save others, embodying redemption and selflessness. Doubling, a recurring motif, highlights the parallels between characters and cities—London and Paris—reflecting the duality of human nature and the interconnectedness of fate. For instance, the novel’s opening contrasts the two cities, suggesting that oppression and unrest are universal. Similarly, Carton’s final act of sacrifice mirrors the revolutionary ideal of rebirth, as his death brings life to others. These themes intertwine to show how personal and political upheaval shape history and individual destinies.",
+
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of doubling by juxtaposing opposites, reflecting the duality of the revolutionary era and the moral contradictions within society."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice, as Carton’s final words reveal his redemption and the transformative power of selfless love in the face of revolution’s brutality."
+    }
+  ],
+
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

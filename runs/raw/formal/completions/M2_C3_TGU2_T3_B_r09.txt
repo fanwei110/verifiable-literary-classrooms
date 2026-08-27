@@ -1,0 +1,22 @@
+{
+  "answer": "Let's look at how Shakespeare intertwines ambition, prophecy, and guilt. The play opens with the witches' cryptic chant, \"Fair is foul, and foul is fair.\" This prophecy doesn’t just predict the future—it fractures moral clarity. For Macbeth, ambition takes root when the “fair” promise of kingship feels attainable, yet the “foul” means to seize it (murder) begin to seem necessary. The witches don’t compel action; they plant a suggestion that ambition then twists. \n\nThat twisted perception becomes literal guilt later, when Macbeth sees a floating dagger leading him to Duncan’s chamber. He asks, \"Is this a dagger which I see before me, / … a dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?\" The hallucination isn’t a supernatural sign—it’s his guilty conscience projecting his murderous intent. The prophecy awakened his ambition, but the guilt of acting on it haunts his mind even before the deed. Together, these moments show that prophecy doesn’t create fate; it reveals character, and guilt punishes the ambitious before the world even knows their crime.",
+  "evidence": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "All Witches",
+      "use_in_answer": "Demonstrates how the prophecy introduces moral confusion that Macbeth's ambition exploits."
+    },
+    {
+      "quote": "Is this a dagger which I see before me,\nThe handle toward my hand? Come, let me clutch thee:—\nI have thee not, and yet I see thee still.\nArt thou not, fatal vision, sensible\nTo feeling as to sight? or art thou but\nA dagger of the mind, a false creation,\nProceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "Shows how guilt manifests as hallucination, directly linking his ambition to psychological torment."
+    }
+  ],
+  "limits": "Quotations taken verbatim from the provided source excerpts; line breaks in dagger quote reflect the source text."
+}

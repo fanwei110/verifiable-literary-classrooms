@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, Homer explores themes of homecoming (*nostos*), identity, and hospitality (*xenia*) as central to Odysseus’s journey. Homecoming is not merely a physical return but a restoration of identity and order. Odysseus’s longing for Ithaca—'longing to return to his wife and country' (Book I)—reveals how home defines his purpose and selfhood. Yet his identity is tested by strangers, like Nausicaa, who must discern his worth before offering aid. Hospitality, a sacred duty in Greek culture, becomes a moral barometer: the Phaeacians’ generosity contrasts with the suitors’ abuse of it, showing how *xenia* upholds or corrupts society. When Odysseus pleads, 'Show me the way to your town... May heaven grant you... a happy, peaceful home' (Book VI), he appeals to shared values, linking hospitality to the divine and the stability of home. These themes intertwine: true homecoming requires both external welcome and internal recognition of one’s role, while hospitality preserves the bonds that make identity and return possible.",
+
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote underscores Odysseus’s emotional and existential drive for homecoming, framing it as central to his identity."
+    },
+    {
+      "quote": "Show me the way to your town... May heaven grant you... a happy, peaceful home",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This plea to Nausicaa highlights the reciprocal relationship between hospitality and home, tying both to divine favor and social harmony."
+    }
+  ],
+
+  "limits": "Quotations are drawn from the provided excerpts; line numbers are approximate due to the source’s formatting."
+}
+```

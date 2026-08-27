@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's The Odyssey, wandering is not just physical movement but a path through which stories of identity, endurance, and return are forged. This is captured when Odysseus, recounting his journey, says, 'I am that unfortunate one whose home is Ithaca, whose fame goes up into the starry sky, and I am always laden with sorrow upon the wine-dark sea.' His travels become the very fabric of his story, showing how wandering shapes narrative and self.",
+  "evidence": [
+    {
+      "quote": "I am that unfortunate one whose home is Ithaca, whose fame goes up into the starry sky, and I am always laden with sorrow upon the wine-dark sea.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–22",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that Odysseus's wandering is central to his identity and the storytelling of his heroic journey."
+    }
+  ],
+  "limits": "The exact wording may vary by translation; this version is based on the Stanley Lombardo translation (1997)."
+}

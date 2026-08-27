@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet's famous soliloquy, he directly confronts the interplay of mortality and hesitation, debating whether it is better to endure life's pain or to take action and face the unknown of death.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote shows Hamlet's hesitation in the face of mortality, as he weighs passive suffering against the active pursuit of death."
+    }
+  ],
+  "limits": "Line numbers vary by edition; standard citation is Act 3, Scene 1."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, Charles Dickens explores revolution, sacrifice, and doubling to highlight the cyclical nature of violence and redemption. The French Revolution serves as a backdrop where oppression breeds rebellion, yet the revolutionaries often replicate the cruelty they once suffered. Sacrifice becomes a central theme, particularly through Sydney Carton, whose selfless act of taking Charles Darnay’s place at the guillotine embodies both personal redemption and the novel’s moral complexity. Doubling appears throughout the text—Carton and Darnay’s physical resemblance, the mirrored cities of London and Paris, and the duality of Madame Defarge’s vengeful knitting—all reinforcing the idea that history and human nature repeat themselves. Dickens warns that revolution, while justified, risks becoming its own tyranny. As the narrator observes, 'It was the best of times, it was the worst of times,' capturing the paradox of an era defined by both hope and brutality. Carton’s final words, 'It is a far, far better thing that I do, than I have ever done,' underscore how sacrifice can transcend personal failure, offering a glimmer of moral clarity amid chaos.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the idea of revolution as a paradoxical force, embodying both progress and destruction."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote illustrates the theme of sacrifice as a redemptive act that transcends personal failure."
+    }
+  ],
+  "limits": "Quotations are from the standard Penguin Classics edition; chapter numbering may vary slightly in other editions."
+}

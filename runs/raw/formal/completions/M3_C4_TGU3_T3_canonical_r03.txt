@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when intertwined with class assumptions and ideals about marriage. The novel opens with the famous irony, 'It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife,' establishing how marriage is often viewed as a transaction shaped by social status. This belief affects characters’ judgments—Elizabeth initially misjudges Darcy as傲慢 (proud) due to his reserved manner at a ball, while she is misled by Wickham’s charm, failing to see his deceit. Her realization, 'How despicably have I acted!... I, who have prided myself on my discernment!', reveals her growth as she recognizes that her vanity and class-based assumptions clouded her judgment. Darcy, too, must overcome his prejudice about Elizabeth’s family’s lower social standing. Their eventual union signifies a marriage based on mutual respect rather than class convenience, demonstrating Austen’s critique of superficial evaluations and societal pressures.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote introduces the societal obsession with marriage and class, framing how financial status shapes romantic assumptions."
+    },
+    {
+      "quote": "How despicably have I acted!” she cried. “I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s self-awareness and growth after recognizing her flawed first impressions influenced by class bias."
+    }
+  ],
+  "limits": "The source excerpts are fragmented and contain page numbers and headings, but the quoted passages are complete and verifiable within the provided text."
+}

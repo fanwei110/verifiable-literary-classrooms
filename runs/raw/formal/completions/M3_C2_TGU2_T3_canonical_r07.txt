@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the tragic downfall of the protagonist. The witches' prophecy acts as a catalyst, igniting Macbeth’s latent ambition to become king. However, once he commits regicide to fulfill the prophecy, guilt quickly erodes his psyche. Macbeth’s internal struggle is evident when he laments, “I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o'er” (Act 3, Scene 4). This reflection reveals how his initial ambition has trapped him in a cycle of violence and remorse, illustrating that the pursuit of power through immoral means leads to psychological imprisonment. The weight of his actions grows heavier, and guilt transforms ambition into despair. Lady Macbeth, too, falls victim to guilt, exposing the universal consequence of violating moral boundaries. Her sleepwalking scene underscores this: “Here’s the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand” (Act 5, Scene 1). Her futile attempt to cleanse an olfactory memory of blood symbolizes the ineradicable nature of guilt. Thus, *Macbeth* portrays ambition incited by prophecy as destructive, ultimately overtaken by guilt that neither power nor denial can erase.",
+  "evidence": [
+    {
+      "quote": "I am in blood / Stepp'd in so far that, should I wade no more, / Returning were as tedious as go o'er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth feels trapped by his violent actions, illustrating how guilt overtakes his initial ambition."
+    },
+    {
+      "quote": "Here’s the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 5, Scene 1",
+      "speaker_or_narrator": "Lady Macbeth",
+      "use_in_answer": "This quote demonstrates the inescapable guilt felt by Lady Macbeth, symbolizing the lasting moral consequences of their ambition."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight variations may exist in other editions."
+}

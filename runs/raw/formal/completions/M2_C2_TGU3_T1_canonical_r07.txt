@@ -1,0 +1,14 @@
+{
+  "answer": "The famous opening line instantly establishes the marriage market’s ironic premise: it pretends to state a natural law that rich bachelors must want wives, while the whole novel demonstrates that it is actually the families with daughters who are desperate to secure a wealthy husband. This inversion mocks the mercenary calculations and social pressures that treat marriage as a transaction.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the ironic societal expectation that wealthy men must be seeking wives, whereas in reality families with marriageable daughters actively pursue them for financial security."
+    }
+  ],
+  "limits": "Quoted from the novel’s opening sentence; no textual variations in standard editions."
+}

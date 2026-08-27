@@ -1,0 +1,14 @@
+{
+  "answer": "In discussing historical contradiction, we can turn to Charles Dickens' A Tale of Two Cities, where the narrator observes the paradox of an era defined by both extreme hope and despair. This duality captures the contradictory nature of revolutionary periods, when great promises coexist with profound violence and suffering.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "the narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by illustrating how opposing forces—progress and decline, hope and despair—can define the same historical moment."
+    }
+  ],
+  "limits": "The quote is from the standard 1859 edition of A Tale of Two Cities; variations in wording are unlikely but may exist in early printings."
+}

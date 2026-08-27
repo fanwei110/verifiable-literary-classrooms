@@ -1,0 +1,24 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores the complex interplay of temptation, free will, and rebellion to illustrate humanity’s moral agency and the consequences of defiance. Satan’s temptation of Eve in Book IX reveals how temptation exploits human curiosity and desire, framing disobedience as a path to empowerment. Satan cunningly argues that eating the forbidden fruit will grant Eve godlike knowledge, appealing to her ambition: 'Ye shall be as Gods, / Knowing good and evil.' This moment underscores the seductive nature of temptation—it distorts truth to justify rebellion. Yet Milton also emphasizes free will as God’s gift, allowing Adam and Eve to choose obedience or defiance. Their fall is not inevitable but a conscious act of rebellion, as Eve rationalizes her decision: 'Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.' Here, her choice reflects the tragic consequences of prioritizing personal desire over divine command. Through these moments, Milton suggests that rebellion stems from a misuse of free will, where temptation corrupts reason and leads to irreversible consequences.",
+
+  "evidence": [
+    {
+      "quote": "Ye shall be as Gods, / Knowing good and evil.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 708-709",
+      "speaker_or_narrator": "Satan (disguised as the serpent)",
+      "use_in_answer": "This quote demonstrates Satan’s manipulative appeal to Eve’s ambition, framing disobedience as a means to divine knowledge and power."
+    },
+    {
+      "quote": "Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book IX, lines 958-959",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This quote highlights Eve’s rationalization of her rebellion, showing how she prioritizes her bond with Adam over obedience to God, leading to their fall."
+    }
+  ],
+
+  "limits": "Quotations are from the 1674 second edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

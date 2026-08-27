@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton’s *Paradise Lost*, temptation, free will, and rebellion are central themes that define the moral framework of the poem. Satan’s fall begins not from coercion but from a deliberate act of rebellion against God, illustrating the consequences of misused free will. Milton presents Satan not as a victim, but as a conscious rebel who chooses pride over obedience, as seen when he declares, “Better to reign in Hell than serve in Heaven” (Book 1). This quote encapsulates his defiant rejection of divine authority, framing his rebellion as a perverted exercise of free will. Temptation emerges most powerfully in Satan’s manipulation of Eve in Book 9, where he distorts God’s command and appeals to her desire for knowledge and autonomy. The narrator observes, “Into her heart too easy entrance none: / Given, though to none unsafe,” highlighting Eve’s vulnerability despite having the faculty to choose rightly. This moment underscores that while temptation exists, individuals still possess the free will to resist. Milton does not excuse sin but shows how rebellion—rooted in pride and nurtured by deception—leads to humanity’s fall. Ultimately, the poem wrestles with moral responsibility: even in a world influenced by evil, free will demands accountability.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea that Satan's rebellion is a conscious, willful choice rooted in pride rather than external compulsion."
+    },
+    {
+      "quote": "Into her heart too easy entrance none: / Given, though to none unsafe",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 349–350",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the argument that Eve, though tempted, had the free will to resist, emphasizing personal responsibility in the fall."
+    }
+  ],
+  "limits": "Quotations are based on the John Milton Reading Edition (ed. Gordon Teskey); slight line variations may occur across editions."
+}

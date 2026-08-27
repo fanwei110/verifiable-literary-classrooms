@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes. Odysseus’s long journey to Ithaca is not just a physical return but a reclamation of his identity as king, husband, and father. Throughout his travels, the success or danger of his encounters often depends on whether hosts uphold the ancient Greek concept of xenia, or guest-friendship. When hospitality is honored, as with the Phaeacians, Odysseus is welcomed and aided. When it is violated, as with the Cyclops, violence ensues. His concealed identity upon return to Ithaca allows him to test loyalty and justice, culminating in his reunion with Penelope. Even she carefully proves his identity, showing how deeply personal recognition is tied to belonging. The emotional climax of Odysseus revealing himself to his father Laertes underscores the significance of homecoming as a restoration of familial bonds. Hospitality thus becomes a marker of civilization and moral order, and identity is affirmed not by name alone, but through memory, loyalty, and shared history. These elements together highlight the cultural values embedded in the epic, where returning home is as much about rediscovering who you are as it is about arriving at a place.",
+  "evidence": [
+    {
+      "quote": "Stranger, you are no fool, nor unversed in worldly ways. Always there go about the world some men who look most like the death-head beggars, who wander in many places, receiving alms, yet are no more than shameless, greedy beggars. But others are of noble kind, who wander forlorn because of some grievous misfortune. No one must slight such as you—each stranger and beggar comes from Zeus, and whatever is given the poor is given to him.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 17, lines 480-485",
+      "speaker_or_narrator": "Eumaeus the swineherd",
+      "use_in_answer": "This quote supports how hospitality reflects moral character and divine expectation."
+    },
+    {
+      "quote": "Now at last the dear day of my returning has come. I come back to my home, though I have suffered much, and after twenty years I look once more upon my own country.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23, lines 1-5",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote highlights the emotional and identity-affirming significance of homecoming."
+    }
+  ],
+  "limits": "Translation variations may alter wording; references based on standard Richmond Lattimore translation."
+}

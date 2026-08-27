@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are closely linked. When Odysseus washes ashore on Phaeacia, he is a stranger in distress, yet he immediately appeals for hospitality by highlighting shared human values. He says, 'Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in,' demonstrating the vulnerability of a displaced hero seeking recognition and aid. This moment underscores how hospitality becomes a pathway to reclaiming identity. The Phaeacians, known for their seafaring grace, respond with generosity, reflecting their civilized values. Nausicaa assures him, 'you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for,' confirming that true hospitality includes restoring dignity. In this exchange, homecoming begins not with reaching Ithaca, but with being seen and welcomed as a person of worth. Odysseus’s journey is not just physical but existential—his identity, fragmented by years of wandering, is reaffirmed through the kindness of strangers who uphold xenia, the sacred guest-host bond. Thus, The Odyssey teaches that returning home requires both recognition by others and the restoration of one’s name and place in the world through acts of compassion.",
+  "evidence": [
+    {
+      "quote": "Show me the way to your town, and let me have anything that you may have brought hither to wrap your clothes in.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 208–210",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports Odysseus’s appeal for hospitality as a means of reestablishing identity and initiating his homecoming."
+    },
+    {
+      "quote": "you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 210–212",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the Phaeacians' commitment to hospitality, showing how it restores dignity and aids the process of identity recovery."
+    }
+  ],
+  "limits": "The quoted excerpts are based on Samuel Butler's 1900 prose translation; line numbers may vary slightly depending on edition."
+}

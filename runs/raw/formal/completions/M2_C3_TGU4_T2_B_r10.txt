@@ -1,0 +1,14 @@
+{
+  "answer": "That line is spoken by Sydney Carton at the end of Charles Dickens's *A Tale of Two Cities* (Book the Third, Chapter 15, 'The Footsteps Die Out For Ever'). Facing his execution by guillotine in place of Charles Darnay, Carton's final meditation expresses that his sacrificial act is a redemptive 'far, far better thing' than anything he has ever done.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15: 'The Footsteps Die Out For Ever'",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This verbatim quote from the provided source window shows Sydney Carton speaking the exact line in his final moments, supporting the identification of speaker, work, and context."
+    }
+  ],
+  "limits": "The source window confirms the quote is the closing line of the novel."
+}

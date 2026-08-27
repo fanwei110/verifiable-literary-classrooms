@@ -1,0 +1,14 @@
+{
+  "answer": "The line comes from Charles Dickens's novel *A Tale of Two Cities*. It is spoken (as an interior monologue) by Sydney Carton in the final moments of the story, as he walks to the guillotine having traded places with Charles Darnay to save him for the sake of Lucie Manette.",
+  "evidence": [
+    {
+      "quote": "“It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15 (final chapter); end of Project Gutenberg eBook",
+      "speaker_or_narrator": "Sydney Carton (narrated in the third person but rendering Carton’s unspoken final thoughts)",
+      "use_in_answer": "This is the exact textual proof the student requests, confirming the line's speaker and literary source."
+    }
+  ],
+  "limits": "None"
+}

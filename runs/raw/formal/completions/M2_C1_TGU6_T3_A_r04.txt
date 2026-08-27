@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are woven into a single moral fabric. Odysseus’s identity is inseparable from his home: he is “Odysseus, son of Laertes, known to the world for every kind of craft—my fame has reached the skies.” This self-declaration before the Phaeacian court links his name, lineage, and cunning directly to his longing for Ithaca. His fame depends on the return he has not yet achieved. The poem shows that true homecoming is possible only where xenia—guest-friendship—is honored. Alcinous’s assurance, “No, there’s no such custom here, never to turn a stranger away,” creates the safe space in which Odysseus can reclaim his identity. Without the Phaeacians’ radical hospitality, the hero would never find a listening audience or the aid that finally carries him home. Conversely, the Cyclops’s brutal refusal of xenia almost erases Odysseus’s name, forcing him to become “Nobody.” The epic thus argues that identity is not a private possession but something that is tested, revealed, and ultimately restored through the ritual of welcome. Homecoming is not just a physical arrival; it is the moment when a stranger is recognized and named within a civilized threshold.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known to the world for every kind of craft—my fame has reached the skies.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19-20",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote demonstrates how Odysseus’s identity is built from his lineage, cleverness, and fame, all of which depend on his successful homecoming."
+    },
+    {
+      "quote": "No, there's no such custom here, never to turn a stranger away",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 7, lines 160-161",
+      "speaker_or_narrator": "Alcinous",
+      "use_in_answer": "This quote illustrates the ideal of xenia that makes it possible for Odysseus to reveal his identity and secure passage home."
+    }
+  ],
+  "limits": "Quotations follow Robert Fagles' translation; line numbers may differ in other editions."
+}

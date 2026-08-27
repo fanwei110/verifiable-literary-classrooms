@@ -1,0 +1,14 @@
+{
+  "answer": "In the very first lines of the epic, the narrator frames the entire Odyssey as a story of wandering and suffering, asking the Muse to sing about a man who was driven far off course. This invocation not only announces the theme of travel but also makes the act of storytelling itself central to the poem.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening lines",
+      "speaker_or_narrator": "Narrator, invoking the Muse",
+      "use_in_answer": "This passage directly connects wandering (the hero's many travels and sufferings) with the act of storytelling (the request to the Muse to tell the tale)."
+    }
+  ],
+  "limits": "Translation by Samuel Butler; no line numbers provided in the source."
+}

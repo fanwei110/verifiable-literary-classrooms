@@ -1,0 +1,14 @@
+{
+  "answer": "To understand both Hamletâs hesitation and his obsession with mortality, we can look at the opening of the âTo be or not to beâ soliloquy. The line crystallizes the dilemma: to exist or not, and the paralysis that comes from weighing the pain of life against the unknown of death.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question:",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.56",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly introduces the twin themes of mortality (the choice between existence and non-existence) and hesitation (the question itself remains unanswered, reflecting his prolonged indecision)."
+    }
+  ],
+  "limits": "Line number follows the standard modern edition (Folger/Riverside); some editions may place it at 3.1.55 or 3.1.56. The punctuation varies slightly across early texts."
+}

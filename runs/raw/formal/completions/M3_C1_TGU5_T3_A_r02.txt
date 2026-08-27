@@ -1,0 +1,22 @@
+{
+  "answer": "In John Milton's *Paradise Lost*, temptation and rebellion are deeply tied to the exercise of free will. Satan, after losing the war in Heaven, becomes the embodiment of proud defiance, using deception to corrupt God's newly created humans. Temptation enters Eden not through force, but through manipulation, as Satan preys on Eve’s curiosity and desire for knowledge. Milton emphasizes that both angels and humans possess free will—God grants them reason and choice, making their obedience meaningful. Eve’s decision to eat the forbidden fruit follows careful persuasion, illustrating how temptation exploits perceived gaps in knowledge and status. When she acts, she does so knowing both divine command and possible consequence, making her fall an act of willful disobedience rather than mere ignorance. Similarly, Adam’s choice to join her stems from love gone awry, not compulsion. Milton writes, “Nor did I at the time, when Universal Darkness hid the Heav’n / In darkness, and could make blacker than Night,” reflecting the spiritual depth of their fall. The poem underscores that rebellion—whether Satan’s, or Adam and Eve’s—originates not from fate but from choices freely made. Hence, *Paradise Lost* presents a moral universe where freedom entails responsibility.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports Satan's prideful rebellion and his rejection of divine authority, illustrating how free will leads to defiance."
+    },
+    {
+      "quote": "The mind is its own place, and in itself / Can make a Heav'n of Hell, a Hell of Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote captures Satan’s internalization of rebellion and his determination to remain autonomous, even in damnation, showing how free will sustains spiritual revolt."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of Paradise Lost; line numbers may vary slightly in different print editions."
+}

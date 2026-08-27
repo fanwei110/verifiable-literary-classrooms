@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores the themes of temptation, free will, and rebellion through the choices of both Satan and Adam and Eve. Satan’s rebellion against God illustrates a misuse of free will, driven by pride and a desire for autonomy. He declares, 'Better to reign in Hell, then serve in Heav’n,' showing his defiance and rejection of divine authority (Book I). This quote captures the essence of his rebellion—choosing absolute self-rule over obedient service. Temptation emerges as a corrupt exercise of free will, where rationalization distorts truth. Satan tempts Eve by appealing to her desire for knowledge and equality with God, twisting divine command into oppression. Though the source excerpt does not include the dialogue with Eve, it does reveal Satan’s mindset. His belief that 'The mind is its own place, and in it self / Can make a Heav’n of Hell, a Hell of Heav’n' underscores his conviction that perception can override reality—a dangerous justification for rebellion (Book I). Milton thus presents temptation not as an external force, but as an internal choice. Both Satan and, later, Adam and Eve possess free will, but their choices reveal moral responsibility. Rebellion, when rooted in pride rather than justice, leads to downfall. Milton warns that free will, without virtue, becomes a path to self-destruction.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion, showing Satan's prideful rejection of God's authority in favor of self-rule."
+    },
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates how Satan rationalizes his rebellion, using free will to justify his internal transformation of defiance into a distorted sense of empowerment."
+    }
+  ],
+  "limits": "The excerpt does not include the temptation of Eve; analysis of her choice relies on knowledge beyond the provided text."
+}

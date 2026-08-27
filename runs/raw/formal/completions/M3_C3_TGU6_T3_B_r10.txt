@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined. Odysseus’s journey is not just a physical return to Ithaca, but a quest to reclaim his identity as king and husband. Throughout his travels, the way strangers are treated reveals cultural values. In Phaeacia, Princess Nausicaa exemplifies ideal hospitality when she encounters Odysseus shipwrecked and alone. Despite his ragged appearance, she shows compassion and respect, providing clothing and guidance. This moment reflects how hospitality—offered without knowing the stranger’s identity—upholds honor and invites divine favor. Later, Odysseus’s own home becomes a test of these values; the suitors abuse hospitality by consuming his resources while ignoring his identity, now disguised as a beggar. True identity is revealed not through appearance but through actions and recognition by the faithful, like Penelope and Eurycleia. The story teaches that homecoming is only possible when identity is recognized and hospitality is rightly given. These themes affirm that returning home involves more than geography—it requires recognition, respect, and the restoration of bonds.",
+  "evidence": [
+    {
+      "quote": "‘And now, O queen, have pity upon me, for you are the first person I have met, and I know no one else in this country. Show me the way to your town...’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the importance of hospitality and the vulnerability of the stranger seeking aid, highlighting how identity begins to be restored through compassionate reception."
+    },
+    {
+      "quote": "‘Stranger, you appear to be a sensible, well-disposed person. There is no accounting for luck; Jove gives prosperity to rich and poor just as he chooses...’",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the virtue of hospitality among the Phaeacians, showing how they respect strangers and fulfill their duty without knowing their true identity."
+    }
+  ],
+  "limits": "The provided source excerpts are from a translated version of The Odyssey; exact line numbers are unavailable, and quotations are matched by context rather than line precision."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be misleading, especially when influenced by class assumptions and personal pride. Elizabeth Bennet initially judges Mr. Darcy as arrogant because of his reserved demeanor at a ball, while she sees Wickham as charming, unaware of his deceit. Her misjudgments reveal how social class and personal bias distort perception. Elizabeth later reflects on her errors, admitting, 'How despicably have I acted! I, who have prided myself on my discernment!' This moment marks her growth as she recognizes that her vanity and prejudice clouded her judgment. Marriage, too, is tied to class and perception; the novel opens with the famous line that a wealthy man 'must be in want of a wife,' reflecting societal pressures to marry within or elevate one’s class. Ultimately, true love in the novel, such as between Elizabeth and Darcy, develops only after both overcome their initial, flawed impressions and societal expectations.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the idea that marriage in the novel is often viewed as a social and economic transaction, especially across class lines."
+    },
+    {
+      "quote": "How despicably have I acted! I, who have prided myself on my discernment! I, who have valued myself on my abilities!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth's realization that her first impressions were flawed due to personal bias and pride."
+    }
+  ],
+  "limits": "The source excerpts are fragmented, but both key quotations are present and accurately attributed."
+}

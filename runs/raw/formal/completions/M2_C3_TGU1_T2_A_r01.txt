@@ -1,0 +1,22 @@
+{
+  "answer": "The line comes from William Shakespeare’s tragedy *Hamlet*, and it is spoken by Prince Hamlet. It appears near the end of Act II, Scene 2, during a soliloquy in which Hamlet arranges for a troupe of actors to perform a play that mirrors the murder of his father. He plans to watch his uncle Claudius’s reaction to the scene, hoping to “catch the conscience of the King” and confirm the ghost’s accusation that Claudius is the murderer.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "These are the exact words the student asked about, showing Hamlet’s decision to use theatre as a trap for Claudius."
+    },
+    {
+      "quote": "I’ll have these players / Play something like the murder of my father / Before mine uncle. I’ll observe his looks; / I’ll tent him to the quick. If he but blench, / I know my course.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This passage provides the immediate context for the line: Hamlet outlines his plan to stage a play reenacting the murder and watch Claudius’s guilty reaction."
+    }
+  ],
+  "limits": "None. The attribution and text are secure in all standard editions."
+}

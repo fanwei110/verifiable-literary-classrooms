@@ -1,0 +1,22 @@
+{
+  "answer": "In *A Tale of Two Cities*, revolution, sacrifice, and doubling are central themes. The French Revolution embodies both hope and horror, a duality mirrored in characters like Charles Darnay and Sydney Carton, who are physical doubles but moral contrasts. The revolutionary fervor grows not from mere chaos, but from long-oppressed people seeking justice, though it often becomes violent excess. Sacrifice emerges most powerfully in Carton, who redeems his wasted life by giving it for others. His final act transcends personal failure, becoming a profound statement on love and redemption. This is the revolution not just of nations, but of the soul. As the narrator observes, 'It was the best of times, it was the worst of times,' capturing the era’s contradictions—and the novel’s structure of mirrored lives and choices. Carton’s ultimate sacrifice is foreshadowed in his quiet promise: 'I would embrace any sacrifice for you and for those dear to you.' Here, love motivates a revolution within himself, culminating in his substitution for Darnay. In a world where justice is perverted and lives are lost, Carton’s act stands apart—meaningful, chosen, and transformative. Thus, through doubling and sacrifice, Dickens shows that even in the darkest storm of revolution, individual virtue can shine.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the theme of duality and revolution, illustrating the contradictory nature of the era and the novel’s focus on opposites."
+    },
+    {
+      "quote": "I would embrace any sacrifice for you and for those dear to you.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Second, Chapter XIII",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the theme of sacrifice, showing Carton's emotional commitment that culminates in his ultimate act of selflessness."
+    }
+  ],
+  "limits": "The quoted passages are from standard editions of the novel; exact line numbers may vary by publication."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "In *Pride and Prejudice*, Austen highlights the irony of the marriage market through Charlotte Lucas’s pragmatic perspective. She accepts a proposal not out of love but for security, revealing how societal pressures distort personal values. Here’s a key quotation that captures this tension:",
+  "evidence": [
+    {
+      "quote": "I am not romantic, you know; I never was. I ask only a comfortable home; and considering Mr. Collins’s character, connections, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 22",
+      "speaker_or_narrator": "Charlotte Lucas",
+      "use_in_answer": "This quote underscores the irony of the marriage market, where practical considerations override affection, exposing the gap between societal expectations and genuine happiness."
+    }
+  ],
+  "limits": "The quotation is from the 1813 first edition; chapter numbering may vary slightly in later editions."
+}

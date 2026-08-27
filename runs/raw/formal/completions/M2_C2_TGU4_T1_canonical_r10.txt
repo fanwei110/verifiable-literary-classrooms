@@ -1,0 +1,14 @@
+{
+  "answer": "The novel’s famous opening uses a string of stark antitheses to present the late eighteenth century as an era defined by contradiction—simultaneously an age of wisdom and foolishness, belief and incredulity, hope and despair. This passage helps explain historical contradiction by showing that a single period can hold violently opposed truths, encapsulating the volatile, divided spirit of the French Revolution.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair…",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quotation illustrates how the same historical moment can be characterized by opposing extremes, directly supporting the idea of historical contradiction in the Revolutionary era."
+    }
+  ],
+  "limits": "No uncertainty; the quoted passage is the novel's iconic opening and is firmly established in the text."
+}

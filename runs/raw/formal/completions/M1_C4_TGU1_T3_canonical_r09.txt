@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "In *Hamlet*, Shakespeare explores the paralyzing effects of hesitation, the weight of mortality, and the burden of performance—both onstage and in life. Hamlet’s infamous soliloquy, 'To be, or not to be,' reveals his existential dread: he contemplates suicide as an escape from suffering but hesitates, fearing the unknown of death ('For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause'). This 'pause' encapsulates his broader indecision, as he grapples with the moral and practical consequences of revenge. Later, when the Ghost beckons him, Hamlet’s urgency contrasts sharply with his earlier hesitation: 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.' Here, his resolve seems absolute, yet this moment of action is fleeting, underscoring the tension between thought and deed. Together, these passages illustrate how mortality and performance—whether Hamlet’s feigned madness or his delayed revenge—intertwine, leaving him trapped between contemplation and action, life and death.",
+  "evidence": [
+    {
+      "quote": "For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote demonstrates Hamlet’s hesitation and fear of the unknown after death, which paralyzes him from taking decisive action."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 1, Scene 4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote highlights Hamlet’s momentary resolve and urgency when confronted with the Ghost, contrasting his earlier hesitation."
+    }
+  ],
+  "limits": "The excerpts provided do not include Hamlet’s later hesitations after the Ghost’s revelation, such as his delay in killing Claudius or his self-reflective soliloquies in Acts 3 and 4."
+}
+```

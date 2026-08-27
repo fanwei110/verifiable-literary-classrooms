@@ -1,0 +1,14 @@
+{
+  "answer": "In The Odyssey, wandering is not just physical movement but a path toward self-discovery and the sharing of stories. Odysseus’s journey home becomes legendary because each trial he faces is transformed into narrative, revealing how storytelling gives meaning to suffering and displacement.",
+  "evidence": [
+    {
+      "quote": "Tell me, Muse, of the man of many ways, who wandered long after he sacked the sacred city of Troy, and traveled many lands, whose own people he could not save, though he desired it greatly.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1–4",
+      "speaker_or_narrator": "Narrator (invoking the Muse)",
+      "use_in_answer": "This opening invocation establishes wandering as central to Odysseus’s identity and sets the stage for storytelling as a way to preserve and make sense of his journey."
+    }
+  ],
+  "limits": "The translation may vary slightly by edition; this version reflects a common rendering of the Greek original."
+}

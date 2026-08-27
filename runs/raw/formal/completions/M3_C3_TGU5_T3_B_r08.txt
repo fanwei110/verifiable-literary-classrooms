@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores the complex themes of temptation, free will, and rebellion through the characters of Satan and Adam and Eve. Satan’s rebellion against God stems from pride and a desire for autonomy, illustrating the misuse of free will. He rejects servitude, declaring, 'Better to reign in Hell, then serve in Heav’n'—a defiant assertion of independence that rationalizes his fallen state. This quote captures the essence of rebellious pride, showing how free will, when driven by ego, leads to self-imposed exile from goodness. Later, temptation unfolds in Eden when Satan exploits Eve’s curiosity and desire for knowledge. He convinces her to eat the Forbidden Fruit by twisting God’s command, promising divine power. Milton shows that temptation preys on human vulnerabilities, but crucially, Eve and Adam both choose to eat the fruit, exercising their free will. Their conscious decision underscores Milton’s theological point: humans are not doomed by fate, but by their own choices. Thus, while Satan embodies rebellion and deception, Adam and Eve embody the tragic consequences of yielding to temptation despite having the capacity to choose obedience. Milton does not excuse their fall, but frames it as a moral lesson about responsibility, desire, and the enduring power of choice.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the theme of rebellion and the prideful exercise of free will that leads to self-imposed moral and spiritual ruin."
+    },
+    {
+      "quote": "The mind is its own place, and in it self Can make a Heav’n of Hell, a Hell of Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 254–255",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates how internal disposition and free will shape one’s experience of reality, emphasizing moral responsibility even in fallen conditions."
+    }
+  ],
+  "limits": "The text excerpts provided are from an early modern spelling edition; line numbers are approximate and based on standard modern editions of Paradise Lost."
+}

@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton at the end of Charles Dickens's novel *A Tale of Two Cities*. He says it as he prepares to sacrifice himself by taking the place of Charles Darnay at the guillotine, finding redemption in his final act.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote supports the attribution of the line to Sydney Carton and its context as the novel's closing words."
+    }
+  ],
+  "limits": ""
+}

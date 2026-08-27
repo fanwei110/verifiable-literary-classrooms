@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens weaves revolution, sacrifice, and doubling into an intricate pattern. The novelâs famous opening immediately establishes the doubling motif, framing an age of radical oppositions. This duality mirrors the French Revolution itselfâa dramatic collision between hope and terror, creation and destruction. Throughout the story, sacrifice becomes the unexpected resolution to these clashing forces. Sydney Cartonâs final act gives meaning to the chaos, transforming a life of wasted potential into a redemptive offering. The doubling of Charles Darnay and Cartonâlookalikes with opposite charactersâsets the stage for that ultimate exchange, where one manâs death ensures anotherâs future. Thus, Dickens suggests that in an era of extremes, personal sacrifice can break the relentless cycle of vengeance and restore humane balance.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times,",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This famous opening line illustrates the doubling motif, contrasting extremes that characterize both the historical moment and the novel's tension between revolution and sacrifice."
+    },
+    {
+      "quote": "we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This parallel phrasing reinforces doubling while hinting at the ultimate choice between destruction (revolutionary vengeance) and redemption (self-sacrifice)."
+    }
+  ],
+  "limits": "The frozen source excerpt only contains the opening paragraph of Book the First, Chapter I. No passages about specific revolutionary events or sacrifice scenes (e.g., Carton's final act) are present; therefore, direct textual evidence for those themes is unavailable in this excerpt."
+}

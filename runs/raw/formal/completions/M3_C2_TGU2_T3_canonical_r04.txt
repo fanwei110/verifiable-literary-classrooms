@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth's tragic downfall. The witches' prophecy that 'All hail, Macbeth, that shalt be king hereafter!' ignites Macbeth’s latent ambition, pushing him to murder King Duncan. This unchecked desire for power overrides moral judgment, showing how ambition, when fueled by supernatural prediction, can corrupt. However, once Macbeth achieves the crown, guilt consumes him. He laments, 'I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er' (Act 3, Scene 4), revealing his awareness that he is trapped in a cycle of violence. His psychological torment illustrates the consequences of violating one’s conscience. Lady Macbeth, initially more resolute, also succumbs to guilt, sleepwalking and obsessively scrubbing her hands, symbolizing inner turmoil. The interplay of these themes underscores the destructive nature of vaulting ambition untempered by ethics. Prophecy acts as a catalyst, but it is Macbeth’s choices—motivated by desire and later haunted by remorse—that define his fate. Ultimately, *Macbeth* serves as a cautionary tale about the psychological and moral costs of pursuing power through evil means.",
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth, that shalt be king hereafter!",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Second Witch",
+      "use_in_answer": "This quote supports how the prophecy sparks Macbeth's ambition and sets his tragic course."
+    },
+    {
+      "quote": "I am in blood / Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 3, Scene 4",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth's recognition of his deep entanglement in guilt and violence."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; line numbers may vary slightly by edition."
+}

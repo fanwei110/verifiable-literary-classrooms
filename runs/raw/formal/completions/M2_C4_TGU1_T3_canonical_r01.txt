@@ -1,0 +1,22 @@
+{
+  "answer": "Hamlet’s famous “To be, or not to be” soliloquy crystallises the play’s entanglement of hesitation, mortality, and performance. Hamlet asks whether it is nobler to endure “the slings and arrows of outrageous fortune” or to end them by taking arms, but the very act of questioning paralyses action. The speech reveals that fear of what dreams may come in “the sleep of death” makes “calamity of so long life,” showing how consciousness of mortality breeds hesitation. Yet the play also exposes that inaction can be a kind of performance. Just before Hamlet enters, Polonius cynically directs Ophelia to read a prayer book so that “the show of such an exercise may colour / Your loneliness,” and he generalises: “with devotion’s visage / And pious action we do sugar o’er / The devil himself.” This admission that piety can be a mask exposes the rottenness beneath courtly displays. Claudius’s aside—“O, ’tis too true! … O heavy burden!”—confirms that performance conceals guilt. Thus, while Hamlet’s hesitation stems from mortal dread, the court’s performance of virtue hides mortal sin. The play suggests that in a world where “something is rotten,” all action—and inaction—becomes theatrical, and the ultimate question is whether any performance can be sincere.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This opening question encapsulates Hamlet's profound hesitation, rooted in anxiety about mortality and the unknown afterlife."
+    },
+    {
+      "quote": "with devotion's visage / And pious action we do sugar o'er / The devil himself.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (Source window 1)",
+      "speaker_or_narrator": "Polonius",
+      "use_in_answer": "Polonius's cynical remark reveals how performance of piety masks inner corruption, echoing the play's broader theme of deceptive appearances."
+    }
+  ],
+  "limits": "No explicit act/scene numbering appears in the frozen source windows; attribution to Act 3, Scene 1 follows standard editorial convention. All quoted text is verbatim from Source window 1."
+}

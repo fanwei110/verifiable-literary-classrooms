@@ -1,0 +1,22 @@
+{
+  "answer": "In Paradise Lost, John Milton explores how temptation, free will, and rebellion intertwine. The poem opens by announcing its subject: “Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World.” Here, the forbidden fruit symbolizes temptation, and Adam and Eve’s disobedience is framed as an exercise of free will with cosmic consequences. Free will, however, is not just a human attribute; it is the foundation of Satan’s rebellion. Defiant in Hell, Satan declares, “Better to reign in Hell, then serve in Heav’n.” This line crystallizes his willful choice to reject divine order. Satan’s rhetoric itself becomes a temptation, as he redefines freedom as autonomy from God, seducing others into his rebellion. Milton thus presents temptation not merely as an external lure but as an internal misuse of the freedom God gave. The mind can rationalize evil; Satan’s words are both a testament to and a vehicle for that dangerous liberty. Ultimately, the epic’s opening lines and Satan’s proud boast together reveal that rebellion springs from a corrupted will, making free choice the pivot on which both damnation and potential redemption turn.",
+  "evidence": [
+    {
+      "quote": "Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, lines 1-3 (source window 1)",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Establishes the central theme of temptation through the forbidden fruit and the poem's focus on the consequences of free will."
+    },
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book I, line 263 (source window 2)",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "Demonstrates Satan's conscious rebellion, where free will is perverted into proud self-assertion and becomes a tempting rhetoric of defiance."
+    }
+  ],
+  "limits": "Quotations are taken from the provided frozen source excerpts of Book I; the second excerpt begins mid-line 'le' but the quote appears in full."
+}

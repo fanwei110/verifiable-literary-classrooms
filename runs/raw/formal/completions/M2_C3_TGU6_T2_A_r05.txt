@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus (Ulysses) to the Cyclops Polyphemus in Homer’s *Odyssey*. Odysseus uses the fake name so that when he later attacks the Cyclops, Polyphemus will call out that “Noman” is hurting him, and the other Cyclopes will think no one is attacking him and won’t come to his aid. This clever wordplay takes place in Book 9.",
+  "evidence": [
+    {
+      "quote": "Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 364–367 (Samuel Butler translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms that Odysseus deliberately gives the Cyclops the false name ‘Noman’ as part of his escape plan."
+    }
+  ],
+  "limits": "The excerpt comes from Samuel Butler’s English translation. In the original Greek the name given is ‘Outis’ (Nobody/No man), sometimes rendered as ‘Noman’ or ‘Nobody’ in different translations."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the protagonist's downfall. Prophecy from the Weird Sisters ignites Macbeth’s latent ambition, convincing him he is destined to be king. This ambition overpowers his moral judgment, leading him to murder King Duncan. However, immediately after committing the act, Macbeth is consumed by guilt, haunted by hallucinations that reflect his inner turmoil. The psychological weight of his crime is symbolized by the dagger he sees before the murder—a vision that represents both his ambition and his anxiety. As Macbeth spirals into paranoia and further bloodshed, the initial prophecy’s promise of power becomes corrupted by the reality of guilt and isolation. Lady Macbeth, too, falls victim to this cycle, sleepwalking and desperately trying to wash imagined blood from her hands. Thus, Shakespeare illustrates how unchecked ambition, spurred by prophecy, leads not to fulfillment but to psychological disintegration. The play ultimately warns that guilt is the inescapable consequence of immoral ambition.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:—",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the psychological manifestation of Macbeth’s guilt and ambition as he hallucinates a dagger leading him toward murder."
+    },
+    {
+      "quote": "Fair is foul, and foul is fair: / Hover through the fog and filthy air.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 1",
+      "speaker_or_narrator": "The Witches",
+      "use_in_answer": "This quote introduces the theme of prophecy and moral inversion, setting the tone for how ambition will distort Macbeth's perception of right and wrong."
+    }
+  ],
+  "limits": "The source excerpts provided are from early scenes and do not include later evidence of Lady Macbeth’s guilt; analysis infers her role from general knowledge of the play."
+}

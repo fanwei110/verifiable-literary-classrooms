@@ -1,0 +1,22 @@
+{
+  "answer": "In Jane Austen's *Pride and Prejudice*, first impressions often mislead due to assumptions about class and marriage. The novel critiques snap judgments rooted in social hierarchy. When Elizabeth Bennet meets Mr. Darcy at the Meryton ball, his refusal to dance brands him as prideful, shaping her prejudice. Yet Austen reveals how class shapes perception: 'I could easily forgive his pride, if he had not mortified mine' (Ch. 5). This shows how personal dignity is tied to social standing—Elizabeth feels slighted not just by Darcy’s words, but by what they suggest about her family’s status. Later, Charlotte Lucas’s pragmatic marriage to Mr. Collins underscores how economic insecurity shapes choices for women. Austen writes, 'Charlotte's degree of contentment was higher than Elizabeth had supposed; she had a house of her own, and felt all the felicity of the home' (Ch. 27). This reveals how marriage functions as social survival, not just romance. Thus, the novel challenges surface-level assessments by showing how class and gender constrain personal freedom. First impressions must be revised in light of deeper understanding, a core lesson both for Elizabeth and the reader. Austen ultimately advocates for self-awareness, urging us to look beyond rank and rumor to recognize true character.",
+  "evidence": [
+    {
+      "quote": "I could easily forgive his pride, if he had not mortified mine",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 5",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote supports how personal dignity is intertwined with social class, explaining Elizabeth’s lasting resentment toward Darcy after the Meryton ball."
+    },
+    {
+      "quote": "Charlotte's degree of contentment was higher than Elizabeth had supposed; she had a house of her own, and felt all the felicity of the home",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 27",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote illustrates Charlotte Lucas’s pragmatic satisfaction in marriage, highlighting how economic security outweighs romantic ideals for women of lower social standing."
+    }
+  ],
+  "limits": "Quotations are from the standard 1813 edition; chapter numbers may vary slightly in abridged editions."
+}

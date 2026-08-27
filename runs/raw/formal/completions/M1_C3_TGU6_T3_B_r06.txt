@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "In *The Odyssey*, homecoming, identity, and hospitality are deeply intertwined themes that shape Odysseus’s journey and the world of the poem. Homecoming (*nostos*) is not just a physical return but a restoration of identity—Odysseus’s struggle to reclaim Ithaca mirrors his struggle to reclaim himself after years of wandering and divine interference. The opening lines establish this tension: the hero ‘suffered much by sea while trying to save his own life and bring his men safely home,’ yet his men’s ‘sheer folly’ dooms them, leaving Odysseus alone, his identity fractured by loss and delay. Hospitality (*xenia*), meanwhile, is both a cultural expectation and a test of moral order. When Odysseus pleads with Nausicaa, he frames his request in terms of mutual benefit: ‘May heaven grant you... a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.’ Here, hospitality becomes a microcosm of the ideal home—one that restores dignity to the stranger and reinforces the host’s own identity as civilized and pious. These moments reveal how *The Odyssey* links homecoming to ethical behavior: true return requires not just survival but the reaffirmation of human connection and shared values.",
+
+  "evidence": [
+    {
+      "quote": "moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, lines 4-8",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This quote underscores the centrality of homecoming as both a physical and existential struggle, where Odysseus’s identity is tied to his failed attempt to guide his men home, highlighting the fragility of return."
+    },
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI, lines 180-185 (approximate, from source window 2)",
+      "speaker_or_narrator": "Odysseus (to Nausicaa)",
+      "use_in_answer": "This quote illustrates how hospitality and homecoming intersect, as Odysseus frames his plea for aid in terms of the ideal domestic harmony, linking the stranger’s restoration to the host’s own moral and social identity."
+    }
+  ],
+
+  "limits": "The second quotation’s locator is approximate due to the fragmented source window; line numbers may vary slightly by translation. The analysis assumes the Lattimore or Butler translation as a reference point."
+}
+```

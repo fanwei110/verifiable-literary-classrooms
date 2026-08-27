@@ -1,0 +1,14 @@
+{
+  "answer": "In Paradise Lost, disobedience is presented as the root of humanity’s fall. The poem’s opening invocation—spoken by the epic narrator—announces this theme explicitly, stating that it was man’s original act of disobedience against God that brought death and all our woe into the world until Christ restores us.",
+  "evidence": [
+    {
+      "quote": "Of Man's First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal taste / Brought Death into the World, and all our woe, / With loss of Eden, till one greater Man / Restore us, and regain the blissful Seat,",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 1–5",
+      "speaker_or_narrator": "The epic narrator",
+      "use_in_answer": "These opening lines from the narrator explicitly name disobedience as the initial cause of the Fall, linking it directly to death, suffering, and the loss of Eden."
+    }
+  ],
+  "limits": "Quotation follows the 1674 second edition; capitalization and punctuation may vary slightly across modernized editions."
+}

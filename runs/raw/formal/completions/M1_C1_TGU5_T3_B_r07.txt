@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, Milton explores temptation, free will, and rebellion as central themes that define human and angelic fallibility. Satan’s rebellion against God is framed not as an inevitable fate but as a choice—one that reveals the dangerous allure of pride and autonomy. When Satan declares, 'Better to reign in Hell than serve in Heaven,' he embodies the seductive power of defiance, suggesting that the desire for self-determination can override reason and loyalty. Yet Milton complicates this by showing that free will is both a gift and a burden. Adam and Eve’s fall, for instance, hinges on their ability to choose obedience or disobedience, a choice that Eve makes when she rationalizes eating the forbidden fruit: 'Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.' Here, her decision reflects the human tendency to justify temptation through emotional or intellectual reasoning, underscoring how free will can lead to both ruin and redemption. These moments reveal Milton’s argument that rebellion is not merely an act of defiance but a misapplication of agency, where the pursuit of individual desire fractures divine harmony.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, than serve in Heav’n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote illustrates Satan’s embrace of rebellion as a deliberate choice, prioritizing autonomy over submission to divine authority."
+    },
+    {
+      "quote": "Our state cannot be sever’d; we are one, / One flesh; to lose thee were to lose myself.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 9, lines 958-959",
+      "speaker_or_narrator": "Eve",
+      "use_in_answer": "This line demonstrates Eve’s rationalization of temptation, using emotional and relational logic to justify her disobedience."
+    }
+  ],
+  "limits": "Quotations are from the 1674 edition of *Paradise Lost*; line numbers may vary slightly in other editions."
+}

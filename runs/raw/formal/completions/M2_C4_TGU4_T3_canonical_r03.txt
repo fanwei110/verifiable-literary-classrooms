@@ -1,0 +1,22 @@
+{
+  "answer": "Class, today we'll explore how A Tale of Two Cities intertwines revolution, sacrifice, and doubling. Notice how Dickens immediately establishes a world torn by opposites. The novel's famous opening captures the era's violent contrasts, a doubling that mirrors the revolutionary clash between oppression and liberation. This patterned doubling—best/worst, wisdom/foolishness, Light/Darkness—embeds the idea that extreme situations breed extreme responses. Revolution itself is this pattern multiplied: hope and despair rising together. Out of that upheaval grows the central motif of sacrifice, hinted at from the very first book title, “Recalled to Life.” Resurrection through sacrifice becomes the ultimate answer to the doubled world's injustice. Just as the era holds both spring of hope and winter of despair, characters are compelled to give their lives so that others may live, turning the revolutionary chaos into a personal, redemptive act. In this way, Dickens fuses the political cycle of revolution with the intimate cycle of death and rebirth, showing that true freedom often demands the ultimate sacrifice.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I: The Period",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quotation models the novel’s structural doubling, equating the revolutionary period with a chain of violent opposites."
+    },
+    {
+      "quote": "Recalled to Life",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First title",
+      "speaker_or_narrator": "Narrator (title)",
+      "use_in_answer": "This title phrase foreshadows the novel’s theme of sacrifice, as characters must metaphorically or literally die in order to bring others back to life amid revolution."
+    }
+  ],
+  "limits": "The provided excerpts contain only the opening paragraph and the table of contents. Key events like Carton’s sacrifice, the Defarges’ knitting, and the storming of the Bastille are not included, so the lesson draws solely on the language of doubling in the opening and the suggestive chapter titles. The full argument for sacrifice relies on the broader novel, but the excerpted phrase 'Recalled to Life' directly supports the motif of resurrection through personal sacrifice."
+}

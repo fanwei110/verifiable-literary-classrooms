@@ -1,0 +1,14 @@
+{
+  "answer": "The dagger soliloquy illustrates how Macbeth’s guilty ambition to murder Duncan manifests as a hallucination—a phantom dagger leading him toward the deed.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain? / ... It is the bloody business which informs / Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This passage directly shows how Macbeth's ambition (the 'bloody business' of murder) fuels a hallucination (the 'dagger of the mind'), blending internal desire with a false sensory experience."
+    }
+  ],
+  "limits": null
+}

@@ -1,0 +1,8 @@
+{
+  "answer": "In Hamlet, Shakespeare intertwines hesitation, mortality, and performance. Hamlet’s soliloquy famously asks “To be, or not to be”—a meditation paralyzed by fear of what comes after death. He calls death a sleep but then stumbles upon the terrifying unknown: “To sleep, perchance to dream—ay, there’s the rub” (Hamlet). The uncertainty of what dreams may come in that final sleep makes life’s pains seem bearable, freezing action into endless hesitation. Meanwhile, the court demonstrates how performance can screen corruption. Polonius instructs Ophelia to pretend to read a prayer book so that “show of such an exercise may colour / Your loneliness,” confessing that “with devotion’s visage / And pious action we do sugar o’er / The devil himself” (Polonius). The court’s pious masks allow sin to hide in plain sight. Hamlet’s genuine existential pause over his own mortality stands against this hollow performance: to act or not to act becomes a question not only of revenge but of facing an undiscovered country. Hesitation, mortality, and theatre thus coalesce—man is both actor and terrified spectator before the ultimate stage.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dream—ay, there’s the rub",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene

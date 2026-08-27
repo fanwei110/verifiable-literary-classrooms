@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how *Pride and Prejudice* uses first impressions to explore class and marriage. Austen immediately signals that appearances deceive: Elizabeth Bennet’s initial judgment of Darcy as proud and unworthy is rooted in his aloof demeanor at the Meryton ball, while her own wit and charm blind others to her family’s lower social standing. These snap judgments shape the novel’s central conflicts, particularly around marriage. For Austen, marriage isn’t just romantic—it’s a social contract where class mobility and personal happiness often clash. Charlotte Lucas’s pragmatic acceptance of Mr. Collins, for example, reveals how women’s limited options force them to prioritize security over love. Meanwhile, Darcy’s evolving view of Elizabeth—from dismissing her as ‘tolerable, but not handsome enough to tempt *me*’ to admiring her ‘fine eyes’—shows how first impressions can be overturned by deeper understanding. Austen critiques a society where class dictates worth, yet she also suggests that genuine connection can transcend it. Notice how the novel’s happiest marriages (Elizabeth/Darcy, Jane/Bingley) balance mutual respect with social compatibility, while the unhappy ones (Lydia/Wickham, Charlotte/Collins) expose the dangers of prioritizing status or desperation over character. What do these dynamics tell us about Austen’s view of love versus social expectation?",
+  "evidence": [
+    {
+      "quote": "‘It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This opening line satirizes the societal obsession with marrying for class and wealth, setting up the novel’s critique of marriage as a transaction."
+    },
+    {
+      "quote": "‘He is a gentleman; I am a gentleman’s daughter; so far we are equal.’",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 56",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "Elizabeth’s defiant claim to Lady Catherine underscores the novel’s tension between personal dignity and rigid class hierarchies, particularly in marriage."
+    }
+  ],
+  "limits": "Quotations are from the 1813 first edition; chapter numbers may vary slightly in modern editions."
+}

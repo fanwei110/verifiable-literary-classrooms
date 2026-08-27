@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's Hamlet, the prince's paralysis famously captures the tension between thought and action. In the 'To be, or not to be' soliloquy, Hamlet asks, 'To be, or not to be, that is the question,' framing hesitation as a meditation on mortality—whether to endure suffering or confront the unknown of death. Yet this philosophical delay is not static; later, when the Ghost beckons, Hamlet exhibits a sudden, almost theatrical resolve, exclaiming, 'My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.' This shift reveals performance: Hamlet adopts a fierce persona, channeling a predetermined fate to bypass the deliberation that stalls him elsewhere. The juxtaposition underscores how mortality haunts him, but his hesitation is not mere cowardice—it is a struggle between authentic paralysis and the performed roles he assumes to cope with the weight of vengeance.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question:",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote anchors the theme of hesitation and mortality, showing Hamlet's existential deliberation on life and death."
+    },
+    {
+      "quote": "My fate cries out, / And makes each petty artery in this body / As hardy as the Nemean lion’s nerve.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "1.4",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates a moment of sudden, performative determination in the face of mortality, contrasting with his usual hesitation."
+    }
+  ],
+  "limits": "Act-scene divisions are standard editorial conventions not marked in the provided excerpt windows; the references 3.1 and 1.4 are inferred from the text."
+}

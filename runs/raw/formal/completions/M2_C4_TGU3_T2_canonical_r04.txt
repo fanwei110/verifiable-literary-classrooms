@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Elizabeth Bennet in Jane Austen's novel *Pride and Prejudice* (Chapter 11). During a conversation at Netherfield, Elizabeth declares to Mr. Darcy and Miss Bingley, “I dearly love a laugh,” explaining that she delights in ridiculing follies and nonsense but never what is wise or good.",
+  "evidence": [
+    {
+      "quote": "I dearly love a laugh.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 11",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quotation identifies the speaker and highlights Elizabeth’s playful wit and her enjoyment of gentle satire, a key element of her personality in the novel."
+    }
+  ],
+  "limits": ""
+}

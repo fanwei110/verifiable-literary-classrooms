@@ -1,0 +1,22 @@
+{
+  "answer": "Today, let’s examine how *A Tale of Two Cities* uses revolution, sacrifice, and doubling to mirror chaos and redemption. The novel’s opening—'It was the best of times, it was the worst of times'—captures the duality of the French Revolution: hope and brutality coexist, reflecting Dickens’s view of history as cyclical and contradictory. This doubling appears in characters too: Sydney Carton and Charles Darnay share a striking resemblance, but where Darnay embodies privilege, Carton’s sacrifice—'It is a far, far better thing that I do, than I have ever done'—redeems both men. Sacrifice becomes the antidote to revolution’s violence, suggesting that personal atonement can break cycles of vengeance. Notice how Dickens frames sacrifice as both noble and tragic; Carton’s death echoes Christ-like redemption, yet the revolution’s bloodshed underscores the cost of change. These themes ask us: Can revolution ever escape its own violence, or must sacrifice be its counterbalance? Let’s discuss how doubling in the novel forces us to confront these tensions.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 1, Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the novel’s thematic doubling, illustrating the paradoxical nature of the French Revolution as both a time of progress and destruction."
+    },
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book 3, Chapter 15",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This quote underscores the theme of sacrifice as Carton’s redemptive act, contrasting with the revolution’s violence and offering a path to moral renewal."
+    }
+  ],
+  "limits": "Quotations are from the 1859 first edition; chapter numbering may vary slightly in other editions."
+}

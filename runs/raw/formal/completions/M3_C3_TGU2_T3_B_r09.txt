@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt form a destructive cycle that drives Macbeth’s downfall. Encouraged by the witches’ prophecy that he will become king, Macbeth’s ambition overrides his morality, leading him to murder Duncan. Yet immediately after deciding to commit the act, Macbeth is consumed by guilt and hallucinations, revealing his inner turmoil. His psychological unraveling begins even before the murder, as seen when he envisions a dagger floating before him—'Is this a dagger which I see before me, / The handle toward my hand?' (Act II, Scene I). This 'dagger of the mind' reflects his internal battle: though driven by ambition, he is haunted by his conscience. After the murder, guilt continues to plague him, demonstrating that ambition fueled by immoral means leads not to power, but to psychological ruin. Later, he admits, 'I am in blood / Stepp’d in so far that, should I wade no more, / Returning were as tedious as go o’er' (Act III, Scene IV), showing how once violence is unleashed in pursuit of power, escape from guilt is impossible. Thus, Shakespeare portrays ambition incited by prophecy as dangerous without moral restraint, ultimately consumed by inescapable guilt.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports Macbeth’s psychological torment and guilt prior to killing Duncan, illustrating how ambition triggers hallucinations and inner conflict."
+    },
+    {
+      "quote": "I am in blood / Stepp’d in so far that, should I wade no more, / Returning were as tedious as go o’er",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act III, Scene IV",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote demonstrates how Macbeth feels trapped by his own guilt and escalating violence, emphasizing the irreversible consequences of ambition unchecked by conscience."
+    }
+  ],
+  "limits": "The second quotation is not in the provided source windows but is a well-attested line from Macbeth; the first quotation appears in context in Source Window 1."
+}

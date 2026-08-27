@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 3, Scene 1, Hamlet weighs death as a release from life's pain but then hesitates because what dreams may come in that sleep is unknown: \"To die, to sleep; / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ... To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.\" Mortality here is a longed-for rest, but hesitation arises from the dread of uncertainty beyond death.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ... To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly presents mortality as a sleep that ends earthly suffering and hesitation as the fear of unknown dreams in death, central to Hamlet's soliloquy."
+    }
+  ],
+  "limits": "The provided source excerpt ends at 'To grunt and sweat', so the later lines about the undiscovered country are not included; the quoted portion is fully contained in the given text."
+}

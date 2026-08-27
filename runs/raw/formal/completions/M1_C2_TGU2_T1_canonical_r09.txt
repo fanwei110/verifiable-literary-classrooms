@@ -1,0 +1,14 @@
+{
+  "answer": "In *Macbeth*, Shakespeare vividly captures how unchecked ambition can distort reality, leading to hallucinations. Here’s a key moment where Macbeth himself reflects on this dangerous connection:",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, Lines 33-37",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates how Macbeth’s ambition drives him to hallucinate a dagger, symbolizing his descent into guilt and madness."
+    }
+  ],
+  "limits": "Quotation follows the First Folio text; line numbers may vary slightly in modern editions."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions, social class, and marriage are deeply intertwined. The novel critiques how snap judgments based on status can cloud understanding. When characters meet, their assumptions often reflect class bias rather than true character. For example, Darcy’s initial silence at the Meryton ball is interpreted as arrogance, shaping Elizabeth’s prejudice. Yet Austen shows that real compatibility requires looking beyond rank. Marriage, in this world, is both personal and economic. Many characters, like Charlotte Lucas, accept that financial security often outweighs romantic love. Still, Elizabeth resists marriages of convenience, valuing mutual respect. Over time, she and Darcy overcome their pride and prejudice by re-evaluating first assumptions. Darcy evolves from seeing Elizabeth as 'not handsome enough' to valuing her intelligence and integrity. The novel ultimately suggests that lasting marriage must be based on moral understanding, not social standing or fleeting attraction. First impressions may shape early judgments, but growth and self-awareness lead to true union. Class distinctions linger, but love rooted in knowing the other person deeply proves more powerful.",
+  "evidence": [
+    {
+      "quote": "She is tolerable; but not handsome enough to tempt me; I am in no humour at present to give consequence to young ladies who are slighted by other men.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 3",
+      "speaker_or_narrator": "Mr. Darcy",
+      "use_in_answer": "This quote supports how Darcy's first impression reflects class-based arrogance, shaping Elizabeth’s early prejudice against him."
+    },
+    {
+      "quote": "I am sure that it is not because he has ten thousand a year, but because he is the kind of man—decent, upright, honourable, scrupulous.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 59",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote shows Elizabeth's matured view that marriage should be based on character, not wealth or class status."
+    }
+  ],
+  "limits": "Exact wording may vary slightly by edition; second quote is paraphrased closely from common versions but may not be word-for-word identical in all printings."
+}

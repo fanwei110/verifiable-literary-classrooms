@@ -1,0 +1,14 @@
+{
+  "answer": "The opening invocation of The Odyssey explicitly frames the entire poem as a story about a man who wandered extensively after the Trojan War, making wandering the very subject of the tale.",
+  "evidence": [
+    {
+      "quote": "Tell me about a complicated man. / Muse, tell me how he wandered and was lost / when he had wrecked the holy town of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey, translated by Emily Wilson",
+      "locator": "Book 1, lines 1–3",
+      "speaker_or_narrator": "Narrator, addressing the Muse",
+      "use_in_answer": "This quote supports the idea that wandering and story are inseparable from the outset: the narrator asks the Muse to tell the tale precisely of how Odysseus \"wandered and was lost,\" making the wandering itself the epic's core subject."
+    }
+  ],
+  "limits": "Quotation is from Emily Wilson's 2017 translation. Other translations (e.g., Robert Fagles: 'Sing to me of the man, Muse, the man of twists and turns...') vary in phrasing but equally foreground the centrality of wandering to Odysseus's story."
+}

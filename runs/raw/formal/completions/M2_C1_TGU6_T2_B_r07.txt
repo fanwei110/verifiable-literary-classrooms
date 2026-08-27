@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus (Ulysses) in Homer’s epic poem *The Odyssey*. It occurs during his encounter with the Cyclops Polyphemus in Book 9. When the monster asks his name, Odysseus cunningly replies “Noman” — a pun on “no man.” This trick later allows Odysseus to escape: after he blinds Polyphemus, the Cyclops shouts that “Noman” is hurting him, so his fellow Cyclopes assume no one is attacking and do not come to his aid.",
+  "evidence": [
+    {
+      "quote": "My name is Noman; such I'm call'd by all my family and friends.",
+      "author": "Homer (translated by Alexander Pope)",
+      "work": "The Odyssey",
+      "locator": "Book 9, line 366 (approx.)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote captures the exact false name Odysseus gives to the Cyclops, showing the pun that underpins his escape."
+    }
+  ],
+  "limits": "The exact phrasing 'Noman' appears in older English translations such as Alexander Pope's. Many modern translations instead render the name as 'Nobody' or 'No man' (e.g., Robert Fagles’s 'Nobody—that’s my name'). The core wordplay remains the same."
+}

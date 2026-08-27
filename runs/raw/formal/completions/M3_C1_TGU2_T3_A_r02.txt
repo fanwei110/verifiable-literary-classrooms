@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive the tragic downfall of the protagonist. Macbeth’s unchecked ambition is ignited by the witches’ prophecy that he will become king, setting him on a path of violence and moral corruption. Initially hesitant, Macbeth is pushed forward by the prediction that 'All hail, Macbeth! that shalt be king hereafter' (Act 1, Scene 3), which fuels his desire for power despite his inner doubts. This prophecy acts not as a guarantee but as a catalyst, revealing how ambition can distort judgment. Once Macbeth murders King Duncan to fulfill the prophecy, guilt begins to consume him. He hears a voice cry, 'Macbeth does murder sleep' (Act 2, Scene 2), symbolizing the irreversible loss of peace and innocence. His psychological unraveling intensifies as guilt manifests in hallucinations and paranoia. While prophecy sets the events in motion, it is Macbeth’s ambitious choices and the resulting guilt that define his tragic arc. Shakespeare ultimately shows that blind ambition, when divorced from morality, leads not to glory but to isolation and destruction. The interplay of these themes warns of the dangers of seeking power at any cost.",
+  "evidence": [
+    {
+      "quote": "All hail, Macbeth! that shalt be king hereafter",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 1, Scene 3",
+      "speaker_or_narrator": "Second Witch",
+      "use_in_answer": "This quote supports how the witches' prophecy sparks Macbeth's ambition and sets the tragic plot in motion."
+    },
+    {
+      "quote": "Macbeth does murder sleep",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 2",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote illustrates Macbeth’s immediate guilt after murdering Duncan, showing how his conscience begins to torment him."
+    }
+  ],
+  "limits": "Quotations are from the Folger Shakespeare Library edition of Macbeth; slight wording differences may exist in other editions."
+}

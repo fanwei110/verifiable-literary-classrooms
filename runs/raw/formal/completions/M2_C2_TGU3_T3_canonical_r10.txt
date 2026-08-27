@@ -1,0 +1,6 @@
+{
+  "answer": "Class, today we explore how Jane Austen masterfully intertwines first impressions, class, and marriage in *Pride and Prejudice*. The novel opens with its famous satirical proclamation about the marriage market, immediately establishing that marriage is an economic transaction driven by class and wealth. Darcy’s introduction at the Meryton assembly illustrates how rapidly—and wrongly—communities judge character. The narrator reports that after one ball, Darcy was declared the proudest, most disagreeable man in the world simply because he refused to dance and appeared haughty. This snap verdict, rooted in his superior class standing, blinds Elizabeth to his genuine virtues for half the novel. Austen thus demonstrates that first impressions are often class-inflected illusions that distort the path to a suitable marriage. Only when Elizabeth and Darcy overcome their pride and prejudice—hers from that first slight, his from social snobbery—can they form a union of equals. So, the novel warns us: be wary of the universal “truths” society imposes on marriage and the instant judgments you pass on others.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "

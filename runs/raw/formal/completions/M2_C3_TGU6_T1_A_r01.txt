@@ -1,0 +1,14 @@
+{
+  "answer": "The epic's very first lines define its subject as a man who wandered extensively and whose story is worth telling: the hero's wide travels, the many cultures he encountered, and his sufferings at sea form the core of the narrative that the Muse is asked to recount.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I, opening invocation (approximately lines 1–10)",
+      "speaker_or_narrator": "the narrator (the poet invoking the Muse)",
+      "use_in_answer": "This quotation establishes that the story is fundamentally about a wandering hero whose adventures and suffering are the central subject of the epic."
+    }
+  ],
+  "limits": "Translation by Samuel Butler (1900). The prose translation does not include line numbers; the locator refers to the conventional opening lines of the Greek text."
+}

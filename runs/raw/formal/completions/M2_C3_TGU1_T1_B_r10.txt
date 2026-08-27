@@ -1,0 +1,14 @@
+{
+  "answer": "When Hamlet weighs action against inaction, he directly links mortality with hesitation. He first phrases suicide as a release from suffering, but then identifies the “undiscovered country” of the afterlife as the very thing that “puzzles the will” and forces us to pause.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep— / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: 'tis a consummation / Devoutly to be wish'd. To die, to sleep; / To sleep, perchance to dream—ay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act III, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation explicitly shows Hamlet equating death with sleep and then hesitating because the unknowable dreams (or consequences) beyond death are the 'rub' that 'must give us pause.'"
+    }
+  ],
+  "limits": "Text is from the supplied source excerpt. The excerpted lineation may vary slightly from standard editions due to formatting."
+}

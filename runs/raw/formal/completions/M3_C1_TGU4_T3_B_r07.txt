@@ -1,0 +1,22 @@
+{
+  "answer": "In A Tale of Two Cities, Dickens explores revolution not just as political upheaval but as a force that demands sacrifice and reveals dual identities. The French Revolution serves as a backdrop for personal and societal transformation, where characters face moral choices that mirror the chaos around them. One of the novel’s central themes is sacrifice, most powerfully embodied by Sydney Carton. His decision to give his life for Charles Darnay reflects both redemption and love, showing how personal revolution can outlast political turmoil. Carton’s final act is not just heroic—it’s a fulfillment of his doubled identity with Darnay, a motif Dickens uses throughout the novel. Characters like Charles and his 'double,' Carton, reflect the idea that identity is not fixed, especially in times of crisis. The chaos of revolution strips away pretense, revealing who people truly are. As the turmoil in France escalates, personal destinies become intertwined with historical forces. Carton’s sacrifice gives meaning to the idea of resurrection—'It is a far, far better thing that I do...'—not through violence, but through selfless love. In this way, Dickens suggests that true revolution begins within.",
+  "evidence": [
+    {
+      "quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (Carton's final thoughts)",
+      "use_in_answer": "This quote supports the theme of sacrifice, illustrating how Carton finds redemption and purpose through his selfless act."
+    },
+    {
+      "quote": "I see the lives for which I lay down my life, peacefully developing...",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the Third, Chapter 15",
+      "speaker_or_narrator": "Narrator (Carton's vision before death)",
+      "use_in_answer": "This quote highlights the theme of doubling and legacy, showing how Carton’s sacrifice ensures a future for Darnay and his family, symbolizing personal resurrection."
+    }
+  ],
+  "limits": "Quotations are from the standard Penguin Classics edition; slight variations may exist in other editions."
+}

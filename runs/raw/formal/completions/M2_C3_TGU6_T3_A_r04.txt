@@ -1,0 +1,22 @@
+{
+  "answer": "In Homer’s Odyssey, homecoming, identity, and hospitality are intertwined threads that define the hero’s journey. Odysseus’s very identity is rooted in his desire to return to Ithaca, yet that homecoming is perilously deferred. The narrator establishes this central tension early on: “he, though he was longing to return to his wife and country, was detained by the goddess Calypso.” Here, being away from home is not just a physical exile but a crisis of self—Odysseus’s roles as husband and king are suspended. The epic repeatedly tests what makes a place a true home. When a shipwrecked Odysseus, stripped of all status, entreats Nausicaa, he articulates the ideal of home as a refuge built not merely on walls but on shared harmony: “for there is nothing better in this world than that man and wife should be of one mind in a house.” This stranger’s plea reveals that homecoming is not complete without recognition and intimacy. Yet the Phaeacians’ extraordinary hospitality, offered before they know his name, shows that a truly civilized community mirrors the warmth of a home, granting the wanderer a temporary restoration of dignity. In the Odyssey, hospitality becomes the bridge between exile and belonging, affirming identity through the promise of a hearth.",
+  "evidence": [
+    {
+      "quote": "he, though he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "Illustrates how Odysseus's identity is tied to his deferred homecoming, highlighting the pain of exile."
+    },
+    {
+      "quote": "for there is nothing better in this world than that man and wife should be of one mind in a house. It discomfits their enemies, makes the hearts of their friends glad, and they themselves know more about it than any one.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI (Nausicaa episode)",
+      "speaker_or_narrator": "Odysseus (as the shipwrecked stranger)",
+      "use_in_answer": "Shows the ideal of home as mutual harmony, linking homecoming to identity and underscoring why hospitality toward a displaced person is sacred."
+    }
+  ],
+  "limits": "The second quote's exact book location is not given in the source window, but it is traditionally recognized as Book VI of the Odyssey, the meeting with Nausicaa."
+}

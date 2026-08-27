@@ -1,0 +1,14 @@
+{
+  "answer": "That line comes from Charles Dickens’s *A Christmas Carol*. Ebenezer Scrooge’s nephew Fred says it early in the play when he’s defending the joy of laughter against Scrooge’s sourness.",
+  "evidence": [
+    {
+      "quote": "I have always thought of Christmas time... as a good time; a kind, forgiving, charitable, pleasant time... And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it has done me good, and will do me good; and I say, God bless it! ... I am sure I have always thought of Christmastime... as a good time; a kind, forgiving, charitable, pleasant time... I dearly love a laugh.",
+      "author": "Charles Dickens",
+      "work": "A Christmas Carol",
+      "locator": "Stave One: Marley’s Ghost",
+      "speaker_or_narrator": "Fred (Scrooge’s nephew)",
+      "use_in_answer": "This passage confirms the exact wording and identifies Fred as the speaker."
+    }
+  ],
+  "limits": "The phrasing appears in the original 1843 novella; stage and film adaptations sometimes condense or reword the speech."
+}

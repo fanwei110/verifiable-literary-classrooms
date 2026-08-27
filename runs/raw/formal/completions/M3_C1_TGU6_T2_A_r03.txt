@@ -1,0 +1,14 @@
+{
+  "answer": "The line \"my name is Noman\" is spoken by the Greek hero Odysseus in Homer's epic poem *The Odyssey*. He says this during his encounter with the Cyclops Polyphemus as a clever trick to hide his true identity. When Polyphemus later cries for help and says that 'Noman' is attacking him, the other Cyclopes assume no one is attacking him, allowing Odysseus and his men to escape undetected.",
+  "evidence": [
+    {
+      "quote": "My name is Noman: my father and mother have called me Noman, and all my comrades as well.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms that Odysseus deliberately gives a false name—'Noman'—to Polyphemus as part of his escape plan."
+    }
+  ],
+  "limits": "Exact line numbers may vary slightly depending on translation; the quote is from the ancient Greek epic, so wording differs across versions."
+}

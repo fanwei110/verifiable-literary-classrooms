@@ -1,0 +1,21 @@
+{
+  "answer": "Today we'll explore how The Odyssey intertwines homecoming, identity, and hospitality. Odysseus's longing for Ithaca defines his very self. When he reveals himself to the Phaeacians, he asserts: “Nothing is sweeter than a man’s own country and his parents, even though he live in a wealthy house, away in a foreign land far from his parents.” This confession shows that homecoming is the core of his identity—no comfort can replace one's native land and family. Yet his return hinges on the kindness of strangers. Nausicaa, embodying the Greek code of xenia, reassures her maids: “All strangers and beggars come from Zeus, and a small gift is dear to them.” By honoring this sacred duty, she protects Odysseus and advances his nostos. Hospitality in the epic is a divine contract that tests character; the suitors’ abuse of it in Ithaca justifies their destruction and restores Odysseus’s rightful place. The poem thus argues that identity is rooted in home, but it is sustained through the reciprocal welcome of strangers. True homecoming, therefore, demands not only returning physically but also re-establishing the proper rites of hospitality that define who you are.",
+  "evidence": [
+    {
+      "quote": "Nothing is sweeter than a man’s own country and his parents, even though he live in a wealthy house, away in a foreign land far from his parents.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 34-36",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This declaration reveals that homecoming is the irreducible foundation of Odysseus's identity."
+    },
+    {
+      "quote": "All strangers and beggars come from Zeus, and a small gift is dear to them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 6, lines 207-208",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This maxim illustrates the sacred law of hospitality that enables and safeguards Odysseus's homecoming."
+    }
+  ],
+  "limits": "Qu

@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet, Shakespeare intertwines mortality and hesitation most famously in the 'To be, or not to be' soliloquy. Hamlet reflects that the fear of something unknown after death—'what dreams may come'—prevents us from embracing death as an escape from suffering, giving us pause and making us endure life's calamities.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / To sleep: perchance to dream: ay, there's the rub; / For in that sleep of death what dreams may come / When we have shuffled off this mortal coil, / Must give us pause: there's the respect / That makes calamity of so long life;",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 64-69",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that uncertainty about the afterlife causes hesitation and makes people choose to suffer rather than risk death."
+    }
+  ],
+  "limits": "Line numbering may vary across editions; this follows the traditional Folger Shakespeare Library numbering."
+}

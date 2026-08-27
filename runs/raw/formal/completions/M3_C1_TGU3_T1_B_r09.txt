@@ -1,0 +1,14 @@
+{
+  "answer": "In Pride and Prejudice, Jane Austen uses irony to critique the marriage market by showing how societal expectations reduce marriage to a transactional pursuit rather than an emotional connection. A key example occurs when the narrator observes the attitude of Mrs. Bennet and others toward securing wealthy husbands: 'The business of her life was to get her daughters married; to this she would add no other boast.' This highlights the absurdity of a world where a mother’s primary ambition rests solely on advantageous matches, regardless of affection or compatibility.",
+  "evidence": [
+    {
+      "quote": "The business of her life was to get her daughters married; to this she would add no other boast.",
+      "author": "Jane Aust‵en",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter 1",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the irony in the marriage market by illustrating how matrimony is treated as the sole purpose and achievement for women in the society Austen critiques."
+    }
+  ],
+  "limits": "The quote is from the standard Project Gutenberg edition of Pride and Prejudice; minor variations in punctuation may exist across print editions."
+}

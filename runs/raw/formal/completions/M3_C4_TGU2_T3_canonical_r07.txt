@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt intertwine to drive Macbeth’s downfall. The witches’ prophecy ignites Macbeth’s vaulting ambition, leading him to consider murdering Duncan. As he contemplates the act, his guilt manifests psychologically, distorting reality. Before the murder, Macbeth sees a dagger floating in the air, a 'dagger of the mind', revealing his inner turmoil. This hallucination shows how his conscience battles his ambition, blurring the line between reality and illusion. The vision of blood on the blade foreshadows the gruesome act and symbolizes the guilt that will haunt him. Prophecy sets the course, ambition propels him forward, but guilt begins to unravel his sanity even before the crime is committed. As Macbeth says, 'I see thee yet, in form as palpable / As this which now I draw,' revealing that the weapon he must use is both real and a mental specter. His psychological fragmentation intensifies after the murder, showing that immoral ambition leads not to power, but to inner collapse. The play warns that unchecked ambition, fueled by prophecy, leads to guilt that consumes the soul.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the manifestation of Macbeth's guilt and inner conflict as he hallucinates a dagger before killing Duncan, symbolizing his moral struggle."
+    },
+    {
+      "quote": "There’s no such thing. It is the bloody business which informs Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports how Macbeth's guilt and awareness of his evil deed distort his perception, linking the hallucination to his conscience."
+    }
+  ],
+  "limits": "The provided source excerpts are limited to early parts of the play, so analysis is constrained to Macbeth's soliloquy before Duncan's murder and the opening scenes."
+}

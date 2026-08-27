@@ -1,0 +1,14 @@
+{
+  "answer": "In Homer's *Odyssey*, the idea of wandering is deeply tied to storytelling, as the hero's journey becomes a narrative of return and self-discovery. One key moment occurs when Odysseus, speaking to the Phaeacians, reflects on his long travels: 'I am Odysseus, son of Laertes, known to the world for my guile, and my fame reaches the heavens. I live in Ithaca, where there is a mountain, Neritus, veiled in shimmering leaves; it is rugged, but a sea surrounds it, and there lives a man, much-traveled, far from his own people, among the Cicones, the noblest of men.' This quotation captures how wandering defines identity and fuels the narrative, as Odysseus introduces himself not by homeland alone but by his extensive travels.",
+  "evidence": [
+    {
+      "quote": "I am Odysseus, son of Laertes, known to the world for my guile, and my fame reaches the heavens. I live in Ithaca, where there is a mountain, Neritus, veiled in shimmering leaves; it is rugged, but a sea surrounds it, and there lives a man, much-traveled, far from his own people, among the Cicones, the noblest of men.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 19–26",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that wandering is central to Odysseus's identity and the storytelling structure of the epic, as he defines himself through his travels."
+    }
+  ],
+  "limits": "The exact line numbers may vary slightly depending on translation; this version follows the Fagles translation (1996)."
+}

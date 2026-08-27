@@ -1,0 +1,14 @@
+{
+  "answer": "Prince Hamlet says this line in Shakespeare's tragedy 'Hamlet'. He has just arranged for a troupe of actors to perform a play that mirrors the murder of his father. By watching his uncle King Claudius's reaction during the performance, Hamlet hopes to confirm the guilt that the ghost revealed, because 'the play's the thing wherein I'll catch the conscience of the king.'",
+  "evidence": [
+    {
+      "quote": "The play's the thing / Wherein I'll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 2, Scene 2, lines 605-606 (or 616-617 in some editions)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly answers the student's question by giving the exact words spoken by Hamlet, the speaker, and the play's title."
+    }
+  ],
+  "limits": "Some editions number these lines slightly differently (e.g., 616-617), but they universally appear at the end of Hamlet's soliloquy in Act 2, Scene 2."
+}

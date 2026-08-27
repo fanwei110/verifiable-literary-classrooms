@@ -1,0 +1,14 @@
+{
+  "answer": "A key historical contradiction in *A Tale of Two Cities* is the coexistence of revolutionary ideals with extreme violence. This is captured when Dickens reflects on the French Revolution’s paradoxical pursuit of liberty through oppression.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter 1",
+      "speaker_or_narrator": "The narrator",
+      "use_in_answer": "This quote supports the idea of historical contradiction by illustrating the simultaneous existence of opposing forces—progress and chaos, hope and suffering—during the revolutionary era."
+    }
+  ],
+  "limits": "The quotation comes from the standard public domain text; slight variations may exist across editions, but the opening lines are consistent in major printings."
+}

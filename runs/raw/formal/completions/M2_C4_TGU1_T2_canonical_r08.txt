@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Prince Hamlet in William Shakespeare's *Hamlet*, at the end of Act 2, Scene 2. Hamlet, suspecting his uncle Claudius murdered his father, plans to have traveling actors perform a scene mirroring the murder; he hopes that Claudius's guilty reaction will confirm the ghost's accusation.",
+  "evidence": [
+    {
+      "quote": "The play’s the thing / Wherein I’ll catch the conscience of the King.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act II, Scene 2",
+      "speaker_or_narrator": "Prince Hamlet",
+      "use_in_answer": "This quote captures Hamlet's scheme to test King Claudius's guilt through a play-within-the-play."
+    }
+  ],
+  "limits": "No textual variants noted in the excerpt."
+}

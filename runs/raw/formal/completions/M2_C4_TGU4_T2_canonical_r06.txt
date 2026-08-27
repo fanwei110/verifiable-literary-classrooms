@@ -1,0 +1,14 @@
+{
+  "answer": "The line is spoken by Sydney Carton in Charles Dickens' novel *A Tale of Two Cities*. It is Carton's final thought as he faces the guillotine, having taken the place of Charles Darnay out of love for Lucie Manette. He reflects that his self-sacrifice is a far better deed than anything he has done before, and the eternal rest he is about to enter is a far better rest than any he has known in life.",
+  "evidence": [
+    {
+      "quote": "\"It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.\"",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Final lines of the novel (Book the Third, Chapter 15)",
+      "speaker_or_narrator": "Sydney Carton",
+      "use_in_answer": "This direct quotation confirms the exact wording, the speaker, and the self-reflective context of Carton's final sacrifice."
+    }
+  ],
+  "limits": "The provided source excerpt does not explicitly name the author or chapter, but the title 'A Tale of Two Cities' appears in the Project Gutenberg footer. Author attribution is universally known; locator inferred from narrative conclusion."
+}

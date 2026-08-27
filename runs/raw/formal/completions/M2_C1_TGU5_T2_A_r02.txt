@@ -1,0 +1,14 @@
+{
+  "answer": "This line is spoken by Satan in John Milton's epic poem *Paradise Lost*. After being cast out of Heaven, Satan defiantly declares it is better to rule in Hell than serve God in Heaven, encapsulating his proud, rebellious character.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell, then serve in Heav'n.",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, line 263",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote is the exact source of the student's query, attributed to Satan and defining his counsel of despair and pride."
+    }
+  ],
+  "limits": "The original spelling from the 1667 edition is 'Heav'n', and the punctuation is a comma after Hell. Modernized versions often write it as 'Heaven'."
+}

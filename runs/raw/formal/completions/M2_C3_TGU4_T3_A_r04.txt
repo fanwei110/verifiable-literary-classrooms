@@ -1,0 +1,22 @@
+{
+  "answer": "Today's mini-lesson explores revolution, sacrifice, and doubling in A Tale of Two Cities. Dickens frames the entire narrative within a structure of stark opposites, reflecting a world on the brink of upheaval. The famous opening immediately establishes the motif of doubling: an era equally defined by wisdom and foolishness, hope and despair. This duality is not just atmospheric—it foreshadows the revolution's own double nature, both liberating and destructive. Sacrifice, the novel's redemptive thread, is embedded in the very architecture of the book. The title of Book the First, 'Recalled to Life,' signals a central mystery: Dr. Manette's release from an eighteen-year imprisonment, a personal resurrection that mirrors the political resurrection France seeks through revolt. Yet being 'recalled to life' demands the ultimate sacrifices—of safety, of identity, and finally, of life itself, as Sydney Carton's ending echoes this phrase in the reverse. The doubling of Charles Darnay and Sydney Carton, two men who share a face, turns sacrifice into a literal substitution, showing how private acts of love answer public violence. Thus, Dickens weaves revolution, sacrifice, and doubling into an inseparable thematic knot, reminding us that every resurrection bears the shadow of what was lost.",
+  "evidence": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening sentence demonstrates the motif of doubling that frames the revolutionary period as a time of extreme contradictions, setting up the novel's central themes of duality and upheaval."
+    },
+    {
+      "quote": "Recalled to Life",
+      "author": "Charles Dickens",
+      "work": "A Tale of Two Cities",
+      "locator": "Book the First title",
+      "speaker_or_narrator": "narrator (title)",
+      "use_in_answer": "The phrase 'Recalled to Life' encapsulates the theme of sacrifice through resurrection, both for Dr. Manette's personal rebirth and for the revolutionary renewal that requires ultimate personal cost."
+    }
+  ],
+  "limits": "Only the opening paragraph and table of contents were provided as source text; no later narrative excerpts were available, so evidence is drawn from the novel's framing elements."
+}

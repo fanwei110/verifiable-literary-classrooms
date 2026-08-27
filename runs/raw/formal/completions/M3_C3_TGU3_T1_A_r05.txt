@@ -1,0 +1,14 @@
+{
+  "answer": "In Jane Austen's Pride and Prejudice, the opening line brilliantly captures the irony of the marriage market by reversing the natural desire: instead of a woman seeking a wealthy husband, society assumes the wealthy man must naturally be seeking a wife. This satirizes the social pressures surrounding marriage, where women and their families actively pursue rich bachelors as if they were commodities destined for marriage, regardless of the man’s actual intentions.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "Narrator",
+      "use_in_answer": "This quote supports the ironic portrayal of the marriage market by framing wealthy single men as objects of pursuit, reversing actual desire and highlighting societal assumptions."
+    }
+  ],
+  "limits": "The quoted text is from a digitized version corresponding to the first chapter of the novel; minor punctuation may vary by edition, but the wording and meaning remain consistent across standard editions."
+}

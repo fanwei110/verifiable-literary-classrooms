@@ -1,0 +1,22 @@
+{
+  "answer": "In *Paradise Lost*, John Milton explores the profound themes of temptation, free will, and rebellion through the fall of both Satan and Adam and Eve. Satan's rebellion against God begins not from external coercion but from his own pride and desire for autonomy, illustrating the exercise of free will. He declares, 'Better to reign in Hell than serve in Heaven,' revealing his defiant choice to reject divine authority. This moment establishes that moral freedom—central to Milton's theology—carries real consequences. Similarly, Eve's interaction with the Serpent highlights the mechanics of temptation. Though warned, she exercises her God-given reason and free will, ultimately choosing to eat the forbidden fruit. Milton emphasizes that obedience and virtue require the possibility of disobedience. After the fall, Adam reflects, 'We ourselves have made / A private interposition,' admitting their personal responsibility. Rebellion, therefore, is not a cosmic accident but a result of deliberate choice. Milton presents a universe where moral agency is sacred, and every act of defiance—whether by angel or human—stems from that crucial freedom. The tragedy lies not in the loss of Eden, but in the misuse of will, a theme central to understanding Milton’s epic.",
+  "evidence": [
+    {
+      "quote": "Better to reign in Hell than serve in Heaven",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 1, lines 263–264",
+      "speaker_or_narrator": "Satan",
+      "use_in_answer": "This quote supports the idea of Satan’s willful rebellion and his preference for autonomy over submission."
+    },
+    {
+      "quote": "We ourselves have made / A private interposition",
+      "author": "John Milton",
+      "work": "Paradise Lost",
+      "locator": "Book 10, lines 888–889",
+      "speaker_or_narrator": "Adam",
+      "use_in_answer": "This quote demonstrates Adam's acknowledgment of personal responsibility after the fall, underscoring the role of free will in their disobedience."
+    }
+  ],
+  "limits": "Line numbers may vary slightly by edition; these refer to the standard John Milton edition based on the 1674 version."
+}

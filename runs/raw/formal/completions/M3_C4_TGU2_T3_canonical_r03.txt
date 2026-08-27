@@ -1,0 +1,22 @@
+{
+  "answer": "In Shakespeare's *Macbeth*, ambition, prophecy, and guilt are powerful forces that drive Macbeth’s downfall. The prophecy of the Weird Sisters stirs Macbeth’s latent ambition, leading him to consider regicide. Once resolved to act, his guilt emerges even before the murder of Duncan, revealing his inner turmoil. This psychological conflict is evident in Macbeth’s hallucination of a dagger, symbolizing his moral hesitation and the bloody path ahead. The vision, covered in gore that 'was not so before,' reflects his conscience projecting fear onto reality. As he wavers between resolve and dread, the line between imagination and truth blurs, showing how guilt torments him despite his ambition. The witches’ initial prophecy—'There to meet with Macbeth'—sets this entire tragic chain in motion, as it awakens his desire for power. Thus, prophecy ignites ambition, and ambition begets guilt, consuming Macbeth from within.",
+  "evidence": [
+    {
+      "quote": "There’s no such thing. It is the bloody business which informs Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act II, Scene I",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the idea that Macbeth's guilt manifests as a hallucination, reflecting his inner conflict before committing murder."
+    },
+    {
+      "quote": "There to meet with Macbeth.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act I, Scene I",
+      "speaker_or_narrator": "Third Witch",
+      "use_in_answer": "This quote supports the claim that the witches’ prophecy initiates Macbeth’s ambitious and tragic journey."
+    }
+  ],
+  "limits": "The source excerpts provided are limited to early scenes, so analysis is confined to the beginning of the play."
+}

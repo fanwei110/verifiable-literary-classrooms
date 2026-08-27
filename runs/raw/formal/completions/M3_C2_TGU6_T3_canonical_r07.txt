@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, homecoming, identity, and hospitality are deeply intertwined themes that define Greek heroic values. Odysseus’s journey to Ithaca is not merely a physical return but a restoration of identity and order. His long absence has disrupted the social fabric of his home, where suitors violate the sacred Greek custom of xenia, or hospitality, by consuming his wealth and pursuing his wife. True hospitality, in this world, reflects moral integrity and respect for the gods. When Odysseus finally returns in disguise, he is tested by those he loves, highlighting how identity must be proven through recognition and loyalty. This is clear when Athena affirms, 'There is no one more shrewd or more knowing than you,' praising his enduring cleverness even in obscurity. His reunion with Penelope further underscores the theme: after years apart, she tests him by speaking of their marital bed, a secret only he would know. His emotional response — 'Why, woman, you infuriate me!' — reveals not anger but the deep wound of being unrecognized in his own home. Only through truth can hospitality be restored and identity confirmed. The poem ultimately shows that returning home requires more than location—it demands recognition, loyalty, and the reestablishment of rightful order.",
+  "evidence": [
+    {
+      "quote": "There is no one more shrewd or more knowing than you",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 13",
+      "speaker_or_narrator": "Athena",
+      "use_in_answer": "This quote supports Athena's acknowledgment of Odysseus's enduring identity and intelligence despite his disguised appearance."
+    },
+    {
+      "quote": "Why, woman, you infuriate me!",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 23",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote captures Odysseus’s emotional reaction when Penelope tests his identity, highlighting the tension between recognition and homecoming."
+    }
+  ],
+  "limits": "Quotations are based on Robert Fagles's translation of The Odyssey; phrasing may vary in other versions."
+}

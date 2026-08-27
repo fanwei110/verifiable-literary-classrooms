@@ -1,0 +1,22 @@
+{
+  "answer": "In *Pride and Prejudice*, first impressions are shown to be dangerously misleading, especially when influenced by class assumptions and social expectations. Elizabeth Bennet initially judges Darcy as proud and unkind based on his distant behavior at a ball, while she is misled by Wickham’s charm, failing to see his dishonesty. These errors stem partly from rigid class structures—Darcy’s high social standing makes his reserve seem arrogant, while Wickham’s affable manner disarms suspicion despite his lower status. Marriage, too, is entangled with class and perception; Mrs. Bennet’s haste to secure wealthy husbands for her daughters reflects the economic realities women faced. Elizabeth’s growth comes when she reflects, \"How despicably have I acted!... I, who have prided myself on my discernment!\" Realizing her vanity clouded her judgment, she begins to reassess both Darcy and herself. Similarly, Darcy acknowledges his own pride and revises his behavior, showing that mutual respect, not first impressions, grounds a true marriage. The novel ultimately argues that overcoming prejudice and class-based assumptions is essential for personal integrity and lasting love.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This quote supports the societal pressure surrounding marriage and how wealth and class shape expectations around matrimony."
+    },
+    {
+      "quote": "How despicably have I acted!... I, who have prided myself on my discernment!",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter LVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This quote illustrates Elizabeth’s realization that her first impressions were flawed due to personal bias and vanity."
+    }
+  ],
+  "limits": "The provided source windows are fragmented, but the two key quotations are present and correctly attributed."
+}

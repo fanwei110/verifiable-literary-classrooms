@@ -1,0 +1,22 @@
+{
+  "answer": "Welcome, class. Today’s mini-lesson connects first impressions, class, and marriage in Jane Austen’s *Pride and Prejudice*. The novel’s famous opening immediately satirizes the economic basis of courtship: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” This ironic statement exposes a society where wealthy bachelors are seen as property to be claimed by families eager to secure status through marriage. First impressions here are shaped entirely by class and financial interest, not by genuine character.\n\nElizabeth Bennet, however, prides herself on discernment—yet she too becomes a victim of hasty judgment. After reading Darcy’s letter, she confronts her own blindness: “How despicably have I acted! … Till this moment, I never knew myself.” Her self-reproach reveals how first impressions, fueled by class prejudice and wounded vanity, distorted her view of both Darcy and Wickham. Austen thus shows that marriage cannot be reduced to a transaction, but must be built on self-knowledge and corrected perceptions. The journey from the opening maxim to Elizabeth’s private epiphany maps a moral education: true marriage requires seeing past the surface of rank and charm.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This opening irony illustrates how first impressions and marriage are governed by class and economic calculation."
+    },
+    {
+      "quote": "How despicably have I acted! … Till this moment, I never knew myself.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Chapter XXXVI",
+      "speaker_or_narrator": "Elizabeth Bennet",
+      "use_in_answer": "This confession marks the collapse of Elizabeth’s class-based first impressions and her realization that authentic marriage demands self-understanding."
+    }
+  ],
+  "limits": "The locator for the second quotation is Chapter XXXVI (Volume II, Chapter XIII); the excerpt does not label it explicitly but context confirms."
+}

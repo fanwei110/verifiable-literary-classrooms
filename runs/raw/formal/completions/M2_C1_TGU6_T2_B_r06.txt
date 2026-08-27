@@ -1,0 +1,14 @@
+{
+  "answer": "The line “my name is Noman” is spoken by Odysseus to the Cyclops Polyphemus in Homer’s “Odyssey,” Book 9. After he and his men are trapped in the cave and several have been eaten, Odysseus gives the Cyclops wine and adopts the false name “Noman.” When Odysseus later blinds the sleeping giant, Polyphemus shouts that “Noman is murdering me,” and the other Cyclopes, hearing that no one is harming him, do not come to his aid, allowing Odysseus and his remaining men to escape.",
+  "evidence": [
+    {
+      "quote": "My name is Noman; for so I am called by my mother, and father, and all my friends.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 9, lines 366–367 (Butler translation)",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote confirms the exact wording, the speaker, and the tactical false naming that is the key to the escape from the Cyclops."
+    }
+  ],
+  "limits": "The name is rendered as “Nobody” or “No man” in most modern translations; the spelling “Noman” appears in older translations such as Samuel Butler’s."
+}

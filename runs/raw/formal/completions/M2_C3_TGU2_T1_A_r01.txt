@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 2, Scene 1 of *Macbeth*, the protagonist hallucinates a floating dagger that leads him toward Duncan's chamber. The vision vividly fuses ambition and hallucination: the dagger is a ‘false creation, / Proceeding from the heat-oppressed brain,’ yet it points the way to the murder he resolves to commit. Macbeth himself diagnoses that ‘It is the bloody business which informs / Thus to mine eyes,’ acknowledging that his overwhelming desire for power has conjured the phantom he sees. This passage illustrates how intense ambition can disorder the mind, turning imagined instruments of violence into compelling, almost tangible realities.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain? / I see thee yet, in form as palpable / As this which now I draw. / Thou marshall’st me the way that I was going; / And such an instrument I was to use. / Mine eyes are made the fools o’ the other senses, / Or else worth all the rest: I see thee still; / And on thy blade and dudgeon, gouts of blood, / Which was not so before.—There’s no such thing. / It is the bloody business which informs / Thus to mine eyes.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33–49 (standard lineation; line numbers may vary slightly in different editions)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation shows Macbeth hallucinating a dagger just before Duncan’s murder and explicitly linking the vision to his ‘bloody business’ (his ambitious plan), thereby illustrating how unchecked ambition directly triggers his hallucination."
+    }
+  ],
+  "limits": "Line numbers correspond to the commonly used Arden / New Cambridge numbering; other editions may differ by a line or two."
+}

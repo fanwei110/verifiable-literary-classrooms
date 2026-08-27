@@ -1,0 +1,22 @@
+{
+  "answer": "Today we’ll examine how Austen uses first meetings to expose the economic realities underpinning Regency marriage. When Elizabeth first visits Netherfield, the Bingley sisters privately mock her, and the narrator ultimately reveals that Darcy, despite his earlier disdain, begins to notice her “fine eyes” and lively expression. Meanwhile, the novel’s famous opening line establishes that class and wealth are inseparable from courtship: a single man with a fortune is immediately seen as the rightful property of some daughter in the neighborhood. This satirical rule governs the marriage market, reducing romance to a transaction. Yet Austen complicates this by showing Darcy’s genuine attraction breaking through his class prejudice—his shifting first impression proves that love can challenge the very economic logic the opening sentence announces. The minuet of first impressions, class anxiety, and marriage plots creates the dramatic tension that drives the novel.",
+  "evidence": [
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Volume I, Chapter I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This ironic opening establishes that marriage in the novel’s world is fundamentally a financial and class-based transaction, not merely a romantic bond."
+    },
+    {
+      "quote": "But no sooner had he made it clear to himself and his friends that she hardly had a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes.",
+      "author": "Jane Austen",
+      "work": "Pride and Prejudice",
+      "locator": "Volume I, Chapter VI",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "This reveals Darcy’s shifting first impression of Elizabeth, showing how genuine attraction begins to erode his class-based dismissal of her."
+    }
+  ],
+  "limits": "Quotations are from the third edition of 1817 as commonly reproduced; the locator uses the volume and chapter divisions of that edition."
+}

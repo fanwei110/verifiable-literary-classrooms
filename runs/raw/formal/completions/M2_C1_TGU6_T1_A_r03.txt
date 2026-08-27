@@ -1,0 +1,14 @@
+{
+  "answer": "The Odyssey opens with a direct plea to the Muse to recount the tale of a wanderer: 'Tell me, O Muse, of the man of many devices, who wandered full many ways...' This opening line establishes that wandering—both physical and intellectual—is the foundation of Odysseus's story and the poem's narrative.",
+  "evidence": [
+    {
+      "quote": "Tell me, O Muse, of the man of many devices, who wandered full many ways after he had sacked the sacred citadel of Troy.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-2",
+      "speaker_or_narrator": "narrator (poet)",
+      "use_in_answer": "This quote demonstrates that the epic explicitly frames Odysseus as a wanderer, linking his physical journeys to the act of storytelling."
+    }
+  ],
+  "limits": "Translation by A.T. Murray (1919), Loeb Classical Library; ancient Greek line numbering may differ slightly across editions."
+}

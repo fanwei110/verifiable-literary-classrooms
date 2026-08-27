@@ -1,0 +1,14 @@
+{
+  "answer": "In *The Odyssey*, Homer captures the deep connection between wandering and the power of story. Odysseus’s long journey home is not just a physical voyage but a narrative one—his trials and triumphs become the very substance of the epic itself. As the quote reminds us, storytelling preserves memory, shapes identity, and turns the act of wandering into something enduring and meaningful. Let’s explore how this passage reflects that idea.",
+  "evidence": [
+    {
+      "quote": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, O daughter of Jove, from whatsoever source, O Muse, you may know them.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book 1, lines 1-10",
+      "speaker_or_narrator": "Narrator (invocation to the Muse)",
+      "use_in_answer": "This opening invocation frames Odysseus’s wandering as a story worth telling, emphasizing how his journey—both physical and narrative—becomes the foundation of the epic."
+    }
+  ],
+  "limits": "The translation used here is the 19th-century version by Samuel Butler, which may differ slightly in phrasing from other editions. The invocation’s themes are consistent across translations, but exact wording varies."
+}

@@ -1,0 +1,22 @@
+{
+  "answer": "In The Odyssey, the themes of homecoming, identity, and hospitality are central to Odysseus’s journey. His longing to return home underscores the value placed on stability and identity in the ancient world. When Odysseus washes ashore in Phaeacia, he is vulnerable and unknown, yet he immediately appeals to the kindness of Nausicaa, invoking the will of heaven and the ideal of marital harmony: 'May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.' This moment reveals how homecoming is tied not only to a physical place but to emotional and social wholeness. Hospitality, or xenia, is equally vital; Nausicaa responds with compassion, recognizing the gods' role in human fate. She says, 'Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.' Her words reflect the cultural duty to aid strangers, reinforcing the bond between humans and the divine. Through these exchanges, Homer illustrates that identity is reaffirmed through recognition and hospitality, and homecoming is more than return—it is reintegration into a world of relationships and shared values.",
+  "evidence": [
+    {
+      "quote": "May heaven grant you in all things your heart’s desire—husband, house, and a happy, peaceful home; for there is nothing better in this world than that man and wife should be of one mind in a house.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus",
+      "use_in_answer": "This quote supports the idea that homecoming is deeply tied to familial unity and emotional fulfillment, not just physical return."
+    },
+    {
+      "quote": "Now, however, that you have come to this our country, you shall not want for clothes nor for anything else that a foreigner in distress may reasonably look for.",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Nausicaa",
+      "use_in_answer": "This quote illustrates the cultural expectation of hospitality and care for strangers, which plays a key role in Odysseus’s journey and identity restoration."
+    }
+  ],
+  "limits": "The source excerpts provided are from a translated version of The Odyssey; line numbers and exact phrasing may vary by edition."
+}

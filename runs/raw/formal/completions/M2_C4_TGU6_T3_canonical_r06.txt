@@ -1,0 +1,22 @@
+{
+  "answer": "In *The Odyssey*, homecoming is not merely a journey to a place but a restoration of identity, tested through the sacred code of hospitality. Odysseus’s desperate longing defines him from the outset: the epic opens by stressing that “he was longing to return to his wife and country, was detained by the goddess Calypso” (Book I). This yearning isn’t just for Ithaca’s shores; it is for his role as husband, father, and king. True homecoming restores the self. Yet the hero’s identity is also revealed and protected by the hospitality he receives. Shipwrecked and naked, Odysseus meets the Phaeacian princess Nausicaa. Rather than naming himself, he blesses her with a vision of the ideal home: “there is nothing better in this world than that man and wife should be of one mind in a house. It discomfits their enemies, makes the hearts of their friends glad, and they themselves know more about it than any one” (Book VI). In this moment, the displaced stranger speaks the deepest truth of his own identity—a husband longing for his wife’s partnership. The Phaeacians, by granting him safe passage and gifts, enact the very hospitality that will finally return him to that home. Thus, homecoming, identity, and hospitality intertwine: one’s true self is both the reason to seek home and the gift that the kindness of strangers can restore.",
+  "evidence": [
+    {
+      "quote": "he was longing to return to his wife and country, was detained by the goddess Calypso",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book I",
+      "speaker_or_narrator": "narrator",
+      "use_in_answer": "Establishes the central tension of homecoming—Odysseus’s longing for home and wife defines his identity and sets the epic’s emotional stakes."
+    },
+    {
+      "quote": "there is nothing better in this world than that man and wife should be of one mind in a house. It discomfits their enemies, makes the hearts of their friends glad, and they themselves know more about it than any one",
+      "author": "Homer",
+      "work": "The Odyssey",
+      "locator": "Book VI",
+      "speaker_or_narrator": "Odysseus to Nausicaa",
+      "use_in_answer": "Reveals that Odysseus’s understanding of home and identity is rooted in marital unity, even as a stranger relying on hospitality, linking the themes."
+    }
+  ],
+  "limits": "The excerpts are from the Samuel Butler translation, as indicated by the preface mentioning Butler and the checking of quotations. The locators 'Book I' and 'Book VI' correspond to the source windows provided."
+}

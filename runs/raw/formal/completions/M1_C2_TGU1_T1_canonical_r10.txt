@@ -1,0 +1,14 @@
+{
+  "answer": "One of the most famous reflections on mortality and hesitation in *Hamlet* comes when Hamlet considers the nature of life and death in his 'To be, or not to be' soliloquy. This passage captures his internal struggle with action versus inaction, as well as the fear of the unknown after death, which paralyzes him. Here’s the exact quotation that illustrates these themes:",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56-60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the themes of mortality and hesitation by framing life as a choice between enduring suffering or confronting it, with death as an uncertain alternative that fuels Hamlet’s inaction."
+    }
+  ],
+  "limits": "The exact line numbering may vary slightly depending on the edition of *Hamlet* used."
+}
