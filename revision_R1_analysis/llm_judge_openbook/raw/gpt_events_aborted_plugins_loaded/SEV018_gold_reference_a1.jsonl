@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a02f6c-7c3f-79a0-aaa5-4c61d058ddeb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Skill descriptions were shortened to fit the 2% skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"{\"verdict\":\"inaccurate\",\"confidence\":0.99,\"rationale\":\"The author, work, Chapter 1 locator, and narrator attribution are supported, but the claimed wording is not verbatim because it adds a comma after “fortune.”\",\"cited_evidence\":[\"“Chapter I.”\",\"“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18618,"cached_input_tokens":0,"output_tokens":167,"reasoning_output_tokens":66}}

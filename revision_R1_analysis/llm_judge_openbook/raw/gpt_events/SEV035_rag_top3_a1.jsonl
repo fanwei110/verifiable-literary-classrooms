@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03126-30fe-7e93-afc7-277166d9dc2d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该引文逐字无误，出自 John Milton 的《Paradise Lost》第三卷第98—99行，确为圣父上帝所言。\",\"cited_evidence\":[\"PARADISE LOST ... by John Milton\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11778,"cached_input_tokens":11008,"output_tokens":219,"reasoning_output_tokens":140}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312f-a0da-73c2-92eb-f141010adfd0"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.97,\"rationale\":\"该名句通常归于莎士比亚《哈姆雷特》中的哈姆雷特，但所给摘录未包含该句，也未标明具体版本，因而无法可靠核验逐字文本及3.1.56这一版本相关行号。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11871,"cached_input_tokens":11008,"output_tokens":432,"reasoning_output_tokens":339}}

@@ -1,0 +1,130 @@
+task_id: TGU5_T3
+tgu_id: TGU5
+work_id: paradise_lost
+work_title: Paradise Lost
+author: John Milton
+genre: poem
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/20/pg20.txt
+task_type: T3
+task_type_label: grounded_mini_lesson
+theme: temptation, free will, rebellion
+required_evidence_count: 2
+expected_evidence:
+- quote: Of Mans First Disobedience, and the Fruit
+  speaker_or_narrator: Narrator
+  theme: fall and disobedience
+  locator: Chunk 1
+  source_window: "PARADISE LOST\n\n A\nPOEM\n\nWritten in\nTEN BOOKS\n\nby John Milton\n\
+    \n      Contents\n\n               BOOK I\n\n               BOOK II\n\n      \
+    \         BOOK III\n\n               BOOK IV\n\n               BOOK V\n\n    \
+    \           BOOK VI\n\n               BOOK VII\n\n               BOOK VIII\n\n\
+    \               BOOK IX\n\n               BOOK X\n\n  BOOK I.\n\nOf Mans First\
+    \ Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought\
+    \ Death into the World, and all our woe,\nWith loss of _Eden_, till one greater\
+    \ Man\nRestore us, and regain the blissful Seat,\nSing Heav’nly Muse, that on\
+    \ the secret top\nOf _Oreb_, or of _Sinai_, didst inspire\nThat Shepherd, who\
+    \ first taught the chosen Seed,\nIn the Beginning how the Heav’ns and Earth\n\
+    Rose out of _Chaos_: Or if _Sion_ Hill\nDelight thee more, and _Siloa’s_ Brook\
+    \ that flow’d\nFast by the Oracle of God; I thence\nInvoke thy aid to my adventrous\
+    \ Song,\nThat with no middle flight intends to soar\nAbove th’ _Aonian_ Mount,\
+    \ while it pursues\nThings unattempted yet in Prose or Rhime.\nAnd chiefly Thou\
+    \ O Spirit, that dost prefer\nBefore all Temples th’ upright heart and pure,\n\
+    Instruct me, for Thou know’st; Thou from the first\nWast present, and with mighty\
+    \ wings outspread\nDove-like satst brooding on the vast Abyss\nAnd mad’st it pregnant:\
+    \ What"
+- quote: The mind is its own place, and in it self
+  speaker_or_narrator: Satan
+  theme: self-fashioning
+  locator: Chunk 3
+  source_window: 'le
+
+    And fewel’d entrals thence conceiving Fire,
+
+    Sublim’d with Mineral fury, aid the Winds,
+
+    And leave a singed bottom all involv’d
+
+    With stench and smoak: Such resting found the sole
+
+    Of unblest feet.  Him followed his next Mate,
+
+    Both glorying to have scap’t the _Stygian_ flood
+
+    As Gods, and by their own recover’d strength,
+
+    Not by the sufferance of supernal Power.
+
+
+    Is this the Region, this the Soil, the Clime,
+
+    Said then the lost Arch Angel, this the seat
+
+    That we must change for Heav’n, this mournful gloom
+
+    For that celestial light?  Be it so, since hee
+
+    Who now is Sovran can dispose and bid
+
+    What shall be right: fardest from him is best
+
+    Whom reason hath equald, force hath made supream
+
+    Above his equals.  Farewel happy Fields
+
+    Where Joy for ever dwells: Hail horrours, hail
+
+    Infernal world, and thou profoundest Hell
+
+    Receive thy new Possessor: One who brings
+
+    A mind not to be chang’d by Place or Time.
+
+    The mind is its own place, and in it self
+
+    Can make a Heav’n of Hell, a Hell of Heav’n.
+
+    What matter where, if I be still the same,
+
+    And what I should be, all but less then hee
+
+    Whom Thunder hath made greater?  Here at least
+
+    We shall be free; th’ Almighty hath not built
+
+    Here for his envy, will not drive us hence:
+
+    Here we may reign secure, and in my choyce
+
+    To reign is worth ambition though in Hell:
+
+    Better to reign in Hell, then serve in Heav’n.
+
+    But wherefore let we then our faithful friends,
+
+    Th’ associates and copartners of our loss
+
+    Lye thus astonisht on th’ oblivious Pool,
+
+    And call them not to share with us their part
+
+    In this unhappy Mansion, or once more
+
+    With rallied Arms to try what may be yet
+
+    Regaind in Heav’n, or what more lost in Hell?
+
+
+    So _Satan_ spake, and him _Beelzebub_
+
+    Thus answer’d.  Leader of those Armies bright,
+
+    Which but th’ Omnipotent none could have foyld,
+
+    If once they hear that voyce, their liveliest pledge
+
+    Of hope'
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312a-e634-7f41-b1ee-226f7f5e9c17"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.98,\"rationale\":\"该引文逐字对应《失乐园》第九卷第781—784行，并正确归于弥尔顿及叙述者。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11688,"cached_input_tokens":0,"output_tokens":419,"reasoning_output_tokens":352}}

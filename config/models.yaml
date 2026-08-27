@@ -1,0 +1,38 @@
+api:
+  provider: openrouter
+  base_url: https://openrouter.ai/api/v1
+  key_file_default: ../api.txt
+  key_env_var: OPENROUTER_API_KEY
+  timeout_seconds: 180
+  max_retries: 3
+  retry_backoff_seconds:
+  - 5
+  - 15
+  - 60
+models:
+  M1:
+    label: Mistral Large 2512
+    vendor: Mistral AI
+    openrouter_slug: mistralai/mistral-large-2512
+    role: international frontier model
+  M2:
+    label: DeepSeek V4 Pro
+    vendor: DeepSeek
+    openrouter_slug: deepseek/deepseek-v4-pro
+    role: cost-efficient Chinese frontier model
+  M3:
+    label: Qwen3 235B A22B
+    vendor: Alibaba Qwen
+    openrouter_slug: qwen/qwen3-235b-a22b-2507
+    role: low-cost Chinese frontier model
+decoding:
+  policy: provider_default
+  temperature: null
+  top_p: null
+  max_tokens: 2048
+prompt_language: en
+locked: true
+api_snapshot_date: '2026-06-11'
+run:
+  formal_generations: 2160
+  pilot_generations: 24

@@ -1,0 +1,46 @@
+task_id: TGU4_T1
+tgu_id: TGU4
+work_id: tale_two_cities
+work_title: A Tale of Two Cities
+author: Charles Dickens
+genre: novel
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/98/pg98.txt
+task_type: T1
+task_type_label: quotation_retrieval
+theme: historical contradiction
+required_evidence_count: 1
+expected_evidence:
+- quote: It was the best of times, it was the worst of times
+  speaker_or_narrator: Narrator
+  theme: historical contradiction
+  locator: Chapter I
+  source_window: "R XVII   One Night\n     CHAPTER XVIII  Nine Days\n     CHAPTER\
+    \ XIX    An Opinion\n     CHAPTER XX     A Plea\n     CHAPTER XXI    Echoing Footsteps\n\
+    \     CHAPTER XXII   The Sea Still Rises\n     CHAPTER XXIII  Fire Rises\n   \
+    \  CHAPTER XXIV   Drawn to the Loadstone Rock\n\n     Book the Third--the Track\
+    \ of a Storm\n\n     CHAPTER I      In Secret\n     CHAPTER II     The Grindstone\n\
+    \     CHAPTER III    The Shadow\n     CHAPTER IV     Calm in Storm\n     CHAPTER\
+    \ V      The Wood-sawyer\n     CHAPTER VI     Triumph\n     CHAPTER VII    A Knock\
+    \ at the Door\n     CHAPTER VIII   A Hand at Cards\n     CHAPTER IX     The Game\
+    \ Made\n     CHAPTER X      The Substance of the Shadow\n     CHAPTER XI     Dusk\n\
+    \     CHAPTER XII    Darkness\n     CHAPTER XIII   Fifty-two\n     CHAPTER XIV\
+    \    The Knitting Done\n     CHAPTER XV     The Footsteps Die Out For Ever\n\n\
+    Book the First--Recalled to Life\n\nCHAPTER I.\nThe Period\n\nIt was the best\
+    \ of times, it was the worst of times, it was the age of\nwisdom, it was the age\
+    \ of foolishness, it was the epoch of belief, it\nwas the epoch of incredulity,\
+    \ it was the season of Light, it was the\nseason of Darkness, it was the spring\
+    \ of hope, it was the winter of\ndespair, we had everything before us, we had\
+    \ nothing before us, we were\nall going direct to Heaven, we were all going direct\
+    \ the other way--in\nshort, the period was so far like the present period, that\
+    \ some of its\nnoisiest authorities insisted on its being received, for good or\
+    \ for\nevil, in the superlative degree of comparison only.\n\nThere were a king\
+    \ with a large jaw and a queen with a plain face, on the\nthrone of England; there\
+    \ were a king with a large jaw and a queen with\na fair face, on the throne of\
+    \ France. In both countries it was clearer\nthan crystal to the lords of the State\
+    \ preserves of loaves and fishes,\nthat things in general were settled for ever.\n\
+    \nIt w"
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

@@ -1,0 +1,39 @@
+task_id: TGU5_T1
+tgu_id: TGU5
+work_id: paradise_lost
+work_title: Paradise Lost
+author: John Milton
+genre: poem
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/20/pg20.txt
+task_type: T1
+task_type_label: quotation_retrieval
+theme: fall and disobedience
+required_evidence_count: 1
+expected_evidence:
+- quote: Of Mans First Disobedience, and the Fruit
+  speaker_or_narrator: Narrator
+  theme: fall and disobedience
+  locator: Chunk 1
+  source_window: "PARADISE LOST\n\n A\nPOEM\n\nWritten in\nTEN BOOKS\n\nby John Milton\n\
+    \n      Contents\n\n               BOOK I\n\n               BOOK II\n\n      \
+    \         BOOK III\n\n               BOOK IV\n\n               BOOK V\n\n    \
+    \           BOOK VI\n\n               BOOK VII\n\n               BOOK VIII\n\n\
+    \               BOOK IX\n\n               BOOK X\n\n  BOOK I.\n\nOf Mans First\
+    \ Disobedience, and the Fruit\nOf that Forbidden Tree, whose mortal tast\nBrought\
+    \ Death into the World, and all our woe,\nWith loss of _Eden_, till one greater\
+    \ Man\nRestore us, and regain the blissful Seat,\nSing Heav’nly Muse, that on\
+    \ the secret top\nOf _Oreb_, or of _Sinai_, didst inspire\nThat Shepherd, who\
+    \ first taught the chosen Seed,\nIn the Beginning how the Heav’ns and Earth\n\
+    Rose out of _Chaos_: Or if _Sion_ Hill\nDelight thee more, and _Siloa’s_ Brook\
+    \ that flow’d\nFast by the Oracle of God; I thence\nInvoke thy aid to my adventrous\
+    \ Song,\nThat with no middle flight intends to soar\nAbove th’ _Aonian_ Mount,\
+    \ while it pursues\nThings unattempted yet in Prose or Rhime.\nAnd chiefly Thou\
+    \ O Spirit, that dost prefer\nBefore all Temples th’ upright heart and pure,\n\
+    Instruct me, for Thou know’st; Thou from the first\nWast present, and with mighty\
+    \ wings outspread\nDove-like satst brooding on the vast Abyss\nAnd mad’st it pregnant:\
+    \ What"
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

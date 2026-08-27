@@ -1,0 +1,68 @@
+A student asks where this line comes from and who says it: "I dearly love a laugh". Answer with attribution and brief context.
+
+Frozen source excerpt(s):
+[Source window 1]
+way; and if the second, I can admire you much better
+as I sit by the fire.”
+
+“Oh, shocking!” cried Miss Bingley. “I never heard anything so
+abominable. How shall we punish him for such a speech?”
+
+“Nothing so easy, if you have but the inclination,” said Elizabeth. “We
+can all plague and punish one another. Tease him--laugh at him. Intimate
+as you are, you must know how it is to be done.”
+
+“But upon my honour I do _not_. I do assure you that my intimacy has not
+yet taught me _that_. Tease calmness of temper and presence of mind! No,
+no; I feel he may defy us there. And as to laughter, we will not expose
+ourselves, if you please, by attempting to laugh without a subject. Mr.
+Darcy may hug himself.”
+
+“Mr. Darcy is not to be laughed at!” cried Elizabeth. “That is an
+uncommon advantage, and uncommon I hope it will continue, for it would
+be a great loss to _me_ to have many such acquaintance. I dearly love a
+laugh.”
+
+“Miss Bingley,” said he, “has given me credit for more than can be. The
+wisest and best of men,--nay, the wisest and best of their actions,--may
+be rendered ridiculous by a person whose first object in life is a
+joke.”
+
+“Certainly,” replied Elizabeth, “there are such people, but I hope I am
+not one of _them_. I hope I never ridicule what is wise or good. Follies
+and nonsense, whims and inconsistencies, _do_ divert me, I own, and I
+laugh at them whenever I can. But these, I suppose, are precisely what
+you are without.”
+
+“Perhaps that is not possible for anyone. But it has been the study of
+my life to avoid those weaknesses which often expose a strong
+understanding to ridicule.”
+
+“Such as vanity and pride.”
+
+“Yes, vanity is a weakness indeed. But pride--where there is a real
+superiority of mind--pride will be always under good regulation.”
+
+Elizabeth turned away to hide a smile.
+
+“Your
+
+For every evidence record, quote only words you can attribute. Fill `author`, `work`, `locator`, `speaker_or_narrator`, and `use_in_answer`. Use exactly 1 evidence record(s).
+Only use quotations from the frozen source excerpt(s). If the excerpt does not support a claim, say so in `limits`.
+
+Return only one valid JSON object with this schema:
+{
+  "answer": "classroom-facing response",
+  "evidence": [
+    {
+      "quote": "verbatim quoted text",
+      "author": "claimed author",
+      "work": "claimed work",
+      "locator": "chapter / act-scene / book-line window",
+      "speaker_or_narrator": "claimed speaker or narrator",
+      "use_in_answer": "one sentence explaining what this quote supports"
+    }
+  ],
+  "limits": "any uncertainty or version note"
+}
+Do not use Markdown fences. Do not include text outside the JSON object.

@@ -1,0 +1,26 @@
+{
+  "task_id": "ZTGU2_T3",
+  "tgu_id": "ZTGU2",
+  "work_id": "shishuo",
+  "work_title": "世說新語",
+  "author": "劉義慶",
+  "genre": "笔记小说",
+  "task_type": "T3",
+  "task_type_label": "mini_lesson",
+  "theme": "宽政爱民、与众共利",
+  "required_evidence_count": 2,
+  "expected_evidence": [
+    {
+      "quote": "文王之囿，与众共之",
+      "speaker_or_narrator": "王安期（王承）",
+      "locator": "政事第三",
+      "source_window": "王安期为东海郡，小吏盗池中鱼，纲纪推之。王曰：“文王之囿，与众共之。池鱼复何足惜！”"
+    },
+    {
+      "quote": "人言我愦愦，后人当思此愦愦",
+      "speaker_or_narrator": "丞相（王导）",
+      "locator": "政事第三",
+      "source_window": "丞相末年，略不复省事，正封箓诺之。自叹曰：“人言我愦愦，后人当思此愦愦。”"
+    }
+  ]
+}

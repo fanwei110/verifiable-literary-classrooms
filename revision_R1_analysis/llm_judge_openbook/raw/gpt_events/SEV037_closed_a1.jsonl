@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0313a-cd78-7c33-8795-99659db48ee6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The sentence is spoken verbatim by Elizabeth Bennet in Jane Austen’s Pride and Prejudice, Volume I, Chapter 11.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11302,"cached_input_tokens":11008,"output_tokens":232,"reasoning_output_tokens":172}}

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the accompanying IEEE Access article."
+title: "Replication package for: Toward Verifiable Literary Classrooms: Deterministic Corpus-Anchored Verification, Grounding, and In-Loop Repair for LLM Quotation Fidelity"
+abstract: >-
+  Frozen SHA256-anchored corpora, task and prompt files, the deterministic
+  corpus-anchored verifier, the verification-repair harness, retrieval baselines,
+  the audit-only guardrail, frozen run logs, the preregistration, the
+  non-destructive locator-correction layer with its acceptance-check script, and
+  the analysis scripts that regenerate every headline number, table, and figure
+  in the article, including the GEE appendix with its exact analysis sample, the
+  factor-level and equal-budget policy-mixing analyses, the quotation-length
+  distribution audit, and the complete records of the 360-judgment two-judge
+  three-evidence-condition experiment.
+type: dataset
+authors:
+  - family-names: Guo
+    given-names: Ping
+  - family-names: Fan
+    given-names: Wei
+  - family-names: Yang
+    given-names: Jiaqiang
+  - family-names: Zhang
+    given-names: Guangqian
+version: "1.0.0"
+license: MIT
+keywords:
+  - large language models
+  - quotation fidelity
+  - deterministic verification
+  - literary education
+  - reproducibility
+# 注意：url / repository-code / doi 三个字段在建仓与铸造 DOI 之后填写。
+# 此处刻意不写占位符字符串——GitHub release 快照不可变，Zenodo 会解析本文件
+# 生成记录元数据，`AUTHOR_TO_PROVIDE_...` 一类字面量会被永久铸进存档。
+# 回填顺序见 REPOSITORY_SETUP.md。

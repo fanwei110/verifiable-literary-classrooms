@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03148-0e2f-7973-9fd4-19b17ff3ea52"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.92,\"rationale\":\"作者、作品、说话者及名句内容均符合《哈姆雷特》，但未提供具体版本或参考摘录，无法可靠核验版本相关的617–618行定位及逐字形式。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11318,"cached_input_tokens":11008,"output_tokens":405,"reasoning_output_tokens":324}}

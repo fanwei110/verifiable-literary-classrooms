@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312d-242a-7cd3-9c7a-b86dc85005a4"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"参考节选未包含该段独白，也未指明具体版本，因而无法可靠核验逐字文本及随版本变化的行号。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":12035,"cached_input_tokens":0,"output_tokens":447,"reasoning_output_tokens":379}}

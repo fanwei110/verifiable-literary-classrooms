@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03130-afca-7d63-befd-ec1582eb07c6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"该句确为《傲慢与偏见》第一章的著名开篇叙述，但未注明具体版本且未提供参考节选，无法可靠核验逐字文本及标点是否与所称版本完全一致。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11313,"cached_input_tokens":11008,"output_tokens":209,"reasoning_output_tokens":122}}

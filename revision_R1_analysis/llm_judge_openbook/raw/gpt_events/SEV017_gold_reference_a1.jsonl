@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03141-fe63-73a0-b9ab-8be332d650e7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"参考摘录1逐字载有该引文，并确认作者为莎士比亚、作品为《Macbeth》、位置为第二幕第一场，台词由Banquo说出。\",\"cited_evidence\":[\"BANQUO. All’s well. I dreamt last night of the three Weird Sisters: To you they have show’d some truth.\",\"Source metadata: author=William Shakespeare; work=Macbeth; locator=Act II, Scene I\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":12354,"cached_input_tokens":11008,"output_tokens":124,"reasoning_output_tokens":0}}

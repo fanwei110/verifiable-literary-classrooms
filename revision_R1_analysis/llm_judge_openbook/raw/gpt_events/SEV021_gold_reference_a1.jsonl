@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03121-f013-7292-8002-c874ac2ca020"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"参考节选支持作者、作品、场次和说话者归属，但未包含所引段落，且未指明具体版本，无法核验“pitch”等版本异文及行号是否逐字准确。\",\"cited_evidence\":[\"Source metadata: author=William Shakespeare; work=Hamlet; locator=Act III, Scene I; speaker_or_narrator=Hamlet\",\"Enter Hamlet. HAMLET. To be, or not to be, that is the question:\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11946,"cached_input_tokens":11008,"output_tokens":402,"reasoning_output_tokens":269}}

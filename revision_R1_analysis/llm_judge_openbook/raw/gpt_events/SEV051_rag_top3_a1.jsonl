@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03152-5da9-7ac1-823e-4abee0d01824"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.96,\"rationale\":\"该段确为《哈姆雷特》中哈姆雷特的独白，但所给参考摘录不含引文且未指明具体版本，因而无法可靠核验逐字文本及版本相关行号。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":12123,"cached_input_tokens":11008,"output_tokens":227,"reasoning_output_tokens":143}}

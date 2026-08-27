@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03133-592d-7731-beec-bf5f291f83c9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该引文逐字出自莎士比亚《哈姆雷特》第二幕第二场，由哈姆雷特说出。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11888,"cached_input_tokens":11008,"output_tokens":199,"reasoning_output_tokens":135}}

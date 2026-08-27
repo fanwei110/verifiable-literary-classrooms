@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312e-c0a9-72a2-9931-4d7989d43d4d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该句确为简·奥斯汀《傲慢与偏见》第一章开篇由叙述者陈述的原文。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11311,"cached_input_tokens":11008,"output_tokens":184,"reasoning_output_tokens":116}}

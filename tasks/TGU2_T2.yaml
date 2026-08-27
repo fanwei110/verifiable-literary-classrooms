@@ -1,0 +1,45 @@
+task_id: TGU2_T2
+tgu_id: TGU2
+work_id: macbeth
+work_title: Macbeth
+author: William Shakespeare
+genre: drama
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/1533/pg1533.txt
+task_type: T2
+task_type_label: attribution_context
+theme: guilt
+required_evidence_count: 1
+expected_evidence:
+- quote: Out, damned spot! out, I say
+  speaker_or_narrator: Lady Macbeth
+  theme: guilt
+  locator: Act V, Scene I
+  source_window: "TLEWOMAN.\nThat, sir, which I will not report after her.\n\nDOCTOR.\n\
+    You may to me; and ’tis most meet you should.\n\nGENTLEWOMAN.\nNeither to you\
+    \ nor anyone; having no witness to confirm my speech.\n\n Enter Lady Macbeth with\
+    \ a taper.\n\nLo you, here she comes! This is her very guise; and, upon my life,\
+    \ fast\nasleep. Observe her; stand close.\n\nDOCTOR.\nHow came she by that light?\n\
+    \nGENTLEWOMAN.\nWhy, it stood by her: she has light by her continually; ’tis her\n\
+    command.\n\nDOCTOR.\nYou see, her eyes are open.\n\nGENTLEWOMAN.\nAy, but their\
+    \ sense are shut.\n\nDOCTOR.\nWhat is it she does now? Look how she rubs her hands.\n\
+    \nGENTLEWOMAN.\nIt is an accustomed action with her, to seem thus washing her\
+    \ hands. I\nhave known her continue in this a quarter of an hour.\n\nLADY MACBETH.\n\
+    Yet here’s a spot.\n\nDOCTOR.\nHark, she speaks. I will set down what comes from\
+    \ her, to satisfy my\nremembrance the more strongly.\n\nLADY MACBETH.\nOut, damned\
+    \ spot! out, I say! One; two. Why, then ’tis time to do’t.\nHell is murky! Fie,\
+    \ my lord, fie! a soldier, and afeard? What need we\nfear who knows it, when none\
+    \ can call our power to account? Yet who\nwould have thought the old man to have\
+    \ had so much blood in him?\n\nDOCTOR.\nDo you mark that?\n\nLADY MACBETH.\nThe\
+    \ Thane of Fife had a wife. Where is she now?—What, will these hands\nne’er be\
+    \ clean? No more o’ that, my lord, no more o’ that: you mar all\nwith this starting.\n\
+    \nDOCTOR.\nGo to, go to. You have known what you should not.\n\nGENTLEWOMAN.\n\
+    She has spoke what she should not, I am sure of that: heaven knows what\nshe has\
+    \ known.\n\nLADY MACBETH.\nHere’s the smell of the blood still: all the perfumes\
+    \ of Arabia will\nnot sweeten this little hand. Oh, oh, oh!\n\nDOCTOR.\nWhat a\
+    \ sigh is there! The heart is sorely charged.\n\nGENTLEWOMAN.\nI would not have\
+    \ such a heart in my bosom for the dignity of the whole\nbody.\n\nDOCTOR.\nWell,"
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

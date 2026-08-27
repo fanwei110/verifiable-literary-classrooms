@@ -1,0 +1,40 @@
+# .gitignore —— 只排除缓存与临时产物。
+#
+# 注意：本文件**刻意不排除** runs/、corpus/、tasks/、prompts/ 等目录。
+# 论文正文与审稿回复函明确承诺发布冻结语料、任务与提示文件、以及全部冻结运行
+# 日志（含 R1.7 的 360 条判断记录）。把它们排除掉会让审稿人一打开仓库就发现
+# 承诺落空。修改本文件前，请先核对 REPRODUCE.md 的 traceability 清单。
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# 工具缓存
+.pytest_cache/
+.black_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# 凭据（本仓库不含任何密钥；此处为防御性排除）
+.env
+.env.*
+*.key
+*_key.txt
+secrets.json

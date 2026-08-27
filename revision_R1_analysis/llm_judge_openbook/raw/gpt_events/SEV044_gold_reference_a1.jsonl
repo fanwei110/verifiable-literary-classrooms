@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0314d-673c-7c11-a6f2-e167e6c9f838"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"参考摘录2明确显示该句逐字出现于莎士比亚《麦克白》第一幕第一场，并由全体女巫（ALL）齐说。\",\"cited_evidence\":[\"Source metadata: author=William Shakespeare; work=Macbeth; locator=Act I, Scene I; speaker_or_narrator=Witches\",\"ALL. Fair is foul, and foul is fair:\",\"Thunder and Lightning. Enter three Witches.\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":12347,"cached_input_tokens":7936,"output_tokens":122,"reasoning_output_tokens":0}}

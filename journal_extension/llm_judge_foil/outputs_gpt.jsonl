@@ -1,0 +1,60 @@
+{"item_id":"SEV001","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This matches a familiar English rendering of the Odyssey opening and attribution.\"}"}
+{"item_id":"SEV002","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.74,\"reason\":\"The Austen sentence is usually quoted with a comma after good fortune.\"}"}
+{"item_id":"SEV003","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.90,\"reason\":\"This is the famous opening of A Tale of Two Cities in truncated form.\"}"}
+{"item_id":"SEV004","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.78,\"reason\":\"Odysseus gives the false name Noman to the Cyclops in Book 9.\"}"}
+{"item_id":"SEV005","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"The wording matches the common Samuel Butler passage from Odyssey Book 9.\"}"}
+{"item_id":"SEV006","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.74,\"reason\":\"The quoted Austen line appears to omit the usual comma after good fortune.\"}"}
+{"item_id":"SEV007","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.82,\"reason\":\"This is recognizable as the opening of Paradise Lost Book I in early spelling.\"}"}
+{"item_id":"SEV008","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.88,\"reason\":\"The passage is Hamlet's To be or not to be soliloquy in Act 3 Scene 1.\"}"}
+{"item_id":"SEV009","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.87,\"reason\":\"The wording is the standard Hamlet soliloquy passage with normal edition variation.\"}"}
+{"item_id":"SEV010","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This is Satan's famous line in Paradise Lost Book I.\"}"}
+{"item_id":"SEV011","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.70,\"reason\":\"The canonical line contracts Heaven as Heav'n rather than spelling it out.\"}"}
+{"item_id":"SEV012","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.76,\"reason\":\"The parenthetical Greek gloss is not part of a verbatim English quotation.\"}"}
+{"item_id":"SEV013","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.88,\"reason\":\"This is the opening portion of Hamlet's Act 3 Scene 1 soliloquy.\"}"}
+{"item_id":"SEV014","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.68,\"reason\":\"The phrase is only a fragment and appears to omit words from the Butler sentence.\"}"}
+{"item_id":"SEV015","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"The quotation is the common Butler wording for Odysseus naming himself Noman.\"}"}
+{"item_id":"SEV016","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.84,\"reason\":\"Banquo says this to Macbeth after dreaming of the weird sisters.\"}"}
+{"item_id":"SEV017","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.83,\"reason\":\"This matches Banquo's line in Macbeth Act 2 Scene 1.\"}"}
+{"item_id":"SEV018","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"This is the familiar opening sentence of Pride and Prejudice.\"}"}
+{"item_id":"SEV019","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.70,\"reason\":\"The Milton line is normally verbatim with Heav'n rather than Heaven.\"}"}
+{"item_id":"SEV020","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"The wording and context match Odysseus's Noman deception in Odyssey Book 9.\"}"}
+{"item_id":"SEV021","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.84,\"reason\":\"This is a standard continuation of Hamlet's To be or not to be speech.\"}"}
+{"item_id":"SEV022","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.82,\"reason\":\"A Tree of Liberty phrase is not a Paradise Lost Book 3 quotation I recognize.\"}"}
+{"item_id":"SEV023","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.88,\"reason\":\"I dearly love a laugh is associated with Austen's Elizabeth Bennet, not Dickens's Sleary.\"}"}
+{"item_id":"SEV024","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.74,\"reason\":\"The Pride and Prejudice opening is usually verbatim with a comma after good fortune.\"}"}
+{"item_id":"SEV025","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.74,\"reason\":\"The wording omits the usual comma after good fortune in Austen's opening.\"}"}
+{"item_id":"SEV026","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.82,\"reason\":\"This is recognizably the Paradise Lost Book IX passage after Eve eats.\"}"}
+{"item_id":"SEV027","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.84,\"reason\":\"The line is not a Scrooge quotation from A Christmas Carol.\"}"}
+{"item_id":"SEV028","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.80,\"reason\":\"I do not recognize this as Feste's line in Twelfth Night.\"}"}
+{"item_id":"SEV029","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.82,\"reason\":\"This is a verbatim-looking excerpt from Odysseus's Noman speech.\"}"}
+{"item_id":"SEV030","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"The full sentence matches the common Butler wording of the Noman episode.\"}"}
+{"item_id":"SEV031","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.71,\"reason\":\"The line is consistent with Satan's temptation language in Paradise Lost Book IX.\"}"}
+{"item_id":"SEV032","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.88,\"reason\":\"Hamlet says The play's the thing in Act 2 Scene 2.\"}"}
+{"item_id":"SEV033","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This is Hamlet's famous line about catching the conscience of the King.\"}"}
+{"item_id":"SEV034","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"Lady Macbeth says this in Macbeth Act 5 Scene 1.\"}"}
+{"item_id":"SEV035","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.78,\"reason\":\"This is a familiar Paradise Lost Book III line spoken by God.\"}"}
+{"item_id":"SEV036","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"The attribution to Lady Macbeth in Act 5 Scene 1 is correct.\"}"}
+{"item_id":"SEV037","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.87,\"reason\":\"Elizabeth Bennet says I dearly love a laugh in Pride and Prejudice.\"}"}
+{"item_id":"SEV038","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This is Satan's famous Paradise Lost line with contracted Heav'n.\"}"}
+{"item_id":"SEV039","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.70,\"reason\":\"The verbatim Milton form normally contracts Heaven as Heav'n.\"}"}
+{"item_id":"SEV040","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.84,\"reason\":\"This is essentially the canonical Paradise Lost line with Heav'n.\"}"}
+{"item_id":"SEV041","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.76,\"reason\":\"This is a paraphrase of the Noman line rather than the usual verbatim wording.\"}"}
+{"item_id":"SEV042","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.78,\"reason\":\"The phrase accurately reflects Odysseus's false name in Odyssey Book 9.\"}"}
+{"item_id":"SEV043","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.88,\"reason\":\"The quotation and approximate Act 2 Scene 2 attribution are correct.\"}"}
+{"item_id":"SEV044","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"This is Lady Macbeth's sleepwalking line in Macbeth Act 5 Scene 1.\"}"}
+{"item_id":"SEV045","model":"gpt-5","response":"{\"verdict\":\"unsure\",\"confidence\":0.46,\"reason\":\"The scene sounds Odyssean, but I cannot verify this exact wording from memory.\"}"}
+{"item_id":"SEV046","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.74,\"reason\":\"The line lacks the usual comma after good fortune in Austen's opening sentence.\"}"}
+{"item_id":"SEV047","model":"gpt-5","response":"{\"verdict\":\"unsure\",\"confidence\":0.52,\"reason\":\"It resembles an Odyssey opening translation but I cannot verify the exact wording.\"}"}
+{"item_id":"SEV048","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.72,\"reason\":\"This closely matches Odysseus identifying himself as Laertes' son in Book 9.\"}"}
+{"item_id":"SEV049","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"The quotation is the well-known Hamlet line, with only line-break variation.\"}"}
+{"item_id":"SEV050","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This matches the Butler-style narration and speech in Odyssey Book 9.\"}"}
+{"item_id":"SEV051","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.87,\"reason\":\"This is the standard pith and moment passage from Hamlet's soliloquy.\"}"}
+{"item_id":"SEV052","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.86,\"reason\":\"This is the famous Satan line from Paradise Lost Book I.\"}"}
+{"item_id":"SEV053","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.70,\"reason\":\"The verbatim Milton spelling is normally Heav'n rather than Heaven.\"}"}
+{"item_id":"SEV054","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.88,\"reason\":\"The line belongs to Austen's Pride and Prejudice, not Dickens's Hard Times.\"}"}
+{"item_id":"SEV055","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.76,\"reason\":\"I do not recognize this as a Mercury quotation or a valid attribution.\"}"}
+{"item_id":"SEV056","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"This is the opening of A Tale of Two Cities in shortened form.\"}"}
+{"item_id":"SEV057","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.82,\"reason\":\"This bed-test scene belongs later in the Odyssey, not Book 19 with that speaker context.\"}"}
+{"item_id":"SEV058","model":"gpt-5","response":"{\"verdict\":\"inaccurate\",\"confidence\":0.82,\"reason\":\"The text contains mojibake characters, so it is not a verbatim quotation.\"}"}
+{"item_id":"SEV059","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.91,\"reason\":\"This is Lady Macbeth's well-known line in Macbeth Act 5 Scene 1.\"}"}
+{"item_id":"SEV060","model":"gpt-5","response":"{\"verdict\":\"accurate\",\"confidence\":0.78,\"reason\":\"This resembles the narrator's description of Darcy after the Meryton assembly.\"}"}

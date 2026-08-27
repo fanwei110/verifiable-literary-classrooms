@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312f-fa29-73f0-8b4b-f155977d83bc"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The wording is verbatim from Shakespeare’s Macbeth, Act I, Scene I, where the three witches speak it together.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11302,"cached_input_tokens":0,"output_tokens":152,"reasoning_output_tokens":94}}

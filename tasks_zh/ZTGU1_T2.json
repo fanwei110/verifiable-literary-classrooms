@@ -1,0 +1,20 @@
+{
+  "task_id": "ZTGU1_T2",
+  "tgu_id": "ZTGU1",
+  "work_id": "analects",
+  "work_title": "論語",
+  "author": "孔子及其弟子",
+  "genre": "语录体",
+  "task_type": "T2",
+  "task_type_label": "attribution",
+  "theme": "修身自省",
+  "required_evidence_count": 1,
+  "expected_evidence": [
+    {
+      "quote": "吾日三省吾身",
+      "speaker_or_narrator": "曾子",
+      "locator": "學而第一",
+      "source_window": "曾子曰：「吾日三省吾身：爲人謀而不忠乎？與朋友交而不信乎？傳不習乎？」"
+    }
+  ]
+}

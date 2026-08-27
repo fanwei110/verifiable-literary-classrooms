@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03125-ffa2-7120-997c-c6a485a79025"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":1.0,\"rationale\":\"参考摘录逐字载有该引文，并明确将其归于莎士比亚《麦克白》第五幕第一场中的麦克白夫人。\",\"cited_evidence\":[\"Source metadata: author=William Shakespeare; work=Macbeth; locator=Act V, Scene I; speaker_or_narrator=Lady Macbeth\",\"LADY MACBETH. Out, damned spot! out, I say!\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11864,"cached_input_tokens":11008,"output_tokens":117,"reasoning_output_tokens":0}}

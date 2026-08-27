@@ -1,0 +1,20 @@
+# .gitattributes —— 全仓库禁用行尾转换。
+#
+# 为什么必须这样：本文的核心主张是「冻结的、SHA256 锚定的语料」，
+# MANIFEST_SHA256.txt 为 2,500 余个文件登记了逐字节哈希，其中包括
+# corpus/、corpus_zh/ 的冻结文本与 runs/ 下的全部运行日志。
+#
+# 若允许 git 做 CRLF↔LF 规范化，在 Windows 上克隆后重算的 SHA256 将与清单
+# 不符，审稿人据此就能判定「SHA256 锚定」不成立。因此对所有文件关闭 text
+# 属性，让每个字节按存档时的原样进出仓库。
+#
+# 修改本文件前请先想清楚：它保护的是本文最核心的可验证性主张。
+
+* -text
+
+# 二进制类型显式标注，避免任何工具尝试做文本处理
+*.png  binary
+*.pdf  binary
+*.zip  binary
+*.pfb  binary
+*.tfm  binary

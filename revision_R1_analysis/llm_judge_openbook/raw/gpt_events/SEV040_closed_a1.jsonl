@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312c-0689-7e83-b073-66e52e533cbf"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"The attribution to Milton, Paradise Lost, Book 1, line 263, and Satan is well known, but no edition or reference excerpt is supplied to establish the exact edition-specific wording.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11302,"cached_input_tokens":7936,"output_tokens":319,"reasoning_output_tokens":247}}

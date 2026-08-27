@@ -1,0 +1,48 @@
+{
+  "status": "pass",
+  "formal_records": 360,
+  "manifest_records": 180,
+  "gpt": {
+    "records": 180,
+    "condition_counts": {
+      "closed": 60,
+      "rag_top3": 60,
+      "gold_reference": 60
+    },
+    "unique_thread_ids": 180,
+    "tool_calls_in_events": 0,
+    "error_events": 0,
+    "model_id": "gpt-5.6-sol",
+    "codex_cli_version": "codex-cli 0.144.6",
+    "subscription_cost_usd": null,
+    "usage": {
+      "input_tokens": 2113429,
+      "cached_input_tokens": 1600512,
+      "output_tokens": 47514,
+      "reasoning_output_tokens": 30144
+    },
+    "subscription_limit_interruptions": 1
+  },
+  "deepseek": {
+    "records": 180,
+    "condition_counts": {
+      "closed": 60,
+      "rag_top3": 60,
+      "gold_reference": 60
+    },
+    "model_id": "deepseek-v4-pro",
+    "max_tokens": 65536,
+    "system_fingerprints": [
+      "a307abda487cd1b463329ccb945ce396"
+    ],
+    "billed_attempts_including_smoke_and_aborted": 369,
+    "cost_usd_tariff": 1.590005824,
+    "cost_usd_peak_conservative": 3.180011648,
+    "budget_usd": 10.0,
+    "formal_usage": {
+      "prompt_tokens": 147713,
+      "completion_tokens": 383251,
+      "reasoning_tokens": 367949
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03123-b207-7682-a177-1a3890097a72"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The wording is correctly attributed to Satan in John Milton’s Paradise Lost, Book I, line 263.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11301,"cached_input_tokens":7936,"output_tokens":189,"reasoning_output_tokens":134}}

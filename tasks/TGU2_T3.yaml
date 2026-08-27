@@ -1,0 +1,75 @@
+task_id: TGU2_T3
+tgu_id: TGU2
+work_id: macbeth
+work_title: Macbeth
+author: William Shakespeare
+genre: drama
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/1533/pg1533.txt
+task_type: T3
+task_type_label: grounded_mini_lesson
+theme: ambition, prophecy, guilt
+required_evidence_count: 2
+expected_evidence:
+- quote: Is this a dagger which I see before me
+  speaker_or_narrator: Macbeth
+  theme: ambition and hallucination
+  locator: Act II, Scene I
+  source_window: "me of most kind hostess, and shut up\nIn measureless content.\n\n\
+    MACBETH.\nBeing unprepar’d,\nOur will became the servant to defect,\nWhich else\
+    \ should free have wrought.\n\nBANQUO.\nAll’s well.\nI dreamt last night of the\
+    \ three Weird Sisters:\nTo you they have show’d some truth.\n\nMACBETH.\nI think\
+    \ not of them:\nYet, when we can entreat an hour to serve,\nWe would spend it\
+    \ in some words upon that business,\nIf you would grant the time.\n\nBANQUO.\n\
+    At your kind’st leisure.\n\nMACBETH.\nIf you shall cleave to my consent, when\
+    \ ’tis,\nIt shall make honour for you.\n\nBANQUO.\nSo I lose none\nIn seeking\
+    \ to augment it, but still keep\nMy bosom franchis’d, and allegiance clear,\n\
+    I shall be counsell’d.\n\nMACBETH.\nGood repose the while!\n\nBANQUO.\nThanks,\
+    \ sir: the like to you.\n\n [_Exeunt Banquo and Fleance._]\n\nMACBETH.\nGo bid\
+    \ thy mistress, when my drink is ready,\nShe strike upon the bell. Get thee to\
+    \ bed.\n\n [_Exit Servant._]\n\nIs this a dagger which I see before me,\nThe handle\
+    \ toward my hand? Come, let me clutch thee:—\nI have thee not, and yet I see thee\
+    \ still.\nArt thou not, fatal vision, sensible\nTo feeling as to sight? or art\
+    \ thou but\nA dagger of the mind, a false creation,\nProceeding from the heat-oppressed\
+    \ brain?\nI see thee yet, in form as palpable\nAs this which now I draw.\nThou\
+    \ marshall’st me the way that I was going;\nAnd such an instrument I was to use.\n\
+    Mine eyes are made the fools o’ the other senses,\nOr else worth all the rest:\
+    \ I see thee still;\nAnd on thy blade and dudgeon, gouts of blood,\nWhich was\
+    \ not so before.—There’s no such thing.\nIt is the bloody business which informs\n\
+    Thus to mine eyes.—Now o’er the one half-world\nNature seems dead, and wicked\
+    \ dreams abuse\nThe curtain’d sleep. Witchcraft celebrates\nPale Hecate’s off’rings;\
+    \ and wither’d murder,\nAlarum’d by his sentinel, the wolf,\nWhose howl’s his\
+    \ watch, thus with his stealthy pace,"
+- quote: Fair is foul, and foul is fair
+  speaker_or_narrator: Witches
+  theme: moral inversion
+  locator: Act I, Scene I
+  source_window: "An English Doctor.\nA Scottish Doctor.\nA Soldier.\nA Porter.\n\
+    An Old Man.\n\nLADY MACBETH.\nLADY MACDUFF.\nGentlewoman attending on Lady Macbeth.\n\
+    HECATE, and three Witches.\n\nLords, Gentlemen, Officers, Soldiers, Murderers,\
+    \ Attendants and\nMessengers.\n\nThe Ghost of Banquo and several other Apparitions.\n\
+    \nSCENE: In the end of the Fourth Act, in England; through the rest of\nthe Play,\
+    \ in Scotland; and chiefly at Macbeth’s Castle.\n\nACT I\n\nSCENE I. An open Place.\n\
+    \n Thunder and Lightning. Enter three Witches.\n\nFIRST WITCH.\nWhen shall we\
+    \ three meet again?\nIn thunder, lightning, or in rain?\n\nSECOND WITCH.\nWhen\
+    \ the hurlyburly’s done,\nWhen the battle’s lost and won.\n\nTHIRD WITCH.\nThat\
+    \ will be ere the set of sun.\n\nFIRST WITCH.\nWhere the place?\n\nSECOND WITCH.\n\
+    Upon the heath.\n\nTHIRD WITCH.\nThere to meet with Macbeth.\n\nFIRST WITCH.\n\
+    I come, Graymalkin!\n\nSECOND WITCH.\nPaddock calls.\n\nTHIRD WITCH.\nAnon.\n\n\
+    ALL.\nFair is foul, and foul is fair:\nHover through the fog and filthy air.\n\
+    \n [_Exeunt._]\n\nSCENE II. A Camp near Forres.\n\n Alarum within. Enter King\
+    \ Duncan, Malcolm, Donalbain, Lennox, with\n Attendants, meeting a bleeding Captain.\n\
+    \nDUNCAN.\nWhat bloody man is that? He can report,\nAs seemeth by his plight,\
+    \ of the revolt\nThe newest state.\n\nMALCOLM.\nThis is the sergeant\nWho, like\
+    \ a good and hardy soldier, fought\n’Gainst my captivity.—Hail, brave friend!\n\
+    Say to the King the knowledge of the broil\nAs thou didst leave it.\n\nSOLDIER.\n\
+    Doubtful it stood;\nAs two spent swimmers that do cling together\nAnd choke their\
+    \ art. The merciless Macdonwald\n(Worthy to be a rebel, for to that\nThe multiplying\
+    \ villainies of nature\nDo swarm upon him) from the Western Isles\nOf kerns and\
+    \ gallowglasses is supplied;\nAnd Fortune, on his damned quarrel smiling,\nShow’d\
+    \ like a rebel’s whore. But all’s too weak;\nFor brave Macbeth (well he deserves\
+    \ that name),"
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

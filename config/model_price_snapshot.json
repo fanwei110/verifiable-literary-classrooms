@@ -1,0 +1,183 @@
+{
+  "snapshot_utc": "2026-06-11T09:03:56Z",
+  "source": "https://openrouter.ai/api/v1/models",
+  "models": [
+    {
+      "id": "deepseek/deepseek-v4-pro",
+      "canonical_slug": "deepseek/deepseek-v4-pro-20260423",
+      "hugging_face_id": "deepseek-ai/DeepSeek-V4-Pro",
+      "name": "DeepSeek: DeepSeek V4 Pro",
+      "created": 1777000679,
+      "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
+      "context_length": 1048576,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "DeepSeek",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.000000435",
+        "completion": "0.00000087",
+        "input_cache_read": "0.000000003625"
+      },
+      "top_provider": {
+        "context_length": 1048576,
+        "max_completion_tokens": 384000,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "include_reasoning",
+        "logit_bias",
+        "logprobs",
+        "max_tokens",
+        "min_p",
+        "presence_penalty",
+        "reasoning",
+        "repetition_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_k",
+        "top_logprobs",
+        "top_p"
+      ],
+      "default_parameters": {
+        "temperature": 1,
+        "top_p": 1,
+        "top_k": null,
+        "frequency_penalty": null,
+        "presence_penalty": null,
+        "repetition_penalty": null
+      },
+      "supported_voices": null,
+      "knowledge_cutoff": null,
+      "expiration_date": null,
+      "links": {
+        "details": "/api/v1/models/deepseek/deepseek-v4-pro-20260423/endpoints"
+      }
+    },
+    {
+      "id": "mistralai/mistral-large-2512",
+      "canonical_slug": "mistralai/mistral-large-2512",
+      "hugging_face_id": "",
+      "name": "Mistral: Mistral Large 3 2512",
+      "created": 1764624472,
+      "description": "Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts architecture with 41B active parameters (675B total), and released under the Apache 2.0 license.",
+      "context_length": 262144,
+      "architecture": {
+        "modality": "text+image+file->text",
+        "input_modalities": [
+          "text",
+          "image",
+          "file"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Mistral",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000015",
+        "input_cache_read": "0.00000005"
+      },
+      "top_provider": {
+        "context_length": 262144,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "max_tokens",
+        "presence_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_p"
+      ],
+      "default_parameters": {
+        "temperature": 0.0645,
+        "top_p": null,
+        "frequency_penalty": null
+      },
+      "supported_voices": null,
+      "knowledge_cutoff": null,
+      "expiration_date": null,
+      "links": {
+        "details": "/api/v1/models/mistralai/mistral-large-2512/endpoints"
+      }
+    },
+    {
+      "id": "qwen/qwen3-235b-a22b-2507",
+      "canonical_slug": "qwen/qwen3-235b-a22b-07-25",
+      "hugging_face_id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "name": "Qwen: Qwen3 235B A22B Instruct 2507",
+      "created": 1753119555,
+      "description": "Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-experts language model based on the Qwen3-235B architecture, with 22B active parameters per forward pass. It is optimized for general-purpose text generation, including instruction following,...",
+      "context_length": 262144,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Qwen3",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.00000009",
+        "completion": "0.0000001"
+      },
+      "top_provider": {
+        "context_length": 262144,
+        "max_completion_tokens": 16384,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "max_tokens",
+        "min_p",
+        "presence_penalty",
+        "repetition_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_k",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "supported_voices": null,
+      "knowledge_cutoff": "2025-06-30",
+      "expiration_date": null,
+      "links": {
+        "details": "/api/v1/models/qwen/qwen3-235b-a22b-07-25/endpoints"
+      }
+    }
+  ]
+}

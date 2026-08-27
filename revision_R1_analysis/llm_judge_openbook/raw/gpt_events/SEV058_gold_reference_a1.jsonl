@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0312a-a873-73f2-9850-40aa578a4cf1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"The excerpt confirms the wording (apart from apparent character-encoding corruption), author, work, act and scene, and speaker, but it does not establish the edition-specific line numbers 617–618.\",\"cited_evidence\":[\"The play’s the thing / Wherein I’ll catch the conscience of the King.\",\"author=William Shakespeare; work=Hamlet; locator=Act II, Scene II; speaker_or_narrator=Hamlet\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11834,"cached_input_tokens":11008,"output_tokens":281,"reasoning_output_tokens":163}}

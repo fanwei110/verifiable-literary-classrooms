@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0313b-0c7d-7241-ba87-ce2ee4437eab"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.98,\"rationale\":\"The attribution and locator are plausible, but no edition or reference excerpt is supplied to verify this translation’s exact wording verbatim.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11311,"cached_input_tokens":11008,"output_tokens":215,"reasoning_output_tokens":156}}

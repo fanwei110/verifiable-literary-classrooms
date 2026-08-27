@@ -1,0 +1,4 @@
+ts_utc,model_key,provider,slug,prompt_tokens,completion_tokens,est_cost_usd,tag
+2026-07-05T12:14:11Z,M2,deepseek,deepseek-chat,538,206,0.000372,dense_chk:M2
+2026-07-05T12:14:12Z,M2,deepseek,deepseek-chat,405,252,0.000387,dense_chk:M2
+2026-07-05T12:14:12Z,M2,deepseek,deepseek-chat,716,323,0.000549,dense_chk:M2

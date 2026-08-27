@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0313c-dcc5-7012-a560-1f2da2fb2afe"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.76,\"rationale\":\"The attribution, speaker, and line number are widely associated with Paradise Lost, but no edition or reference excerpt is supplied to establish verbatim wording, including the edition-dependent “Heaven” versus “Heav’n.”\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11299,"cached_input_tokens":11008,"output_tokens":376,"reasoning_output_tokens":298}}

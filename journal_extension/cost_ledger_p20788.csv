@@ -1,0 +1,2 @@
+ts_utc,model_key,provider,slug,prompt_tokens,completion_tokens,est_cost_usd,tag
+2026-07-04T03:27:23Z,M2,deepseek,deepseek-chat,11,1,0.000004,fixtest

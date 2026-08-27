@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03133-97ff-7790-8670-4293e2563d42"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"inaccurate\",\"confidence\":0.99,\"rationale\":\"The wording is spoken by Elizabeth Bennet in Jane Austen’s Pride and Prejudice, not by Feste in Shakespeare’s Twelfth Night.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11297,"cached_input_tokens":0,"output_tokens":579,"reasoning_output_tokens":516}}

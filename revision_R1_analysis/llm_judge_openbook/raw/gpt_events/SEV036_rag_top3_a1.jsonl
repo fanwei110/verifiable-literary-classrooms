@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03147-5620-7581-a9ef-704931789635"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该句确为莎士比亚《麦克白》第五幕第一场中梦游的麦克白夫人所说，措辞与标点亦相符。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11809,"cached_input_tokens":11008,"output_tokens":267,"reasoning_output_tokens":194}}

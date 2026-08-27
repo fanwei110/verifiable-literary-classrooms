@@ -1,0 +1,64 @@
+task_id: TGU4_T3
+tgu_id: TGU4
+work_id: tale_two_cities
+work_title: A Tale of Two Cities
+author: Charles Dickens
+genre: novel
+edition_note: Project Gutenberg plain text
+source_url: https://www.gutenberg.org/cache/epub/98/pg98.txt
+task_type: T3
+task_type_label: grounded_mini_lesson
+theme: revolution, sacrifice, doubling
+required_evidence_count: 2
+expected_evidence:
+- quote: It was the best of times, it was the worst of times
+  speaker_or_narrator: Narrator
+  theme: historical contradiction
+  locator: Chapter I
+  source_window: "R XVII   One Night\n     CHAPTER XVIII  Nine Days\n     CHAPTER\
+    \ XIX    An Opinion\n     CHAPTER XX     A Plea\n     CHAPTER XXI    Echoing Footsteps\n\
+    \     CHAPTER XXII   The Sea Still Rises\n     CHAPTER XXIII  Fire Rises\n   \
+    \  CHAPTER XXIV   Drawn to the Loadstone Rock\n\n     Book the Third--the Track\
+    \ of a Storm\n\n     CHAPTER I      In Secret\n     CHAPTER II     The Grindstone\n\
+    \     CHAPTER III    The Shadow\n     CHAPTER IV     Calm in Storm\n     CHAPTER\
+    \ V      The Wood-sawyer\n     CHAPTER VI     Triumph\n     CHAPTER VII    A Knock\
+    \ at the Door\n     CHAPTER VIII   A Hand at Cards\n     CHAPTER IX     The Game\
+    \ Made\n     CHAPTER X      The Substance of the Shadow\n     CHAPTER XI     Dusk\n\
+    \     CHAPTER XII    Darkness\n     CHAPTER XIII   Fifty-two\n     CHAPTER XIV\
+    \    The Knitting Done\n     CHAPTER XV     The Footsteps Die Out For Ever\n\n\
+    Book the First--Recalled to Life\n\nCHAPTER I.\nThe Period\n\nIt was the best\
+    \ of times, it was the worst of times, it was the age of\nwisdom, it was the age\
+    \ of foolishness, it was the epoch of belief, it\nwas the epoch of incredulity,\
+    \ it was the season of Light, it was the\nseason of Darkness, it was the spring\
+    \ of hope, it was the winter of\ndespair, we had everything before us, we had\
+    \ nothing before us, we were\nall going direct to Heaven, we were all going direct\
+    \ the other way--in\nshort, the period was so far like the present period, that\
+    \ some of its\nnoisiest authorities insisted on its being received, for good or\
+    \ for\nevil, in the superlative degree of comparison only.\n\nThere were a king\
+    \ with a large jaw and a queen with a plain face, on the\nthrone of England; there\
+    \ were a king with a large jaw and a queen with\na fair face, on the throne of\
+    \ France. In both countries it was clearer\nthan crystal to the lords of the State\
+    \ preserves of loaves and fishes,\nthat things in general were settled for ever.\n\
+    \nIt w"
+- quote: Recalled to Life
+  speaker_or_narrator: Narrator
+  theme: resurrection and return
+  locator: Chapter I
+  source_window: "A TALE OF TWO CITIES\n\nA STORY OF THE FRENCH REVOLUTION\n\nBy Charles\
+    \ Dickens\n\nCONTENTS\n\n     Book the First--Recalled to Life\n\n     CHAPTER\
+    \ I      The Period\n     CHAPTER II     The Mail\n     CHAPTER III    The Night\
+    \ Shadows\n     CHAPTER IV     The Preparation\n     CHAPTER V      The Wine-shop\n\
+    \     CHAPTER VI     The Shoemaker\n\n     Book the Second--the Golden Thread\n\
+    \n     CHAPTER I      Five Years Later\n     CHAPTER II     A Sight\n     CHAPTER\
+    \ III    A Disappointment\n     CHAPTER IV     Congratulatory\n     CHAPTER V\
+    \      The Jackal\n     CHAPTER VI     Hundreds of People\n     CHAPTER VII  \
+    \  Monseigneur in Town\n     CHAPTER VIII   Monseigneur in the Country\n     CHAPTER\
+    \ IX     The Gorgon’s Head\n     CHAPTER X      Two Promises\n     CHAPTER XI\
+    \     A Companion Picture\n     CHAPTER XII    The Fellow of Delicacy\n     CHAPTER\
+    \ XIII   The Fellow of no Delicacy\n     CHAPTER XIV    The Honest Tradesman\n\
+    \     CHAPTER XV     Knitting\n     CHAPTER XVI    Still Knitting\n     CHAPTER\
+    \ XVII   One Night\n     CHAPTER XVIII  Nine"
+strict_rules:
+  quote_must_match_frozen_corpus: true
+  author_work_locator_speaker_required: true
+  grounded_conditions_must_use_source_window: true

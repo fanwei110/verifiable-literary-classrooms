@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03120-4fc3-72a0-b9be-e7f8420edac2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"参考摘录2逐字支持该引文，并确认其为 John Milton《Paradise Lost》第一卷开篇第1—4行的叙述者话语。\",\"cited_evidence\":[\"Of Mans First Disobedience, and the Fruit / Of that Forbidden Tree, whose mortal tast / Brought Death into the World, and all our woe, / With loss of _Eden_, till one greater Man\",\"Source metadata: author=John Milton; work=Paradise Lost\",\"BOOK I.\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11841,"cached_input_tokens":0,"output_tokens":135,"reasoning_output_tokens":0}}

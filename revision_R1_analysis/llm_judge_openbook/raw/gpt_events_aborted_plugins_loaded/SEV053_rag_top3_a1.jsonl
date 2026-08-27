@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a02f6e-8d87-7bf1-9de7-b6e0e8fb2714"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Skill descriptions were shortened to fit the 2% skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"{\"verdict\":\"inaccurate\",\"confidence\":0.98,\"rationale\":\"Although Satan speaks the sentence in Book I around line 263, the ten-book edition represented by the excerpts reads “Better to reign in Hell, then serve in Heav’n,” so the claimed modernized wording is not verbatim.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18652,"cached_input_tokens":15104,"output_tokens":246,"reasoning_output_tokens":164}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03140-eb28-7671-a7de-6c8bc0e6e8a4"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The quoted words are the opening of Charles Dickens’s A Tale of Two Cities, appearing in Book I, Chapter 1 and voiced by the narrator; the ellipsis merely marks truncation.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11307,"cached_input_tokens":11008,"output_tokens":239,"reasoning_output_tokens":167}}

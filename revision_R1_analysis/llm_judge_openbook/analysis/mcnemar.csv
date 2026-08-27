@@ -1,0 +1,7 @@
+﻿model,condition_a,condition_b,a_correct_b_wrong,a_wrong_b_correct,discordant_pairs,mcnemar_exact_p,holm_adjusted_p
+gpt-5.6-sol (Codex subscription),closed,rag_top3,4,16,20,0.01181793212890625,0.0236358642578125
+gpt-5.6-sol (Codex subscription),rag_top3,gold_reference,2,9,11,0.0654296875,0.0654296875
+gpt-5.6-sol (Codex subscription),closed,gold_reference,4,23,27,0.000310748815536499,0.0009322464466094971
+deepseek-v4-pro,closed,rag_top3,3,8,11,0.2265625,0.2265625
+deepseek-v4-pro,rag_top3,gold_reference,1,10,11,0.01171875,0.0234375
+deepseek-v4-pro,closed,gold_reference,4,18,22,0.004343509674072266,0.013030529022216797

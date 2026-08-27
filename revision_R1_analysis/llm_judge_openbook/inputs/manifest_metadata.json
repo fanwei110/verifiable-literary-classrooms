@@ -1,0 +1,58 @@
+{
+  "condition_counts": {
+    "closed": 60,
+    "gold_reference": 60,
+    "rag_top3": 60
+  },
+  "created_utc": "2026-08-23T15:52:46Z",
+  "design": "60 items × 3 evidence conditions × 2 independent judges",
+  "dispatch_seed_material": "20260823|item_id|condition",
+  "input_sha256": {
+    "corpus_index.json": "0c20b0ae422b0c1510701dbcf937879ebc34ba21759fca4b603c821e0479bf3c",
+    "foil_key.csv": "0948f08df4df415989f5c1faa8fe74fefdba1d418460bd040385cd40705825c3",
+    "severity_key_HIDDEN.csv": "0b95ce692b73c69be74e5456cf185808820035298e25468edb26d794d34c5cef",
+    "severity_rating_form.csv": "f4c69ea4e9dfc6defe3226a3db9a8bc32cee6f629a89f5d82965e3bdb89cf019",
+    "tasks/TGU1_T1.yaml": "f2cca9b61dbb9f51c6ebe46117d01d1c0261d43477501ee8568a468f19767bc8",
+    "tasks/TGU1_T2.yaml": "ec1af17f72b2c7758cd4b442761ff67228f0758581ec66c3ce5d01e6407ca35c",
+    "tasks/TGU1_T3.yaml": "55b88f147287c87961f3cfe15d17c5c9d5b2f3bdd0a912e891706604f5b906cc",
+    "tasks/TGU2_T2.yaml": "2e59390447c6c33778ad2b3cebbd160377c79df68397a36661bc7fa6b2050397",
+    "tasks/TGU2_T3.yaml": "970aeaf58a73734962bad8105077eec00a966ffb2183bb714db4798095af6de3",
+    "tasks/TGU3_T1.yaml": "0f4f4929aafd97e52bd940f73b66daa5d7138638cb260c1aeed4bbcb91b20672",
+    "tasks/TGU3_T2.yaml": "d9e46dba3deb4c5affc265f55e70dca25ecb5d9c6c817a0e6c09ad0a0000bdc7",
+    "tasks/TGU3_T3.yaml": "4f275d0da7889eff252c2c181e86cc3bfe091a88508259a53d56a4279273e699",
+    "tasks/TGU4_T3.yaml": "fe642cb915261afccc16789725e2397fc2e56d2cfeec7b437bd775a8a8ab8c52",
+    "tasks/TGU5_T1.yaml": "984daa23799b42f20c81c3e4f2a760d542509113151f55c241acf60246451173",
+    "tasks/TGU5_T2.yaml": "851672326af71e41b6fddc5eafe402bda699d916caf14499666f01a4cbe43273",
+    "tasks/TGU5_T3.yaml": "7ea3d76441b856fd6ba62cfa1d3caf80760765d93cfa52b64bc22d44da0c195e",
+    "tasks/TGU6_T1.yaml": "3b347c08cba0f8ec74741e71bebd587be06c09e4fcfbb0ae717c10d39ce585db",
+    "tasks/TGU6_T2.yaml": "89fcbe6b3f32a0d5e49bba568526696fed5a15011886b7dd280db0fc19f4ef03",
+    "tasks/TGU6_T3.yaml": "d096c6da921cd3d34e975d209080c7fbe745db49ff73fd356e283fb66592984b"
+  },
+  "item_count": 60,
+  "job_count": 360,
+  "manifest_sha256": "0e96de75c45d1f6ac6d9e6e0284500876c9222cd55a108f1d9a567e9fd72ada0",
+  "prompt_count": 180,
+  "prompt_schema_sha256": "886bdc753025bf2aff253a6a3a94c407bac7e889af688485816258c928768d5b",
+  "retrieval": {
+    "encoder": "all-MiniLM-L6-v2",
+    "overlap_chars": 150,
+    "scope": "all six frozen corpora",
+    "segment_chars": 700,
+    "segment_count": 4775,
+    "top_k": 3
+  },
+  "software": {
+    "numpy": "1.26.4",
+    "python": "3.12.4",
+    "pyyaml": "6.0.1",
+    "sentence_transformers": "5.6.0",
+    "torch": "2.3.1+cpu"
+  },
+  "truth_distribution": {
+    "context_displacement": 12,
+    "correct": 12,
+    "fabricated_quotation": 12,
+    "misattribution": 12,
+    "version_drift": 12
+  }
+}

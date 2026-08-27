@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03149-8a5f-7060-9b83-3e3ea47cf8df"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该句确为莎士比亚《麦克白》第五幕第一场中麦克白夫人的台词。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11809,"cached_input_tokens":0,"output_tokens":266,"reasoning_output_tokens":205}}

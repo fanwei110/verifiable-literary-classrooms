@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0313b-877e-7be1-97ca-5e8d265b92a7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"This is Hamlet’s concluding couplet in Act 2, Scene 2 of Shakespeare’s Hamlet, with line numbering and capitalization varying by edition.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11317,"cached_input_tokens":11008,"output_tokens":193,"reasoning_output_tokens":130}}

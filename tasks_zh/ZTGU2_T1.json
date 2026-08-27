@@ -1,0 +1,20 @@
+{
+  "task_id": "ZTGU2_T1",
+  "tgu_id": "ZTGU2",
+  "work_id": "shishuo",
+  "work_title": "世說新語",
+  "author": "劉義慶",
+  "genre": "笔记小说",
+  "task_type": "T1",
+  "task_type_label": "quotation_retrieval",
+  "theme": "为政宽简、不事事苛察",
+  "required_evidence_count": 1,
+  "expected_evidence": [
+    {
+      "quote": "人言我愦愦，后人当思此愦愦",
+      "speaker_or_narrator": "丞相（王导）",
+      "locator": "政事第三",
+      "source_window": "丞相末年，略不复省事，正封箓诺之。自叹曰：“人言我愦愦，后人当思此愦愦。”"
+    }
+  ]
+}

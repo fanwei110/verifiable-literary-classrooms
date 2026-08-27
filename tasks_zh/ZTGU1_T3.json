@@ -1,0 +1,26 @@
+{
+  "task_id": "ZTGU1_T3",
+  "tgu_id": "ZTGU1",
+  "work_id": "analects",
+  "work_title": "論語",
+  "author": "孔子及其弟子",
+  "genre": "语录体",
+  "task_type": "T3",
+  "task_type_label": "mini_lesson",
+  "theme": "务本与为仁（君子修养的根本）",
+  "required_evidence_count": 2,
+  "expected_evidence": [
+    {
+      "quote": "君子務本，本立而道生",
+      "speaker_or_narrator": "有子",
+      "locator": "學而第一",
+      "source_window": "有子曰：「其爲人也孝弟，而好犯上者，鮮矣；不好犯上，而好作亂者，未之有也。君子務本，本立而道生；孝弟也者，其爲仁之本與？」"
+    },
+    {
+      "quote": "巧言令色，鮮矣仁",
+      "speaker_or_narrator": "子（孔子）",
+      "locator": "學而第一",
+      "source_window": "子曰：「巧言令色，鮮矣仁。」"
+    }
+  ]
+}

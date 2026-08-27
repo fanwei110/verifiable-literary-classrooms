@@ -1,0 +1,4 @@
+task_type,n_ungrounded,rate_ungrounded,n_grounded,rate_grounded,lift_pp,ci_low,ci_high
+T1,200,0.3800,240,0.9458,56.58,23.50,89.67
+T2,200,0.3150,240,0.7125,39.75,0.50,82.17
+T3,199,0.0402,240,0.3333,29.31,-0.67,68.33

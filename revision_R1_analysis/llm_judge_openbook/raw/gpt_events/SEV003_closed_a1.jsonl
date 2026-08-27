@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03127-f495-76d3-977e-4b563f18b819"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The quoted words open Dickens's A Tale of Two Cities in Book 1, Chapter 1 and are delivered by the narrator, with the ellipsis indicating omitted continuation.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11322,"cached_input_tokens":0,"output_tokens":192,"reasoning_output_tokens":124}}

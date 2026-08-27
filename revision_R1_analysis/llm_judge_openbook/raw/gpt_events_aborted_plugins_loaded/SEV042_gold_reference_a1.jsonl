@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a03113-37dd-7571-9b1c-9c238f5fbd7e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Skill descriptions were shortened to fit the 2% skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"The excerpt from Homer’s The Odyssey, Book IX, presents Odysseus (named Ulysses in the metadata) saying verbatim, “my name is Noman.”\",\"cited_evidence\":[\"“my name is Noman”\",\"“Cyclops, you ask my name and I will tell it you”\",\"author=Homer; work=The Odyssey; locator=Book Ix; speaker_or_narrator=Ulysses\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18458,"cached_input_tokens":17152,"output_tokens":233,"reasoning_output_tokens":113}}

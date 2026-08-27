@@ -1,0 +1,12 @@
+{
+  "_provenance": "Gold-locator corrections for two works with segmentation/extraction bugs, verified from corpus/processed/corpus_index.json clean_text character positions on 2026-07-04 (not from model memory). Paradise Lost: locator_mode='book' but segmentation emitted 'Chunk N'; all three sampled quotes fall between the 'BOOK I.' marker (pos 333) and 'BOOK II.' (pos 34907) -> Book I. Pride & Prejudice: Chapter I is absent from the 59 segments (they start at 'Chapter Ii'=Ch II); the opening line 'It is a truth universally acknowledged' sits at pos 34261 < 'CHAPTER II' at pos 39010 -> Chapter I. Correct canonical locators (Hamlet/Macbeth Act,Scene; Odyssey Book N; Tale Chapter N; P&P Ch XI/XXXVI) are left untouched.",
+  "_effect": "Only locator_ok changes; quote_found (segment/corpus membership), grounding (source_window), author/work/speaker are unaffected. Applied non-destructively via rejudge.py monkeypatch; original task YAMLs and frozen logs are not modified.",
+  "corrections": [
+    {"task_id": "TGU3_T1", "quote_prefix": "It is a truth universally acknowledged", "old": "Chapter Ii", "new": "Chapter I"},
+    {"task_id": "TGU3_T3", "quote_prefix": "It is a truth universally acknowledged", "old": "Chapter Ii", "new": "Chapter I"},
+    {"task_id": "TGU5_T1", "quote_prefix": "Of Mans First Disobedience", "old": "Chunk 1", "new": "Book I"},
+    {"task_id": "TGU5_T2", "quote_prefix": "Better to reign in Hell", "old": "Chunk 3", "new": "Book I"},
+    {"task_id": "TGU5_T3", "quote_prefix": "Of Mans First Disobedience", "old": "Chunk 1", "new": "Book I"},
+    {"task_id": "TGU5_T3", "quote_prefix": "The mind is its own place", "old": "Chunk 3", "new": "Book I"}
+  ]
+}

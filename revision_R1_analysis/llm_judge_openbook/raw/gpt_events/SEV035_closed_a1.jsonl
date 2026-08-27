@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03140-2f58-7c63-a4cd-963ad05ebca6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"该引文逐字见于弥尔顿《失乐园》第三卷第98—99行，且说话者确为圣父上帝。\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11312,"cached_input_tokens":11008,"output_tokens":413,"reasoning_output_tokens":343}}

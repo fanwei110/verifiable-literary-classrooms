@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a03134-b7e6-78d1-9cab-f1aad1e180d1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"inaccurate\",\"confidence\":0.99,\"rationale\":\"The passage is correctly attributed to Hamlet in Shakespeare's Hamlet, but the quoted text incorrectly has “great pith and moment” instead of “great pitch and moment.”\",\"cited_evidence\":[\"And enterprises of great pitch and moment\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11349,"cached_input_tokens":11008,"output_tokens":281,"reasoning_output_tokens":204}}

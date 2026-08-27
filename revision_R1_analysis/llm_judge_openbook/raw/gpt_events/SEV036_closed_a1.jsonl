@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a0311f-8129-7a20-bf5e-88dc57711a73"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"verdict\":\"unsure\",\"confidence\":0.78,\"rationale\":\"The words, work, act and scene, and speaker match the familiar passage, but no edition or reference excerpt is supplied to verify the exact capitalization and punctuation verbatim.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":11299,"cached_input_tokens":7936,"output_tokens":282,"reasoning_output_tokens":214}}

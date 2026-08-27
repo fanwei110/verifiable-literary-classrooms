@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a03101-98d7-7570-9f75-d893293e7465"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Skill descriptions were shortened to fit the 2% skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"{\"verdict\":\"accurate\",\"confidence\":0.99,\"rationale\":\"This is the opening sentence of Jane Austen’s Pride and Prejudice, appearing in Chapter I and voiced by the narrator.\",\"cited_evidence\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18211,"cached_input_tokens":0,"output_tokens":168,"reasoning_output_tokens":110}}

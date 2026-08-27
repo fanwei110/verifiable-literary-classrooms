@@ -1,0 +1,20 @@
+{
+  "task_id": "ZTGU2_T2",
+  "tgu_id": "ZTGU2",
+  "work_id": "shishuo",
+  "work_title": "世說新語",
+  "author": "劉義慶",
+  "genre": "笔记小说",
+  "task_type": "T2",
+  "task_type_label": "attribution",
+  "theme": "宽刑慎罚、以德致理",
+  "required_evidence_count": 1,
+  "expected_evidence": [
+    {
+      "quote": "鞭挞甯越以立威名，恐非致理之本",
+      "speaker_or_narrator": "王安期（王承）",
+      "locator": "政事第三",
+      "source_window": "王安期作东海郡，吏录一犯夜人来。王问：“何处来？”云：“从师家受书还，不觉日晚。”王曰：“鞭挞甯越以立威名，恐非致理之本。”使吏送令归家。"
+    }
+  ]
+}

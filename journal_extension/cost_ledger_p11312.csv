@@ -1,0 +1,4 @@
+ts_utc,model_key,provider,slug,prompt_tokens,completion_tokens,est_cost_usd,tag
+2026-07-04T07:43:41Z,M2,deepseek,deepseek-chat,58,47,0.000067,zh_memprobe
+2026-07-04T07:43:42Z,M2,deepseek,deepseek-chat,57,17,0.000034,zh_memprobe
+2026-07-04T07:43:44Z,M2,deepseek,deepseek-chat,54,67,0.000088,zh_memprobe
