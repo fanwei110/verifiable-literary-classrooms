@@ -1,0 +1,14 @@
+{
+  "answer": "In Macbeth, ambition fuels hallucination as the protagonist, driven to murder Duncan, sees a floating dagger leading him to the deed. The vision reflects his inner guilt and the heat of his ambition, externalizing his conflicted mind.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee:— I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? or art thou but A dagger of the mind, a false creation, Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote directly shows Macbeth hallucinating a dagger as a result of his ambitious plan to murder King Duncan, illustrating the psychological torment that accompanies unchecked ambition."
+    }
+  ],
+  "limits": "Quotation from the Folger Shakespeare Library edition; line breaks preserved from the provided source excerpt."
+}

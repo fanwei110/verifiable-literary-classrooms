@@ -1,0 +1,14 @@
+{
+  "answer": "In the “To be, or not to be” soliloquy, Hamlet articulates exactly how the fear of the unknown after death—the possibility that death is not a true end but a sleep filled with strange dreams—makes us hesitate and cling to a life of suffering. The phrase “must give us pause” is the pivot: mortality forces the mind to stop, to reconsider, and to endure present ills rather than risk a doubtful afterlife.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "These lines directly connect mortality (“that sleep of death,” “shuffled off this mortal coil”) with the hesitation it produces (“Must give us pause”), showing that uncertainty about the afterlife is what stops us from acting to end our suffering."
+    }
+  ],
+  "limits": "The provided excerpt ends mid-soliloquy at “To grunt and sweat”; the famous continuation (“But that the dread of something after death…”) is not included in the source window. Quotation is taken verbatim from the supplied text."
+}

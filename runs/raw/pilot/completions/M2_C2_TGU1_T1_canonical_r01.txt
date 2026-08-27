@@ -1,0 +1,14 @@
+{
+  "answer": "The fear of what awaits us after death is the root of hesitation. Hamlet’s famous soliloquy captures this perfectly: the dread of the “undiscover’d country” from which no traveler returns makes us pause, puzzle the will, and cling to familiar suffering rather than risk the unknown. That uncertainty paralyzes action—our conscience turns us into cowards, and our most passionate resolutions lose their force.",
+  "evidence": [
+    {
+      "quote": "But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of?",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "3.1.78-82",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote directly links the fear of mortality to the hesitation that follows—the dread of an unknown afterlife “puzzles the will” and stops us from acting."
+    }
+  ],
+  "limits": "Line numbers may vary slightly across editions; here I follow the common modern numbering of Act 3, Scene 1."
+}

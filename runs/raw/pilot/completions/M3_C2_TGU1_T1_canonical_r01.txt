@@ -1,0 +1,14 @@
+{
+  "answer": "In Shakespeare's *Hamlet*, the famous soliloquy captures the human struggle with mortality and the fear that leads to hesitation: 'To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them.' This passage reflects Hamlet's deep contemplation of existence and the paralyzing uncertainty of what comes after death, which ultimately delays his actions.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, Lines 56–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote supports the idea that fear of the unknown after death causes human hesitation and introspection about the value of life and action."
+    }
+  ],
+  "limits": "Quoted from the Folger Shakespeare Library edition of Hamlet; line numbers may vary slightly by edition."
+}

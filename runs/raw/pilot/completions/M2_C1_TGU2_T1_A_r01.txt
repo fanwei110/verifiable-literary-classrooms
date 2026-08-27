@@ -1,0 +1,14 @@
+{
+  "answer": "In Macbeth, ambition and hallucination intertwine when Macbeth, poised to murder King Duncan, sees a floating dagger. The hallucination reflects his vaulting ambition, as the dagger beckons him toward the regicide he both craves and dreads. The vision is not real, yet it feels real to him, illustrating how unchecked ambition can distort perception and create a tormenting inner reality.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee. I have thee not, and yet I see thee still.",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1, lines 33-35 (modern editions; lineation may vary)",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quote supports the direct connection between Macbeth's ambitious intent to kill Duncan and the hallucinatory dagger that appears to guide him, demonstrating how his ambition manifests as a visionary delusion."
+    }
+  ],
+  "limits": "Exact line numbers depend on the edition; quoted text follows the First Folio (1623) with modern spelling. The locator here reflects typical modern numeration (e.g., Arden, Folger)."
+}

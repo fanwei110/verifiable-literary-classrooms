@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 3, Scene 1, Hamlet voices the heart of human hesitation when faced with mortality. The famous soliloquy captures how the uncertainty of what follows death—“what dreams may come”—forces us to pause, turning our desire for an end to suffering into a reason to endure.",
+  "evidence": [
+    {
+      "quote": "To die, to sleep; / No more; and by a sleep to say we end / The heart-ache, and the thousand natural shocks / That flesh is heir to: ’tis a consummation / Devoutly to be wish’d. To die, to sleep. / To sleep, perchance to dream—ay, there’s the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation directly shows how mortality (death as a sleep that ends all earthly heart-aches) and hesitation (the “rub” of unknown dreams giving us pause) are intertwined in Hamlet’s thinking."
+    }
+  ],
+  "limits": "The supplied excerpt ends mid-line after “To grunt and sweat,” so only the portion up to “Must give us pause” is used."
+}

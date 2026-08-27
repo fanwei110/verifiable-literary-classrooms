@@ -1,0 +1,14 @@
+{
+  "answer": "In Act 2, Scene 1, Macbeth’s hallucination of a dagger reveals how his ambition drives him toward murder and warps his perception. He sees a dagger floating before him, leading him to Duncan’s chamber, and recognizes it as “a dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain.” This vision illustrates the psychological toll of unchecked ambition, where guilt and desire manifest as a hallucination.",
+  "evidence": [
+    {
+      "quote": "Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee:— / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressed brain?",
+      "author": "William Shakespeare",
+      "work": "Macbeth",
+      "locator": "Act 2, Scene 1",
+      "speaker_or_narrator": "Macbeth",
+      "use_in_answer": "This quotation directly shows Macbeth’s hallucination and links it to his ambitious, guilt-ridden state of mind."
+    }
+  ],
+  "limits": "The excerpt omits line numbers; act and scene are inferred from common editions. The quotation is from the Folger Shakespeare Library text."
+}

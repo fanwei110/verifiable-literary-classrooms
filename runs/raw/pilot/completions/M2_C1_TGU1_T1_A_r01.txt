@@ -1,0 +1,14 @@
+{
+  "answer": "In Hamlet, the Prince’s most famous soliloquy directly weighs the pain of existence against the terror of the unknown after death, capturing both the universal preoccupation with mortality and the paralysis that arises from overthinking. Hamlet asks whether it is more honorable to endure life’s suffering passively or to act decisively to end it, yet he immediately hesitates, recognizing that the fear of what comes after death—“the undiscovered country”—makes us all pause and cling to a life we despise. This internal debate epitomizes how reflection on mortality can breed hesitation rather than resolution.",
+  "evidence": [
+    {
+      "quote": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1, lines 57–60",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quotation introduces the core dilemma of mortality (to die, to sleep) and the hesitation that arises when contemplating the unknown consequences of action, directly linking the fear of death to inaction."
+    }
+  ],
+  "limits": "Line numbering varies between editions; the quoted passage is universally recognized as opening the ‘To be or not to be’ soliloquy. The locator follows the commonly cited Arden Shakespeare (3.1.57–60)."
+}

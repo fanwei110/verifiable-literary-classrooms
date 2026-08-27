@@ -1,0 +1,14 @@
+{
+  "answer": "The famous soliloquy captures the link between mortality and hesitation perfectly: 'To sleep, perchance to dreamâay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.' (Hamlet, Act 3, Scene 1). The 'rub'âthe obstacleâis the fear of what dreams might come in death's sleep, causing him to pause and thus hesitate.",
+  "evidence": [
+    {
+      "quote": "To sleep, perchance to dreamâay, there's the rub, / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause.",
+      "author": "William Shakespeare",
+      "work": "Hamlet",
+      "locator": "Act 3, Scene 1 (from the provided excerpt)",
+      "speaker_or_narrator": "Hamlet",
+      "use_in_answer": "This quote illustrates how the uncertainty of the afterlife ('what dreams may come') causes hesitation ('must give us pause'), directly linking mortality and hesitation."
+    }
+  ],
+  "limits": "The act and scene are inferred from common knowledge; the frozen excerpt did not label them."
+}
