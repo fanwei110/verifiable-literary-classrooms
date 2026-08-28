@@ -1,10 +1,10 @@
 # SHA256 manifest for the replication package
-# Regenerated 2026-08-26 for the first-revision release (v1.0.0).
+# Regenerated 2026-08-28 after backfilling the repository URL and archival DOI.
 # Covers every file in the repository except this manifest itself.
 
 2987592c48d58008628945a961adc54534adfb509d5f83f5b57b6bfdb8e44bdb  .gitattributes
 c023c3d58f1e864e0d31ca11e94dab2dec853e9692166fbe92fcdc2fe93d4212  .gitignore
-b970c83e7ff23d7bbad748d6952806b38a4668dc78bcc37333ab35e4ed540a4a  CITATION.cff
+12c01ff65244da17c9120a722fb4823fecdbcf7bcd15421242f87bc6af1a50f7  CITATION.cff
 146a0bdfabfb8f482a64cd278d7f095e5e83dda7dcd72ee05777343bb03c7af6  DEVIATIONS.md
 686b5e43bb7a0d572a66711e524451f47a6994e87ed53a059a57fe86acfb950c  LICENSE
 8cca97135e4e8b5b441f9ef8daff1719e9f6ef0eac146c9f6ba4111bc9bf3529  README.md
