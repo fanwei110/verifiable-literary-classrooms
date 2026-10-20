@@ -21,7 +21,7 @@ authors:
     given-names: Jiaqiang
   - family-names: Zhang
     given-names: Guangqian
-version: "1.1.0"
+version: "1.1.1"
 license: MIT
 keywords:
   - large language models

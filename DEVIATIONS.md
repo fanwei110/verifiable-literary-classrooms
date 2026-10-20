@@ -129,3 +129,5 @@ analysis before reporting anything new.
   `error_class_grounded.py`, `make_pipeline_fig_r2.py`.
 - Executable specification of the verifier's known permissive and strict cases:
   `test_r2_rules.py`.
+- v1.1.1 shortens one line of text in the pipeline figure (`make_pipeline_fig_r2.py`)
+  so that it fits its box; no data, rule, or reported number changed.

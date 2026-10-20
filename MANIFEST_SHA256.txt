@@ -1,10 +1,10 @@
 # SHA256 manifest for the replication package
-# Regenerated 2026-10-20 for v1.1.0 (second-revision analyses added; no frozen log, corpus, task, prompt, or judge file changed).
+# Regenerated 2026-10-20 for v1.1.1 (pipeline-figure wording fix; no frozen log, corpus, task, prompt, or judge file changed).
 # Covers every file in the repository except this manifest itself.
 2987592c48d58008628945a961adc54534adfb509d5f83f5b57b6bfdb8e44bdb  .gitattributes
 c023c3d58f1e864e0d31ca11e94dab2dec853e9692166fbe92fcdc2fe93d4212  .gitignore
-335330dc001a3a0880d69e8641dedb9c104c95fce7135631e6c4477e91a1fbea  CITATION.cff
-02a86e21d338876a3b6a0a1502dc48693c225d23790a9fff2ebbb7f6267b2d52  DEVIATIONS.md
+8a015e23ac0c3fa43b977f0eaab6b434c2aa0ee5a668eafaba0a22470c0f6390  CITATION.cff
+ae7dcccce67e3b046a5b71dcded51f5393660747da944df6c0487a6669152252  DEVIATIONS.md
 686b5e43bb7a0d572a66711e524451f47a6994e87ed53a059a57fe86acfb950c  LICENSE
 666111e31de624ca838aa08f2b39b67c28e41e58cef025f42204d85cdd0ce124  README.md
 410801aa7f8b735a09642c8bda810b884e6d216f5d266fcd08fa8f7bc30c2dd9  REPRODUCE.md
