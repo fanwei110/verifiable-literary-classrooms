@@ -68,7 +68,7 @@ def main():
     # ============ Verifier (hub) ============
     box(ax, 0.105, 0.420, 0.79, 0.185,
         "Deterministic verifier   —   a rule-based program, NOT an LLM",
-        "normalized exact substring membership in the frozen text, plus attribution, locator, speaker and grounding\n"
+        "exact substring membership after normalization, plus attribution, locator, speaker and grounding\n"
         "strict_correct = all five fields pass   (fixed rules, no learned component, no model choice)",
         ec=RED, fc="#fff5f5", tsize=7.6, bsize=6.0, lw=1.7)
 
