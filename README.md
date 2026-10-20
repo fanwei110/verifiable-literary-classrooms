@@ -9,8 +9,11 @@ of the article, including the analyses added in the first revision round: the fu
 coefficient table and its exact analysis sample (Appendix A), the factor-level
 heterogeneity and equal-budget policy-mixing analyses (Appendix B), the quotation-length
 distribution audit, and the complete records of the 360-judgment, two-judge,
-three-evidence-condition experiment reported in Section IV-E. See `REPRODUCE.md` for a
-result-by-result traceability map.
+three-evidence-condition experiment reported in Section IV-E. Version 1.1.0 adds the
+second-revision analyses in `revision_R2_analysis/` and the stage-1 protocol
+`preregistration.md`; it changes no frozen log, corpus, task, prompt, or judge file.
+See `REPRODUCE.md` for a result-by-result traceability map and `DEVIATIONS.md` for
+every correction and post hoc analysis.
 
 It adapts the finance `computable classroom` benchmark pattern to a humanities setting where the verifiable substrate is not an equation but a frozen source corpus. The benchmark measures whether LLMs can produce classroom-facing literary explanations with real quotations, correct attribution, and correct textual grounding.
 
@@ -30,6 +33,12 @@ revision_R1_analysis/   Analyses added in the first revision round: the GEE appe
                         equal-budget policy mixing, the quotation-length audit, the
                         pipeline figure, and the complete 360-judgment LLM-judge
                         experiment (prompts, raw responses, per-item records).
+revision_R2_analysis/   Second-revision analyses (all re-score frozen outputs; see
+                        DEVIATIONS.md): criterion ladder and scoring-rule
+                        sensitivity, H1a under its preregistered definition, the
+                        LLM-judge reference-label audit, C3/C4 repairability, the
+                        cost-utility accounting, redrawn figures, and executable
+                        tests of the verifier's rules.
 runs/                   Frozen run logs for every reported analysis. These are
                         released with the package, not excluded.
 scripts/                Builders for corpus, tasks, prompts, and the model snapshot.

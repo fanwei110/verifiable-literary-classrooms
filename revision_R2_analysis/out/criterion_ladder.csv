@@ -1,0 +1,10 @@
+key,label,effect_pp,ci_lo,ci_hi,pos_tasks,flips_fail_to_pass,flips_pass_to_fail,flips_up_grounded,flips_up_ungrounded,C1_pct,C1_n,C2_pct,C2_n,C3_pct,C3_n,C4_pct,C4_n
+L0,Corpus membership only,43.7,23.2,64.2,11,310,0,175,135,42.7,300,51.5,299,87.5,360,93.9,360
+L1,Membership + author and work,49.6,27.8,69.2,10,258,0,166,92,36.7,300,43.1,299,86.4,360,92.5,360
+L2,L1 + speaker + window (no locator),40.7,18.4,62.7,10,20,0,7,13,25.3,300,28.1,299,65.3,360,69.4,360
+strict,Primary criterion (preregistered implementation),41.9,21.0,62.9,10,0,0,0,0,22.3,300,26.8,299,65.3,360,67.5,360
+S-alias,strict + translation alias (Ulysses/Odysseus),46.8,26.5,66.4,10,66,0,52,14,23.3,300,30.4,299,73.1,360,74.2,360
+S-ordered,strict + ordered-numeral locator rule,42.6,21.6,63.2,10,0,15,0,0,21.3,300,24.7,299,65.0,360,66.1,360
+S-ellipsis,strict + ellipsis-aware fragment matching,43.8,23.1,64.4,11,18,0,16,2,22.7,300,27.1,299,69.4,360,67.8,360
+S-nfkd,strict + diacritic folding (NFKD) and U+2026 as separator,41.9,21.0,62.9,10,0,0,0,0,22.3,300,26.8,299,65.3,360,67.5,360
+S-all,strict + all four sensitivity rules,49.5,30.3,68.6,10,83,15,68,15,22.3,300,28.8,299,76.9,360,73.1,360

@@ -1,0 +1,61 @@
+item_id,run_id,task_id,condition,evidence_in_response,required_evidence,original_label,original_error_class,displayed_record_label,displayed_record_failing_fields,displayed_record_error_class,label_changed,sens_no_window,sens_no_window_alias,shown_speaker,shown_locator
+SEV001,M2_C1_TGU6_T1_B_r10,TGU6_T1,C1,1,1,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Narrator (invoking the Muse),"Book 1, lines 1-3"
+SEV002,M1_C3_TGU3_T3_B_r10,TGU3_T3,C3,2,2,error,fabricated_quotation,correct,,correct,True,correct,correct,Narrator,Chapter I
+SEV003,M1_C1_TGU4_T3_B_r10,TGU4_T3,C1,2,2,error,context_displacement,correct,,correct,True,correct,correct,Narrator,"Book 1, Chapter 1"
+SEV004,M2_C2_TGU6_T2_canonical_r10,TGU6_T2,C2,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,Odysseus,"Book 9, lines 364-367"
+SEV005,M1_C4_TGU6_T2_canonical_r10,TGU6_T2,C4,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,Odysseus (disguising his identity),Book 9 (lines 364-367 in some editions)
+SEV006,M2_C4_TGU3_T3_canonical_r10,TGU3_T3,C4,2,2,error,version_drift,correct,,correct,True,correct,correct,narrator,Chapter I
+SEV007,M2_C4_TGU5_T3_canonical_r10,TGU5_T3,C4,2,2,correct,correct,correct,,correct,False,correct,correct,Narrator,"Book I, lines 1-4"
+SEV008,M1_C1_TGU1_T1_A_r01,TGU1_T1,C1,1,1,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Hamlet,"Act 3, Scene 1, lines 58-71"
+SEV009,M3_C1_TGU1_T1_A_r01,TGU1_T1,C1,1,1,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Hamlet,"Act 3, Scene 1, Lines 56–72"
+SEV010,M1_C1_TGU5_T2_A_r01,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book I, line 263"
+SEV011,M2_C1_TGU5_T2_A_r01,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book I, line 263"
+SEV012,M1_C1_TGU6_T2_A_r01,TGU6_T2,C1,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,Odysseus,"Book 9, lines 366–367"
+SEV013,M1_C1_TGU1_T3_A_r01,TGU1_T3,C1,2,2,error,context_displacement,correct,,correct,True,correct,correct,Hamlet,"Act 3, Scene 1"
+SEV014,M2_C3_TGU6_T3_A_r01,TGU6_T3,C3,2,2,error,misattribution,error,work+locator+speaker+window,misattribution,False,error,error,the narrator,Book I
+SEV015,M1_C4_TGU6_T2_canonical_r01,TGU6_T2,C4,1,1,error,context_displacement,error,speaker,context_displacement,False,error,correct,Odysseus,Book 9 (lines 364-367 in some editions)
+SEV016,M3_C2_TGU1_T3_canonical_r01,TGU1_T3,C2,2,2,error,context_displacement,error,locator,context_displacement,False,error,error,Hamlet,3.1.56
+SEV017,M2_C4_TGU2_T3_canonical_r01,TGU2_T3,C4,2,2,error,context_displacement,error,speaker,context_displacement,False,error,error,Banquo,"Act 2, Scene 1"
+SEV018,M1_C2_TGU3_T1_canonical_r02,TGU3_T1,C2,1,1,correct,correct,correct,,correct,False,correct,correct,narrator,Chapter 1
+SEV019,M2_C2_TGU5_T2_canonical_r02,TGU5_T2,C2,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book 1, line 263"
+SEV020,M2_C4_TGU6_T2_canonical_r02,TGU6_T2,C4,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,"Odysseus, in his narration to the Phaeacians",Book 9
+SEV021,M2_C1_TGU1_T1_A_r03,TGU1_T1,C1,1,1,error,fabricated_quotation,error,quote+work+locator+speaker,fabricated_quotation,False,error,error,Hamlet,"Act 3, Scene 1, lines 78–88 (often printed as 3.1.78–88)"
+SEV022,M3_C1_TGU5_T3_A_r03,TGU5_T3,C1,2,2,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,the narrator,"Book 3, Lines 101–102"
+SEV023,M1_C2_TGU3_T2_canonical_r03,TGU3_T2,C2,1,1,error,misattribution,error,author+work+locator+speaker,misattribution,False,error,error,Mr. Sleary,"Book the Second, Chapter 6"
+SEV024,M2_C4_TGU3_T3_canonical_r03,TGU3_T3,C4,2,2,error,version_drift,correct,,correct,True,correct,correct,narrator,Chapter 1
+SEV025,M3_C4_TGU3_T3_canonical_r03,TGU3_T3,C4,2,2,error,context_displacement,correct,,correct,True,correct,correct,narrator,Chapter I
+SEV026,M1_C3_TGU5_T1_A_r04,TGU5_T1,C3,3,1,error,context_displacement,error,locator+window,context_displacement,False,error,error,Narrator (Milton),"Book IX, lines 781–784"
+SEV027,M1_C1_TGU3_T2_A_r04,TGU3_T2,C1,1,1,error,misattribution,error,author+work+locator+speaker,misattribution,False,error,error,Ebenezer Scrooge,Stave 5 (The End of It)
+SEV028,M3_C1_TGU3_T2_A_r04,TGU3_T2,C1,1,1,error,misattribution,error,author+work+locator+speaker,misattribution,False,error,error,Feste,"Act 1, Scene 5"
+SEV029,M1_C3_TGU6_T2_A_r04,TGU6_T2,C3,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,Odysseus (disguising his identity to Polyphemus),"Book 9, lines 366-367"
+SEV030,M3_C3_TGU6_T2_A_r04,TGU6_T2,C3,1,1,error,context_displacement,error,speaker,context_displacement,False,error,correct,Odysseus,Book 9
+SEV031,M1_C1_TGU5_T3_A_r04,TGU5_T3,C1,2,2,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Satan (disguised as the serpent),"Book IX, lines 708-709"
+SEV032,M2_C4_TGU1_T2_canonical_r04,TGU1_T2,C4,1,1,correct,correct,correct,,correct,False,correct,correct,Hamlet,"Act II, Scene II"
+SEV033,M3_C4_TGU1_T2_canonical_r04,TGU1_T2,C4,1,1,correct,correct,correct,,correct,False,correct,correct,Hamlet,"Act II, Scene 2"
+SEV034,M2_C2_TGU2_T2_canonical_r04,TGU2_T2,C2,1,1,correct,correct,correct,,correct,False,correct,correct,Lady Macbeth,"Act 5, Scene 1"
+SEV035,M2_C2_TGU5_T3_canonical_r04,TGU5_T3,C2,2,2,error,context_displacement,error,locator+speaker,context_displacement,False,error,error,God the Father,"Book 3, lines 98-99"
+SEV036,M3_C3_TGU2_T2_A_r05,TGU2_T2,C3,1,1,correct,correct,correct,,correct,False,correct,correct,Lady Macbeth,"Act 5, Scene 1"
+SEV037,M1_C3_TGU3_T2_A_r05,TGU3_T2,C3,2,1,correct,correct,correct,,correct,False,correct,correct,Elizabeth Bennet,"Chapter 11 (Volume I, Chapter 11)"
+SEV038,M1_C1_TGU5_T2_A_r05,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book I, line 263"
+SEV039,M2_C1_TGU5_T2_A_r05,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book I, line 263"
+SEV040,M2_C2_TGU5_T2_canonical_r05,TGU5_T2,C2,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book 1, line 263"
+SEV041,M1_C2_TGU6_T2_canonical_r05,TGU6_T2,C2,1,1,error,fabricated_quotation,error,quote+work+locator+speaker,fabricated_quotation,False,error,error,Odysseus,"Book 9, lines 366-367"
+SEV042,M3_C2_TGU6_T2_canonical_r05,TGU6_T2,C2,1,1,error,context_displacement,error,speaker,context_displacement,False,error,correct,Odysseus,Book 9
+SEV043,M2_C1_TGU1_T2_B_r06,TGU1_T2,C1,1,1,correct,correct,correct,,correct,False,correct,correct,Hamlet,"Act 2, Scene 2, lines approximately 633-634 (varies by edition)"
+SEV044,M2_C3_TGU2_T3_B_r06,TGU2_T3,C3,2,2,correct,correct,correct,,correct,False,correct,correct,All Witches,"Act I, Scene I (source window 2)"
+SEV045,M3_C1_TGU6_T3_B_r06,TGU6_T3,C1,2,2,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Telemachus,"Book 1, line 150"
+SEV046,M2_C3_TGU3_T3_B_r07,TGU3_T3,C3,2,2,error,version_drift,correct,,correct,True,correct,correct,Narrator,Chapter I
+SEV047,M2_C2_TGU6_T1_canonical_r07,TGU6_T1,C2,1,1,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,the narrator,"Book 1, lines 1-3"
+SEV048,M3_C2_TGU6_T1_canonical_r07,TGU6_T1,C2,1,1,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Odysseus,"Book 9, lines 19–20"
+SEV049,M3_C2_TGU1_T2_canonical_r07,TGU1_T2,C2,1,1,correct,correct,correct,,correct,False,correct,correct,Hamlet,"Act 2, Scene 2"
+SEV050,M2_C4_TGU6_T2_canonical_r07,TGU6_T2,C4,1,1,error,misattribution,error,work+speaker,misattribution,False,error,error,Odysseus (narrating to the Phaeacians),Book 9
+SEV051,M1_C1_TGU1_T1_B_r08,TGU1_T1,C1,1,1,correct,correct,correct,,correct,False,correct,correct,Hamlet,"Act 3, Scene 1, Lines 83-88"
+SEV052,M1_C1_TGU5_T2_B_r08,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book I, line 263"
+SEV053,M2_C1_TGU5_T2_B_r08,TGU5_T2,C1,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Satan,"Book 1, line 263"
+SEV054,M1_C2_TGU3_T2_canonical_r08,TGU3_T2,C2,1,1,error,misattribution,error,author+work+locator+speaker,misattribution,False,error,error,Mr. Sleary,"Book the Second, Chapter VI"
+SEV055,M3_C1_TGU3_T2_B_r09,TGU3_T2,C1,1,1,error,misattribution,error,author+work+locator+speaker,misattribution,False,error,error,Mercury,"Scene 7 (B text) / Act 4, Scene 3 (modern editions)"
+SEV056,M2_C1_TGU4_T3_B_r09,TGU4_T3,C1,2,2,error,context_displacement,correct,,correct,True,correct,correct,Narrator,"Book I, Chapter 1"
+SEV057,M1_C1_TGU6_T3_B_r09,TGU6_T3,C1,2,2,error,fabricated_quotation,error,quote+locator+speaker,fabricated_quotation,False,error,error,Odysseus (disguised as a beggar),"Book 19, lines 358-359"
+SEV058,M2_C2_TGU1_T2_canonical_r09,TGU1_T2,C2,1,1,error,version_drift,error,quote+locator+speaker,version_drift,False,error,error,Hamlet,"Act 2, Scene 2, lines 617â618"
+SEV059,M1_C4_TGU2_T2_canonical_r09,TGU2_T2,C4,1,1,correct,correct,correct,,correct,False,correct,correct,Lady Macbeth,"Act 5, Scene 1"
+SEV060,M1_C2_TGU3_T3_canonical_r09,TGU3_T3,C2,2,2,error,context_displacement,error,speaker,context_displacement,False,error,error,narrator (free indirect discourse reflecting Elizabeth’s perspective),Chapter 3
